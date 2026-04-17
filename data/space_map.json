@@ -1,0 +1,64 @@
+{
+  "spaces": [
+    {
+      "id": "bedroom_desk",
+      "name": "卧室桌子",
+      "parent": "卧室",
+      "frequency": "high",
+      "type": "surface",
+      "primary_activity": "工作/电脑娱乐",
+      "description": "卧室主要的办公、玩电脑空间",
+      "status": "inventory_completed"
+    },
+    {
+      "id": "bedroom_bed",
+      "name": "卧室床区",
+      "parent": "卧室",
+      "frequency": "high",
+      "type": "area",
+      "primary_activity": "睡觉/休息、工作",
+      "description": "睡眠与移动办公区域",
+      "status": "pending"
+    },
+    {
+      "id": "living_room_coffee_table",
+      "name": "客厅茶几",
+      "parent": "客厅",
+      "frequency": "high",
+      "type": "surface",
+      "primary_activity": "待整理收集/多功能",
+      "description": "存放待整理物品（胶囊箱、护理包、电池）",
+      "status": "pending_reorganize"
+    },
+    {
+      "id": "living_room_round_table",
+      "name": "客厅大圆桌",
+      "parent": "客厅",
+      "frequency": "high",
+      "type": "surface",
+      "primary_activity": "吃饭/用餐",
+      "description": "存放补剂、锅巴、黑盒子",
+      "status": "active"
+    },
+    {
+      "id": "sink_table",
+      "name": "洗漱厅桌子",
+      "parent": "洗漱厅",
+      "frequency": "high",
+      "type": "surface",
+      "primary_activity": "洗漱/护理",
+      "description": "存放牙刷，待整理",
+      "status": "pending_reorganize"
+    },
+    {
+      "id": "bedroom_left_wall",
+      "name": "卧室进门左边墙面",
+      "parent": "卧室",
+      "frequency": "high",
+      "type": "wall",
+      "primary_activity": "挂载/收纳",
+      "description": "挂灰色背包",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,1101 @@
+{
+  "version": "1.3 (Inventory Update)",
+  "spaces": [
+    {
+      "id": "主卧楼上",
+      "name": "主卧楼上",
+      "status": "pending",
+      "frequency": "low",
+      "sub_units": [
+        {
+          "id": "药箱",
+          "name": "药箱",
+          "status": "pending",
+          "frequency": "medium"
+        },
+        {
+          "id": "电脑-纸箱",
+          "name": "电脑 纸箱",
+          "status": "pending",
+          "frequency": "low"
+        },
+        {
+          "id": "纸箱",
+          "name": "纸箱",
+          "status": "pending",
+          "frequency": "low"
+        }
+      ]
+    },
+    {
+      "id": "主卧",
+      "name": "主卧",
+      "status": "pending",
+      "frequency": "high",
+      "sub_units": [
+        {
+          "id": "主卧桌子",
+          "name": "主卧桌子",
+          "status": "pending",
+          "frequency": "high"
+        }
+      ]
+    },
+    {
+      "id": "次卧",
+      "name": "次卧",
+      "status": "pending",
+      "frequency": "high",
+      "sub_units": [
+        {
+          "id": "desk",
+          "name": "桌子",
+          "status": "inventory_completed",
+          "frequency": "high"
+        },
+        {
+          "id": "bed",
+          "name": "床",
+          "status": "pending",
+          "frequency": "high"
+        },
+        {
+          "id": "wardrobe-drawers",
+          "name": "衣柜抽屉",
+          "status": "pending",
+          "frequency": "medium"
+        },
+        {
+          "id": "wardrobe-hanging-rod",
+          "name": "衣柜左上挂杆",
+          "status": "pending",
+          "frequency": "medium"
+        },
+        {
+          "id": "wardrobe-bottom-space",
+          "name": "衣柜左下空间",
+          "status": "pending",
+          "frequency": "low"
+        },
+        {
+          "id": "left_wall",
+          "name": "进门左边墙面",
+          "status": "active",
+          "frequency": "high"
+        },
+        {
+          "id": "手机电子产品配件箱",
+          "name": "手机电子产品配件箱",
+          "status": "pending"
+        },
+        {
+          "id": "数据线充电器盒子",
+          "name": "数据线充电器盒子",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "吧台",
+      "name": "吧台",
+      "status": "pending",
+      "sub_units": [
+        {
+          "id": "塑料收纳盒",
+          "name": "塑料收纳盒",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "客厅塑料柜",
+      "name": "客厅塑料柜",
+      "status": "pending",
+      "sub_units": [
+        {
+          "id": "口袋",
+          "name": "口袋",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "次卧楼上",
+      "name": "次卧楼上",
+      "status": "pending",
+      "sub_units": [
+        {
+          "id": "箱子",
+          "name": "箱子",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "鞋柜",
+      "name": "鞋柜",
+      "status": "pending",
+      "sub_units": []
+    },
+    {
+      "id": "厨房",
+      "name": "厨房",
+      "status": "pending",
+      "frequency": "high",
+      "notes": "环境潮湿，严禁存放易受潮物品（如纸制品、未密封电子产品），除非是短时间内就会用完的消耗品。",
+      "sub_units": [
+        {
+          "id": "kitchen_countertop",
+          "name": "厨房操作台",
+          "status": "pending",
+          "frequency": "high"
+        },
+        {
+          "id": "kitchen_cabinet",
+          "name": "橱柜",
+          "status": "pending",
+          "frequency": "medium"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "测量/分装工具",
+        "胶囊制作"
+      ],
+      "content": "胶囊制作用品箱",
+      "is_stored": true,
+      "container": "箱子",
+      "location": "客厅茶几",
+      "status": "pending_reorganize"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "旧手机"
+      ],
+      "content": "旧手机收纳盒 (iPhone 6S, 10, 5C, 红米, 魅族)",
+      "is_stored": true,
+      "container": "收纳盒",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "遥控器",
+        "灯具遥控"
+      ],
+      "content": "卧室大路灯遥控板",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理包"
+      ],
+      "content": "出行护理包 (未拆分)",
+      "is_stored": true,
+      "container": "护理包",
+      "location": "客厅茶几",
+      "status": "pending_reorganize"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "其他设备",
+        "电池类"
+      ],
+      "content": "电池盒 (装满电池)",
+      "is_stored": true,
+      "container": "电池盒",
+      "location": "客厅茶几",
+      "status": "pending_reorganize"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "人机交互与外设",
+        "输入设备"
+      ],
+      "content": "鼠标垫",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "其他设备",
+        "显示/采集设备"
+      ],
+      "content": "手机支架",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "消毒用品"
+      ],
+      "content": "双氧水 (残余少量)",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "消毒用品"
+      ],
+      "content": "碘伏 (余量充足)",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "纸制品",
+        "日用纸品"
+      ],
+      "content": "纸巾 x2",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "免疫调节"
+      ],
+      "content": "转移因子 x2 盒",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
+      "content": "维生素C",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
+      "content": "辅酶Q11",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "保健凝胶"
+      ],
+      "content": "金骨康保健凝胶 x4 瓶",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "配饰"
+      ],
+      "content": "灰色背包",
+      "is_stored": true,
+      "container": "",
+      "location": "次卧进门左边墙面",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
+      "content": "甘油三酯补剂瓶",
+      "is_stored": true,
+      "container": "",
+      "location": "客厅大圆桌",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "食品与饮品",
+        "调味品"
+      ],
+      "content": "番茄酱",
+      "is_stored": true,
+      "container": "",
+      "location": "冰箱",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "食品与饮品",
+        "零食"
+      ],
+      "content": "板栗仁",
+      "is_stored": true,
+      "container": "",
+      "location": "冰箱",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "食品与饮品",
+        "零食"
+      ],
+      "content": "锅巴",
+      "is_stored": true,
+      "container": "",
+      "location": "客厅桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "口腔/牙齿类"
+      ],
+      "content": "牙刷",
+      "is_stored": true,
+      "container": "",
+      "location": "洗漱厅桌子",
+      "status": "pending_reorganize"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "塑料/其他材质容器"
+      ],
+      "content": "黑色食品收纳盒 (空)",
+      "is_stored": true,
+      "container": "",
+      "location": "客厅桌子",
+      "status": "stay"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "下装"
+      ],
+      "content": "裤子",
+      "is_stored": true,
+      "container": "",
+      "location": "待整理区域",
+      "status": "pending_reorganize"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "配饰"
+      ],
+      "content": "帽子",
+      "is_stored": true,
+      "container": "",
+      "location": "待整理区域",
+      "status": "pending_reorganize"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "大行李箱（26寸）",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "小行李箱（20寸，灰色）",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "书包",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "搬家纸箱",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "香奈儿香水",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "2. 工具与耐用品",
+        "家用电器与设备",
+        "烹饪设备"
+      ],
+      "content": "电磁炉",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "血糖用品包",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "相机",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "2. 工具与耐用品",
+        "家用电器与设备",
+        "烹饪设备"
+      ],
+      "content": "不锈钢锅",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "2. 工具与耐用品",
+        "家用电器与设备",
+        "烹饪设备"
+      ],
+      "content": "蒸格",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "2. 工具与耐用品",
+        "家用电器与设备",
+        "烹饪设备"
+      ],
+      "content": "高压锅",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "卸妆油",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "烫发夹子",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "微波炉",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "Insta 360 稳定器",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "MacBook Air",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "拜耳血糖仪",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "身份证",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "胰岛素笔",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "便携挂钩秤",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "充电器",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "充电线",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "指甲刀",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "剪鼻毛夹子",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
+      "content": "芦荟胶 110g",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "挎包",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "蓝牙音响",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "充电器",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "充电线",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "MacBook",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "纸制品",
+        "日用纸品"
+      ],
+      "content": "垃圾袋",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "6. 杂项与特殊品",
+        "纸制品",
+        "日用纸品"
+      ],
+      "content": "纸巾",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
+      "content": "补剂（锌）",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
+      "content": "补剂（维生素D）",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "黑色保暖裤",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "灰色翻毛卫衣",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "棕色优衣库风衣外套",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "香水分装 x2",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "香水空瓶",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "发泥",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "发胶",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "止汗剂",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "剃须刀更换刀头",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "剃须膏",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "洁面乳",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "洗脸巾",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
+      "content": "牙线",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
+      "content": "牙膏",
+      "is_stored": true,
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
+      "status": "from_relocation_skill"
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "PRBLMS 白色立领羽绒服",
+      "is_stored": true,
+      "container": "衣柜左上挂杆",
+      "location": "次卧",
+      "status": "stay",
+      "tags": [
+        "美式",
+        "街头",
+        "保暖9度"
+      ]
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "灰紫色圆领短袖 T 恤",
+      "is_stored": true,
+      "container": "衣柜左上挂杆",
+      "location": "次卧",
+      "status": "stay",
+      "tags": [
+        "日系",
+        "盐系",
+        "保暖1度"
+      ]
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "卡其色圆领短袖 T 恤",
+      "is_stored": true,
+      "container": "衣柜左上挂杆",
+      "location": "次卧",
+      "status": "stay",
+      "tags": [
+        "日系",
+        "盐系",
+        "保暖1度"
+      ]
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "Cabbeen 蓝灰色圆领针织毛衣",
+      "is_stored": true,
+      "container": "衣柜左上挂杆",
+      "location": "次卧",
+      "status": "stay",
+      "tags": [
+        "日系",
+        "精致",
+        "保暖5度"
+      ]
+    },
+    {
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
+      "content": "CEC 灰色圆领卫衣",
+      "is_stored": true,
+      "container": "衣柜左上挂杆",
+      "location": "次卧",
+      "status": "stay",
+      "tags": [
+        "韩系",
+        "休闲",
+        "保暖3度"
+      ]
+    }
+  ]
+}
