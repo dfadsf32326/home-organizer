@@ -161,7 +161,11 @@
   ],
   "items": [
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "测量/分装工具",
+        "胶囊制作"
+      ],
       "content": "胶囊制作用品箱",
       "is_stored": true,
       "container": "箱子",
@@ -169,7 +173,11 @@
       "status": "pending_reorganize"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "旧手机"
+      ],
       "content": "旧手机收纳盒 (iPhone 6S, 10, 5C, 红米, 魅族)",
       "is_stored": true,
       "container": "收纳盒",
@@ -177,7 +185,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "遥控器",
+        "灯具遥控"
+      ],
       "content": "卧室大路灯遥控板",
       "is_stored": true,
       "container": "",
@@ -185,7 +197,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理包"
+      ],
       "content": "出行护理包 (未拆分)",
       "is_stored": true,
       "container": "护理包",
@@ -193,7 +209,11 @@
       "status": "pending_reorganize"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "其他设备",
+        "电池类"
+      ],
       "content": "电池盒 (装满电池)",
       "is_stored": true,
       "container": "电池盒",
@@ -201,7 +221,11 @@
       "status": "pending_reorganize"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "人机交互与外设",
+        "输入设备"
+      ],
       "content": "鼠标垫",
       "is_stored": true,
       "container": "",
@@ -209,7 +233,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "其他设备",
+        "显示/采集设备"
+      ],
       "content": "手机支架",
       "is_stored": true,
       "container": "",
@@ -217,7 +245,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "消毒用品"
+      ],
       "content": "双氧水 (残余少量)",
       "is_stored": true,
       "container": "",
@@ -225,7 +257,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "消毒用品"
+      ],
       "content": "碘伏 (余量充足)",
       "is_stored": true,
       "container": "",
@@ -233,7 +269,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "纸制品",
+        "日用纸品"
+      ],
       "content": "纸巾 x2",
       "is_stored": true,
       "container": "",
@@ -241,7 +281,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "免疫调节"
+      ],
       "content": "转移因子 x2 盒",
       "is_stored": true,
       "container": "",
@@ -249,7 +293,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
       "content": "维生素C",
       "is_stored": true,
       "container": "",
@@ -257,7 +305,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
       "content": "辅酶Q11",
       "is_stored": true,
       "container": "",
@@ -265,7 +317,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "保健凝胶"
+      ],
       "content": "金骨康保健凝胶 x4 瓶",
       "is_stored": true,
       "container": "",
@@ -273,7 +329,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "配饰"
+      ],
       "content": "灰色背包",
       "is_stored": true,
       "container": "",
@@ -281,7 +341,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
       "content": "甘油三酯补剂瓶",
       "is_stored": true,
       "container": "",
@@ -289,7 +353,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "食品与饮品",
+        "调味品"
+      ],
       "content": "番茄酱",
       "is_stored": true,
       "container": "",
@@ -297,7 +365,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "食品与饮品",
+        "零食"
+      ],
       "content": "板栗仁",
       "is_stored": true,
       "container": "",
@@ -305,7 +377,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "食品与饮品",
+        "零食"
+      ],
       "content": "锅巴",
       "is_stored": true,
       "container": "",
@@ -313,7 +389,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "口腔/牙齿类"
+      ],
       "content": "牙刷",
       "is_stored": true,
       "container": "",
@@ -321,7 +401,11 @@
       "status": "pending_reorganize"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "塑料/其他材质容器"
+      ],
       "content": "黑色食品收纳盒 (空)",
       "is_stored": true,
       "container": "",
@@ -329,7 +413,11 @@
       "status": "stay"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "下装"
+      ],
       "content": "裤子",
       "is_stored": true,
       "container": "",
@@ -337,7 +425,11 @@
       "status": "pending_reorganize"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "配饰"
+      ],
       "content": "帽子",
       "is_stored": true,
       "container": "",
@@ -345,7 +437,11 @@
       "status": "pending_reorganize"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "大行李箱（26寸）",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -353,7 +449,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "小行李箱（20寸，灰色）",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -361,7 +461,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "书包",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -369,7 +473,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "搬家纸箱",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -377,7 +485,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "香奈儿香水",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -385,7 +497,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "2. 工具与耐用品",
+        "家用电器与设备",
+        "烹饪设备"
+      ],
       "content": "电磁炉",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -393,7 +509,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "血糖用品包",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -401,7 +521,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "相机",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -409,7 +533,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "2. 工具与耐用品",
+        "家用电器与设备",
+        "烹饪设备"
+      ],
       "content": "不锈钢锅",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -417,7 +545,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "2. 工具与耐用品",
+        "家用电器与设备",
+        "烹饪设备"
+      ],
       "content": "蒸格",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -425,7 +557,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "2. 工具与耐用品",
+        "家用电器与设备",
+        "烹饪设备"
+      ],
       "content": "高压锅",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -433,7 +569,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "卸妆油",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -441,7 +581,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "烫发夹子",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -449,7 +593,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "微波炉",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -457,7 +605,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "Insta 360 稳定器",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -465,7 +617,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "MacBook Air",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -473,7 +629,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "拜耳血糖仪",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -481,7 +641,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "身份证",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -489,7 +653,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "胰岛素笔",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -497,7 +665,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "便携挂钩秤",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -505,7 +677,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "充电器",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -513,7 +689,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "充电线",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -521,7 +701,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "指甲刀",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -529,7 +713,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "剪鼻毛夹子",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -537,7 +725,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "其他",
+        "待分类"
+      ],
       "content": "芦荟胶 110g",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -545,7 +737,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "挎包",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -553,7 +749,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "蓝牙音响",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -561,7 +761,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "充电器",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -569,7 +773,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "充电线",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -577,7 +785,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "MacBook",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -585,7 +797,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "纸制品",
+        "日用纸品"
+      ],
       "content": "垃圾袋",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -593,7 +809,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "6. 杂项与特殊品",
+        "纸制品",
+        "日用纸品"
+      ],
       "content": "纸巾",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -601,7 +821,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
       "content": "补剂（锌）",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -609,7 +833,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "药物与保健品",
+        "营养补剂"
+      ],
       "content": "补剂（维生素D）",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -617,7 +845,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "黑色保暖裤",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -625,7 +857,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "灰色翻毛卫衣",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -633,7 +869,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "棕色优衣库风衣外套",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -641,7 +881,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "香水分装 x2",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -649,7 +893,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "香水空瓶",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -657,7 +905,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "发泥",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -665,7 +917,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "发胶",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -673,7 +929,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "止汗剂",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -681,7 +941,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "剃须刀更换刀头",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -689,7 +953,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "剃须膏",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -697,7 +965,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "洁面乳",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -705,7 +977,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "洗脸巾",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -713,7 +989,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "1. 电子与电气设备",
+        "移动设备与穿戴",
+        "核心设备"
+      ],
       "content": "牙线",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -721,7 +1001,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "3. 消耗品与化成品",
+        "个人护理与健康品",
+        "护理用品"
+      ],
       "content": "牙膏",
       "is_stored": true,
       "container": "搬家行李/待定",
@@ -729,7 +1013,11 @@
       "status": "from_relocation_skill"
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "PRBLMS 白色立领羽绒服",
       "is_stored": true,
       "container": "衣柜左上挂杆",
@@ -742,7 +1030,11 @@
       ]
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "灰紫色圆领短袖 T 恤",
       "is_stored": true,
       "container": "衣柜左上挂杆",
@@ -755,7 +1047,11 @@
       ]
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "卡其色圆领短袖 T 恤",
       "is_stored": true,
       "container": "衣柜左上挂杆",
@@ -768,7 +1064,11 @@
       ]
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "Cabbeen 蓝灰色圆领针织毛衣",
       "is_stored": true,
       "container": "衣柜左上挂杆",
@@ -781,7 +1081,11 @@
       ]
     },
     {
-      "category": "🌀 待定/人工复核",
+      "category": [
+        "4. 织物与服饰",
+        "服装与配饰",
+        "日常服饰"
+      ],
       "content": "CEC 灰色圆领卫衣",
       "is_stored": true,
       "container": "衣柜左上挂杆",
@@ -796,7 +1100,7 @@
     {
       "name": "A2贝塔鲜牛奶",
       "quantity": "3瓶",
-      "category": "🍎 饮食与健康",
+      "category": "食品饮品",
       "location": "living_room_fridge_top_layer",
       "status": "active",
       "id": "item_1776418938437",
@@ -808,7 +1112,7 @@
     {
       "name": "三丁酸甘油酯",
       "quantity": "1瓶",
-      "category": "🍎 饮食与健康",
+      "category": "营养补剂",
       "location": "living_room_fridge_top_layer",
       "status": "active",
       "id": "item_1776418938438"
@@ -816,7 +1120,7 @@
     {
       "name": "沙棘油",
       "quantity": "1瓶",
-      "category": "🍎 饮食与健康",
+      "category": "营养补剂",
       "location": "living_room_fridge_top_layer",
       "status": "active",
       "id": "item_1776418938439"
@@ -824,7 +1128,7 @@
     {
       "name": "榴莲",
       "quantity": "2坨",
-      "category": "🍎 饮食与健康",
+      "category": "食品水果",
       "location": "living_room_fridge_top_layer",
       "status": "active",
       "id": "item_1776418938440"
@@ -832,7 +1136,7 @@
     {
       "name": "椰子油",
       "quantity": "2罐",
-      "category": "🍎 饮食与健康",
+      "category": "烹饪调理",
       "location": "living_room_fridge_top_layer",
       "status": "active",
       "id": "item_1776418938441"
@@ -840,7 +1144,7 @@
     {
       "name": "开菲尔菌菌粉",
       "quantity": "1包",
-      "category": "🍎 饮食与健康",
+      "category": "发酵菌种",
       "location": "living_room_fridge_top_layer",
       "status": "active",
       "id": "item_1776418938442"
@@ -848,21 +1152,21 @@
     {
       "name": "布拉迪酵母菌菌粉",
       "quantity": "1包",
-      "category": "🍎 饮食与健康",
+      "category": "发酵菌种",
       "location": "living_room_fridge_top_layer",
       "status": "active",
       "id": "item_1776418938443"
     },
     {
       "name": "6孔位双头迷你插板",
-      "category": "🔌 电子数码",
+      "category": "电子/配件",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168415"
     },
     {
       "name": "Insta 360 Flow 2",
-      "category": "🔌 电子数码",
+      "category": "数码/摄影",
       "location": "small_suitcase",
       "status": "to_sell",
       "tags": [
@@ -873,7 +1177,7 @@
     {
       "name": "大理苍山索道票",
       "quantity": "2张",
-      "category": "📚 文档/纪念/办公",
+      "category": "纪念品/票据",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168417"
@@ -881,7 +1185,7 @@
     {
       "name": "西双版纳花卉园票",
       "quantity": "2张",
-      "category": "📚 文档/纪念/办公",
+      "category": "纪念品/票据",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168418"
@@ -889,14 +1193,14 @@
     {
       "name": "望天树种子卡",
       "quantity": "3个",
-      "category": "📚 文档/纪念/办公",
+      "category": "纪念品",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168419"
     },
     {
       "name": "勐腊县人民医院病历",
-      "category": "🍎 饮食与健康",
+      "category": "医疗/票据",
       "location": "small_suitcase",
       "status": "active",
       "tags": [
@@ -906,21 +1210,21 @@
     },
     {
       "name": "望天树官方纪念证书",
-      "category": "📚 文档/纪念/办公",
+      "category": "纪念品",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168421"
     },
     {
       "name": "勐腊县人民医院CT检查报告单",
-      "category": "🍎 饮食与健康",
+      "category": "医疗/票据",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168422"
     },
     {
       "name": "望天树打卡地图",
-      "category": "📚 文档/纪念/办公",
+      "category": "纪念品",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168423"
@@ -928,7 +1232,7 @@
     {
       "name": "傣文福签",
       "quantity": "2个",
-      "category": "📚 文档/纪念/办公",
+      "category": "纪念品",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168424"
@@ -936,28 +1240,28 @@
     {
       "name": "一次性拖鞋",
       "quantity": "1包",
-      "category": "🧼 个人护理",
+      "category": "差旅/洗护",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168425"
     },
     {
       "name": "微波压力锅说明书",
-      "category": "📚 文档/纪念/办公",
+      "category": "文件/说明书",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168426"
     },
     {
       "name": "佳佳送的相册",
-      "category": "📚 文档/纪念/办公",
+      "category": "情感/纪念品",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168427"
     },
     {
       "name": "香奈儿香水袋子",
-      "category": "🏠 家居与工具",
+      "category": "包装袋",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168428"
@@ -965,7 +1269,7 @@
     {
       "name": "EAA复合氨基酸",
       "quantity": "1包",
-      "category": "🍎 饮食与健康",
+      "category": "营养补剂",
       "location": "small_suitcase",
       "status": "active",
       "specification": "210g (余量未知)",
@@ -974,7 +1278,7 @@
     },
     {
       "name": "东盟十国钱币纪念本",
-      "category": "📚 文档/纪念/办公",
+      "category": "纪念品/收藏",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168430"
@@ -982,14 +1286,14 @@
     {
       "name": "手套",
       "quantity": "1只/副",
-      "category": "👕 织物与服饰",
+      "category": "服饰/配件",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168431"
     },
     {
       "name": "Anker充电宝",
-      "category": "🔌 电子数码",
+      "category": "电子/配件",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168432"
@@ -997,14 +1301,14 @@
     {
       "name": "木筷子",
       "quantity": "1包",
-      "category": "🏠 家居与工具",
+      "category": "餐具",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168433"
     },
     {
       "name": "卫龙眼罩",
-      "category": "🧼 个人护理",
+      "category": "差旅/洗护",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168434"
@@ -1012,14 +1316,14 @@
     {
       "name": "云南白药创可贴",
       "quantity": "1盒",
-      "category": "🍎 饮食与健康",
+      "category": "医疗/外用",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168435"
     },
     {
       "name": "手机卡盒子",
-      "category": "🔌 电子数码",
+      "category": "数码/配件",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168436"
@@ -1027,14 +1331,14 @@
     {
       "name": "番茄酱",
       "quantity": "1袋",
-      "category": "🍎 饮食与健康",
+      "category": "食品/调料",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168438"
     },
     {
       "name": "小音箱",
-      "category": "🔌 电子数码",
+      "category": "数码/影音",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168439"
@@ -1042,14 +1346,14 @@
     {
       "name": "香卡",
       "quantity": "1包",
-      "category": "🧼 个人护理",
+      "category": "生活/日用",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168440"
     },
     {
       "name": "苹果12手机",
-      "category": "🔌 电子数码",
+      "category": "数码/设备",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168441"
@@ -1057,7 +1361,7 @@
     {
       "name": "胶原蛋白",
       "quantity": "半包",
-      "category": "🍎 饮食与健康",
+      "category": "营养补剂",
       "location": "small_suitcase",
       "status": "active",
       "expiry_date": "2027-09-01",
@@ -1070,7 +1374,7 @@
     {
       "name": "红米K70手机膜",
       "quantity": "1盒",
-      "category": "🔌 电子数码",
+      "category": "数码/配件",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168443"
@@ -1078,14 +1382,14 @@
     {
       "name": "避孕套",
       "quantity": "1盒",
-      "category": "🧼 个人护理",
+      "category": "生活/计生",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168444"
     },
     {
       "name": "香奈儿香水瓶子和盒子",
-      "category": "🏠 家居与工具",
+      "category": "空瓶/包装",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168445"
@@ -1093,7 +1397,7 @@
     {
       "name": "Natural Factors葡萄糖酸锌25mg",
       "quantity": "1瓶",
-      "category": "🍎 饮食与健康",
+      "category": "营养补剂",
       "location": "small_suitcase",
       "status": "active",
       "expiry_date": "2027-01-31",
@@ -1102,7 +1406,7 @@
     {
       "name": "消毒酒精",
       "quantity": "1瓶",
-      "category": "🍎 饮食与健康",
+      "category": "医疗/外用",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168447"
@@ -1110,7 +1414,7 @@
     {
       "name": "酒精棉片",
       "quantity": "少许",
-      "category": "🍎 饮食与健康",
+      "category": "医疗/外用",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168448"
@@ -1118,7 +1422,7 @@
     {
       "name": "外国香烟",
       "quantity": "1包",
-      "category": "🧼 个人护理",
+      "category": "生活/日用",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168449"
@@ -1126,21 +1430,21 @@
     {
       "name": "肠炎宁",
       "quantity": "1盒",
-      "category": "🍎 饮食与健康",
+      "category": "医疗/药品",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168450"
     },
     {
       "name": "3.5mm接口八爪鱼三角支架",
-      "category": "🔌 电子数码",
+      "category": "数码/摄影",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168451"
     },
     {
       "name": "Life Extension益生菌(含噬菌体)",
-      "category": "🍎 饮食与健康",
+      "category": "营养补剂",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168452"
@@ -1148,7 +1452,7 @@
     {
       "name": "Mistine防晒霜",
       "quantity": "1盒",
-      "category": "🧼 个人护理",
+      "category": "护肤/日用",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168453"
@@ -1156,7 +1460,7 @@
     {
       "name": "酒精棉片(整盒)",
       "quantity": "1盒",
-      "category": "🍎 饮食与健康",
+      "category": "医疗/外用",
       "location": "small_suitcase",
       "status": "active",
       "tags": [
@@ -1166,7 +1470,7 @@
     },
     {
       "name": "红光健脑仪",
-      "category": "🍎 饮食与健康",
+      "category": "医疗/仪器",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168455"
@@ -1174,14 +1478,14 @@
     {
       "name": "牙膏",
       "quantity": "1盒",
-      "category": "🧼 个人护理",
+      "category": "洗护",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168456"
     },
     {
       "name": "艾克顿三孔转接头",
-      "category": "🔌 电子数码",
+      "category": "电子/配件",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168457"
@@ -1190,21 +1494,21 @@
       "name": "芦荟胶",
       "quantity": "1支",
       "specification": "110g",
-      "category": "🧼 个人护理",
+      "category": "护肤",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168458"
     },
     {
       "name": "蛋黄蛋清分离器",
-      "category": "🏠 家居与工具",
+      "category": "厨房/工具",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168459"
     },
     {
       "name": "烫发夹板",
-      "category": "🧼 个人护理",
+      "category": "美容/工具",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168460"
@@ -1212,14 +1516,14 @@
     {
       "name": "电池",
       "quantity": "1个",
-      "category": "🔌 电子数码",
+      "category": "电子/配件",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168461"
     },
     {
       "name": "USB转Type-C数据线",
-      "category": "🔌 电子数码",
+      "category": "电子/线材",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168462"
@@ -1227,7 +1531,7 @@
     {
       "id": "item_1776422046978",
       "name": "亚麻籽油",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年4月9日",
@@ -1240,7 +1544,7 @@
     {
       "id": "item_1776422046979",
       "name": "新西兰 澄清黄油",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年6月22日",
@@ -1253,7 +1557,7 @@
     {
       "id": "item_1776422046980",
       "name": "泡菜发酵粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年8月27日",
@@ -1266,7 +1570,7 @@
     {
       "id": "item_1776422046981",
       "name": "生物素 延寿 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年10月1日",
@@ -1279,7 +1583,7 @@
     {
       "id": "item_1776422046982",
       "name": "自然之真 益生菌 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年10月1日",
@@ -1292,7 +1596,7 @@
     {
       "id": "item_1776422046983",
       "name": "延寿 益生菌 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年10月1日",
@@ -1305,7 +1609,7 @@
     {
       "id": "item_1776422046984",
       "name": "新西兰 草饲黄油",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年10月6日",
@@ -1318,7 +1622,7 @@
     {
       "id": "item_1776422046985",
       "name": "安格斯 澳洲西冷",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年11月15日",
@@ -1331,7 +1635,7 @@
     {
       "id": "item_1776422046986",
       "name": "安格斯 谷饲西冷牛排 ",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年11月15日",
@@ -1344,7 +1648,7 @@
     {
       "id": "item_1776422046987",
       "name": "熟薏米粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年12月2日",
@@ -1357,7 +1661,7 @@
     {
       "id": "item_1776422046988",
       "name": "茯苓粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年12月5日",
@@ -1370,7 +1674,7 @@
     {
       "id": "item_1776422046989",
       "name": "鹰嘴豆",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年12月17日",
@@ -1383,7 +1687,7 @@
     {
       "id": "item_1776422046990",
       "name": "黑胡椒海盐",
-      "category": "🍎 饮食与健康",
+      "category": "厨房调料",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年12月21日",
@@ -1396,7 +1700,7 @@
     {
       "id": "item_1776422046991",
       "name": "莲子",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2025年12月21日",
@@ -1409,7 +1713,7 @@
     {
       "id": "item_1776422046992",
       "name": "Jarrow L-左旋肉碱",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年1月1日",
@@ -1422,7 +1726,7 @@
     {
       "id": "item_1776422046993",
       "name": "可可脂",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年1月14日",
@@ -1435,7 +1739,7 @@
     {
       "id": "item_1776422046994",
       "name": "安佳黄油（454g）",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年1月26日",
@@ -1448,7 +1752,7 @@
     {
       "id": "item_1776422046995",
       "name": "小麦纤维素*3盒",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年2月1日",
@@ -1461,7 +1765,7 @@
     {
       "id": "item_1776422046996",
       "name": "盐焗粉 3包",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年2月10日",
@@ -1474,7 +1778,7 @@
     {
       "id": "item_1776422046997",
       "name": "谷氨酰胺（食品级）1",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年2月11日",
@@ -1487,7 +1791,7 @@
     {
       "id": "item_1776422046998",
       "name": "谷氨酰胺（食品级）",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年2月11日",
@@ -1500,7 +1804,7 @@
     {
       "id": "item_1776422046999",
       "name": "now 大蒜素 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月1日",
@@ -1513,7 +1817,7 @@
     {
       "id": "item_1776422047000",
       "name": "木糖醇 口香糖",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月5日",
@@ -1526,7 +1830,7 @@
     {
       "id": "item_1776422047001",
       "name": "燕麦麸皮（454g）",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月5日",
@@ -1539,7 +1843,7 @@
     {
       "id": "item_1776422047002",
       "name": "燕麦米",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月7日",
@@ -1552,7 +1856,7 @@
     {
       "id": "item_1776422047003",
       "name": "麦仁",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月7日",
@@ -1565,7 +1869,7 @@
     {
       "id": "item_1776422047004",
       "name": "香米",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月7日",
@@ -1578,7 +1882,7 @@
     {
       "id": "item_1776422047005",
       "name": "红米",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月7日",
@@ -1591,7 +1895,7 @@
     {
       "id": "item_1776422047006",
       "name": "高粱米",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月7日",
@@ -1604,7 +1908,7 @@
     {
       "id": "item_1776422047007",
       "name": "牛油果油",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年3月15日",
@@ -1617,7 +1921,7 @@
     {
       "id": "item_1776422047008",
       "name": "磷虾油2",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年4月1日",
@@ -1630,7 +1934,7 @@
     {
       "id": "item_1776422047009",
       "name": "磷虾油1",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年4月1日",
@@ -1643,7 +1947,7 @@
     {
       "id": "item_1776422047010",
       "name": "核黄素磷酸钠胶囊",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年4月6日",
@@ -1656,7 +1960,7 @@
     {
       "id": "item_1776422047011",
       "name": "椰子油2",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年4月7日",
@@ -1669,7 +1973,7 @@
     {
       "id": "item_1776422047012",
       "name": "椰子油1",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年4月7日",
@@ -1682,7 +1986,7 @@
     {
       "id": "item_1776422047013",
       "name": "全脂羊奶粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年4月8日",
@@ -1695,7 +1999,7 @@
     {
       "id": "item_1776422047014",
       "name": "山楂 麦芽 神曲2",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月1日",
@@ -1708,7 +2012,7 @@
     {
       "id": "item_1776422047015",
       "name": "山楂 麦芽 神曲 1 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月1日",
@@ -1721,7 +2025,7 @@
     {
       "id": "item_1776422047016",
       "name": "葵花粉末磷脂5",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月3日",
@@ -1734,7 +2038,7 @@
     {
       "id": "item_1776422047017",
       "name": "葵花粉末磷脂4",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月3日",
@@ -1747,7 +2051,7 @@
     {
       "id": "item_1776422047018",
       "name": "葵花粉末磷脂3",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月3日",
@@ -1760,7 +2064,7 @@
     {
       "id": "item_1776422047019",
       "name": "葵花粉末磷脂2",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月3日",
@@ -1773,7 +2077,7 @@
     {
       "id": "item_1776422047020",
       "name": "葵花粉末磷脂 1",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月3日",
@@ -1786,7 +2090,7 @@
     {
       "id": "item_1776422047021",
       "name": "va 胶囊 5000iu 2",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月11日",
@@ -1799,7 +2103,7 @@
     {
       "id": "item_1776422047023",
       "name": "苹果醋饮料 ",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月14日",
@@ -1812,7 +2116,7 @@
     {
       "id": "item_1776422047024",
       "name": "多美鲜 奶油奶酪",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月14日",
@@ -1825,7 +2129,7 @@
     {
       "id": "item_1776422047025",
       "name": "乳糖",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月26日",
@@ -1838,7 +2142,7 @@
     {
       "id": "item_1776422047026",
       "name": "怡微生 膳食纤维 2.5kg *3包（每天需要吃掉37.5g）",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月28日",
@@ -1851,7 +2155,7 @@
     {
       "id": "item_1776422047027",
       "name": "纳豆益生菌",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年5月30日",
@@ -1864,7 +2168,7 @@
     {
       "id": "item_1776422047028",
       "name": "三丁酸甘油酯（食品级）",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年6月4日",
@@ -1877,7 +2181,7 @@
     {
       "id": "item_1776422047029",
       "name": "麦角硫因",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年6月5日",
@@ -1890,7 +2194,7 @@
     {
       "id": "item_1776422047030",
       "name": "中链 甘油三酯",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年7月2日",
@@ -1903,7 +2207,7 @@
     {
       "id": "item_1776422047031",
       "name": "八珍粉 ",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年7月3日",
@@ -1916,7 +2220,7 @@
     {
       "id": "item_1776422047032",
       "name": "维生素 c 钠 （巨荣）",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年7月8日",
@@ -1929,7 +2233,7 @@
     {
       "id": "item_1776422047033",
       "name": "海带粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年7月8日",
@@ -1942,7 +2246,7 @@
     {
       "id": "item_1776422047034",
       "name": "益生菌冻干粉（北京同仁堂）",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年7月22日",
@@ -1955,7 +2259,7 @@
     {
       "id": "item_1776422047035",
       "name": "富里酸",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年8月5日",
@@ -1968,7 +2272,7 @@
     {
       "id": "item_1776422047036",
       "name": "BB536 益生菌 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年8月5日",
@@ -1981,7 +2285,7 @@
     {
       "id": "item_1776422047037",
       "name": "蒙古黄油",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年8月13日",
@@ -1994,7 +2298,7 @@
     {
       "id": "item_1776422047038",
       "name": "仅三 麦角硫因洗眼液*9盒",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年8月16日",
@@ -2007,7 +2311,7 @@
     {
       "id": "item_1776422047039",
       "name": "百目 vc 3",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月6日",
@@ -2020,7 +2324,7 @@
     {
       "id": "item_1776422047040",
       "name": "百目 vc 2",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月6日",
@@ -2033,7 +2337,7 @@
     {
       "id": "item_1776422047041",
       "name": "百目 vc 1",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月6日",
@@ -2046,7 +2350,7 @@
     {
       "id": "item_1776422047042",
       "name": "坚果燕麦",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月20日",
@@ -2059,7 +2363,7 @@
     {
       "id": "item_1776422047043",
       "name": "谷物蛋白粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月20日",
@@ -2072,7 +2376,7 @@
     {
       "id": "item_1776422047044",
       "name": "桂花坚果 藕粉羹",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月20日",
@@ -2085,7 +2389,7 @@
     {
       "id": "item_1776422047045",
       "name": "山药黑芝麻粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月20日",
@@ -2098,7 +2402,7 @@
     {
       "id": "item_1776422047046",
       "name": "奇亚籽 2",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月25日",
@@ -2111,7 +2415,7 @@
     {
       "id": "item_1776422047047",
       "name": "奇亚籽 3",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月25日",
@@ -2124,7 +2428,7 @@
     {
       "id": "item_1776422047048",
       "name": "奇亚籽 4",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月25日",
@@ -2137,7 +2441,7 @@
     {
       "id": "item_1776422047049",
       "name": "奇亚籽 5",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月25日",
@@ -2150,7 +2454,7 @@
     {
       "id": "item_1776422047050",
       "name": "奇亚籽 1",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年9月25日",
@@ -2163,7 +2467,7 @@
     {
       "id": "item_1776422047051",
       "name": "食用小苏打",
-      "category": "🍎 饮食与健康",
+      "category": "厨房调料",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年10月26日",
@@ -2176,7 +2480,7 @@
     {
       "id": "item_1776422047052",
       "name": "GNC 鱼油 3",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年11月1日",
@@ -2189,7 +2493,7 @@
     {
       "id": "item_1776422047053",
       "name": "GNC 鱼油 2",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年11月1日",
@@ -2202,7 +2506,7 @@
     {
       "id": "item_1776422047054",
       "name": "GNC 鱼油 1",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年11月1日",
@@ -2215,7 +2519,7 @@
     {
       "id": "item_1776422047055",
       "name": "双参昆藻黄芪片 2",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年11月15日",
@@ -2228,7 +2532,7 @@
     {
       "id": "item_1776422047056",
       "name": "双参昆藻黄芪片",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年11月15日",
@@ -2241,7 +2545,7 @@
     {
       "id": "item_1776422047057",
       "name": "明胶",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年11月18日",
@@ -2254,7 +2558,7 @@
     {
       "id": "item_1776422047058",
       "name": "复合 EAA （原粉）",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年11月27日",
@@ -2267,7 +2571,7 @@
     {
       "id": "item_1776422047059",
       "name": "脂肪酶",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年12月13日",
@@ -2280,7 +2584,7 @@
     {
       "id": "item_1776422047060",
       "name": "斜发沸石粉 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年12月20日",
@@ -2293,7 +2597,7 @@
     {
       "id": "item_1776422047061",
       "name": "红芡实",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2026年12月27日",
@@ -2306,7 +2610,7 @@
     {
       "id": "item_1776422047062",
       "name": "nutricost 牛胆汁胶囊 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年1月1日",
@@ -2319,7 +2623,7 @@
     {
       "id": "item_1776422047064",
       "name": "natural factors 锌片 25mg",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年1月1日",
@@ -2332,7 +2636,7 @@
     {
       "id": "item_1776422047065",
       "name": "碳酸氢钾（nutricost）",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年1月1日",
@@ -2345,7 +2649,7 @@
     {
       "id": "item_1776422047066",
       "name": "优比特 酸奶发酵粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年1月4日",
@@ -2358,7 +2662,7 @@
     {
       "id": "item_1776422047067",
       "name": "炒芡实粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年1月5日",
@@ -2371,7 +2675,7 @@
     {
       "id": "item_1776422047068",
       "name": "菠萝蛋白酶",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年1月10日",
@@ -2384,7 +2688,7 @@
     {
       "id": "item_1776422047069",
       "name": "甜菜碱盐酸盐",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年1月11日",
@@ -2397,7 +2701,7 @@
     {
       "id": "item_1776422047070",
       "name": "牛至油胶囊",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年2月1日",
@@ -2410,7 +2714,7 @@
     {
       "id": "item_1776422047071",
       "name": "布拉氏酵母菌粉 （食品级）",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年2月1日",
@@ -2423,7 +2727,7 @@
     {
       "id": "item_1776422047072",
       "name": "氯化钾 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年2月10日",
@@ -2436,7 +2740,7 @@
     {
       "id": "item_1776422047073",
       "name": "轻纤100 苹果原浆醋",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年2月24日",
@@ -2449,7 +2753,7 @@
     {
       "id": "item_1776422047074",
       "name": "红云 盐酸小檗碱片 ",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年3月1日",
@@ -2462,7 +2766,7 @@
     {
       "id": "item_1776422047075",
       "name": "nutricost 5mg  褪黑素",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年3月1日",
@@ -2475,7 +2779,7 @@
     {
       "id": "item_1776422047076",
       "name": "豌豆蛋白粉",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年3月1日",
@@ -2488,7 +2792,7 @@
     {
       "id": "item_1776422047077",
       "name": "熟板栗",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年3月5日",
@@ -2501,7 +2805,7 @@
     {
       "id": "item_1776422047078",
       "name": "co-enzyme Q10 3",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年4月1日",
@@ -2514,7 +2818,7 @@
     {
       "id": "item_1776422047079",
       "name": "co-enzyme Q10 2",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年4月1日",
@@ -2527,7 +2831,7 @@
     {
       "id": "item_1776422047080",
       "name": "co-enzyme Q10 1",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年4月1日",
@@ -2540,7 +2844,7 @@
     {
       "id": "item_1776422047081",
       "name": "洋车前子壳粉 ",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年4月5日",
@@ -2553,7 +2857,7 @@
     {
       "id": "item_1776422047082",
       "name": "nutricost k2 MK7 100mcg",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年5月1日",
@@ -2566,7 +2870,7 @@
     {
       "id": "item_1776422047083",
       "name": "活性炭 胶囊",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年6月1日",
@@ -2579,7 +2883,7 @@
     {
       "id": "item_1776422047084",
       "name": "mct 油 1",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年6月5日",
@@ -2592,7 +2896,7 @@
     {
       "id": "item_1776422047085",
       "name": "喜马拉雅玫瑰盐",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年7月30日",
@@ -2605,7 +2909,7 @@
     {
       "id": "item_1776422047086",
       "name": "natural factors VA",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年8月1日",
@@ -2618,7 +2922,7 @@
     {
       "id": "item_1776422047087",
       "name": "门冬胰岛素注射液 （特充）3",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年8月21日",
@@ -2631,7 +2935,7 @@
     {
       "id": "item_1776422047088",
       "name": "门冬胰岛素注射液 （特充）2",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年8月21日",
@@ -2644,7 +2948,7 @@
     {
       "id": "item_1776422047089",
       "name": "食品干燥剂",
-      "category": "🧼 个人护理",
+      "category": "生活用品",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年8月21日",
@@ -2657,7 +2961,7 @@
     {
       "id": "item_1776422047090",
       "name": "门冬胰岛素注射液 （特充）1",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年8月21日",
@@ -2670,7 +2974,7 @@
     {
       "id": "item_1776422047091",
       "name": "维丽素 胶原蛋白肽（皮肤靶向）2",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年9月1日",
@@ -2683,7 +2987,7 @@
     {
       "id": "item_1776422047092",
       "name": "维丽素 胶原蛋白肽（皮肤靶向）1",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年9月1日",
@@ -2696,7 +3000,7 @@
     {
       "id": "item_1776422047093",
       "name": "牛磺酸",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年9月11日",
@@ -2709,7 +3013,7 @@
     {
       "id": "item_1776422047094",
       "name": "门冬胰岛素 *3",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年9月12日",
@@ -2722,7 +3026,7 @@
     {
       "id": "item_1776422047095",
       "name": "鲁戈氏碘液5%",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2027年11月6日",
@@ -2735,7 +3039,7 @@
     {
       "id": "item_1776422047096",
       "name": "B5 胶囊",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2028年1月1日",
@@ -2748,7 +3052,7 @@
     {
       "id": "item_1776422047097",
       "name": "now b1 片",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2028年8月1日",
@@ -2761,7 +3065,7 @@
     {
       "id": "item_1776422047098",
       "name": "B2 100mg",
-      "category": "🍎 饮食与健康",
+      "category": "药品保健",
       "location": "待定",
       "status": "active",
       "expiry_date": "2028年10月1日",
@@ -2774,7 +3078,7 @@
     {
       "id": "item_1776422047099",
       "name": "苹果醋 ",
-      "category": "🍎 饮食与健康",
+      "category": "食品零食",
       "location": "待定",
       "status": "active",
       "expiry_date": "2029年8月21日",
@@ -2787,7 +3091,7 @@
     {
       "id": "item_1776422312406",
       "name": "电脑",
-      "category": "🔌 电子数码",
+      "category": "I. 电子设备与信息处理",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2798,7 +3102,7 @@
     {
       "id": "item_1776422312407",
       "name": "内存条",
-      "category": "🔌 电子数码",
+      "category": "I. 电子设备与信息处理",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2809,7 +3113,7 @@
     {
       "id": "item_1776422312408",
       "name": "网卡 (J3455)",
-      "category": "🔌 电子数码",
+      "category": "I. 电子设备与信息处理",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2820,7 +3124,7 @@
     {
       "id": "item_1776422312409",
       "name": "散热器",
-      "category": "🔌 电子数码",
+      "category": "I. 电子设备与信息处理",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2831,7 +3135,7 @@
     {
       "id": "item_1776422312410",
       "name": "鼠标",
-      "category": "🔌 电子数码",
+      "category": "I. 电子设备与信息处理",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2842,7 +3146,7 @@
     {
       "id": "item_1776422312411",
       "name": "键盘",
-      "category": "🔌 电子数码",
+      "category": "I. 电子设备与信息处理",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2853,7 +3157,7 @@
     {
       "id": "item_1776422312412",
       "name": "废旧笔记本电脑",
-      "category": "🔌 电子数码",
+      "category": "I. 电子设备与信息处理",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2864,7 +3168,7 @@
     {
       "id": "item_1776422312413",
       "name": "路由器 (N1旁路由",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2875,7 +3179,7 @@
     {
       "id": "item_1776422312414",
       "name": "小米路由器",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2886,7 +3190,7 @@
     {
       "id": "item_1776422312415",
       "name": "蒲公英旁路由)",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2897,7 +3201,7 @@
     {
       "id": "item_1776422312416",
       "name": "光猫",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2908,7 +3212,7 @@
     {
       "id": "item_1776422312417",
       "name": "水星交换机",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2919,7 +3223,7 @@
     {
       "id": "item_1776422312418",
       "name": "网线水晶头",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2930,7 +3234,7 @@
     {
       "id": "item_1776422312419",
       "name": "网线",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "电脑 纸箱",
       "status": "active",
@@ -2941,7 +3245,7 @@
     {
       "id": "item_1776422312420",
       "name": "移动硬盘",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "nas 前面的塑料盒子",
       "status": "active",
@@ -2952,7 +3256,7 @@
     {
       "id": "item_1776422312421",
       "name": "QNAP NAS",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "nas 前面的塑料盒子",
       "status": "active",
@@ -2963,7 +3267,7 @@
     {
       "id": "item_1776422312422",
       "name": "U 盘",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "nas 前面的塑料盒子",
       "status": "active",
@@ -2974,7 +3278,7 @@
     {
       "id": "item_1776422312423",
       "name": "SD 卡",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "nas 前面的塑料盒子",
       "status": "active",
@@ -2985,7 +3289,7 @@
     {
       "id": "item_1776422312424",
       "name": "读卡器",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "nas 前面的塑料盒子",
       "status": "active",
@@ -2996,7 +3300,7 @@
     {
       "id": "item_1776422312425",
       "name": "速录笔",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3007,7 +3311,7 @@
     {
       "id": "item_1776422312426",
       "name": "有线耳机",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3018,7 +3322,7 @@
     {
       "id": "item_1776422312427",
       "name": "无线耳机",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3029,7 +3333,7 @@
     {
       "id": "item_1776422312428",
       "name": "耳机套",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3040,7 +3344,7 @@
     {
       "id": "item_1776422312429",
       "name": "UPS",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3051,7 +3355,7 @@
     {
       "id": "item_1776422312430",
       "name": "电源线",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3062,7 +3366,7 @@
     {
       "id": "item_1776422312431",
       "name": "排插",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3073,7 +3377,7 @@
     {
       "id": "item_1776422312432",
       "name": "运动手环",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "卧室",
       "container": "",
       "status": "active",
@@ -3084,7 +3388,7 @@
     {
       "id": "item_1776422312433",
       "name": "手机",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "卧室",
       "container": "",
       "status": "active",
@@ -3095,7 +3399,7 @@
     {
       "id": "item_1776422312434",
       "name": "ipad  2017 尸体",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "卧室",
       "container": "",
       "status": "active",
@@ -3106,7 +3410,7 @@
     {
       "id": "item_1776422312435",
       "name": "电池（5号和7号）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3117,7 +3421,7 @@
     {
       "id": "item_1776422312436",
       "name": "充电器（USB 充电头",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3128,7 +3432,7 @@
     {
       "id": "item_1776422312437",
       "name": "手环充电器",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3139,7 +3443,7 @@
     {
       "id": "item_1776422312438",
       "name": "电源适配器",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3150,7 +3454,7 @@
     {
       "id": "item_1776422312439",
       "name": "牙刷充电器）",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3161,7 +3465,7 @@
     {
       "id": "item_1776422312440",
       "name": "充电宝",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3172,7 +3476,7 @@
     {
       "id": "item_1776422312441",
       "name": "数据线（C to C",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3183,7 +3487,7 @@
     {
       "id": "item_1776422312442",
       "name": "USB-MicroUSB",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3194,7 +3498,7 @@
     {
       "id": "item_1776422312443",
       "name": "C-L 线",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3205,7 +3509,7 @@
     {
       "id": "item_1776422312444",
       "name": "USB-L 线）",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3216,7 +3520,7 @@
     {
       "id": "item_1776422312445",
       "name": "转接器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3227,7 +3531,7 @@
     {
       "id": "item_1776422312446",
       "name": "数据线保护套",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "数据线充电器盒子",
       "status": "active",
@@ -3238,7 +3542,7 @@
     {
       "id": "item_1776422312447",
       "name": "手机壳",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3249,7 +3553,7 @@
     {
       "id": "item_1776422312448",
       "name": "镜头膜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3260,7 +3564,7 @@
     {
       "id": "item_1776422312449",
       "name": "手机维修工具",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3271,7 +3575,7 @@
     {
       "id": "item_1776422312450",
       "name": "贴膜工具类",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3282,7 +3586,7 @@
     {
       "id": "item_1776422312451",
       "name": "手机膜",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3293,7 +3597,7 @@
     {
       "id": "item_1776422312452",
       "name": "手机防水袋",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3304,7 +3608,7 @@
     {
       "id": "item_1776422312453",
       "name": "定位器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3315,7 +3619,7 @@
     {
       "id": "item_1776422312454",
       "name": "运动手环带",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3326,7 +3630,7 @@
     {
       "id": "item_1776422312455",
       "name": "手表充电器",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3337,7 +3641,7 @@
     {
       "id": "item_1776422312456",
       "name": "表带",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3348,7 +3652,7 @@
     {
       "id": "item_1776422312457",
       "name": "擦屏幕的布",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3359,7 +3663,7 @@
     {
       "id": "item_1776422312458",
       "name": "微软 pad 内胆包",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3370,7 +3674,7 @@
     {
       "id": "item_1776422312459",
       "name": "usb 网线转换器",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3381,7 +3685,7 @@
     {
       "id": "item_1776422312460",
       "name": "三脚架",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3392,7 +3696,7 @@
     {
       "id": "item_1776422312461",
       "name": "八爪鱼三脚架",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3403,7 +3707,7 @@
     {
       "id": "item_1776422312462",
       "name": "磁吸反光镜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3414,7 +3718,7 @@
     {
       "id": "item_1776422312463",
       "name": "手机支架",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3425,7 +3729,7 @@
     {
       "id": "item_1776422312464",
       "name": "麦克风类（无线收音麦克风）",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "次卧",
       "container": "手机电子产品配件箱",
       "status": "active",
@@ -3436,7 +3740,7 @@
     {
       "id": "item_1776422312465",
       "name": "Apple TV",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3447,7 +3751,7 @@
     {
       "id": "item_1776422312466",
       "name": "电视盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3458,7 +3762,7 @@
     {
       "id": "item_1776422312467",
       "name": "乐视电视",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3469,7 +3773,7 @@
     {
       "id": "item_1776422312468",
       "name": "电子产品原装盒",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3480,7 +3784,7 @@
     {
       "id": "item_1776422312469",
       "name": "Apple Watch 盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3491,7 +3795,7 @@
     {
       "id": "item_1776422312470",
       "name": "AirPods 盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3502,7 +3806,7 @@
     {
       "id": "item_1776422312471",
       "name": "华为耳机盒",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3513,7 +3817,7 @@
     {
       "id": "item_1776422312472",
       "name": "iPhone 12 手机盒",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3524,7 +3828,7 @@
     {
       "id": "item_1776422312473",
       "name": "Apple TV 盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3535,7 +3839,7 @@
     {
       "id": "item_1776422312474",
       "name": "K70E 盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3546,7 +3850,7 @@
     {
       "id": "item_1776422312475",
       "name": "牙刷盒子",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3557,7 +3861,7 @@
     {
       "id": "item_1776422312476",
       "name": "MacBook 盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3568,7 +3872,7 @@
     {
       "id": "item_1776422312477",
       "name": "红光盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3579,7 +3883,7 @@
     {
       "id": "item_1776422312478",
       "name": "红光头戴盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3590,7 +3894,7 @@
     {
       "id": "item_1776422312479",
       "name": "超声治疗仪 盒子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "纸箱",
       "status": "active",
@@ -3601,7 +3905,7 @@
     {
       "id": "item_1776422312480",
       "name": "不知名遥控器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "客厅杂物盒子",
       "status": "active",
@@ -3612,7 +3916,7 @@
     {
       "id": "item_1776422312481",
       "name": "小玻璃罐",
-      "category": "🏠 家居与工具",
+      "category": "II. 容器、储存与包装",
       "location": "吧台",
       "container": "塑料收纳盒 ",
       "status": "active",
@@ -3623,7 +3927,7 @@
     {
       "id": "item_1776422312482",
       "name": "迷你玻璃罐",
-      "category": "🏠 家居与工具",
+      "category": "II. 容器、储存与包装",
       "location": "吧台",
       "container": "塑料收纳盒 ",
       "status": "active",
@@ -3634,7 +3938,7 @@
     {
       "id": "item_1776422312483",
       "name": "高硼硅玻璃瓶",
-      "category": "🏠 家居与工具",
+      "category": "II. 容器、储存与包装",
       "location": "吧台",
       "container": "塑料收纳盒 ",
       "status": "active",
@@ -3645,7 +3949,7 @@
     {
       "id": "item_1776422312484",
       "name": "滴管",
-      "category": "🏠 家居与工具",
+      "category": "II. 容器、储存与包装",
       "location": "吧台",
       "container": "塑料收纳盒 ",
       "status": "active",
@@ -3656,7 +3960,7 @@
     {
       "id": "item_1776422312485",
       "name": "滴瓶",
-      "category": "🏠 家居与工具",
+      "category": "II. 容器、储存与包装",
       "location": "吧台",
       "container": "塑料收纳盒 ",
       "status": "active",
@@ -3667,7 +3971,7 @@
     {
       "id": "item_1776422312486",
       "name": "烧杯",
-      "category": "🏠 家居与工具",
+      "category": "II. 容器、储存与包装",
       "location": "吧台",
       "container": "塑料收纳盒 ",
       "status": "active",
@@ -3678,7 +3982,7 @@
     {
       "id": "item_1776422312487",
       "name": "高硼硅玻璃罐",
-      "category": "🏠 家居与工具",
+      "category": "II. 容器、储存与包装",
       "location": "吧台",
       "container": "塑料收纳盒 ",
       "status": "active",
@@ -3689,7 +3993,7 @@
     {
       "id": "item_1776422312488",
       "name": "食品圆形分装盒",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3700,7 +4004,7 @@
     {
       "id": "item_1776422312489",
       "name": "食品塑料分装罐",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3711,7 +4015,7 @@
     {
       "id": "item_1776422312490",
       "name": "米桶",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3722,7 +4026,7 @@
     {
       "id": "item_1776422312491",
       "name": "食品小样分装盒",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3733,7 +4037,7 @@
     {
       "id": "item_1776422312492",
       "name": "冰块模具",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3744,7 +4048,7 @@
     {
       "id": "item_1776422312493",
       "name": "塑料罐",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3755,7 +4059,7 @@
     {
       "id": "item_1776422312494",
       "name": "空茶罐",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3766,7 +4070,7 @@
     {
       "id": "item_1776422312495",
       "name": "塑料酒壶",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3777,7 +4081,7 @@
     {
       "id": "item_1776422312496",
       "name": "茶盒",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3788,7 +4092,7 @@
     {
       "id": "item_1776422312497",
       "name": "酒杯",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧楼上",
       "container": "箱子",
       "status": "active",
@@ -3799,7 +4103,7 @@
     {
       "id": "item_1776422312498",
       "name": "玻璃水杯",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧楼上",
       "container": "箱子",
       "status": "active",
@@ -3810,7 +4114,7 @@
     {
       "id": "item_1776422312499",
       "name": "塑料水杯",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧楼上",
       "container": "箱子",
       "status": "active",
@@ -3821,7 +4125,7 @@
     {
       "id": "item_1776422312500",
       "name": "杯套",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "次卧楼上",
       "container": "箱子",
       "status": "active",
@@ -3832,7 +4136,7 @@
     {
       "id": "item_1776422312501",
       "name": "分装滴瓶/喷瓶",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "客厅塑料柜",
       "container": "口袋",
       "status": "active",
@@ -3843,7 +4147,7 @@
     {
       "id": "item_1776422312502",
       "name": "整理箱",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -3854,7 +4158,7 @@
     {
       "id": "item_1776422312503",
       "name": "纸箱",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -3865,7 +4169,7 @@
     {
       "id": "item_1776422312504",
       "name": "裹箱子的透明膜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -3876,7 +4180,7 @@
     {
       "id": "item_1776422312505",
       "name": "分装盒",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -3887,7 +4191,7 @@
     {
       "id": "item_1776422312506",
       "name": "分装袋",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -3898,7 +4202,7 @@
     {
       "id": "item_1776422312507",
       "name": "封口夹",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3909,7 +4213,7 @@
     {
       "id": "item_1776422312508",
       "name": "扎带",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3920,7 +4224,7 @@
     {
       "id": "item_1776422312509",
       "name": "自封袋",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3931,7 +4235,7 @@
     {
       "id": "item_1776422312510",
       "name": "量筒",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3942,7 +4246,7 @@
     {
       "id": "item_1776422312511",
       "name": "量杯",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3953,7 +4257,7 @@
     {
       "id": "item_1776422312512",
       "name": "电扇",
-      "category": "🏠 家居与工具",
+      "category": "III. 工具与机械设备",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3964,7 +4268,7 @@
     {
       "id": "item_1776422312513",
       "name": "大红光",
-      "category": "🏠 家居与工具",
+      "category": "III. 工具与机械设备",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3975,7 +4279,7 @@
     {
       "id": "item_1776422312514",
       "name": "红光毯（红光毯电源）",
-      "category": "🏠 家居与工具",
+      "category": "III. 工具与机械设备",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3986,7 +4290,7 @@
     {
       "id": "item_1776422312515",
       "name": "筋膜枪",
-      "category": "🏠 家居与工具",
+      "category": "III. 工具与机械设备",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -3997,7 +4301,7 @@
     {
       "id": "item_1776422312516",
       "name": "电压力锅",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4008,7 +4312,7 @@
     {
       "id": "item_1776422312517",
       "name": "微波炉",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4019,7 +4323,7 @@
     {
       "id": "item_1776422312518",
       "name": "酸奶机",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4030,7 +4334,7 @@
     {
       "id": "item_1776422312519",
       "name": "绞肉机",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4041,7 +4345,7 @@
     {
       "id": "item_1776422312520",
       "name": "慢炖锅",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4052,7 +4356,7 @@
     {
       "id": "item_1776422312521",
       "name": "迷你豆浆机",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4063,7 +4367,7 @@
     {
       "id": "item_1776422312522",
       "name": "去毛球机",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4074,7 +4378,7 @@
     {
       "id": "item_1776422312523",
       "name": "电热夹板",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4085,7 +4389,7 @@
     {
       "id": "item_1776422312524",
       "name": "红光鼻子仪器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4096,7 +4400,7 @@
     {
       "id": "item_1776422312525",
       "name": "雾化器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4107,7 +4411,7 @@
     {
       "id": "item_1776422312526",
       "name": "电脉冲理疗仪",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4118,7 +4422,7 @@
     {
       "id": "item_1776422312527",
       "name": "驱蚊机",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4129,7 +4433,7 @@
     {
       "id": "item_1776422312528",
       "name": "加热垫",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4140,7 +4444,7 @@
     {
       "id": "item_1776422312529",
       "name": "电动推子（理发推子）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4151,7 +4455,7 @@
     {
       "id": "item_1776422312530",
       "name": "超声理疗仪",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4162,7 +4466,7 @@
     {
       "id": "item_1776422312531",
       "name": "红光护手",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4173,7 +4477,7 @@
     {
       "id": "item_1776422312532",
       "name": "红光护腰",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4184,7 +4488,7 @@
     {
       "id": "item_1776422312533",
       "name": "红光促智仪",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "袋子",
       "status": "active",
@@ -4195,7 +4499,7 @@
     {
       "id": "item_1776422312534",
       "name": "大红光挂具",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅茶几抽屉",
       "container": "",
       "status": "active",
@@ -4206,7 +4510,7 @@
     {
       "id": "item_1776422312535",
       "name": "美工刀",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4217,7 +4521,7 @@
     {
       "id": "item_1776422312536",
       "name": "卷尺",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4228,7 +4532,7 @@
     {
       "id": "item_1776422312537",
       "name": "螺丝",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4239,7 +4543,7 @@
     {
       "id": "item_1776422312538",
       "name": "扳手",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4250,7 +4554,7 @@
     {
       "id": "item_1776422312539",
       "name": "绑带",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4261,7 +4565,7 @@
     {
       "id": "item_1776422312540",
       "name": "管道卡扣器",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4272,7 +4576,7 @@
     {
       "id": "item_1776422312541",
       "name": "万向轮",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4283,7 +4587,7 @@
     {
       "id": "item_1776422312542",
       "name": "胶布",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4294,7 +4598,7 @@
     {
       "id": "item_1776422312543",
       "name": "双面胶",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4305,7 +4609,7 @@
     {
       "id": "item_1776422312544",
       "name": "电胶布",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4316,7 +4620,7 @@
     {
       "id": "item_1776422312545",
       "name": "胶带",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4327,7 +4631,7 @@
     {
       "id": "item_1776422312546",
       "name": "自封胶布",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4338,7 +4642,7 @@
     {
       "id": "item_1776422312547",
       "name": "胶棒",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4349,7 +4653,7 @@
     {
       "id": "item_1776422312548",
       "name": "高强度铸工胶",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4360,7 +4664,7 @@
     {
       "id": "item_1776422312549",
       "name": "砂纸",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4371,7 +4675,7 @@
     {
       "id": "item_1776422312550",
       "name": "针（针线工具）",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4382,7 +4686,7 @@
     {
       "id": "item_1776422312551",
       "name": "线（针线工具）",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4393,7 +4697,7 @@
     {
       "id": "item_1776422312552",
       "name": "夹子",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4404,7 +4708,7 @@
     {
       "id": "item_1776422312553",
       "name": "磁铁",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4415,7 +4719,7 @@
     {
       "id": "item_1776422312554",
       "name": "蓝丁胶",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4426,7 +4730,7 @@
     {
       "id": "item_1776422312555",
       "name": "透明软管",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4437,7 +4741,7 @@
     {
       "id": "item_1776422312556",
       "name": "软尺",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4448,7 +4752,7 @@
     {
       "id": "item_1776422312557",
       "name": "头灯",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4459,7 +4763,7 @@
     {
       "id": "item_1776422312558",
       "name": "冰箱清洗工具",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4470,7 +4774,7 @@
     {
       "id": "item_1776422312559",
       "name": "电子挂钩秤",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅",
       "container": "工具箱",
       "status": "active",
@@ -4481,7 +4785,7 @@
     {
       "id": "item_1776422312560",
       "name": "刀",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4492,7 +4796,7 @@
     {
       "id": "item_1776422312561",
       "name": "叉子",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4503,7 +4807,7 @@
     {
       "id": "item_1776422312562",
       "name": "勺子",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4514,7 +4818,7 @@
     {
       "id": "item_1776422312563",
       "name": "烧烤刷",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4525,7 +4829,7 @@
     {
       "id": "item_1776422312564",
       "name": "研磨钵",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4536,7 +4840,7 @@
     {
       "id": "item_1776422312565",
       "name": "夏威夷果开果器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4547,7 +4851,7 @@
     {
       "id": "item_1776422312566",
       "name": "硅胶漏斗",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4558,7 +4862,7 @@
     {
       "id": "item_1776422312567",
       "name": "红酒开瓶器",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4569,7 +4873,7 @@
     {
       "id": "item_1776422312568",
       "name": "开核桃器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4580,7 +4884,7 @@
     {
       "id": "item_1776422312569",
       "name": "烤红薯袋子",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4591,7 +4895,7 @@
     {
       "id": "item_1776422312570",
       "name": "搅拌器（打蛋器）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4602,7 +4906,7 @@
     {
       "id": "item_1776422312571",
       "name": "一次性手套",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4613,7 +4917,7 @@
     {
       "id": "item_1776422312572",
       "name": "洗杯子刷子",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4624,7 +4928,7 @@
     {
       "id": "item_1776422312573",
       "name": "尺子",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4635,7 +4939,7 @@
     {
       "id": "item_1776422312574",
       "name": "白板擦",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4646,7 +4950,7 @@
     {
       "id": "item_1776422312575",
       "name": "白板",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4657,7 +4961,7 @@
     {
       "id": "item_1776422312576",
       "name": "各种笔",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4668,7 +4972,7 @@
     {
       "id": "item_1776422312577",
       "name": "测电笔",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "工具箱",
       "status": "active",
@@ -4679,7 +4983,7 @@
     {
       "id": "item_1776422312578",
       "name": "电磁辐射检测仪",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "工具箱",
       "status": "active",
@@ -4690,7 +4994,7 @@
     {
       "id": "item_1776422312579",
       "name": "功率测试器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "工具箱",
       "status": "active",
@@ -4701,7 +5005,7 @@
     {
       "id": "item_1776422312580",
       "name": "电池电量测试器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "工具箱",
       "status": "active",
@@ -4712,7 +5016,7 @@
     {
       "id": "item_1776422312581",
       "name": "电线检测仪",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "工具箱",
       "status": "active",
@@ -4723,7 +5027,7 @@
     {
       "id": "item_1776422312582",
       "name": "不锈钢测试液",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4734,7 +5038,7 @@
     {
       "id": "item_1776422312583",
       "name": "杯子温度贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4745,7 +5049,7 @@
     {
       "id": "item_1776422312584",
       "name": "电温度计",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4756,7 +5060,7 @@
     {
       "id": "item_1776422312585",
       "name": "usb温度计",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4767,7 +5071,7 @@
     {
       "id": "item_1776422312586",
       "name": "刮痧板",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -4778,7 +5082,7 @@
     {
       "id": "item_1776422312587",
       "name": "指甲刀相关（锉刀）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -4789,7 +5093,7 @@
     {
       "id": "item_1776422312588",
       "name": "掏耳勺",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -4800,7 +5104,7 @@
     {
       "id": "item_1776422312589",
       "name": "痒痒挠",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -4811,7 +5115,7 @@
     {
       "id": "item_1776422312590",
       "name": "筋膜枪配件",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -4822,7 +5126,7 @@
     {
       "id": "item_1776422312592",
       "name": "牛奶（A2 奶",
-      "category": "🧼 个人护理",
+      "category": "IV. 化成品与消耗品",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4833,7 +5137,7 @@
     {
       "id": "item_1776422312593",
       "name": "纯牛奶）",
-      "category": "🧼 个人护理",
+      "category": "IV. 化成品与消耗品",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4844,7 +5148,7 @@
     {
       "id": "item_1776422312594",
       "name": "咖啡",
-      "category": "🧼 个人护理",
+      "category": "IV. 化成品与消耗品",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4855,7 +5159,7 @@
     {
       "id": "item_1776422312595",
       "name": "可可粉",
-      "category": "🧼 个人护理",
+      "category": "IV. 化成品与消耗品",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4866,7 +5170,7 @@
     {
       "id": "item_1776422312596",
       "name": "苹果醋",
-      "category": "🧼 个人护理",
+      "category": "IV. 化成品与消耗品",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4877,7 +5181,7 @@
     {
       "id": "item_1776422312597",
       "name": "茶叶",
-      "category": "🧼 个人护理",
+      "category": "IV. 化成品与消耗品",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4888,7 +5192,7 @@
     {
       "id": "item_1776422312598",
       "name": "冰糖",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4899,7 +5203,7 @@
     {
       "id": "item_1776422312599",
       "name": "食用明胶",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4910,7 +5214,7 @@
     {
       "id": "item_1776422312600",
       "name": "小麦纤维素",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4921,7 +5225,7 @@
     {
       "id": "item_1776422312601",
       "name": "助糖 3 号",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4932,7 +5236,7 @@
     {
       "id": "item_1776422312602",
       "name": "糯米纸",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4943,7 +5247,7 @@
     {
       "id": "item_1776422312603",
       "name": "洗面奶",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4954,7 +5258,7 @@
     {
       "id": "item_1776422312604",
       "name": "刮胡刀",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4965,7 +5269,7 @@
     {
       "id": "item_1776422312605",
       "name": "刮胡刀头",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4976,7 +5280,7 @@
     {
       "id": "item_1776422312606",
       "name": "刮胡膏护肤品",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4987,7 +5291,7 @@
     {
       "id": "item_1776422312607",
       "name": "凡士林",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -4998,7 +5302,7 @@
     {
       "id": "item_1776422312608",
       "name": "面霜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5009,7 +5313,7 @@
     {
       "id": "item_1776422312609",
       "name": "醒肤露",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5020,7 +5324,7 @@
     {
       "id": "item_1776422312610",
       "name": "精华原液",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5031,7 +5335,7 @@
     {
       "id": "item_1776422312611",
       "name": "面膜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5042,7 +5346,7 @@
     {
       "id": "item_1776422312612",
       "name": "唇膏（蜂蜡",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5053,7 +5357,7 @@
     {
       "id": "item_1776422312613",
       "name": "唇膏制作工具",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5064,7 +5368,7 @@
     {
       "id": "item_1776422312614",
       "name": "唇膏管）",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5075,7 +5379,7 @@
     {
       "id": "item_1776422312615",
       "name": "防晒霜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5086,7 +5390,7 @@
     {
       "id": "item_1776422312616",
       "name": "痘痘贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5097,7 +5401,7 @@
     {
       "id": "item_1776422312617",
       "name": "牙刷",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5108,7 +5412,7 @@
     {
       "id": "item_1776422312618",
       "name": "牙刷更换头",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5119,7 +5423,7 @@
     {
       "id": "item_1776422312619",
       "name": "牙线",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5130,7 +5434,7 @@
     {
       "id": "item_1776422312620",
       "name": "呼吸贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5141,7 +5445,7 @@
     {
       "id": "item_1776422312621",
       "name": "奶嘴",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5152,7 +5456,7 @@
     {
       "id": "item_1776422312622",
       "name": "发胶",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5163,7 +5467,7 @@
     {
       "id": "item_1776422312623",
       "name": "发膜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5174,7 +5478,7 @@
     {
       "id": "item_1776422312624",
       "name": "染发剂",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5185,7 +5489,7 @@
     {
       "id": "item_1776422312625",
       "name": "米诺地尔",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5196,7 +5500,7 @@
     {
       "id": "item_1776422312626",
       "name": "耳塞",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5207,7 +5511,7 @@
     {
       "id": "item_1776422312627",
       "name": "眼药水",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5218,7 +5522,7 @@
     {
       "id": "item_1776422312628",
       "name": "蒸汽眼罩",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5229,7 +5533,7 @@
     {
       "id": "item_1776422312629",
       "name": "眼罩",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5240,7 +5544,7 @@
     {
       "id": "item_1776422312630",
       "name": "祛疤贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5251,7 +5555,7 @@
     {
       "id": "item_1776422312631",
       "name": "止汗剂",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5262,7 +5566,7 @@
     {
       "id": "item_1776422312632",
       "name": "止汗膏",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5273,7 +5577,7 @@
     {
       "id": "item_1776422312633",
       "name": "按摩精油",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5284,7 +5588,7 @@
     {
       "id": "item_1776422312634",
       "name": "护手霜",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5295,7 +5599,7 @@
     {
       "id": "item_1776422312635",
       "name": "人体润滑油",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5306,7 +5610,7 @@
     {
       "id": "item_1776422312636",
       "name": "艾草贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5317,7 +5621,7 @@
     {
       "id": "item_1776422312637",
       "name": "艾草暖贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5328,7 +5632,7 @@
     {
       "id": "item_1776422312638",
       "name": "暖足贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5339,7 +5643,7 @@
     {
       "id": "item_1776422312639",
       "name": "暖宝宝",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5350,7 +5654,7 @@
     {
       "id": "item_1776422312640",
       "name": "香水分装工具",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "次卧",
       "container": "",
       "status": "active",
@@ -5361,7 +5665,7 @@
     {
       "id": "item_1776422312641",
       "name": "香水小样",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "",
       "status": "active",
@@ -5372,7 +5676,7 @@
     {
       "id": "item_1776422312642",
       "name": "大牌香水",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "次卧",
       "container": "",
       "status": "active",
@@ -5383,7 +5687,7 @@
     {
       "id": "item_1776422312643",
       "name": "衣物香氛",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "次卧",
       "container": "",
       "status": "active",
@@ -5394,7 +5698,7 @@
     {
       "id": "item_1776422312644",
       "name": "香熏",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "同上",
       "container": "",
       "status": "active",
@@ -5405,7 +5709,7 @@
     {
       "id": "item_1776422312645",
       "name": "沐浴露",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5416,7 +5720,7 @@
     {
       "id": "item_1776422312646",
       "name": "洗发露",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5427,7 +5731,7 @@
     {
       "id": "item_1776422312647",
       "name": "洗手液",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5438,7 +5742,7 @@
     {
       "id": "item_1776422312648",
       "name": "消毒用品（酒精消毒液",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -5449,7 +5753,7 @@
     {
       "id": "item_1776422312649",
       "name": "碘伏",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -5460,7 +5764,7 @@
     {
       "id": "item_1776422312650",
       "name": "过氧化氢",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -5471,7 +5775,7 @@
     {
       "id": "item_1776422312651",
       "name": "紫药水）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -5482,7 +5786,7 @@
     {
       "id": "item_1776422312652",
       "name": "物资干洗剂",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "鞋柜",
       "container": "",
       "status": "active",
@@ -5493,7 +5797,7 @@
     {
       "id": "item_1776422312653",
       "name": "（洗碗擦）",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5504,7 +5808,7 @@
     {
       "id": "item_1776422312654",
       "name": "洗碗布",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5515,7 +5819,7 @@
     {
       "id": "item_1776422312655",
       "name": "标签纸",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5526,7 +5830,7 @@
     {
       "id": "item_1776422312656",
       "name": "空白笔记本",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5537,7 +5841,7 @@
     {
       "id": "item_1776422312657",
       "name": "旧本子",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5548,7 +5852,7 @@
     {
       "id": "item_1776422312658",
       "name": "打印纸",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5559,7 +5863,7 @@
     {
       "id": "item_1776422312659",
       "name": "纸巾",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "客厅塑料柜子",
       "container": "",
       "status": "active",
@@ -5570,7 +5874,7 @@
     {
       "id": "item_1776422312660",
       "name": "手帕纸巾",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "客厅塑料柜子",
       "container": "",
       "status": "active",
@@ -5581,7 +5885,7 @@
     {
       "id": "item_1776422312661",
       "name": "卷纸",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "客厅塑料柜子",
       "container": "",
       "status": "active",
@@ -5592,7 +5896,7 @@
     {
       "id": "item_1776422312662",
       "name": "湿巾",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "客厅塑料柜子",
       "container": "",
       "status": "active",
@@ -5603,7 +5907,7 @@
     {
       "id": "item_1776422312663",
       "name": "婴儿湿巾",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "客厅塑料柜子",
       "container": "",
       "status": "active",
@@ -5614,7 +5918,7 @@
     {
       "id": "item_1776422312664",
       "name": "床单被套",
-      "category": "👕 织物与服饰",
+      "category": "V. 织物",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5625,7 +5929,7 @@
     {
       "id": "item_1776422312665",
       "name": "枕套",
-      "category": "👕 织物与服饰",
+      "category": "V. 织物",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5636,7 +5940,7 @@
     {
       "id": "item_1776422312666",
       "name": "枕头",
-      "category": "👕 织物与服饰",
+      "category": "V. 织物",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5647,7 +5951,7 @@
     {
       "id": "item_1776422312667",
       "name": "棉被",
-      "category": "👕 织物与服饰",
+      "category": "V. 织物",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5658,7 +5962,7 @@
     {
       "id": "item_1776422312668",
       "name": "毛巾（新毛巾",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5669,7 +5973,7 @@
     {
       "id": "item_1776422312669",
       "name": "旧毛巾）",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5680,7 +5984,7 @@
     {
       "id": "item_1776422312670",
       "name": "T 恤（长袖 t",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5691,7 +5995,7 @@
     {
       "id": "item_1776422312671",
       "name": "短袖 t",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5702,7 +6006,7 @@
     {
       "id": "item_1776422312672",
       "name": "速干 t）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5713,7 +6017,7 @@
     {
       "id": "item_1776422312673",
       "name": "衬衫（长袖衬衫",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5724,7 +6028,7 @@
     {
       "id": "item_1776422312674",
       "name": "短袖衬衫）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5735,7 +6039,7 @@
     {
       "id": "item_1776422312675",
       "name": "秋衣",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5746,7 +6050,7 @@
     {
       "id": "item_1776422312676",
       "name": "马甲",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5757,7 +6061,7 @@
     {
       "id": "item_1776422312677",
       "name": "速干衣",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5768,7 +6072,7 @@
     {
       "id": "item_1776422312678",
       "name": "保暖衣",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5779,7 +6083,7 @@
     {
       "id": "item_1776422312679",
       "name": "毛衣",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5790,7 +6094,7 @@
     {
       "id": "item_1776422312680",
       "name": "卫衣",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5801,7 +6105,7 @@
     {
       "id": "item_1776422312681",
       "name": "外套",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5812,7 +6116,7 @@
     {
       "id": "item_1776422312682",
       "name": "羽绒服",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5823,7 +6127,7 @@
     {
       "id": "item_1776422312683",
       "name": "牛仔服",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5834,7 +6138,7 @@
     {
       "id": "item_1776422312684",
       "name": "长袖睡衣",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5845,7 +6149,7 @@
     {
       "id": "item_1776422312685",
       "name": "裤子",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5856,7 +6160,7 @@
     {
       "id": "item_1776422312686",
       "name": "短裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5867,7 +6171,7 @@
     {
       "id": "item_1776422312687",
       "name": "牛仔裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5878,7 +6182,7 @@
     {
       "id": "item_1776422312688",
       "name": "运动裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5889,7 +6193,7 @@
     {
       "id": "item_1776422312689",
       "name": "工装裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5900,7 +6204,7 @@
     {
       "id": "item_1776422312690",
       "name": "泳裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5911,7 +6215,7 @@
     {
       "id": "item_1776422312691",
       "name": "速干裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5922,7 +6226,7 @@
     {
       "id": "item_1776422312692",
       "name": "保暖裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5933,7 +6237,7 @@
     {
       "id": "item_1776422312693",
       "name": "秋裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5944,7 +6248,7 @@
     {
       "id": "item_1776422312694",
       "name": "睡裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5955,7 +6259,7 @@
     {
       "id": "item_1776422312695",
       "name": "内裤",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5966,7 +6270,7 @@
     {
       "id": "item_1776422312696",
       "name": "袜子（短袜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5977,7 +6281,7 @@
     {
       "id": "item_1776422312697",
       "name": "长袜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5988,7 +6292,7 @@
     {
       "id": "item_1776422312698",
       "name": "五指袜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -5999,7 +6303,7 @@
     {
       "id": "item_1776422312699",
       "name": "毛线袜）",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6010,7 +6314,7 @@
     {
       "id": "item_1776422312700",
       "name": "丝巾",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6021,7 +6325,7 @@
     {
       "id": "item_1776422312701",
       "name": "帽子（鸭舌帽",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6032,7 +6336,7 @@
     {
       "id": "item_1776422312702",
       "name": "毛线帽）",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6043,7 +6347,7 @@
     {
       "id": "item_1776422312703",
       "name": "佛珠",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6054,7 +6358,7 @@
     {
       "id": "item_1776422312704",
       "name": "手串",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6065,7 +6369,7 @@
     {
       "id": "item_1776422312705",
       "name": "项链",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6076,7 +6380,7 @@
     {
       "id": "item_1776422312706",
       "name": "胸章",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6087,7 +6391,7 @@
     {
       "id": "item_1776422312707",
       "name": "纽扣",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6098,7 +6402,7 @@
     {
       "id": "item_1776422312708",
       "name": "墨镜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6109,7 +6413,7 @@
     {
       "id": "item_1776422312709",
       "name": "眼镜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6120,7 +6424,7 @@
     {
       "id": "item_1776422312710",
       "name": "手表",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6131,7 +6435,7 @@
     {
       "id": "item_1776422312711",
       "name": "戒指",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6142,7 +6446,7 @@
     {
       "id": "item_1776422312712",
       "name": "各种鞋带",
-      "category": "👕 织物与服饰",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6153,7 +6457,7 @@
     {
       "id": "item_1776422312713",
       "name": "泳镜",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6164,7 +6468,7 @@
     {
       "id": "item_1776422312714",
       "name": "泳帽",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6175,7 +6479,7 @@
     {
       "id": "item_1776422312715",
       "name": "麻将桌布",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6186,7 +6490,7 @@
     {
       "id": "item_1776422312716",
       "name": "医疗夹子",
-      "category": "🍎 饮食与健康",
+      "category": "VI. 医疗与专业耗材",
       "location": "客厅",
       "container": "",
       "status": "active",
@@ -6197,7 +6501,7 @@
     {
       "id": "item_1776422312717",
       "name": "医疗钳子",
-      "category": "🍎 饮食与健康",
+      "category": "VI. 医疗与专业耗材",
       "location": "客厅",
       "container": "",
       "status": "active",
@@ -6208,7 +6512,7 @@
     {
       "id": "item_1776422312718",
       "name": "针灸银针",
-      "category": "🍎 饮食与健康",
+      "category": "VI. 医疗与专业耗材",
       "location": "客厅",
       "container": "",
       "status": "active",
@@ -6219,7 +6523,7 @@
     {
       "id": "item_1776422312719",
       "name": "灌肠器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6230,7 +6534,7 @@
     {
       "id": "item_1776422312720",
       "name": "注射器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6241,7 +6545,7 @@
     {
       "id": "item_1776422312721",
       "name": "针管",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6252,7 +6556,7 @@
     {
       "id": "item_1776422312722",
       "name": "防水贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6263,7 +6567,7 @@
     {
       "id": "item_1776422312723",
       "name": "一次性输液管",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6274,7 +6578,7 @@
     {
       "id": "item_1776422312724",
       "name": "尿液试纸",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6285,7 +6589,7 @@
     {
       "id": "item_1776422312725",
       "name": "移液管",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6296,7 +6600,7 @@
     {
       "id": "item_1776422312726",
       "name": "创可贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6307,7 +6611,7 @@
     {
       "id": "item_1776422312727",
       "name": "医用棉签",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6318,7 +6622,7 @@
     {
       "id": "item_1776422312728",
       "name": "医用棉卷",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6329,7 +6633,7 @@
     {
       "id": "item_1776422312729",
       "name": "口罩",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6340,7 +6644,7 @@
     {
       "id": "item_1776422312730",
       "name": "药品分装工具（分装盒",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6351,7 +6655,7 @@
     {
       "id": "item_1776422312731",
       "name": "分装勺）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6362,7 +6666,7 @@
     {
       "id": "item_1776422312732",
       "name": "切药器",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6373,7 +6677,7 @@
     {
       "id": "item_1776422312733",
       "name": "药品分装盒",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6384,7 +6688,7 @@
     {
       "id": "item_1776422312734",
       "name": "药品分装袋",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6395,7 +6699,7 @@
     {
       "id": "item_1776422312735",
       "name": "塑料漏斗",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6406,7 +6710,7 @@
     {
       "id": "item_1776422312736",
       "name": "体温计",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6417,7 +6721,7 @@
     {
       "id": "item_1776422312737",
       "name": "动态血糖仪",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6428,7 +6732,7 @@
     {
       "id": "item_1776422312738",
       "name": "采血笔",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6439,7 +6743,7 @@
     {
       "id": "item_1776422312739",
       "name": "采血针",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6450,7 +6754,7 @@
     {
       "id": "item_1776422312740",
       "name": "血糖仪",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6461,7 +6765,7 @@
     {
       "id": "item_1776422312741",
       "name": "小黄盒",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6472,7 +6776,7 @@
     {
       "id": "item_1776422312742",
       "name": "胰岛素泵（导管",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6483,7 +6787,7 @@
     {
       "id": "item_1776422312743",
       "name": "储药器）",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6494,7 +6798,7 @@
     {
       "id": "item_1776422312744",
       "name": "胰岛素泵管路塞子",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6505,7 +6809,7 @@
     {
       "id": "item_1776422312745",
       "name": "动态固定贴",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6516,7 +6820,7 @@
     {
       "id": "item_1776422312746",
       "name": "血糖试纸",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6527,7 +6831,7 @@
     {
       "id": "item_1776422312747",
       "name": "胰岛素（针头",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6538,7 +6842,7 @@
     {
       "id": "item_1776422312748",
       "name": "笔）",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6549,7 +6853,7 @@
     {
       "id": "item_1776422312749",
       "name": "葡萄糖方糖",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6560,7 +6864,7 @@
     {
       "id": "item_1776422312750",
       "name": "米格列醇",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6571,7 +6875,7 @@
     {
       "id": "item_1776422312751",
       "name": "胰岛素",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6582,7 +6886,7 @@
     {
       "id": "item_1776422312752",
       "name": "胰岛素特充",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6593,7 +6897,7 @@
     {
       "id": "item_1776422312753",
       "name": "中药",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "药箱",
       "status": "active",
@@ -6604,7 +6908,7 @@
     {
       "id": "item_1776422312754",
       "name": "西药",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "药箱",
       "status": "active",
@@ -6615,7 +6919,7 @@
     {
       "id": "item_1776422312755",
       "name": "打虫药",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "药箱",
       "status": "active",
@@ -6626,7 +6930,7 @@
     {
       "id": "item_1776422312756",
       "name": "葡萄糖注射液",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -6637,7 +6941,7 @@
     {
       "id": "item_1776422312757",
       "name": "氯化钠注射液",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -6648,7 +6952,7 @@
     {
       "id": "item_1776422312758",
       "name": "云南白药",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "药箱",
       "status": "active",
@@ -6659,7 +6963,7 @@
     {
       "id": "item_1776422312759",
       "name": "红霉素软膏",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "药箱",
       "status": "active",
@@ -6670,7 +6974,7 @@
     {
       "id": "item_1776422312760",
       "name": "医用甘油",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "药箱",
       "status": "active",
@@ -6681,7 +6985,7 @@
     {
       "id": "item_1776422312761",
       "name": "胶体银溶液",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "主卧楼上",
       "container": "药箱",
       "status": "active",
@@ -6692,7 +6996,7 @@
     {
       "id": "item_1776422312762",
       "name": "胶原蛋白肽",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6703,7 +7007,7 @@
     {
       "id": "item_1776422312763",
       "name": "碳酸氢钾",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6714,7 +7018,7 @@
     {
       "id": "item_1776422312764",
       "name": "引体向上杆（待处理）",
-      "category": "👕 织物与服饰",
+      "category": "VII. 运动、娱乐与服饰",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -6725,7 +7029,7 @@
     {
       "id": "item_1776422312765",
       "name": "滑冰板（待处理）",
-      "category": "👕 织物与服饰",
+      "category": "VII. 运动、娱乐与服饰",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -6736,7 +7040,7 @@
     {
       "id": "item_1776422312766",
       "name": "弹力带",
-      "category": "👕 织物与服饰",
+      "category": "VII. 运动、娱乐与服饰",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -6747,7 +7051,7 @@
     {
       "id": "item_1776422312767",
       "name": "拐杖（待处理）",
-      "category": "👕 织物与服饰",
+      "category": "VII. 运动、娱乐与服饰",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -6758,7 +7062,7 @@
     {
       "id": "item_1776422312768",
       "name": "骰子",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6769,7 +7073,7 @@
     {
       "id": "item_1776422312769",
       "name": "纸牌",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6780,7 +7084,7 @@
     {
       "id": "item_1776422312770",
       "name": "锣鼓",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6791,7 +7095,7 @@
     {
       "id": "item_1776422312771",
       "name": "鼓棒",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6802,7 +7106,7 @@
     {
       "id": "item_1776422312772",
       "name": "铜锣",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6813,7 +7117,7 @@
     {
       "id": "item_1776422312773",
       "name": "吉他弦",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6824,7 +7128,7 @@
     {
       "id": "item_1776422312774",
       "name": "变调夹",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6835,7 +7139,7 @@
     {
       "id": "item_1776422312775",
       "name": "鱼线",
-      "category": "🔌 电子数码",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6846,7 +7150,7 @@
     {
       "id": "item_1776422312776",
       "name": "鱼漂",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "客厅抽屉",
       "container": "",
       "status": "active",
@@ -6857,7 +7161,7 @@
     {
       "id": "item_1776422312777",
       "name": "《1984》。。。",
-      "category": "📚 文档/纪念/办公",
+      "category": "信息类",
       "location": "主卧楼上",
       "container": "",
       "status": "active",
@@ -6868,7 +7172,7 @@
     {
       "id": "item_1776422312778",
       "name": "明信片",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6879,7 +7183,7 @@
     {
       "id": "item_1776422312779",
       "name": "机票",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6890,7 +7194,7 @@
     {
       "id": "item_1776422312780",
       "name": "工作牌",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6901,7 +7205,7 @@
     {
       "id": "item_1776422312781",
       "name": "照片",
-      "category": "🍎 饮食与健康",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6912,7 +7216,7 @@
     {
       "id": "item_1776422312782",
       "name": "体检报告",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6923,7 +7227,7 @@
     {
       "id": "item_1776422312783",
       "name": "我的病历",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6934,7 +7238,7 @@
     {
       "id": "item_1776422312784",
       "name": "家人的病历",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6945,7 +7249,7 @@
     {
       "id": "item_1776422312785",
       "name": "毕业证",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6956,7 +7260,7 @@
     {
       "id": "item_1776422312786",
       "name": "执业资格证书",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6967,7 +7271,7 @@
     {
       "id": "item_1776422312787",
       "name": "护照",
-      "category": "🧼 个人护理",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6978,7 +7282,7 @@
     {
       "id": "item_1776422312788",
       "name": "卡包",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -6989,7 +7293,7 @@
     {
       "id": "item_1776422312789",
       "name": "证件",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7000,7 +7304,7 @@
     {
       "id": "item_1776422312790",
       "name": "保险合同",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7011,7 +7315,7 @@
     {
       "id": "item_1776422312791",
       "name": "工作合同",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7022,7 +7326,7 @@
     {
       "id": "item_1776422312792",
       "name": "租房合同",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7033,7 +7337,7 @@
     {
       "id": "item_1776422312793",
       "name": "说明书",
-      "category": "📚 文档/纪念/办公",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7044,7 +7348,7 @@
     {
       "id": "item_1776422312794",
       "name": "现金",
-      "category": "📚 文档/纪念/办公",
+      "category": "VIII. 杂项与抽象概念",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7055,7 +7359,7 @@
     {
       "id": "item_1776422312795",
       "name": "硬币",
-      "category": "📚 文档/纪念/办公",
+      "category": "VIII. 杂项与抽象概念",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7066,7 +7370,7 @@
     {
       "id": "item_1776422312796",
       "name": "纸币",
-      "category": "📚 文档/纪念/办公",
+      "category": "VIII. 杂项与抽象概念",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7077,7 +7381,7 @@
     {
       "id": "item_1776422312797",
       "name": "辣椒种子",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7088,7 +7392,7 @@
     {
       "id": "item_1776422312798",
       "name": "占卜工具",
-      "category": "🏠 家居与工具",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7099,7 +7403,7 @@
     {
       "id": "item_1776422312799",
       "name": "占卜棍棍",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7110,7 +7414,7 @@
     {
       "id": "item_1776422312800",
       "name": "香薰",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7121,7 +7425,7 @@
     {
       "id": "item_1776422312801",
       "name": "钥匙",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",
@@ -7132,7 +7436,7 @@
     {
       "id": "item_1776422312802",
       "name": "钥匙扣",
-      "category": "🌀 待定/人工复核",
+      "category": "待定",
       "location": "待定",
       "container": "",
       "status": "active",

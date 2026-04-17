@@ -59,6 +59,26 @@
       "primary_activity": "挂载/收纳",
       "description": "挂灰色背包",
       "status": "active"
+    },
+    {
+      "id": "living_room_fridge_top_layer",
+      "name": "冰箱上层保鲜区-最上层",
+      "parent": "客厅",
+      "frequency": "high",
+      "type": "container",
+      "primary_activity": "食品/补剂冷藏",
+      "description": "存放需要冷藏的饮品、补剂、益生菌及特殊食品",
+      "status": "inventory_completed"
+    },
+    {
+      "id": "small_suitcase",
+      "name": "小行李箱",
+      "parent": "流动收纳/待定",
+      "frequency": "low",
+      "type": "container",
+      "primary_activity": "差旅/储物",
+      "description": "存放旅行杂物、纪念品及待处理物品",
+      "status": "inventory_completed"
     }
   ]
 }
