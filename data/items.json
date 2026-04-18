@@ -938,11 +938,11 @@
     },
     {
       "name": "6孔位双头迷你插板",
-      "category": "🔌 电子数码",
+      "category": "🏠 家居与工具",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168415",
-      "sub_category": "动力与线材"
+      "sub_category": "生活家电"
     },
     {
       "name": "Insta 360 Flow 2",
@@ -1127,7 +1127,7 @@
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168436",
-      "sub_category": "核心计算设备"
+      "sub_category": "外设与配件"
     },
     {
       "name": "番茄酱",
@@ -1144,7 +1144,7 @@
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168439",
-      "sub_category": "影音与娱乐"
+      "sub_category": "外设与配件"
     },
     {
       "name": "香卡",
@@ -1184,7 +1184,7 @@
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168443",
-      "sub_category": "核心计算设备"
+      "sub_category": "外设与配件"
     },
     {
       "name": "避孕套",
@@ -1309,7 +1309,7 @@
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168457",
-      "sub_category": "动力与线材"
+      "sub_category": "外设与配件"
     },
     {
       "name": "芦荟胶",
@@ -3584,7 +3584,7 @@
       "tags": [
         "从历史文件v1导入"
       ],
-      "sub_category": "核心计算设备"
+      "sub_category": "外设与配件"
     },
     {
       "id": "item_1776422312452",
