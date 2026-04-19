@@ -89,16 +89,6 @@
       "primary_activity": "暂存/中转",
       "description": "整理过程中的中转站，存放按大类初步归拢的物品",
       "status": "active"
-    },
-    {
-      "id": "moving_box",
-      "name": "搬家纸箱",
-      "parent": "待整理区域",
-      "frequency": "low",
-      "type": "container",
-      "primary_activity": "搬家/储物",
-      "description": "存放搬家带来的杂物，待清点归位",
-      "status": "active"
     }
   ]
 }
