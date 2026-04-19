@@ -1630,7 +1630,7 @@
       "sub_category": "护肤与美妆",
       "content": "空喷雾瓶",
       "is_stored": true,
-      "container": "一次性洗护用品袋",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1720,7 +1720,7 @@
       "sub_category": "护肤与美妆",
       "content": "痘痘贴 (1个)",
       "is_stored": true,
-      "container": "一次性洗护用品袋",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
