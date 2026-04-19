@@ -139,6 +139,21 @@
 - “帮我记录一下，备用钥匙放在玄关第二个抽屉了” -> 更新 `items.json`。
 - “家里还有哪些地方没整理？” -> 输出空间整理进度表。
 
+## 11. 飞书多维表格 (Feishu Base) 深度集成
+
+### 核心参数
+- **Base Token**: `PS56bPhyNaWXRdsJX78cxyIOnJb`
+- **物品表 ID (Items Table)**: `tbluMVXBpHIJDGyi`
+- **主要字段映射 (Field Mapping)**:
+  - `fldILOfvTU` (文本): 物品名称 (`name`) —— 此为 Primary Field。
+  - `fldqhfKPuE` (ID): 唯一识别码 (`id`) —— 格式为 `item-xxxxxxxx`。
+  - `fldCQciQ2I` (文本): 备注 (`notes`) —— 用于存储规格、效期或迁移时的原位置信息。
+
+### 操作规范
+1. **upsert 模式**：所有同步操作必须使用 `+record-upsert` 并指定 `id` 字段作为唯一索引，严禁使用 `+record-create` 以防产生重复数据。
+2. **数据一致性**：`items.json` 是本地权威数据源。同步流程为：`修改本地 JSON` -> `生成唯一 ID` -> `upsert 到飞书`。
+3. **清理逻辑**：若飞书端出现大量脏数据，应使用 `nuclear_reset.py`（基于 `+record-delete` 批量接口）物理抹除所有记录后重新推入。
+
 ---
 
 ## 版本历史

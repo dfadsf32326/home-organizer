@@ -166,7 +166,8 @@
       "sub_category": "身体洗护",
       "location": "暂存区",
       "container": "一次性洗护用品袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-6ad266b4"
     },
     {
       "name": "牙线棒 (小半盒)",
@@ -174,7 +175,8 @@
       "sub_category": "身体洗护",
       "location": "暂存区",
       "container": "一次性洗护用品袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-e58a4cb0"
     },
     {
       "name": "空喷雾瓶",
@@ -182,7 +184,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-4db14f20"
     },
     {
       "name": "痘痘贴 (1个)",
@@ -190,7 +193,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-8768e733"
     },
     {
       "name": "舒客牙膏 (1盒)",
@@ -198,7 +202,8 @@
       "sub_category": "身体洗护",
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-5c78df73"
     },
     {
       "name": "一次性浴巾 (3袋)",
@@ -206,7 +211,8 @@
       "sub_category": "身体洗护",
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-35659906"
     },
     {
       "name": "红光健脑仪",
@@ -214,7 +220,8 @@
       "sub_category": "医疗仪器/器械",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-53daa005"
     },
     {
       "name": "血糖试纸",
@@ -222,7 +229,8 @@
       "sub_category": "医疗仪器/器械",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-5f96db7d"
     },
     {
       "name": "胰岛素针管",
@@ -230,7 +238,8 @@
       "sub_category": "医疗仪器/器械",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-8c6d225f"
     },
     {
       "name": "采血针 (1盒)",
@@ -238,7 +247,8 @@
       "sub_category": "医疗仪器/器械",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-2ecb7ca6"
     },
     {
       "name": "云南白药创可贴",
@@ -246,7 +256,8 @@
       "sub_category": "药品/急救",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-5f968f3f"
     },
     {
       "name": "消毒酒精",
@@ -254,7 +265,8 @@
       "sub_category": "药品/急救",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-a8066be4"
     },
     {
       "name": "酒精棉片 (少许)",
@@ -262,7 +274,8 @@
       "sub_category": "药品/急救",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-15ea5df5"
     },
     {
       "name": "酒精棉片 (整盒未开封)",
@@ -270,7 +283,8 @@
       "sub_category": "药品/急救",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-12ca63b4"
     },
     {
       "name": "肠炎宁",
@@ -278,7 +292,8 @@
       "sub_category": "药品/急救",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-497ca29d"
     },
     {
       "name": "棉签 (4袋)",
@@ -286,7 +301,8 @@
       "sub_category": "药品/急救",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-768cac7d"
     },
     {
       "name": "复方板蓝根片 (1瓶)",
@@ -294,7 +310,8 @@
       "sub_category": "药品/急救",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-7fca20a9"
     },
     {
       "name": "泰国药 (2个，用途待查)",
@@ -302,7 +319,8 @@
       "sub_category": "药品/急救",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-31e46529"
     },
     {
       "name": "EAA复合氨基酸 (2026-11-27)",
@@ -310,7 +328,8 @@
       "sub_category": "营养补剂",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-e045c8d3"
     },
     {
       "name": "胶原蛋白 (2027-09-01，已开封)",
@@ -318,7 +337,8 @@
       "sub_category": "营养补剂",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-27acd29d"
     },
     {
       "name": "Natural Factors葡萄糖酸锌25mg",
@@ -326,7 +346,8 @@
       "sub_category": "营养补剂",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-ac43dbea"
     },
     {
       "name": "三丁酸甘油酯 (1瓶)",
@@ -334,7 +355,8 @@
       "sub_category": "营养补剂",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-e54e48e0"
     },
     {
       "name": "维生素A胶囊 (1瓶)",
@@ -342,7 +364,8 @@
       "sub_category": "营养补剂",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-75a1b838"
     },
     {
       "name": "橡胶圈 (1个/条)",
@@ -350,7 +373,8 @@
       "sub_category": "五金工具/耗材",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-bdcd1d89"
     },
     {
       "name": "不锈钢检测液",
@@ -358,7 +382,8 @@
       "sub_category": "五金工具/耗材",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-b84eac66"
     },
     {
       "name": "没电的气温计",
@@ -366,7 +391,8 @@
       "sub_category": "五金工具/耗材",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-17d6834b"
     },
     {
       "name": "垃圾袋 (1卷)",
@@ -374,7 +400,8 @@
       "sub_category": "清洁用品",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-1a8506ec"
     },
     {
       "name": "艾克顿三孔转接头",
@@ -382,7 +409,8 @@
       "sub_category": "生活家电",
       "location": "暂存区",
       "container": "暂存区-小家电袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-dc66417a"
     },
     {
       "name": "6孔位双头迷你插板",
@@ -390,7 +418,8 @@
       "sub_category": "生活家电",
       "location": "暂存区",
       "container": "暂存区-小家电袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-b44f2602"
     },
     {
       "name": "电磁炉",
@@ -398,7 +427,8 @@
       "sub_category": "生活家电",
       "location": "暂存区",
       "container": "暂存区-小家电袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-b3a5461d"
     },
     {
       "name": "20寸 银色行李箱",
@@ -406,7 +436,8 @@
       "sub_category": "待人工复核",
       "location": "暂存区",
       "container": "暂存区-待定大件",
-      "status": "active"
+      "status": "active",
+      "id": "item-9b387ba9"
     },
     {
       "name": "烫发夹板",
@@ -414,7 +445,8 @@
       "sub_category": "个护电器",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-730fd32f"
     },
     {
       "name": "Mistine防晒霜",
@@ -422,7 +454,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-2867eee4"
     },
     {
       "name": "芦荟胶 (2支)",
@@ -430,7 +463,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-97a6ad30"
     },
     {
       "name": "香奈儿香水袋子",
@@ -438,7 +472,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-074514f8"
     },
     {
       "name": "香奈儿香水瓶子和盒子",
@@ -446,7 +481,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-52dcfd6e"
     },
     {
       "name": "香卡",
@@ -454,7 +490,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-29a1c603"
     },
     {
       "name": "薰衣草纯露 (1瓶)",
@@ -462,7 +499,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-12f36d49"
     },
     {
       "name": "唇膏 (1支)",
@@ -470,7 +508,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-49de7300"
     },
     {
       "name": "香水分装器 (1袋)",
@@ -478,7 +517,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-414c9641"
     },
     {
       "name": "香水分装瓶 (1个)",
@@ -486,7 +526,8 @@
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-3d1b61d6"
     },
     {
       "name": "避孕套",
@@ -494,7 +535,8 @@
       "sub_category": "生理与卫生",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-05810e35"
     },
     {
       "name": "止汗剂 (1瓶)",
@@ -502,7 +544,8 @@
       "sub_category": "身体洗护",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-eebd3eae"
     },
     {
       "name": "勐腊县人民医院病历",
@@ -510,7 +553,8 @@
       "sub_category": "健康档案",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-d12b0d75"
     },
     {
       "name": "勐腊县人民医院CT检查报告单",
@@ -518,7 +562,8 @@
       "sub_category": "健康档案",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-43b6edda"
     },
     {
       "name": "微波压力锅说明书",
@@ -526,7 +571,8 @@
       "sub_category": "办公与文具",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-4a9d9ac0"
     },
     {
       "name": "大理苍山索道票 (2张)",
@@ -534,7 +580,8 @@
       "sub_category": "纪念与情感",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-baba250a"
     },
     {
       "name": "西双版纳花卉园票 (2张)",
@@ -542,7 +589,8 @@
       "sub_category": "纪念与情感",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-71f1f5f1"
     },
     {
       "name": "望天树种子卡 (3个)",
@@ -550,7 +598,8 @@
       "sub_category": "纪念与情感",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-c5385e21"
     },
     {
       "name": "傣文福签 (2个)",
@@ -558,7 +607,8 @@
       "sub_category": "纪念与情感",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-874595e3"
     },
     {
       "name": "佳佳送的相册",
@@ -566,7 +616,8 @@
       "sub_category": "纪念与情感",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-f96f62b3"
     },
     {
       "name": "望天树打卡地图",
@@ -574,7 +625,8 @@
       "sub_category": "纪念与情感",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-dcb0f53f"
     },
     {
       "name": "望天树官方纪念证书",
@@ -582,7 +634,8 @@
       "sub_category": "证件与证明",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-3ad91208"
     },
     {
       "name": "东盟十国钱币纪念本",
@@ -590,7 +643,8 @@
       "sub_category": "财务与合同",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-6d8e5f27"
     },
     {
       "name": "Anker充电宝",
@@ -598,7 +652,8 @@
       "sub_category": "动力与线材",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-5a7bc8fc"
     },
     {
       "name": "电池",
@@ -606,7 +661,8 @@
       "sub_category": "动力与线材",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-822968f1"
     },
     {
       "name": "USB转Type-C数据线 (共3条)",
@@ -614,7 +670,8 @@
       "sub_category": "动力与线材",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-7ae3eb9a"
     },
     {
       "name": "20W Type C充电头",
@@ -622,7 +679,8 @@
       "sub_category": "动力与线材",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-a9553bcc"
     },
     {
       "name": "纽扣电池 (共2颗)",
@@ -630,7 +688,8 @@
       "sub_category": "动力与线材",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-f552e5e5"
     },
     {
       "name": "7号电池 (3节)",
@@ -638,7 +697,8 @@
       "sub_category": "动力与线材",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-9f907154"
     },
     {
       "name": "手表充电宝",
@@ -646,7 +706,8 @@
       "sub_category": "动力与线材",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-ea84b02c"
     },
     {
       "name": "Insta 360 Flow 2（待卖）",
@@ -654,7 +715,8 @@
       "sub_category": "外设与配件",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-055bf406"
     },
     {
       "name": "手机卡盒子",
@@ -662,7 +724,8 @@
       "sub_category": "外设与配件",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-11dc751c"
     },
     {
       "name": "小音箱",
@@ -670,7 +733,8 @@
       "sub_category": "外设与配件",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-7edaa685"
     },
     {
       "name": "红米K70手机膜",
@@ -678,7 +742,8 @@
       "sub_category": "外设与配件",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-4a75a4d9"
     },
     {
       "name": "3.5mm接口八爪鱼三角支架",
@@ -686,7 +751,8 @@
       "sub_category": "外设与配件",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-988810a2"
     },
     {
       "name": "磁吸环 (2个)",
@@ -694,7 +760,8 @@
       "sub_category": "外设与配件",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-91602532"
     },
     {
       "name": "苹果12手机",
@@ -702,7 +769,8 @@
       "sub_category": "核心计算设备",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-12d25209"
     },
     {
       "name": "蒸汽眼罩 (2个)",
@@ -710,7 +778,8 @@
       "sub_category": "配件挂饰",
       "location": "暂存区",
       "container": "暂存区-织物服饰袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-13f9d2c7"
     },
     {
       "name": "灰色袜子 (1双)",
@@ -718,7 +787,8 @@
       "sub_category": "鞋袜",
       "location": "暂存区",
       "container": "暂存区-织物服饰袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-117a596d"
     },
     {
       "name": "沙滩裤",
@@ -726,7 +796,8 @@
       "sub_category": "衣物",
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-0f20f775"
     },
     {
       "name": "手套",
@@ -734,7 +805,8 @@
       "sub_category": "配件挂饰",
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-88997c68"
     },
     {
       "name": "卫龙眼罩",
@@ -742,7 +814,8 @@
       "sub_category": "配件挂饰",
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-7e73306e"
     },
     {
       "name": "围巾",
@@ -750,7 +823,8 @@
       "sub_category": "配件挂饰",
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-d5ea3028"
     },
     {
       "name": "多用围巾",
@@ -758,7 +832,8 @@
       "sub_category": "配件挂饰",
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-3e615937"
     },
     {
       "name": "一次性拖鞋",
@@ -766,7 +841,8 @@
       "sub_category": "鞋靴",
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-b732325b"
     },
     {
       "name": "全脂羊奶粉",
@@ -774,7 +850,8 @@
       "sub_category": "冲饮/饮品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-600ea88f"
     },
     {
       "name": "木筷子 (1包)",
@@ -782,7 +859,8 @@
       "sub_category": "厨具/餐具",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-4cea5619"
     },
     {
       "name": "蛋黄蛋清分离器",
@@ -790,7 +868,8 @@
       "sub_category": "厨具/餐具",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-6535067d"
     },
     {
       "name": "助糖三号 (3包)",
@@ -798,7 +877,8 @@
       "sub_category": "特殊食品/零食",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-3256fdf2"
     },
     {
       "name": "有机板栗 (1包)",
@@ -806,7 +886,8 @@
       "sub_category": "特殊食品/零食",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-d143f1b5"
     },
     {
       "name": "奇亚籽 (4包)",
@@ -814,7 +895,8 @@
       "sub_category": "粮油/干货",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-a5b9d3e7"
     },
     {
       "name": "小麦纤维素 (3袋)",
@@ -822,7 +904,8 @@
       "sub_category": "粮油/干货",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-05b25e62"
     },
     {
       "name": "番茄酱 (1袋)",
@@ -830,7 +913,8 @@
       "sub_category": "粮油/调味品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-ede25374"
     },
     {
       "name": "浓汤宝 (2盒)",
@@ -838,7 +922,8 @@
       "sub_category": "粮油/调味品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-a4e23081"
     },
     {
       "name": "酱板鸭的香辣红油 (2袋)",
@@ -846,7 +931,8 @@
       "sub_category": "粮油/调味品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-dbfee727"
     },
     {
       "name": "辣椒粉 (1瓶)",
@@ -854,7 +940,8 @@
       "sub_category": "粮油/调味品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-2362ae03"
     },
     {
       "name": "花椒粉 (1瓶)",
@@ -862,7 +949,8 @@
       "sub_category": "粮油/调味品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-91c323e1"
     },
     {
       "name": "红薯淀粉",
@@ -870,7 +958,8 @@
       "sub_category": "粮油/调味品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-cc71c7a0"
     },
     {
       "name": "黑胡椒粉",
@@ -878,7 +967,8 @@
       "sub_category": "粮油/调味品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-37518a04"
     },
     {
       "name": "白芝麻 (1袋)",
@@ -886,7 +976,298 @@
       "sub_category": "粮油/调味品",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "status": "active"
+      "status": "active",
+      "id": "item-e77173e7"
+    },
+    {
+      "id": "item-c075e853",
+      "name": "电脑",
+      "category": "🔌 电子数码",
+      "sub_category": "核心计算设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-cc50195b",
+      "name": "内存条",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-6f4d7d76",
+      "name": "网卡 (J3455)",
+      "category": "🔌 电子数码",
+      "sub_category": "网络设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-0a9984b0",
+      "name": "散热器",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-4f6ba669",
+      "name": "鼠标",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-18a5b5a9",
+      "name": "键盘",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-16274930",
+      "name": "废旧笔记本电脑",
+      "category": "🔌 电子数码",
+      "sub_category": "核心计算设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-b5950df3",
+      "name": "路由器 (N1旁路由",
+      "category": "🔌 电子数码",
+      "sub_category": "网络设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-00f04f25",
+      "name": "小米路由器",
+      "category": "🔌 电子数码",
+      "sub_category": "网络设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-1f04f227",
+      "name": "蒲公英旁路由)",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-a9a83d66",
+      "name": "光猫",
+      "category": "🔌 电子数码",
+      "sub_category": "网络设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-c384edda",
+      "name": "水星交换机",
+      "category": "🔌 电子数码",
+      "sub_category": "网络设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-3cedf161",
+      "name": "网线水晶头",
+      "category": "🔌 电子数码",
+      "sub_category": "网络设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-5af552ce",
+      "name": "网线",
+      "category": "🔌 电子数码",
+      "sub_category": "网络设备",
+      "location": "历史数据迁移",
+      "container": "电脑 纸箱",
+      "status": "active",
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+    },
+    {
+      "id": "item-b5fa2d5e",
+      "name": "移动硬盘",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "nas 前面的塑料盒子",
+      "status": "active",
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+    },
+    {
+      "id": "item-d7d4f924",
+      "name": "QNAP NAS",
+      "category": "🔌 电子数码",
+      "sub_category": "网络设备",
+      "location": "历史数据迁移",
+      "container": "nas 前面的塑料盒子",
+      "status": "active",
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+    },
+    {
+      "id": "item-4282a807",
+      "name": "U 盘",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "nas 前面的塑料盒子",
+      "status": "active",
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+    },
+    {
+      "id": "item-c3a430a1",
+      "name": "SD 卡",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "nas 前面的塑料盒子",
+      "status": "active",
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+    },
+    {
+      "id": "item-7b8180b0",
+      "name": "读卡器",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "nas 前面的塑料盒子",
+      "status": "active",
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+    },
+    {
+      "id": "item-d9861de6",
+      "name": "速录笔",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置:  | 原容器: "
+    },
+    {
+      "id": "item-7d3af278",
+      "name": "有线耳机",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置:  | 原容器: "
+    },
+    {
+      "id": "item-fd656214",
+      "name": "无线耳机",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置:  | 原容器: "
+    },
+    {
+      "id": "item-a4d09c42",
+      "name": "耳机套",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置:  | 原容器: "
+    },
+    {
+      "id": "item-bcb1ec37",
+      "name": "UPS",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置:  | 原容器: "
+    },
+    {
+      "id": "item-e0f081d5",
+      "name": "电源线",
+      "category": "🏠 家居与工具",
+      "sub_category": "生活家电",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置:  | 原容器: "
+    },
+    {
+      "id": "item-260c330b",
+      "name": "排插",
+      "category": "🏠 家居与工具",
+      "sub_category": "生活家电",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置:  | 原容器: "
+    },
+    {
+      "id": "item-1d9319ec",
+      "name": "运动手环",
+      "category": "🔌 电子数码",
+      "sub_category": "外设与配件",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置: 卧室 | 原容器: "
+    },
+    {
+      "id": "item-c3c012ff",
+      "name": "手机",
+      "category": "🔌 电子数码",
+      "sub_category": "核心计算设备",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置: 卧室 | 原容器: "
+    },
+    {
+      "id": "item-d07d3c20",
+      "name": "ipad  2017 尸体",
+      "category": "🔌 电子数码",
+      "sub_category": "核心计算设备",
+      "location": "历史数据迁移",
+      "container": "",
+      "status": "active",
+      "notes": "原位置: 卧室 | 原容器: "
     }
   ]
 }
