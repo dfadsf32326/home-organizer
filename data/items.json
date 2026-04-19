@@ -939,7 +939,7 @@
     {
       "name": "6孔位双头迷你插板",
       "category": "🏠 家居与工具",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168415",
       "sub_category": "生活家电"
@@ -947,7 +947,7 @@
     {
       "name": "Insta 360 Flow 2",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "to_sell",
       "tags": [
         "待卖掉"
@@ -959,7 +959,7 @@
       "name": "大理苍山索道票",
       "quantity": "2张",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168417",
       "sub_category": "纪念与情感"
@@ -968,7 +968,7 @@
       "name": "西双版纳花卉园票",
       "quantity": "2张",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168418",
       "sub_category": "纪念与情感"
@@ -977,7 +977,7 @@
       "name": "望天树种子卡",
       "quantity": "3个",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168419",
       "sub_category": "纪念与情感"
@@ -985,7 +985,7 @@
     {
       "name": "勐腊县人民医院病历",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "tags": [
         "本人"
@@ -996,7 +996,7 @@
     {
       "name": "望天树官方纪念证书",
       "category": "💖 纪念与情感",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168421",
       "sub_category": "纪念品与信物"
@@ -1004,7 +1004,7 @@
     {
       "name": "勐腊县人民医院CT检查报告单",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168422",
       "sub_category": "健康档案"
@@ -1012,7 +1012,7 @@
     {
       "name": "望天树打卡地图",
       "category": "💖 纪念与情感",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168423",
       "sub_category": "纪念品与信物"
@@ -1021,7 +1021,7 @@
       "name": "傣文福签",
       "quantity": "2个",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168424",
       "sub_category": "纪念与情感"
@@ -1030,7 +1030,7 @@
       "name": "一次性拖鞋",
       "quantity": "1包",
       "category": "👕 织物服饰",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168425",
       "sub_category": "鞋靴"
@@ -1038,7 +1038,7 @@
     {
       "name": "微波压力锅说明书",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168426",
       "sub_category": "办公与文具"
@@ -1046,7 +1046,7 @@
     {
       "name": "佳佳送的相册",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168427",
       "sub_category": "纪念与情感"
@@ -1054,7 +1054,7 @@
     {
       "name": "香奈儿香水袋子",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168428",
       "sub_category": "护肤与美妆"
@@ -1063,7 +1063,7 @@
       "name": "EAA复合氨基酸",
       "quantity": "1包",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "specification": "210g (余量未知)",
       "expiry_date": "2026-11-27",
@@ -1073,7 +1073,7 @@
     {
       "name": "东盟十国钱币纪念本",
       "category": "📚 文档资产",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168430",
       "sub_category": "财务与合同"
@@ -1082,7 +1082,7 @@
       "name": "手套",
       "quantity": "1只/副",
       "category": "👕 织物服饰",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168431",
       "sub_category": "配件挂饰"
@@ -1090,7 +1090,7 @@
     {
       "name": "Anker充电宝",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168432",
       "sub_category": "动力与线材"
@@ -1099,7 +1099,7 @@
       "name": "木筷子",
       "quantity": "1包",
       "category": "🍎 饮食供应",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168433",
       "sub_category": "厨具/餐具"
@@ -1107,7 +1107,7 @@
     {
       "name": "卫龙眼罩",
       "category": "👕 织物服饰",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168434",
       "sub_category": "配件挂饰"
@@ -1116,7 +1116,7 @@
       "name": "云南白药创可贴",
       "quantity": "1盒",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168435",
       "sub_category": "药品/急救"
@@ -1124,7 +1124,7 @@
     {
       "name": "手机卡盒子",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168436",
       "sub_category": "外设与配件"
@@ -1133,7 +1133,7 @@
       "name": "番茄酱",
       "quantity": "1袋",
       "category": "🍎 饮食供应",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168438",
       "sub_category": "粮油/调味品"
@@ -1141,7 +1141,7 @@
     {
       "name": "小音箱",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168439",
       "sub_category": "外设与配件"
@@ -1150,7 +1150,7 @@
       "name": "香卡",
       "quantity": "1包",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168440",
       "sub_category": "护肤与美妆"
@@ -1158,7 +1158,7 @@
     {
       "name": "苹果12手机",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168441",
       "sub_category": "核心计算设备"
@@ -1167,7 +1167,7 @@
       "name": "胶原蛋白",
       "quantity": "半包",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "expiry_date": "2027-09-01",
       "open_date": "已开封",
@@ -1181,7 +1181,7 @@
       "name": "红米K70手机膜",
       "quantity": "1盒",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168443",
       "sub_category": "外设与配件"
@@ -1190,7 +1190,7 @@
       "name": "避孕套",
       "quantity": "1盒",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168444",
       "sub_category": "生理与卫生"
@@ -1198,7 +1198,7 @@
     {
       "name": "香奈儿香水瓶子和盒子",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168445",
       "sub_category": "护肤与美妆"
@@ -1207,7 +1207,7 @@
       "name": "Natural Factors葡萄糖酸锌25mg",
       "quantity": "1瓶",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "expiry_date": "2027-01-31",
       "id": "item_1776421168444",
@@ -1217,7 +1217,7 @@
       "name": "消毒酒精",
       "quantity": "1瓶",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168447",
       "sub_category": "药品/急救"
@@ -1226,7 +1226,7 @@
       "name": "酒精棉片",
       "quantity": "少许",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168448",
       "sub_category": "药品/急救"
@@ -1235,7 +1235,7 @@
       "name": "外国香烟",
       "quantity": "1包",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168449",
       "sub_category": "其他"
@@ -1244,7 +1244,7 @@
       "name": "肠炎宁",
       "quantity": "1盒",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168450",
       "sub_category": "药品/急救"
@@ -1252,7 +1252,7 @@
     {
       "name": "3.5mm接口八爪鱼三角支架",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168451",
       "sub_category": "外设与配件"
@@ -1260,7 +1260,7 @@
     {
       "name": "Life Extension益生菌(含噬菌体)",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168452",
       "sub_category": "益生菌/发酵菌"
@@ -1269,7 +1269,7 @@
       "name": "Mistine防晒霜",
       "quantity": "1盒",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168453",
       "sub_category": "护肤与美妆"
@@ -1278,7 +1278,7 @@
       "name": "酒精棉片(整盒)",
       "quantity": "1盒",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "tags": [
         "未开封"
@@ -1289,7 +1289,7 @@
     {
       "name": "红光健脑仪",
       "category": "🏥 健康医疗",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168455",
       "sub_category": "医疗仪器/器械"
@@ -1298,7 +1298,7 @@
       "name": "牙膏",
       "quantity": "1盒",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168456",
       "sub_category": "身体洗护"
@@ -1306,7 +1306,7 @@
     {
       "name": "艾克顿三孔转接头",
       "category": "🏠 家居与工具",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168457",
       "sub_category": "生活家电"
@@ -1316,7 +1316,7 @@
       "quantity": "1支",
       "specification": "110g",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168458",
       "sub_category": "护肤与美妆"
@@ -1324,7 +1324,7 @@
     {
       "name": "蛋黄蛋清分离器",
       "category": "🍎 饮食供应",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168459",
       "sub_category": "厨具/餐具"
@@ -1332,7 +1332,7 @@
     {
       "name": "烫发夹板",
       "category": "🧼 个人护理",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168460",
       "sub_category": "个护电器"
@@ -1341,7 +1341,7 @@
       "name": "电池",
       "quantity": "1个",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168461",
       "sub_category": "动力与线材"
@@ -1349,7 +1349,7 @@
     {
       "name": "USB转Type-C数据线",
       "category": "🔌 电子数码",
-      "location": "small_suitcase",
+      "location": "temporary_storage",
       "status": "active",
       "id": "item_1776421168462",
       "sub_category": "动力与线材"
