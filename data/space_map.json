@@ -99,6 +99,16 @@
       "primary_activity": "搬家/储物",
       "description": "存放搬家带来的杂物，待清点归位",
       "status": "active"
+    },
+    {
+      "id": "inventory_temp_box",
+      "name": "暂存盘点箱",
+      "parent": "暂存区",
+      "frequency": "high",
+      "type": "container",
+      "primary_activity": "暂存/盘点中转",
+      "description": "整理过程中的中转盘点箱，未指定位置的物品默认放入此箱",
+      "status": "active"
     }
   ]
 }

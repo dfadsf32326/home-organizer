@@ -1288,8 +1288,8 @@
       "sub_category": "配件挂饰",
       "content": "围巾",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "搬家纸箱",
+      "location": "搬家纸箱",
       "status": "inventory_completed"
     },
     {
@@ -1297,8 +1297,8 @@
       "sub_category": "衣物",
       "content": "沙滩裤",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "搬家纸箱",
+      "location": "搬家纸箱",
       "status": "inventory_completed"
     },
     {
@@ -1306,8 +1306,8 @@
       "sub_category": "配件挂饰",
       "content": "多用围巾",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "搬家纸箱",
+      "location": "搬家纸箱",
       "status": "inventory_completed"
     },
     {
@@ -1315,8 +1315,8 @@
       "sub_category": "厨具/餐具",
       "content": "小菜刀",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "搬家纸箱",
+      "location": "搬家纸箱",
       "status": "inventory_completed"
     },
     {
@@ -1324,8 +1324,8 @@
       "sub_category": "厨具/餐具",
       "content": "一次性食品密封袋 (1盒)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "搬家纸箱",
+      "location": "搬家纸箱",
       "status": "inventory_completed"
     },
     {
@@ -1369,8 +1369,8 @@
       "sub_category": "厨具/餐具",
       "content": "菜板",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1378,8 +1378,8 @@
       "sub_category": "厨具/餐具",
       "content": "微波炉高压锅",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1387,8 +1387,8 @@
       "sub_category": "厨具/餐具",
       "content": "PP5蒸格",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
