@@ -141,6 +141,17 @@
 
 ## 11. 飞书多维表格 (Feishu Base) 深度集成
 
+### 数据同步策略 (Local-First Strategy)
+系统采用 **“本地文件为主 (Master)，飞书为镜像 (Mirror)”** 的架构：
+- **逻辑中枢**: `/data/items.json` 是唯一事实来源，包含所有物品的分类、位置及唯一 ID。
+- **展示/交互端**: 飞书多维表格作为移动端查看和零星手动编辑的 UI。
+- **唯一标识 (Unique ID)**: 
+    - 本地 ID (`id`): `item-xxxxxxxx` (由 Agent 生成)。
+    - 飞书 ID (`feishu_record_id`): `recxxxxxxxx` (飞书原生，用于精准 Update)。
+- **同步规则**:
+    1. **批量操作**: 优先修改本地 JSON，由 Agent 调用脚本推送到飞书。
+    2. **日常编辑**: 若在飞书端修改了状态/位置，Agent 需定期拉取并反向写回本地 JSON。
+
 ### 核心参数
 - **Base Token**: `PS56bPhyNaWXRdsJX78cxyIOnJb`
 - **物品表 ID (Items Table)**: `tbluMVXBpHIJDGyi`
