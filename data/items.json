@@ -1313,10 +1313,10 @@
     {
       "category": "🍎 饮食供应",
       "sub_category": "厨具/餐具",
-      "content": "小菜刀",
+      "content": "爱仕达菜刀",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "刀架",
+      "location": "厨房",
       "status": "inventory_completed"
     },
     {
@@ -1324,8 +1324,8 @@
       "sub_category": "厨具/餐具",
       "content": "一次性食品密封袋 (1盒，另加2袋食品袋)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "进门左二上柜 (下层)",
+      "location": "厨房",
       "status": "inventory_completed"
     },
     {
@@ -1369,8 +1369,8 @@
       "sub_category": "厨具/餐具",
       "content": "菜板",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "台面",
+      "location": "厨房",
       "status": "inventory_completed"
     },
     {
@@ -1378,8 +1378,8 @@
       "sub_category": "厨具/餐具",
       "content": "微波炉高压锅",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "进门左一上柜",
+      "location": "厨房",
       "status": "inventory_completed"
     },
     {
@@ -1387,8 +1387,8 @@
       "sub_category": "厨具/餐具",
       "content": "PP5蒸格",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "进门左一上柜 (微波炉高压锅内)",
+      "location": "厨房",
       "status": "inventory_completed"
     },
     {
@@ -1495,8 +1495,8 @@
       "sub_category": "清洁用品",
       "content": "洗碗抹布 (1袋)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "进门左二下柜",
+      "location": "厨房",
       "status": "inventory_completed"
     },
     {
@@ -1504,8 +1504,8 @@
       "sub_category": "厨具/餐具",
       "content": "木质锅铲",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "台面墙上挂钩",
+      "location": "厨房",
       "status": "inventory_completed"
     },
     {
@@ -1628,10 +1628,10 @@
     {
       "category": "🍎 饮食供应",
       "sub_category": "厨具/餐具",
-      "content": "削皮器",
+      "content": "削皮刀",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "台面墙上挂钩",
+      "location": "厨房",
       "status": "inventory_completed"
     },
     {

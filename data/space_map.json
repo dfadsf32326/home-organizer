@@ -117,6 +117,30 @@
         {
           "name": "灶台下柜子",
           "type": "cabinet"
+        },
+        {
+          "name": "刀架",
+          "type": "organizer"
+        },
+        {
+          "name": "台面墙上挂钩",
+          "type": "wall_hook"
+        },
+        {
+          "name": "进门左一上柜",
+          "type": "cabinet"
+        },
+        {
+          "name": "进门左二上柜",
+          "type": "cabinet"
+        },
+        {
+          "name": "进门左二下柜",
+          "type": "cabinet"
+        },
+        {
+          "name": "台面",
+          "type": "surface"
         }
       ]
     }
