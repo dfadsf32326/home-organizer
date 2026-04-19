@@ -1059,20 +1059,20 @@
       "status": "inventory_completed"
     },
     {
-      "category": "🧼 个人护理",
-      "sub_category": "护肤与美妆",
+      "category": "🏠 家居与工具",
+      "sub_category": "包装与收纳",
       "content": "香奈儿香水袋子",
       "is_stored": true,
-      "container": "暂存区-护肤香水袋",
+      "container": "暂存区-包装袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
     {
-      "category": "🧼 个人护理",
-      "sub_category": "护肤与美妆",
+      "category": "🏠 家居与工具",
+      "sub_category": "包装与收纳",
       "content": "香奈儿香水瓶子和盒子",
       "is_stored": true,
-      "container": "暂存区-护肤香水袋",
+      "container": "暂存区-包装袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
