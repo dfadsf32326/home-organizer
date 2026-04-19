@@ -109,6 +109,16 @@
       "primary_activity": "暂存/盘点中转",
       "description": "整理过程中的中转盘点箱，未指定位置的物品默认放入此箱",
       "status": "active"
+    },
+    {
+      "name": "厨房",
+      "type": "room",
+      "containers": [
+        {
+          "name": "灶台下柜子",
+          "type": "cabinet"
+        }
+      ]
     }
   ]
 }

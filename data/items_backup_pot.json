@@ -443,8 +443,8 @@
       "category": "🌀 待定/人工复核",
       "content": "不锈钢锅",
       "is_stored": true,
-      "container": "灶台下柜子",
-      "location": "厨房",
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
       "status": "from_relocation_skill",
       "sub_category": "待人工复核"
     },
@@ -1558,8 +1558,8 @@
       "sub_category": "厨具/餐具",
       "content": "不锈钢小炒锅 (带锅盖/蒸格)",
       "is_stored": true,
-      "container": "灶台下柜子",
-      "location": "厨房",
+      "container": "单独放置",
+      "location": "单独放置",
       "status": "inventory_completed"
     },
     {
