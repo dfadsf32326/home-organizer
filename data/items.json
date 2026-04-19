@@ -1351,7 +1351,7 @@
       "sub_category": "身体洗护",
       "content": "舒客牙膏 (1盒)",
       "is_stored": true,
-      "container": "暂存区-个人护理袋",
+      "container": "一次性洗护用品袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1477,7 +1477,7 @@
       "sub_category": "身体洗护",
       "content": "一次性浴巾 (3袋)",
       "is_stored": true,
-      "container": "暂存区-个人护理袋",
+      "container": "一次性洗护用品袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1630,16 +1630,16 @@
       "sub_category": "护肤与美妆",
       "content": "空喷雾瓶",
       "is_stored": true,
-      "container": "暂存区-个人护理袋",
+      "container": "一次性洗护用品袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
     {
-      "category": "👕 织物服饰",
-      "sub_category": "配件挂饰",
+      "category": "🧼 个人护理",
+      "sub_category": "身体洗护",
       "content": "蒸汽眼罩 (2个)",
       "is_stored": true,
-      "container": "暂存区-织物服饰袋",
+      "container": "一次性洗护用品袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1720,7 +1720,7 @@
       "sub_category": "护肤与美妆",
       "content": "痘痘贴 (1个)",
       "is_stored": true,
-      "container": "暂存区-个人护理袋",
+      "container": "一次性洗护用品袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
