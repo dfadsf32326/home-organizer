@@ -71,24 +71,14 @@
       "status": "inventory_completed"
     },
     {
-      "id": "20inch_silver_suitcase",
-      "name": "20寸银色行李箱",
+      "id": "small_suitcase",
+      "name": "小行李箱",
       "parent": "流动收纳/待定",
       "frequency": "low",
       "type": "container",
       "primary_activity": "差旅/储物",
       "description": "存放旅行杂物、纪念品及待处理物品",
       "status": "inventory_completed"
-    },
-    {
-      "id": "temporary_storage",
-      "name": "暂存区",
-      "parent": "客厅",
-      "frequency": "high",
-      "type": "area",
-      "primary_activity": "暂存/中转",
-      "description": "整理过程中的中转站，存放按大类初步归拢的物品",
-      "status": "active"
     }
   ]
 }

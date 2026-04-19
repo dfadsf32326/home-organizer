@@ -378,10 +378,10 @@
     },
     {
       "category": "🌀 待定/人工复核",
-      "content": "20寸 银色行李箱",
+      "content": "小行李箱（20寸，灰色）",
       "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
+      "container": "搬家行李/待定",
+      "location": "待整理区域",
       "status": "from_relocation_skill",
       "sub_category": "待人工复核"
     },
