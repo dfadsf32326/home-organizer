@@ -1359,6 +1359,102 @@
       "container": "",
       "status": "active",
       "notes": "原位置: 卧室 | 原容器: "
+    },
+    {
+      "id": "item-44cd42dd",
+      "name": "爱仕达菜刀",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "location": "厨房",
+      "container": "刀架",
+      "notes": "",
+      "status": "active",
+      "updated_at": "2026-04-20 00:31:32",
+      "feishu_record_id": "recvhfTpcuQbnY"
+    },
+    {
+      "id": "item-a922ba48",
+      "name": "木锅铲",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "location": "厨房",
+      "container": "厨房台面墙上挂钩",
+      "notes": "",
+      "status": "active",
+      "updated_at": "2026-04-20 00:31:32",
+      "feishu_record_id": "recvhfTptT6tmk"
+    },
+    {
+      "id": "item-c84d0167",
+      "name": "微波炉高压锅",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "location": "厨房",
+      "container": "进门左一上柜",
+      "notes": "",
+      "status": "active",
+      "updated_at": "2026-04-20 00:31:32",
+      "feishu_record_id": "recvhfTpJ2j3nM"
+    },
+    {
+      "id": "item-fe61ff85",
+      "name": "一次性食品密封袋",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨房消耗品",
+      "location": "厨房",
+      "container": "进门左二上柜-下层",
+      "notes": "1盒，加2袋",
+      "status": "active",
+      "updated_at": "2026-04-20 00:31:32",
+      "feishu_record_id": "recvhfTpZ14CNp"
+    },
+    {
+      "id": "item-80112cff",
+      "name": "洗碗抹布",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨房消耗品",
+      "location": "厨房",
+      "container": "进门左二下柜",
+      "notes": "1袋",
+      "status": "active",
+      "updated_at": "2026-04-20 00:31:32",
+      "feishu_record_id": "recvhfTqe2u2p3"
+    },
+    {
+      "id": "item-0c0c62a9",
+      "name": "削皮刀",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "location": "厨房",
+      "container": "厨房台面墙上挂钩",
+      "notes": "",
+      "status": "active",
+      "updated_at": "2026-04-20 00:31:32",
+      "feishu_record_id": "recvhfTqvptCEV"
+    },
+    {
+      "id": "item-7e136fc0",
+      "name": "PP5蒸格",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "location": "厨房",
+      "container": "微波炉高压锅",
+      "notes": "在微波炉高压锅内",
+      "status": "active",
+      "updated_at": "2026-04-20 00:31:32",
+      "feishu_record_id": "recvhfTqLWBgE3"
+    },
+    {
+      "id": "item-2b8a1ef5",
+      "name": "菜板",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "location": "厨房",
+      "container": "厨房台面",
+      "notes": "",
+      "status": "active",
+      "updated_at": "2026-04-20 00:31:32",
+      "feishu_record_id": "recvhfTr1MAeMp"
     }
   ]
 }
