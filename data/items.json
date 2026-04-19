@@ -1045,7 +1045,7 @@
       "sub_category": "护肤与美妆",
       "content": "Mistine防晒霜",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1054,7 +1054,7 @@
       "sub_category": "护肤与美妆",
       "content": "芦荟胶 (2支)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1063,7 +1063,7 @@
       "sub_category": "护肤与美妆",
       "content": "香奈儿香水袋子",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1072,7 +1072,7 @@
       "sub_category": "护肤与美妆",
       "content": "香奈儿香水瓶子和盒子",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1081,7 +1081,7 @@
       "sub_category": "护肤与美妆",
       "content": "香卡",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1090,7 +1090,7 @@
       "sub_category": "个护电器",
       "content": "烫发夹板",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1099,7 +1099,7 @@
       "sub_category": "生理与卫生",
       "content": "避孕套",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1414,7 +1414,7 @@
       "sub_category": "护肤与美妆",
       "content": "薰衣草纯露 (1瓶)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1540,7 +1540,7 @@
       "sub_category": "护肤与美妆",
       "content": "唇膏 (1支)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1657,7 +1657,7 @@
       "sub_category": "护肤与美妆",
       "content": "香水分装器 (1袋)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1666,7 +1666,7 @@
       "sub_category": "护肤与美妆",
       "content": "香水分装瓶 (1个)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-护肤香水袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1711,8 +1711,8 @@
       "sub_category": "身体洗护",
       "content": "止汗剂 (1瓶)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-护肤香水袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
