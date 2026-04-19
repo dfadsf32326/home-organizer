@@ -1340,7 +1340,7 @@
     {
       "category": "🍎 饮食供应",
       "sub_category": "粮油/干货",
-      "content": "奇亚籽 (4包)",
+      "content": "奇亚籽 (3包)",
       "is_stored": true,
       "container": "暂存区",
       "location": "暂存区",
@@ -1416,105 +1416,6 @@
       "is_stored": true,
       "container": "暂存区",
       "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🧼 个人护理",
-      "sub_category": "护肤与美妆",
-      "content": "薰衣草纯露 (1瓶)",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🔌 电子数码",
-      "sub_category": "动力与线材",
-      "content": "20W Type C充电头",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🍎 饮食供应",
-      "sub_category": "粮油/调味品",
-      "content": "浓汤宝 (2盒)",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🍎 饮食供应",
-      "sub_category": "粮油/干货",
-      "content": "小麦纤维素 (3袋)",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🍎 饮食供应",
-      "sub_category": "粮油/调味品",
-      "content": "酱板鸭的香辣红油 (2袋)",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "👕 织物服饰",
-      "sub_category": "鞋袜",
-      "content": "灰色袜子 (1双)",
-      "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🏠 家居与工具",
-      "sub_category": "五金工具/耗材",
-      "content": "橡胶圈 (1个/条)",
-      "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🧼 个人护理",
-      "sub_category": "身体洗护",
-      "content": "一次性浴巾 (3袋)",
-      "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🏠 家居与工具",
-      "sub_category": "清洁用品",
-      "content": "洗碗抹布 (1袋)",
-      "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🍎 饮食供应",
-      "sub_category": "厨具/餐具",
-      "content": "木质锅铲",
-      "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🏠 家居与工具",
-      "sub_category": "清洁用品",
-      "content": "垃圾袋 (1卷)",
-      "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
       "status": "inventory_completed"
     }
   ]
