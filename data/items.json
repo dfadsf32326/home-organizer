@@ -380,7 +380,7 @@
       "category": "🌀 待定/人工复核",
       "content": "20寸 银色行李箱",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-待定大件",
       "location": "暂存区",
       "status": "from_relocation_skill",
       "sub_category": "待人工复核"
@@ -865,7 +865,7 @@
       "sub_category": "核心计算设备",
       "content": "苹果12手机",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -874,7 +874,7 @@
       "sub_category": "动力与线材",
       "content": "Anker充电宝",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -883,7 +883,7 @@
       "sub_category": "动力与线材",
       "content": "电池",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -892,7 +892,7 @@
       "sub_category": "动力与线材",
       "content": "USB转Type-C数据线 (共3条)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -901,7 +901,7 @@
       "sub_category": "外设与配件",
       "content": "Insta 360 Flow 2（待卖）",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -910,7 +910,7 @@
       "sub_category": "外设与配件",
       "content": "手机卡盒子",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -919,7 +919,7 @@
       "sub_category": "外设与配件",
       "content": "小音箱",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -928,7 +928,7 @@
       "sub_category": "外设与配件",
       "content": "红米K70手机膜",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -937,7 +937,7 @@
       "sub_category": "外设与配件",
       "content": "3.5mm接口八爪鱼三角支架",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -955,7 +955,7 @@
       "sub_category": "营养补剂",
       "content": "EAA复合氨基酸 (2026-11-27)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -964,7 +964,7 @@
       "sub_category": "营养补剂",
       "content": "胶原蛋白 (2027-09-01，已开封)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -973,7 +973,7 @@
       "sub_category": "营养补剂",
       "content": "Natural Factors葡萄糖酸锌25mg",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -991,7 +991,7 @@
       "sub_category": "药品/急救",
       "content": "云南白药创可贴",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1000,7 +1000,7 @@
       "sub_category": "药品/急救",
       "content": "消毒酒精",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1009,7 +1009,7 @@
       "sub_category": "药品/急救",
       "content": "酒精棉片 (少许)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1018,7 +1018,7 @@
       "sub_category": "药品/急救",
       "content": "酒精棉片 (整盒未开封)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1027,7 +1027,7 @@
       "sub_category": "药品/急救",
       "content": "肠炎宁",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1036,7 +1036,7 @@
       "sub_category": "医疗仪器/器械",
       "content": "红光健脑仪",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1108,7 +1108,7 @@
       "sub_category": "纪念与情感",
       "content": "大理苍山索道票 (2张)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1117,7 +1117,7 @@
       "sub_category": "纪念与情感",
       "content": "西双版纳花卉园票 (2张)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1126,7 +1126,7 @@
       "sub_category": "纪念与情感",
       "content": "望天树种子卡 (3个)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1135,7 +1135,7 @@
       "sub_category": "纪念与情感",
       "content": "傣文福签 (2个)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1144,7 +1144,7 @@
       "sub_category": "纪念与情感",
       "content": "佳佳送的相册",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1153,7 +1153,7 @@
       "sub_category": "纪念与情感",
       "content": "望天树打卡地图",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1162,7 +1162,7 @@
       "sub_category": "健康档案",
       "content": "勐腊县人民医院病历",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1171,7 +1171,7 @@
       "sub_category": "健康档案",
       "content": "勐腊县人民医院CT检查报告单",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1180,7 +1180,7 @@
       "sub_category": "证件与证明",
       "content": "望天树官方纪念证书",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1189,7 +1189,7 @@
       "sub_category": "财务与合同",
       "content": "东盟十国钱币纪念本",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1198,7 +1198,7 @@
       "sub_category": "办公与文具",
       "content": "微波压力锅说明书",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-文档资产袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1207,7 +1207,7 @@
       "sub_category": "厨具/餐具",
       "content": "木筷子 (1包)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1216,7 +1216,7 @@
       "sub_category": "厨具/餐具",
       "content": "蛋黄蛋清分离器",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1225,7 +1225,7 @@
       "sub_category": "粮油/调味品",
       "content": "番茄酱 (1袋)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1324,7 +1324,7 @@
       "sub_category": "特殊食品/零食",
       "content": "助糖三号 (3包)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1333,7 +1333,7 @@
       "sub_category": "粮油/干货",
       "content": "奇亚籽 (4包)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1342,7 +1342,7 @@
       "sub_category": "特殊食品/零食",
       "content": "有机板栗 (1包)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1351,7 +1351,7 @@
       "sub_category": "身体洗护",
       "content": "舒客牙膏 (1盒)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-个人护理袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1387,7 +1387,7 @@
       "sub_category": "营养补剂",
       "content": "三丁酸甘油酯 (1瓶)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1423,7 +1423,7 @@
       "sub_category": "动力与线材",
       "content": "20W Type C充电头",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1432,7 +1432,7 @@
       "sub_category": "粮油/调味品",
       "content": "浓汤宝 (2盒)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1441,7 +1441,7 @@
       "sub_category": "粮油/干货",
       "content": "小麦纤维素 (3袋)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1450,7 +1450,7 @@
       "sub_category": "粮油/调味品",
       "content": "酱板鸭的香辣红油 (2袋)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1459,8 +1459,8 @@
       "sub_category": "鞋袜",
       "content": "灰色袜子 (1双)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-织物服饰袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1468,8 +1468,8 @@
       "sub_category": "五金工具/耗材",
       "content": "橡胶圈 (1个/条)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-家居工具袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1477,8 +1477,8 @@
       "sub_category": "身体洗护",
       "content": "一次性浴巾 (3袋)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-个人护理袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1504,8 +1504,8 @@
       "sub_category": "清洁用品",
       "content": "垃圾袋 (1卷)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-家居工具袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1513,7 +1513,7 @@
       "sub_category": "粮油/调味品",
       "content": "辣椒粉 (1瓶)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1522,7 +1522,7 @@
       "sub_category": "粮油/调味品",
       "content": "花椒粉 (1瓶)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1531,7 +1531,7 @@
       "sub_category": "动力与线材",
       "content": "纽扣电池 (共2颗)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1558,8 +1558,8 @@
       "sub_category": "五金工具/耗材",
       "content": "不锈钢检测液",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-家居工具袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1567,7 +1567,7 @@
       "sub_category": "粮油/调味品",
       "content": "红薯淀粉",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1576,7 +1576,7 @@
       "sub_category": "粮油/调味品",
       "content": "黑胡椒粉",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1585,7 +1585,7 @@
       "sub_category": "冲饮/饮品",
       "content": "全脂羊奶粉",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1594,7 +1594,7 @@
       "sub_category": "粮油/调味品",
       "content": "白芝麻 (1袋)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-饮食供应袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1603,7 +1603,7 @@
       "sub_category": "药品/急救",
       "content": "棉签 (4袋)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1630,8 +1630,8 @@
       "sub_category": "护肤与美妆",
       "content": "空喷雾瓶",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-个人护理袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1639,8 +1639,8 @@
       "sub_category": "配件挂饰",
       "content": "蒸汽眼罩 (2个)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-织物服饰袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1675,7 +1675,7 @@
       "sub_category": "医疗仪器/器械",
       "content": "血糖试纸",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1684,7 +1684,7 @@
       "sub_category": "医疗仪器/器械",
       "content": "胰岛素针管",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1693,7 +1693,7 @@
       "sub_category": "医疗仪器/器械",
       "content": "采血针 (1盒)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1702,8 +1702,8 @@
       "sub_category": "五金工具/耗材",
       "content": "没电的气温计",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-家居工具袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1720,8 +1720,8 @@
       "sub_category": "护肤与美妆",
       "content": "痘痘贴 (1个)",
       "is_stored": true,
-      "container": "暂存盘点箱",
-      "location": "暂存盘点箱",
+      "container": "暂存区-个人护理袋",
+      "location": "暂存区",
       "status": "inventory_completed"
     },
     {
@@ -1729,7 +1729,7 @@
       "sub_category": "动力与线材",
       "content": "7号电池 (3节)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1738,7 +1738,7 @@
       "sub_category": "动力与线材",
       "content": "手表充电宝",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1747,7 +1747,7 @@
       "sub_category": "外设与配件",
       "content": "磁吸环 (2个)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-电子数码袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1756,7 +1756,7 @@
       "sub_category": "营养补剂",
       "content": "维生素A胶囊 (1瓶)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1765,7 +1765,7 @@
       "sub_category": "药品/急救",
       "content": "复方板蓝根片 (1瓶)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     },
@@ -1774,7 +1774,7 @@
       "sub_category": "药品/急救",
       "content": "泰国药 (2个，用途待查)",
       "is_stored": true,
-      "container": "暂存区",
+      "container": "暂存区-健康医疗袋",
       "location": "暂存区",
       "status": "inventory_completed"
     }
