@@ -143,6 +143,16 @@
           "type": "surface"
         }
       ]
+    },
+    {
+      "name": "客厅",
+      "type": "room",
+      "containers": [
+        {
+          "name": "冰箱",
+          "type": "appliance"
+        }
+      ]
     }
   ]
 }
