@@ -1011,11 +1011,11 @@
     },
     {
       "name": "望天树打卡地图",
-      "category": "📚 文档资产",
+      "category": "💖 纪念与情感",
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168423",
-      "sub_category": "待人工复核"
+      "sub_category": "纪念品与信物"
     },
     {
       "name": "傣文福签",
@@ -1146,15 +1146,15 @@
       "id": "item_1776421168439",
       "sub_category": "外设与配件"
     },
-   {
-     "name": "香卡",
-     "quantity": "1包",
-     "category": "🧼 个人护理",
-     "location": "small_suitcase",
-     "status": "active",
-     "id": "item_1776421168440",
+    {
+      "name": "香卡",
+      "quantity": "1包",
+      "category": "🧼 个人护理",
+      "location": "small_suitcase",
+      "status": "active",
+      "id": "item_1776421168440",
       "sub_category": "护肤与美妆"
-   },
+    },
     {
       "name": "苹果12手机",
       "category": "🔌 电子数码",
@@ -1203,16 +1203,16 @@
       "id": "item_1776421168445",
       "sub_category": "护肤与美妆"
     },
-   {
-     "name": "Natural Factors葡萄糖酸锌25mg",
-     "quantity": "1瓶",
+    {
+      "name": "Natural Factors葡萄糖酸锌25mg",
+      "quantity": "1瓶",
       "category": "🏥 健康医疗",
-     "location": "small_suitcase",
-     "status": "active",
-     "expiry_date": "2027-01-31",
-     "id": "item_1776421168444",
+      "location": "small_suitcase",
+      "status": "active",
+      "expiry_date": "2027-01-31",
+      "id": "item_1776421168444",
       "sub_category": "营养补剂"
-   },
+    },
     {
       "name": "消毒酒精",
       "quantity": "1瓶",
@@ -1238,7 +1238,7 @@
       "location": "small_suitcase",
       "status": "active",
       "id": "item_1776421168449",
-      "sub_category": "待人工复核"
+      "sub_category": "其他"
     },
     {
       "name": "肠炎宁",
@@ -1303,14 +1303,14 @@
       "id": "item_1776421168456",
       "sub_category": "身体洗护"
     },
-   {
-     "name": "艾克顿三孔转接头",
+    {
+      "name": "艾克顿三孔转接头",
       "category": "🏠 家居与工具",
-     "location": "small_suitcase",
-     "status": "active",
-     "id": "item_1776421168457",
+      "location": "small_suitcase",
+      "status": "active",
+      "id": "item_1776421168457",
       "sub_category": "生活家电"
-   },
+    },
     {
       "name": "芦荟胶",
       "quantity": "1支",
