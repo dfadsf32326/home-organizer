@@ -167,7 +167,8 @@
       "location": "暂存区",
       "container": "一次性洗护用品袋",
       "status": "active",
-      "id": "item-6ad266b4"
+      "id": "item-6ad266b4",
+      "feishu_record_id": "recvhfGBAygSX4"
     },
     {
       "name": "牙线棒 (小半盒)",
@@ -176,7 +177,8 @@
       "location": "暂存区",
       "container": "一次性洗护用品袋",
       "status": "active",
-      "id": "item-e58a4cb0"
+      "id": "item-e58a4cb0",
+      "feishu_record_id": "recvhfGBWJ1m3W"
     },
     {
       "name": "空喷雾瓶",
@@ -185,7 +187,8 @@
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
       "status": "active",
-      "id": "item-4db14f20"
+      "id": "item-4db14f20",
+      "feishu_record_id": "recvhfGChVibTw"
     },
     {
       "name": "痘痘贴 (1个)",
@@ -194,7 +197,8 @@
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
       "status": "active",
-      "id": "item-8768e733"
+      "id": "item-8768e733",
+      "feishu_record_id": "recvhfGCMmVnGS"
     },
     {
       "name": "舒客牙膏 (1盒)",
@@ -203,7 +207,8 @@
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
       "status": "active",
-      "id": "item-5c78df73"
+      "id": "item-5c78df73",
+      "feishu_record_id": "recvhfGDmnyaY7"
     },
     {
       "name": "一次性浴巾 (3袋)",
@@ -212,7 +217,8 @@
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
       "status": "active",
-      "id": "item-35659906"
+      "id": "item-35659906",
+      "feishu_record_id": "recvhfGDP3cNbB"
     },
     {
       "name": "红光健脑仪",
@@ -221,7 +227,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-53daa005"
+      "id": "item-53daa005",
+      "feishu_record_id": "recvhfGEbu8wyf"
     },
     {
       "name": "血糖试纸",
@@ -230,7 +237,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-5f96db7d"
+      "id": "item-5f96db7d",
+      "feishu_record_id": "recvhfGExbwGyG"
     },
     {
       "name": "胰岛素针管",
@@ -239,7 +247,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-8c6d225f"
+      "id": "item-8c6d225f",
+      "feishu_record_id": "recvhfGESsDBBd"
     },
     {
       "name": "采血针 (1盒)",
@@ -248,7 +257,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-2ecb7ca6"
+      "id": "item-2ecb7ca6",
+      "feishu_record_id": "recvhfGFg0F64O"
     },
     {
       "name": "云南白药创可贴",
@@ -257,7 +267,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-5f968f3f"
+      "id": "item-5f968f3f",
+      "feishu_record_id": "recvhfGFD4ltu3"
     },
     {
       "name": "消毒酒精",
@@ -266,7 +277,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-a8066be4"
+      "id": "item-a8066be4",
+      "feishu_record_id": "recvhfGFYtsc7t"
     },
     {
       "name": "酒精棉片 (少许)",
@@ -275,7 +287,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-15ea5df5"
+      "id": "item-15ea5df5",
+      "feishu_record_id": "recvhfGGmvhGuo"
     },
     {
       "name": "酒精棉片 (整盒未开封)",
@@ -284,7 +297,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-12ca63b4"
+      "id": "item-12ca63b4",
+      "feishu_record_id": "recvhfGGJn2xHo"
     },
     {
       "name": "肠炎宁",
@@ -293,7 +307,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-497ca29d"
+      "id": "item-497ca29d",
+      "feishu_record_id": "recvhfGH7o3jQ6"
     },
     {
       "name": "棉签 (4袋)",
@@ -302,7 +317,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-768cac7d"
+      "id": "item-768cac7d",
+      "feishu_record_id": "recvhfGHsGg6Yx"
     },
     {
       "name": "复方板蓝根片 (1瓶)",
@@ -311,7 +327,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-7fca20a9"
+      "id": "item-7fca20a9",
+      "feishu_record_id": "recvhfGHOFVs3T"
     },
     {
       "name": "泰国药 (2个，用途待查)",
@@ -320,7 +337,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-31e46529"
+      "id": "item-31e46529",
+      "feishu_record_id": "recvhfGIcr1aC2"
     },
     {
       "name": "EAA复合氨基酸 (2026-11-27)",
@@ -329,7 +347,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-e045c8d3"
+      "id": "item-e045c8d3",
+      "feishu_record_id": "recvhfGIy82dGN"
     },
     {
       "name": "胶原蛋白 (2027-09-01，已开封)",
@@ -338,7 +357,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-27acd29d"
+      "id": "item-27acd29d",
+      "feishu_record_id": "recvhfGIUBFG2f"
     },
     {
       "name": "Natural Factors葡萄糖酸锌25mg",
@@ -347,7 +367,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-ac43dbea"
+      "id": "item-ac43dbea",
+      "feishu_record_id": "recvhfGJfmxFOL"
     },
     {
       "name": "三丁酸甘油酯 (1瓶)",
@@ -356,7 +377,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-e54e48e0"
+      "id": "item-e54e48e0",
+      "feishu_record_id": "recvhfGJCsPtcx"
     },
     {
       "name": "维生素A胶囊 (1瓶)",
@@ -365,7 +387,8 @@
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
       "status": "active",
-      "id": "item-75a1b838"
+      "id": "item-75a1b838",
+      "feishu_record_id": "recvhfGJZo95Op"
     },
     {
       "name": "橡胶圈 (1个/条)",
@@ -374,7 +397,8 @@
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
       "status": "active",
-      "id": "item-bdcd1d89"
+      "id": "item-bdcd1d89",
+      "feishu_record_id": "recvhfGKkA3RlE"
     },
     {
       "name": "不锈钢检测液",
@@ -383,7 +407,8 @@
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
       "status": "active",
-      "id": "item-b84eac66"
+      "id": "item-b84eac66",
+      "feishu_record_id": "recvhfGKHyliX0"
     },
     {
       "name": "没电的气温计",
@@ -392,7 +417,8 @@
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
       "status": "active",
-      "id": "item-17d6834b"
+      "id": "item-17d6834b",
+      "feishu_record_id": "recvhfGL2HOckW"
     },
     {
       "name": "垃圾袋 (1卷)",
@@ -401,7 +427,8 @@
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
       "status": "active",
-      "id": "item-1a8506ec"
+      "id": "item-1a8506ec",
+      "feishu_record_id": "recvhfGLrmCEV1"
     },
     {
       "name": "艾克顿三孔转接头",
@@ -410,7 +437,8 @@
       "location": "暂存区",
       "container": "暂存区-小家电袋",
       "status": "active",
-      "id": "item-dc66417a"
+      "id": "item-dc66417a",
+      "feishu_record_id": "recvhfGLP20yGw"
     },
     {
       "name": "6孔位双头迷你插板",
@@ -419,7 +447,8 @@
       "location": "暂存区",
       "container": "暂存区-小家电袋",
       "status": "active",
-      "id": "item-b44f2602"
+      "id": "item-b44f2602",
+      "feishu_record_id": "recvhfGMczJwZY"
     },
     {
       "name": "电磁炉",
@@ -428,7 +457,8 @@
       "location": "暂存区",
       "container": "暂存区-小家电袋",
       "status": "active",
-      "id": "item-b3a5461d"
+      "id": "item-b3a5461d",
+      "feishu_record_id": "recvhfGMBanQre"
     },
     {
       "name": "20寸 银色行李箱",
@@ -437,115 +467,128 @@
       "location": "暂存区",
       "container": "暂存区-待定大件",
       "status": "active",
-      "id": "item-9b387ba9"
+      "id": "item-9b387ba9",
+      "feishu_record_id": "recvhfGN3aimhV"
     },
     {
       "name": "烫发夹板",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "个护电器",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-730fd32f"
+      "id": "item-730fd32f",
+      "feishu_record_id": "recvhfGNqq3Uxk"
     },
     {
       "name": "Mistine防晒霜",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-2867eee4"
+      "id": "item-2867eee4",
+      "feishu_record_id": "recvhfGNMbCV2k"
     },
     {
       "name": "芦荟胶 (2支)",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-97a6ad30"
+      "id": "item-97a6ad30",
+      "feishu_record_id": "recvhfGOaodtIF"
     },
     {
       "name": "香奈儿香水袋子",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-074514f8"
+      "id": "item-074514f8",
+      "feishu_record_id": "recvhfGOyyXXs1"
     },
     {
       "name": "香奈儿香水瓶子和盒子",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-52dcfd6e"
+      "id": "item-52dcfd6e",
+      "feishu_record_id": "recvhfGOWFilMT"
     },
     {
       "name": "香卡",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-29a1c603"
+      "id": "item-29a1c603",
+      "feishu_record_id": "recvhfGPizoZAk"
     },
     {
       "name": "薰衣草纯露 (1瓶)",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-12f36d49"
+      "id": "item-12f36d49",
+      "feishu_record_id": "recvhfGPEecuWP"
     },
     {
       "name": "唇膏 (1支)",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-49de7300"
+      "id": "item-49de7300",
+      "feishu_record_id": "recvhfGPZbXDJ1"
     },
     {
       "name": "香水分装器 (1袋)",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-414c9641"
+      "id": "item-414c9641",
+      "feishu_record_id": "recvhfGQleNwoU"
     },
     {
       "name": "香水分装瓶 (1个)",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-3d1b61d6"
+      "id": "item-3d1b61d6",
+      "feishu_record_id": "recvhfGQIwRRR5"
     },
     {
       "name": "避孕套",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "生理与卫生",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-05810e35"
+      "id": "item-05810e35",
+      "feishu_record_id": "recvhfGR3KxdKQ"
     },
     {
       "name": "止汗剂 (1瓶)",
-      "category": "🌀 待定/人工复核",
+      "category": "🧼 个人护理",
       "sub_category": "身体洗护",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
       "status": "active",
-      "id": "item-eebd3eae"
+      "id": "item-eebd3eae",
+      "feishu_record_id": "recvhfGRqpXR7F"
     },
     {
       "name": "勐腊县人民医院病历",
@@ -554,7 +597,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-d12b0d75"
+      "id": "item-d12b0d75",
+      "feishu_record_id": "recvhfGRNsMejx"
     },
     {
       "name": "勐腊县人民医院CT检查报告单",
@@ -563,7 +607,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-43b6edda"
+      "id": "item-43b6edda",
+      "feishu_record_id": "recvhfGS9A5nwM"
     },
     {
       "name": "微波压力锅说明书",
@@ -572,7 +617,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-4a9d9ac0"
+      "id": "item-4a9d9ac0",
+      "feishu_record_id": "recvhfGSyAdUv7"
     },
     {
       "name": "大理苍山索道票 (2张)",
@@ -581,7 +627,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-baba250a"
+      "id": "item-baba250a",
+      "feishu_record_id": "recvhfGSXf2Vjo"
     },
     {
       "name": "西双版纳花卉园票 (2张)",
@@ -590,7 +637,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-71f1f5f1"
+      "id": "item-71f1f5f1",
+      "feishu_record_id": "recvhfGTmOxOIC"
     },
     {
       "name": "望天树种子卡 (3个)",
@@ -599,7 +647,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-c5385e21"
+      "id": "item-c5385e21",
+      "feishu_record_id": "recvhfGTKxF54D"
     },
     {
       "name": "傣文福签 (2个)",
@@ -608,7 +657,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-874595e3"
+      "id": "item-874595e3",
+      "feishu_record_id": "recvhfGU5uee8k"
     },
     {
       "name": "佳佳送的相册",
@@ -617,7 +667,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-f96f62b3"
+      "id": "item-f96f62b3",
+      "feishu_record_id": "recvhfGUs0wOGb"
     },
     {
       "name": "望天树打卡地图",
@@ -626,7 +677,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-dcb0f53f"
+      "id": "item-dcb0f53f",
+      "feishu_record_id": "recvhfGUNtYfF5"
     },
     {
       "name": "望天树官方纪念证书",
@@ -635,7 +687,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-3ad91208"
+      "id": "item-3ad91208",
+      "feishu_record_id": "recvhfGV8Kvk1f"
     },
     {
       "name": "东盟十国钱币纪念本",
@@ -644,7 +697,8 @@
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
       "status": "active",
-      "id": "item-6d8e5f27"
+      "id": "item-6d8e5f27",
+      "feishu_record_id": "recvhfGVuNtEMo"
     },
     {
       "name": "Anker充电宝",
@@ -653,7 +707,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-5a7bc8fc"
+      "id": "item-5a7bc8fc",
+      "feishu_record_id": "recvhfGVT6B9ue"
     },
     {
       "name": "电池",
@@ -662,7 +717,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-822968f1"
+      "id": "item-822968f1",
+      "feishu_record_id": "recvhfGWeUV0lo"
     },
     {
       "name": "USB转Type-C数据线 (共3条)",
@@ -671,7 +727,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-7ae3eb9a"
+      "id": "item-7ae3eb9a",
+      "feishu_record_id": "recvhfGWEy29hv"
     },
     {
       "name": "20W Type C充电头",
@@ -680,7 +737,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-a9553bcc"
+      "id": "item-a9553bcc",
+      "feishu_record_id": "recvhfGX0Sd7Kg"
     },
     {
       "name": "纽扣电池 (共2颗)",
@@ -689,7 +747,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-f552e5e5"
+      "id": "item-f552e5e5",
+      "feishu_record_id": "recvhfGXmVz74h"
     },
     {
       "name": "7号电池 (3节)",
@@ -698,7 +757,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-9f907154"
+      "id": "item-9f907154",
+      "feishu_record_id": "recvhfGXHI7IIa"
     },
     {
       "name": "手表充电宝",
@@ -707,7 +767,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-ea84b02c"
+      "id": "item-ea84b02c",
+      "feishu_record_id": "recvhfGY4u2d1K"
     },
     {
       "name": "Insta 360 Flow 2（待卖）",
@@ -716,7 +777,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-055bf406"
+      "id": "item-055bf406",
+      "feishu_record_id": "recvhfGYq2Ni0U"
     },
     {
       "name": "手机卡盒子",
@@ -725,7 +787,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-11dc751c"
+      "id": "item-11dc751c",
+      "feishu_record_id": "recvhfGYMMHmm4"
     },
     {
       "name": "小音箱",
@@ -734,7 +797,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-7edaa685"
+      "id": "item-7edaa685",
+      "feishu_record_id": "recvhfGZ9lyTSZ"
     },
     {
       "name": "红米K70手机膜",
@@ -743,7 +807,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-4a75a4d9"
+      "id": "item-4a75a4d9",
+      "feishu_record_id": "recvhfGZuTcyYm"
     },
     {
       "name": "3.5mm接口八爪鱼三角支架",
@@ -752,7 +817,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-988810a2"
+      "id": "item-988810a2",
+      "feishu_record_id": "recvhfGZQrDOvq"
     },
     {
       "name": "磁吸环 (2个)",
@@ -761,7 +827,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-91602532"
+      "id": "item-91602532",
+      "feishu_record_id": "recvhfH0cATlbO"
     },
     {
       "name": "苹果12手机",
@@ -770,7 +837,8 @@
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
       "status": "active",
-      "id": "item-12d25209"
+      "id": "item-12d25209",
+      "feishu_record_id": "recvhfH0AMiqff"
     },
     {
       "name": "蒸汽眼罩 (2个)",
@@ -779,7 +847,8 @@
       "location": "暂存区",
       "container": "暂存区-织物服饰袋",
       "status": "active",
-      "id": "item-13f9d2c7"
+      "id": "item-13f9d2c7",
+      "feishu_record_id": "recvhfH0XO2nir"
     },
     {
       "name": "灰色袜子 (1双)",
@@ -788,7 +857,8 @@
       "location": "暂存区",
       "container": "暂存区-织物服饰袋",
       "status": "active",
-      "id": "item-117a596d"
+      "id": "item-117a596d",
+      "feishu_record_id": "recvhfH1n3HSfX"
     },
     {
       "name": "沙滩裤",
@@ -797,7 +867,8 @@
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
       "status": "active",
-      "id": "item-0f20f775"
+      "id": "item-0f20f775",
+      "feishu_record_id": "recvhfH1K4zf0v"
     },
     {
       "name": "手套",
@@ -806,7 +877,8 @@
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
       "status": "active",
-      "id": "item-88997c68"
+      "id": "item-88997c68",
+      "feishu_record_id": "recvhfH27novlA"
     },
     {
       "name": "卫龙眼罩",
@@ -815,7 +887,8 @@
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
       "status": "active",
-      "id": "item-7e73306e"
+      "id": "item-7e73306e",
+      "feishu_record_id": "recvhfH2tZJeBa"
     },
     {
       "name": "围巾",
@@ -824,7 +897,8 @@
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
       "status": "active",
-      "id": "item-d5ea3028"
+      "id": "item-d5ea3028",
+      "feishu_record_id": "recvhfH2TrElsh"
     },
     {
       "name": "多用围巾",
@@ -833,7 +907,8 @@
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
       "status": "active",
-      "id": "item-3e615937"
+      "id": "item-3e615937",
+      "feishu_record_id": "recvhfH3fZU58G"
     },
     {
       "name": "一次性拖鞋",
@@ -842,7 +917,8 @@
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
       "status": "active",
-      "id": "item-b732325b"
+      "id": "item-b732325b",
+      "feishu_record_id": "recvhfH3DhJb9s"
     },
     {
       "name": "全脂羊奶粉",
@@ -851,7 +927,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-600ea88f"
+      "id": "item-600ea88f",
+      "feishu_record_id": "recvhfH3ZmrRmU"
     },
     {
       "name": "木筷子 (1包)",
@@ -860,7 +937,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-4cea5619"
+      "id": "item-4cea5619",
+      "feishu_record_id": "recvhfH4lHP0Q4"
     },
     {
       "name": "蛋黄蛋清分离器",
@@ -869,7 +947,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-6535067d"
+      "id": "item-6535067d",
+      "feishu_record_id": "recvhfH4HGb0aC"
     },
     {
       "name": "助糖三号 (3包)",
@@ -878,7 +957,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-3256fdf2"
+      "id": "item-3256fdf2",
+      "feishu_record_id": "recvhfH54oNTeK"
     },
     {
       "name": "有机板栗 (1包)",
@@ -887,7 +967,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-d143f1b5"
+      "id": "item-d143f1b5",
+      "feishu_record_id": "recvhfH5rn3jhi"
     },
     {
       "name": "奇亚籽 (4包)",
@@ -896,7 +977,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-a5b9d3e7"
+      "id": "item-a5b9d3e7",
+      "feishu_record_id": "recvhfH5N2DTrL"
     },
     {
       "name": "小麦纤维素 (3袋)",
@@ -905,7 +987,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-05b25e62"
+      "id": "item-05b25e62",
+      "feishu_record_id": "recvhfH69A720A"
     },
     {
       "name": "番茄酱 (1袋)",
@@ -914,7 +997,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-ede25374"
+      "id": "item-ede25374",
+      "feishu_record_id": "recvhfH6xejdiT"
     },
     {
       "name": "浓汤宝 (2盒)",
@@ -923,7 +1007,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-a4e23081"
+      "id": "item-a4e23081",
+      "feishu_record_id": "recvhfH6Tjyx7O"
     },
     {
       "name": "酱板鸭的香辣红油 (2袋)",
@@ -932,7 +1017,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-dbfee727"
+      "id": "item-dbfee727",
+      "feishu_record_id": "recvhfH7fapNM8"
     },
     {
       "name": "辣椒粉 (1瓶)",
@@ -941,7 +1027,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-2362ae03"
+      "id": "item-2362ae03",
+      "feishu_record_id": "recvhfH7CHMctK"
     },
     {
       "name": "花椒粉 (1瓶)",
@@ -950,7 +1037,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-91c323e1"
+      "id": "item-91c323e1",
+      "feishu_record_id": "recvhfH7XROKC7"
     },
     {
       "name": "红薯淀粉",
@@ -959,7 +1047,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-cc71c7a0"
+      "id": "item-cc71c7a0",
+      "feishu_record_id": "recvhfH8jBAawB"
     },
     {
       "name": "黑胡椒粉",
@@ -968,7 +1057,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-37518a04"
+      "id": "item-37518a04",
+      "feishu_record_id": "recvhfH8Gee22p"
     },
     {
       "name": "白芝麻 (1袋)",
@@ -977,7 +1067,8 @@
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
-      "id": "item-e77173e7"
+      "id": "item-e77173e7",
+      "feishu_record_id": "recvhfH92iYauH"
     },
     {
       "id": "item-c075e853",
