@@ -7785,6 +7785,14 @@
         "从历史文件v1导入"
       ],
       "sub_category": "待人工复核"
+    },
+    {
+      "name": "20寸 银色行李箱",
+      "category": "👕 织物服饰",
+      "location": "temporary_storage",
+      "status": "active",
+      "id": "silver_suitcase_20_inch",
+      "sub_category": "鞋靴/箱包"
     }
   ]
 }
