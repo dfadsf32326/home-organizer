@@ -36,7 +36,7 @@
 ## 权限管理方案 (待实现)
 
 - **核心逻辑**：基于飞书 `open_id` 进行“查询/修改”权限分离。
-- **配置文件**：`~/.workbuddy/skills/home-organizer/config/permissions.json`。
+- **配置文件**：`/Users/robinlu/Self-established_skill/home-organizer/config/permissions.json`。
 - **角色定义**：
   - `admin`：全权限（查询、修改、删除）。当前管理员：鲁琨琳 (`ou_9ad9d9837d188543a9d7bf14d6870708`)。
   - `viewer`：仅查询权限（只能找东西，不能改位置）。
@@ -94,7 +94,7 @@
 
 ## 数据存储规范
 
-- **物品清单**：`~/.workbuddy/skills/home-organizer/data/items.json`
+- **物品清单**：`/Users/robinlu/Self-established_skill/home-organizer/data/items.json`
   - **重要纪律：空数据清理与拦截**
     - **禁止创建无名数据**：严禁将内容（`content`）为空字符串、仅包含空格或 `None` 的物品录入系统。在执行更新或插入操作前，必须进行非空校验。
     - **定期清理**：定期检查 `items.json`，清理因系统测试或分类迁移导致的“幽灵数据”（空内容数据），保持数据纯净度。
@@ -102,9 +102,9 @@
     - `expiry_date`: 到期日期 (YYYY-MM-DD)
     - `shelf_life`: 保质期时长 (单位可为月/天)
     - `open_date`: 开封日期 (针对开封后效期缩短的物品)
-- **历史备份**：`~/.workbuddy/skills/home-organizer/data/history/`
-- **整理日志**：`~/.workbuddy/skills/home-organizer/data/YYYY-MM-DD_log.md`
-- **空间地图**：`~/.workbuddy/skills/home-organizer/data/space_map.json`
+- **历史备份**：`/Users/robinlu/Self-established_skill/home-organizer/data/history/`
+- **整理日志**：`/Users/robinlu/Self-established_skill/home-organizer/data/YYYY-MM-DD_log.md`
+- **空间地图**：`/Users/robinlu/Self-established_skill/home-organizer/data/space_map.json`
 
 ---
 
