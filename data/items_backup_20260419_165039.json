@@ -1570,42 +1570,6 @@
       "container": "暂存盘点箱",
       "location": "暂存盘点箱",
       "status": "inventory_completed"
-    },
-    {
-      "category": "🍎 饮食供应",
-      "sub_category": "粮油/调味品",
-      "content": "红薯淀粉",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🍎 饮食供应",
-      "sub_category": "粮油/调味品",
-      "content": "黑胡椒粉",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🍎 饮食供应",
-      "sub_category": "冲饮/饮品",
-      "content": "全脂羊奶粉",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
-    },
-    {
-      "category": "🍎 饮食供应",
-      "sub_category": "粮油/调味品",
-      "content": "白芝麻 (1袋)",
-      "is_stored": true,
-      "container": "暂存区",
-      "location": "暂存区",
-      "status": "inventory_completed"
     }
   ]
 }
