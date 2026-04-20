@@ -1,0 +1,162 @@
+{
+  "生鲜/冷藏食品": {
+    "record_id": "recvhfPMlHfLp3",
+    "major": "🍎 饮食供应"
+  },
+  "零食/干货": {
+    "record_id": "recvhfPMlHE62I",
+    "major": "🍎 饮食供应"
+  },
+  "冲饮/饮品": {
+    "record_id": "recvhfPMlHm5L0",
+    "major": "🍎 饮食供应"
+  },
+  "厨房消耗品": {
+    "record_id": "recvhfPMlHTdH7",
+    "major": "🍎 饮食供应"
+  },
+  "药品/急救": {
+    "record_id": "recvhfPMlHwosB",
+    "major": "🏥 健康医疗"
+  },
+  "粮油/调味品": {
+    "record_id": "recvhlcNUnWxw5",
+    "major": "🍎 饮食供应"
+  },
+  "饮品/冲饮": {
+    "record_id": "recvhlcOcy9xC1",
+    "major": "🍎 饮食供应"
+  },
+  "厨房电器": {
+    "record_id": "recvhlcOsvLPvG",
+    "major": "🍎 饮食供应"
+  },
+  "厨具/餐具": {
+    "record_id": "recvhlcOMz0H14",
+    "major": "🍎 饮食供应"
+  },
+  "营养补剂": {
+    "record_id": "recvhlcP47j2Y5",
+    "major": "🏥 健康医疗"
+  },
+  "益生菌/发酵菌": {
+    "record_id": "recvhlcPkDgU9v",
+    "major": "🏥 健康医疗"
+  },
+  "医疗仪器/器械": {
+    "record_id": "recvhlcPBDLDFi",
+    "major": "🏥 健康医疗"
+  },
+  "医用消耗品": {
+    "record_id": "recvhlcPUFOPnA",
+    "major": "🏥 健康医疗"
+  },
+  "核心计算设备": {
+    "record_id": "recvhlcQdkgzbf",
+    "major": "🔌 电子数码"
+  },
+  "网络设备": {
+    "record_id": "recvhlcQueL0ra",
+    "major": "🔌 电子数码"
+  },
+  "影音与娱乐": {
+    "record_id": "recvhlcQMd3rnx",
+    "major": "🔌 电子数码"
+  },
+  "存储媒介": {
+    "record_id": "recvhlcR5cb9xq",
+    "major": "🔌 电子数码"
+  },
+  "外设与配件": {
+    "record_id": "recvhlcRnaO0ql",
+    "major": "🔌 电子数码"
+  },
+  "动力与线材": {
+    "record_id": "recvhlcREq9Yi6",
+    "major": "🔌 电子数码"
+  },
+  "身体洗护": {
+    "record_id": "recvhlcRUjNcMt",
+    "major": "🧼 个人护理"
+  },
+  "护肤与美妆": {
+    "record_id": "recvhlcSek6XIu",
+    "major": "🧼 个人护理"
+  },
+  "个护电器": {
+    "record_id": "recvhlcSwpSHPp",
+    "major": "🧼 个人护理"
+  },
+  "护理工具": {
+    "record_id": "recvhlcSNSLL4D",
+    "major": "🧼 个人护理"
+  },
+  "生理与卫生": {
+    "record_id": "recvhlcT4TRsqe",
+    "major": "🧼 个人护理"
+  },
+  "上装": {
+    "record_id": "recvhlcTkFmyRH",
+    "major": "👕 织物服饰"
+  },
+  "下装": {
+    "record_id": "recvhlcTBKsVCA",
+    "major": "👕 织物服饰"
+  },
+  "内衣与袜": {
+    "record_id": "recvhlcTSXqn0S",
+    "major": "👕 织物服饰"
+  },
+  "鞋靴": {
+    "record_id": "recvhlcU9AEprK",
+    "major": "👕 织物服饰"
+  },
+  "配件挂饰": {
+    "record_id": "recvhlcUqCEQ3j",
+    "major": "👕 织物服饰"
+  },
+  "床品与毛巾": {
+    "record_id": "recvhlcUHGv0yO",
+    "major": "👕 织物服饰"
+  },
+  "证件与证明": {
+    "record_id": "recvhlcUYvRurl",
+    "major": "📚 文档资产"
+  },
+  "财务与合同": {
+    "record_id": "recvhlcVfexiJc",
+    "major": "📚 文档资产"
+  },
+  "健康档案": {
+    "record_id": "recvhlcVwfRHcp",
+    "major": "📚 文档资产"
+  },
+  "办公与文具": {
+    "record_id": "recvhlcVMOJyt0",
+    "major": "📚 文档资产"
+  },
+  "纪念与情感": {
+    "record_id": "recvhlcW45dLAC",
+    "major": "📚 文档资产"
+  },
+  "生活家电": {
+    "record_id": "recvhlcWlMDG0N",
+    "major": "🏠 家居与工具"
+  },
+  "五金与维修": {
+    "record_id": "recvhlcWDHfR8Q",
+    "major": "🏠 家居与工具"
+  },
+  "清洁与家务": {
+    "record_id": "recvhlcWWb4fO7",
+    "major": "🏠 家居与工具"
+  },
+  "收纳与包袋": {
+    "record_id": "recvhlcXevMRKS",
+    "major": "🏠 家居与工具"
+  },
+  "家居杂项": {
+    "record_id": "recvhlcXvBqsnt",
+    "major": "🏠 家居与工具"
+  }
+}
