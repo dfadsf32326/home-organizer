@@ -67,3 +67,4 @@
 *   `to_sell`：准备卖掉/闲置处理中。
 *   `sold_or_disposed`：已经卖掉、送人或丢弃。
 *   `expired`：已过期但尚未丢弃。
+*   `suspected_broken`：疑似损坏。
