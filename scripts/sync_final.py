@@ -28,7 +28,6 @@ def get_feishu_records():
             for i, row in enumerate(records):
                 local_id = row[id_idx] if id_idx < len(row) else None
                 if local_id:
-                    # 如果有重复 ID，我们记录下来（后续会清理）
                     if local_id not in mapping:
                         mapping[local_id] = []
                     mapping[local_id].append(record_ids[i])
@@ -47,7 +46,6 @@ def sync():
     items_list = items_data.get("items", [])
     print(f"Starting sync for {len(items_list)} items...")
 
-    # 1. 获取飞书现状
     feishu_map = get_feishu_records()
     
     success_count = 0
@@ -63,13 +61,10 @@ def sync():
             "状态": [item.get("status", "active")]
         }
 
-        # 2. 判断是更新还是创建
         if local_id in feishu_map:
-            # 已存在，取第一个 record_id 执行更新
             rids = feishu_map[local_id]
             target_rid = rids[0]
             
-            # 如果有重复，顺便把多余的删了
             if len(rids) > 1:
                 for extra_rid in rids[1:]:
                     subprocess.run([LARK_CLI, "base", "+record-delete", "--base-token", BASE_TOKEN, "--table-id", TABLE_ID, "--record-id", extra_rid, "--yes"])
@@ -82,7 +77,6 @@ def sync():
                 "--fields", json.dumps(fields, ensure_ascii=False)
             ]
         else:
-            # 不存在，执行创建
             cmd = [
                 LARK_CLI, "base", "+record-upsert",
                 "--base-token", BASE_TOKEN,
@@ -93,9 +87,11 @@ def sync():
         res = subprocess.run(cmd, capture_output=True, text=True)
         if res.returncode == 0:
             try:
-                # 更新本地 feishu_record_id
                 rid_data = json.loads(res.stdout)
-                new_rid = rid_data.get("data", {}).get("record_id_list", [None])[0]
+                res_data = rid_data.get("data", {})
+                # +record-update returns { "data": { "record": { ... } } }
+                # +record-upsert returns { "data": { "record_id_list": [...] } }
+                new_rid = res_data.get("record_id_list", [None])[0] or res_data.get("record", {}).get("record_id")
                 if new_rid:
                     item["feishu_record_id"] = new_rid
                     item["updated_at"] = datetime.now().isoformat()
@@ -103,7 +99,6 @@ def sync():
             except:
                 pass
         
-    # 3. 写回本地
     with open(ITEMS_FILE, 'w', encoding='utf-8') as f:
         json.dump(items_data, f, ensure_ascii=False, indent=2)
     

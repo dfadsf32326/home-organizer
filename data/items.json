@@ -191,6 +191,17 @@
       "feishu_record_id": null,
       "updated_at": "2026-04-20T11:07:28.456463",
       "space_id": "temporary_storage"
+    },
+    {
+      "id": "item-a0ccc045",
+      "name": "🛠️ 手动新增测试物品",
+      "category": "🏠 家居与工具",
+      "sub_category": "测试分类",
+      "location": "暂存区",
+      "container": "测试纸箱",
+      "status": "active",
+      "updated_at": "2026-04-20T11:42:00.537548",
+      "space_id": "temporary_storage"
     }
   ]
 }

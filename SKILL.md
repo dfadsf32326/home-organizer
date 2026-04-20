@@ -150,7 +150,11 @@
 ### 11.1 唯一标识与同步强一致性 (ID & Strong Consistency)
 1. **本地 ID (`id`)**: 唯一准则。同步逻辑必须使用飞书的“本地数据库ID”字段作为 upsert 过滤条件。
 2. **唯一入口**: 同步飞书的唯一入口是 `/scripts/sync_final.py`。
-3. **清理规范**: 飞书上若存在本地库已删除的记录，必须物理清理，不得保留孤儿记录。
+3. **避坑指南 [新增]**:
+   - **禁用原生 Upsert**: 严禁直接调用 `lark-cli base +record-upsert` 而不带 `record-id`。除非在飞书 UI 中将“本地数据库ID”设为唯一索引，否则原生 upsert 会导致数据重复。必须采用“先查询映射、再定向更新 (+record-update)”的逻辑。
+   - **Token 精度**: `base_token` 若出现微小错误（如少字母）会触发 `400 NOTEXIST`。
+   - **权限刷新**: `lark-cli` 权限过期会返回 `api_error`，需使用 `lark-cli auth login --recommend` 重新扫码。
+4. **清理规范**: 飞书上若存在本地库已删除的记录，必须物理清理，不得保留孤儿记录。
 
 ### 11.2 主要字段映射 (Field Mapping)
 - `fldILOfvTU` (文本): 物品名称 (`name`) —— 此为 Primary Field。
