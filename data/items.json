@@ -510,46 +510,50 @@
     {
       "name": "橡胶圈 (1个/条)",
       "category": "🏠 家居与工具",
-      "sub_category": "五金工具/耗材",
+      "sub_category": "五金与维修",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
       "status": "active",
       "id": "item-bdcd1d89",
       "feishu_record_id": "recvhj2XL47jjO",
-      "updated_at": "2026-04-20T13:43:47"
+      "updated_at": "2026-04-20T13:43:47",
+      "category_record_id": "recvhlcWDHfR8Q"
     },
     {
       "name": "不锈钢检测液",
       "category": "🏠 家居与工具",
-      "sub_category": "五金工具/耗材",
+      "sub_category": "五金与维修",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
       "status": "active",
       "id": "item-b84eac66",
       "feishu_record_id": "recvhj2Y1VKYTC",
-      "updated_at": "2026-04-20T13:43:47"
+      "updated_at": "2026-04-20T13:43:47",
+      "category_record_id": "recvhlcWDHfR8Q"
     },
     {
       "name": "没电的气温计",
       "category": "🏠 家居与工具",
-      "sub_category": "五金工具/耗材",
+      "sub_category": "五金与维修",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
       "status": "active",
       "id": "item-17d6834b",
       "feishu_record_id": "recvhj2YkFMIkl",
-      "updated_at": "2026-04-20T13:43:48"
+      "updated_at": "2026-04-20T13:43:48",
+      "category_record_id": "recvhlcWDHfR8Q"
     },
     {
       "name": "垃圾袋 (1卷)",
       "category": "🏠 家居与工具",
-      "sub_category": "清洁用品",
+      "sub_category": "清洁与家务",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
       "status": "active",
       "id": "item-1a8506ec",
       "feishu_record_id": "recvhj2YF7C0MJ",
-      "updated_at": "2026-04-20T13:43:50"
+      "updated_at": "2026-04-20T13:43:50",
+      "category_record_id": "recvhlcWWb4fO7"
     },
     {
       "name": "艾克顿三孔转接头",
@@ -910,24 +914,26 @@
     {
       "name": "灰色袜子 (1双)",
       "category": "👕 织物服饰",
-      "sub_category": "鞋袜",
+      "sub_category": "内衣与袜",
       "location": "暂存区",
       "container": "暂存区-织物服饰袋",
       "status": "active",
       "id": "item-117a596d",
       "feishu_record_id": "recvhj37duIiBr",
-      "updated_at": "2026-04-20T13:44:23"
+      "updated_at": "2026-04-20T13:44:23",
+      "category_record_id": "recvhlcTSXqn0S"
     },
     {
       "name": "沙滩裤",
       "category": "👕 织物服饰",
-      "sub_category": "衣物",
+      "sub_category": "下装",
       "location": "暂存区",
       "container": "暂存区-织物配件袋",
       "status": "active",
       "id": "item-0f20f775",
       "feishu_record_id": "recvhj37vqAzmb",
-      "updated_at": "2026-04-20T13:44:24"
+      "updated_at": "2026-04-20T13:44:24",
+      "category_record_id": "recvhlcTBKsVCA"
     },
     {
       "name": "手套",
@@ -1030,46 +1036,50 @@
     {
       "name": "助糖三号 (3包)",
       "category": "🍎 饮食供应",
-      "sub_category": "特殊食品/零食",
+      "sub_category": "零食/干货",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-3256fdf2",
       "feishu_record_id": "recvhj3atJ2Jh2",
-      "updated_at": "2026-04-20T13:42:39"
+      "updated_at": "2026-04-20T13:42:39",
+      "category_record_id": "recvhfPMlHE62I"
     },
     {
       "name": "有机板栗 (1包)",
       "category": "🍎 饮食供应",
-      "sub_category": "特殊食品/零食",
+      "sub_category": "零食/干货",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-d143f1b5",
       "feishu_record_id": "recvhj3aUfJsaQ",
-      "updated_at": "2026-04-20T13:42:40"
+      "updated_at": "2026-04-20T13:42:40",
+      "category_record_id": "recvhfPMlHE62I"
     },
     {
       "name": "奇亚籽 (4包)",
       "category": "🍎 饮食供应",
-      "sub_category": "粮油/干货",
+      "sub_category": "零食/干货",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-a5b9d3e7",
       "feishu_record_id": "recvhj3baYLVpG",
-      "updated_at": "2026-04-20T13:42:40"
+      "updated_at": "2026-04-20T13:42:40",
+      "category_record_id": "recvhfPMlHE62I"
     },
     {
       "name": "小麦纤维素 (3袋)",
       "category": "🍎 饮食供应",
-      "sub_category": "粮油/干货",
+      "sub_category": "零食/干货",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-05b25e62",
       "feishu_record_id": "recvhj3buQTnTI",
-      "updated_at": "2026-04-20T13:42:41"
+      "updated_at": "2026-04-20T13:42:41",
+      "category_record_id": "recvhfPMlHE62I"
     },
     {
       "name": "番茄酱 (1袋)",
