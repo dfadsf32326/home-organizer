@@ -30,6 +30,26 @@
 1. **本地 ID (`id`)**: 唯一准则。
 2. **唯一入口**: `/scripts/sync_final.py`。
 
+### 11.2 关联字段必须传 Record ID
+1. **核心规则**：飞书多维表格的"关联字段"（如"分类表"链接到 tbl6Ew6fmmhqeeSP），**必须传被关联表的 record_id**，传纯文本无效。
+2. **映射字典**：`data/category_mapping.json` 维护了子类名称→record_id 的完整映射，同步时必须从此字典查 record_id。
+3. **推送格式**：`{"分类表": "recvhlcRUjNcMt"}`，lark-cli 会自动转换为 `[{"id": "recvhlcRUjNcMt"}]`。
+4. **本地字段**：items.json 中每个物品的 `category_record_id` 存储对应的分类表 record_id。
+5. **深度比对**：`is_content_equal` 必须包含 `category_record_id` vs 云端关联字段的比对，避免遗漏推送。
+
+### 11.3 旧子类名修正
+以下旧子类名已修正为标准名，同步脚本应自动归一化：
+- `特殊食品/零食` → `零食/干货`
+- `粮油/干货` → `零食/干货`
+- `衣物` → `下装`
+- `鞋袜` → `内衣与袜`
+- `清洁用品` → `清洁与家务`
+- `五金工具/耗材` → `五金与维修`
+
+### 11.4 分类表数据来源
+- 分类映射字典应基于飞书导出的 CSV（`分类表 (1).csv`）建立，而非依赖 Markdown 解析。
+- 原因：Markdown 中"生命周期管理"章节的状态词（active/consumed等）会被误解析为子类。
+
 ## 12. 同步性能与内容一致性 (Sync Performance & Content Integrity)
 
 ### 12.1 深度比对逻辑 (Deep Compare)
