@@ -153,6 +153,198 @@
           "type": "appliance"
         }
       ]
+    },
+    {
+      "id": "主卧楼上",
+      "name": "主卧楼上",
+      "parent": null,
+      "status": "pending",
+      "frequency": "low",
+      "notes": null
+    },
+    {
+      "id": "药箱",
+      "name": "药箱",
+      "parent": "主卧楼上",
+      "status": "pending",
+      "frequency": "medium",
+      "notes": null
+    },
+    {
+      "id": "电脑-纸箱",
+      "name": "电脑 纸箱",
+      "parent": "主卧楼上",
+      "status": "pending",
+      "frequency": "low",
+      "notes": null
+    },
+    {
+      "id": "纸箱",
+      "name": "纸箱",
+      "parent": "主卧楼上",
+      "status": "pending",
+      "frequency": "low",
+      "notes": null
+    },
+    {
+      "id": "主卧",
+      "name": "主卧",
+      "parent": null,
+      "status": "pending",
+      "frequency": "high",
+      "notes": null
+    },
+    {
+      "id": "主卧桌子",
+      "name": "主卧桌子",
+      "parent": "主卧",
+      "status": "pending",
+      "frequency": "high",
+      "notes": null
+    },
+    {
+      "id": "次卧",
+      "name": "次卧",
+      "parent": null,
+      "status": "pending",
+      "frequency": "high",
+      "notes": null
+    },
+    {
+      "id": "desk",
+      "name": "桌子",
+      "parent": "次卧",
+      "status": "inventory_completed",
+      "frequency": "high",
+      "notes": null
+    },
+    {
+      "id": "bed",
+      "name": "床",
+      "parent": "次卧",
+      "status": "pending",
+      "frequency": "high",
+      "notes": null
+    },
+    {
+      "id": "wardrobe-drawers",
+      "name": "衣柜抽屉",
+      "parent": "次卧",
+      "status": "pending",
+      "frequency": "medium",
+      "notes": null
+    },
+    {
+      "id": "wardrobe-hanging-rod",
+      "name": "衣柜左上挂杆",
+      "parent": "次卧",
+      "status": "pending",
+      "frequency": "medium",
+      "notes": null
+    },
+    {
+      "id": "wardrobe-bottom-space",
+      "name": "衣柜左下空间",
+      "parent": "次卧",
+      "status": "pending",
+      "frequency": "low",
+      "notes": null
+    },
+    {
+      "id": "left_wall",
+      "name": "进门左边墙面",
+      "parent": "次卧",
+      "status": "active",
+      "frequency": "high",
+      "notes": null
+    },
+    {
+      "id": "手机电子产品配件箱",
+      "name": "手机电子产品配件箱",
+      "parent": "次卧",
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "数据线充电器盒子",
+      "name": "数据线充电器盒子",
+      "parent": "次卧",
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "吧台",
+      "name": "吧台",
+      "parent": null,
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "塑料收纳盒",
+      "name": "塑料收纳盒",
+      "parent": "吧台",
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "客厅塑料柜",
+      "name": "客厅塑料柜",
+      "parent": null,
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "口袋",
+      "name": "口袋",
+      "parent": "客厅塑料柜",
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "次卧楼上",
+      "name": "次卧楼上",
+      "parent": null,
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "箱子",
+      "name": "箱子",
+      "parent": "次卧楼上",
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "鞋柜",
+      "name": "鞋柜",
+      "parent": null,
+      "status": "pending",
+      "frequency": null,
+      "notes": null
+    },
+    {
+      "id": "kitchen_countertop",
+      "name": "厨房操作台",
+      "parent": "厨房",
+      "status": "pending",
+      "frequency": "high",
+      "notes": null
+    },
+    {
+      "id": "kitchen_cabinet",
+      "name": "橱柜",
+      "parent": "厨房",
+      "status": "pending",
+      "frequency": "medium",
+      "notes": null
     }
   ]
 }
