@@ -672,77 +672,84 @@
       "category": "🔌 电子数码",
       "sub_category": "动力与线材",
       "location": "暂存区",
-      "container": "暂存区-电子数码袋",
+      "container": "数码线材备用箱",
       "status": "active",
       "id": "item-5a7bc8fc",
       "feishu_record_id": "recvhj339Gd3Io",
-      "updated_at": "2026-04-20T13:44:04"
+      "updated_at": "2026-04-20T20:54:19",
+      "remark": null
     },
     {
       "name": "电池",
       "category": "🔌 电子数码",
       "sub_category": "动力与线材",
       "location": "暂存区",
-      "container": "暂存区-电子数码袋",
+      "container": "数码线材备用箱",
       "status": "active",
       "id": "item-822968f1",
       "feishu_record_id": "recvhj33qlBa7i",
-      "updated_at": "2026-04-20T13:44:05"
+      "updated_at": "2026-04-20T20:54:17",
+      "remark": null
     },
     {
       "name": "USB转Type-C数据线 (共3条)",
       "category": "🔌 电子数码",
       "sub_category": "动力与线材",
       "location": "暂存区",
-      "container": "暂存区-电子数码袋",
+      "container": "数码线材备用箱",
       "status": "active",
       "id": "item-7ae3eb9a",
       "feishu_record_id": "recvhj33FRaeU9",
-      "updated_at": "2026-04-20T13:44:07"
+      "updated_at": "2026-04-20T20:54:15",
+      "remark": null
     },
     {
       "name": "20W Type C充电头",
       "category": "🔌 电子数码",
       "sub_category": "动力与线材",
       "location": "暂存区",
-      "container": "暂存区-电子数码袋",
+      "container": "数码线材备用箱",
       "status": "active",
       "id": "item-a9553bcc",
       "feishu_record_id": "recvhj33Xgu0O7",
-      "updated_at": "2026-04-20T13:44:08"
+      "updated_at": "2026-04-20T20:54:08",
+      "remark": null
     },
     {
       "name": "纽扣电池 (共2颗)",
       "category": "🔌 电子数码",
       "sub_category": "动力与线材",
       "location": "暂存区",
-      "container": "暂存区-电子数码袋",
+      "container": "数码线材备用箱",
       "status": "active",
       "id": "item-f552e5e5",
       "feishu_record_id": "recvhj34e79092",
-      "updated_at": "2026-04-20T13:44:09"
+      "updated_at": "2026-04-20T20:54:06",
+      "remark": null
     },
     {
       "name": "7号电池 (3节)",
       "category": "🔌 电子数码",
       "sub_category": "动力与线材",
       "location": "暂存区",
-      "container": "暂存区-电子数码袋",
+      "container": "数码线材备用箱",
       "status": "active",
       "id": "item-9f907154",
       "feishu_record_id": "recvhj34ussxOC",
-      "updated_at": "2026-04-20T13:44:10"
+      "updated_at": "2026-04-20T20:54:04",
+      "remark": null
     },
     {
       "name": "手表充电宝",
       "category": "🔌 电子数码",
       "sub_category": "动力与线材",
       "location": "暂存区",
-      "container": "暂存区-电子数码袋",
+      "container": "数码线材备用箱",
       "status": "active",
       "id": "item-ea84b02c",
       "feishu_record_id": "recvhj34NyKolo",
-      "updated_at": "2026-04-20T13:44:11"
+      "updated_at": "2026-04-20T20:53:55",
+      "remark": null
     },
     {
       "name": "Insta 360 Flow 2（待卖）",
@@ -1634,7 +1641,7 @@
       "status": "active",
       "remark": "状态: 已拆封 | 位于电池盒内",
       "updated_at": "2026-04-20T20:46:04.677616",
-      "feishu_record_id": null
+      "feishu_record_id": "recvhkOLh4aH1i"
     },
     {
       "id": "item-73a96fbf",
@@ -1646,7 +1653,7 @@
       "status": "active",
       "remark": "状态: 未拆封 | 位于电池盒内",
       "updated_at": "2026-04-20T20:46:04.677616",
-      "feishu_record_id": null
+      "feishu_record_id": "recvhkOLxTCe7s"
     },
     {
       "id": "item-4bb0a8d6",
@@ -1658,7 +1665,7 @@
       "status": "active",
       "remark": "位于电池盒内",
       "updated_at": "2026-04-20T20:46:04.677616",
-      "feishu_record_id": null
+      "feishu_record_id": "recvhkOLMzBeAt"
     },
     {
       "id": "item-cf02db53",
@@ -1670,7 +1677,7 @@
       "status": "active",
       "remark": "位于电池盒内",
       "updated_at": "2026-04-20T20:46:04.677616",
-      "feishu_record_id": null
+      "feishu_record_id": "recvhkOM2msLGj"
     },
     {
       "id": "item-2b81dd22",
@@ -1682,7 +1689,7 @@
       "status": "active",
       "remark": "位于电池盒内",
       "updated_at": "2026-04-20T20:46:04.677616",
-      "feishu_record_id": null
+      "feishu_record_id": "recvhkOMiQjy1p"
     }
   ]
 }
