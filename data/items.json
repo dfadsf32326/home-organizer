@@ -11,21 +11,37 @@
           "id": "药箱",
           "name": "药箱",
           "status": "pending",
-          "frequency": "medium"
+          "frequency": "medium",
+          "updated_at": "2026-04-20T09:11:25.777940",
+          "items": [
+            {
+              "id": "test-b6e866f3",
+              "name": "🚀 自动同步测试物品",
+              "category": "🏠 家居与工具",
+              "sub_category": "测试分类",
+              "location": "实验室",
+              "container": "测试盒子",
+              "status": "active",
+              "updated_at": "2026-04-20T09:25:31.314574"
+            }
+          ]
         },
         {
           "id": "电脑-纸箱",
           "name": "电脑 纸箱",
           "status": "pending",
-          "frequency": "low"
+          "frequency": "low",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "纸箱",
           "name": "纸箱",
           "status": "pending",
-          "frequency": "low"
+          "frequency": "low",
+          "updated_at": "2026-04-20T09:11:25.777940"
         }
-      ]
+      ],
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "主卧",
@@ -37,9 +53,11 @@
           "id": "主卧桌子",
           "name": "主卧桌子",
           "status": "pending",
-          "frequency": "high"
+          "frequency": "high",
+          "updated_at": "2026-04-20T09:11:25.777940"
         }
-      ]
+      ],
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "次卧",
@@ -51,49 +69,58 @@
           "id": "desk",
           "name": "桌子",
           "status": "inventory_completed",
-          "frequency": "high"
+          "frequency": "high",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "bed",
           "name": "床",
           "status": "pending",
-          "frequency": "high"
+          "frequency": "high",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "wardrobe-drawers",
           "name": "衣柜抽屉",
           "status": "pending",
-          "frequency": "medium"
+          "frequency": "medium",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "wardrobe-hanging-rod",
           "name": "衣柜左上挂杆",
           "status": "pending",
-          "frequency": "medium"
+          "frequency": "medium",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "wardrobe-bottom-space",
           "name": "衣柜左下空间",
           "status": "pending",
-          "frequency": "low"
+          "frequency": "low",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "left_wall",
           "name": "进门左边墙面",
           "status": "active",
-          "frequency": "high"
+          "frequency": "high",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "手机电子产品配件箱",
           "name": "手机电子产品配件箱",
-          "status": "pending"
+          "status": "pending",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "数据线充电器盒子",
           "name": "数据线充电器盒子",
-          "status": "pending"
+          "status": "pending",
+          "updated_at": "2026-04-20T09:11:25.777940"
         }
-      ]
+      ],
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "吧台",
@@ -103,9 +130,11 @@
         {
           "id": "塑料收纳盒",
           "name": "塑料收纳盒",
-          "status": "pending"
+          "status": "pending",
+          "updated_at": "2026-04-20T09:11:25.777940"
         }
-      ]
+      ],
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "客厅塑料柜",
@@ -115,9 +144,11 @@
         {
           "id": "口袋",
           "name": "口袋",
-          "status": "pending"
+          "status": "pending",
+          "updated_at": "2026-04-20T09:11:25.777940"
         }
-      ]
+      ],
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "次卧楼上",
@@ -127,15 +158,18 @@
         {
           "id": "箱子",
           "name": "箱子",
-          "status": "pending"
+          "status": "pending",
+          "updated_at": "2026-04-20T09:11:25.777940"
         }
-      ]
+      ],
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "鞋柜",
       "name": "鞋柜",
       "status": "pending",
-      "sub_units": []
+      "sub_units": [],
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "厨房",
@@ -148,15 +182,18 @@
           "id": "kitchen_countertop",
           "name": "厨房操作台",
           "status": "pending",
-          "frequency": "high"
+          "frequency": "high",
+          "updated_at": "2026-04-20T09:11:25.777940"
         },
         {
           "id": "kitchen_cabinet",
           "name": "橱柜",
           "status": "pending",
-          "frequency": "medium"
+          "frequency": "medium",
+          "updated_at": "2026-04-20T09:11:25.777940"
         }
-      ]
+      ],
+      "updated_at": "2026-04-20T09:11:25.777940"
     }
   ],
   "items": [
@@ -168,7 +205,8 @@
       "container": "一次性洗护用品袋",
       "status": "active",
       "id": "item-6ad266b4",
-      "feishu_record_id": "recvhfGBAygSX4"
+      "feishu_record_id": "recvhfGBAygSX4",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "牙线棒 (小半盒)",
@@ -178,7 +216,8 @@
       "container": "一次性洗护用品袋",
       "status": "active",
       "id": "item-e58a4cb0",
-      "feishu_record_id": "recvhfGBWJ1m3W"
+      "feishu_record_id": "recvhfGBWJ1m3W",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "空喷雾瓶",
@@ -188,7 +227,8 @@
       "container": "暂存区-个人护理袋",
       "status": "active",
       "id": "item-4db14f20",
-      "feishu_record_id": "recvhfGChVibTw"
+      "feishu_record_id": "recvhfGChVibTw",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "痘痘贴 (1个)",
@@ -198,7 +238,8 @@
       "container": "暂存区-个人护理袋",
       "status": "active",
       "id": "item-8768e733",
-      "feishu_record_id": "recvhfGCMmVnGS"
+      "feishu_record_id": "recvhfGCMmVnGS",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "舒客牙膏 (1盒)",
@@ -208,7 +249,8 @@
       "container": "暂存区-个人护理袋",
       "status": "active",
       "id": "item-5c78df73",
-      "feishu_record_id": "recvhfGDmnyaY7"
+      "feishu_record_id": "recvhfGDmnyaY7",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "一次性浴巾 (3袋)",
@@ -218,7 +260,8 @@
       "container": "暂存区-个人护理袋",
       "status": "active",
       "id": "item-35659906",
-      "feishu_record_id": "recvhfGDP3cNbB"
+      "feishu_record_id": "recvhfGDP3cNbB",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "红光健脑仪",
@@ -228,7 +271,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-53daa005",
-      "feishu_record_id": "recvhfGEbu8wyf"
+      "feishu_record_id": "recvhfGEbu8wyf",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "血糖试纸",
@@ -238,7 +282,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-5f96db7d",
-      "feishu_record_id": "recvhfGExbwGyG"
+      "feishu_record_id": "recvhfGExbwGyG",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "胰岛素针管",
@@ -248,7 +293,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-8c6d225f",
-      "feishu_record_id": "recvhfGESsDBBd"
+      "feishu_record_id": "recvhfGESsDBBd",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "采血针 (1盒)",
@@ -258,7 +304,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-2ecb7ca6",
-      "feishu_record_id": "recvhfGFg0F64O"
+      "feishu_record_id": "recvhfGFg0F64O",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "云南白药创可贴",
@@ -268,7 +315,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-5f968f3f",
-      "feishu_record_id": "recvhfGFD4ltu3"
+      "feishu_record_id": "recvhfGFD4ltu3",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "消毒酒精",
@@ -278,7 +326,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-a8066be4",
-      "feishu_record_id": "recvhfGFYtsc7t"
+      "feishu_record_id": "recvhfGFYtsc7t",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "酒精棉片 (少许)",
@@ -288,7 +337,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-15ea5df5",
-      "feishu_record_id": "recvhfGGmvhGuo"
+      "feishu_record_id": "recvhfGGmvhGuo",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "酒精棉片 (整盒未开封)",
@@ -298,7 +348,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-12ca63b4",
-      "feishu_record_id": "recvhfGGJn2xHo"
+      "feishu_record_id": "recvhfGGJn2xHo",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "肠炎宁",
@@ -308,7 +359,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-497ca29d",
-      "feishu_record_id": "recvhfGH7o3jQ6"
+      "feishu_record_id": "recvhfGH7o3jQ6",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "棉签 (4袋)",
@@ -318,7 +370,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-768cac7d",
-      "feishu_record_id": "recvhfGHsGg6Yx"
+      "feishu_record_id": "recvhfGHsGg6Yx",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "复方板蓝根片 (1瓶)",
@@ -328,7 +381,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-7fca20a9",
-      "feishu_record_id": "recvhfGHOFVs3T"
+      "feishu_record_id": "recvhfGHOFVs3T",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "泰国药 (2个，用途待查)",
@@ -338,7 +392,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-31e46529",
-      "feishu_record_id": "recvhfGIcr1aC2"
+      "feishu_record_id": "recvhfGIcr1aC2",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "EAA复合氨基酸 (2026-11-27)",
@@ -348,7 +403,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-e045c8d3",
-      "feishu_record_id": "recvhfGIy82dGN"
+      "feishu_record_id": "recvhfGIy82dGN",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "胶原蛋白 (2027-09-01，已开封)",
@@ -358,7 +414,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-27acd29d",
-      "feishu_record_id": "recvhfGIUBFG2f"
+      "feishu_record_id": "recvhfGIUBFG2f",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "Natural Factors葡萄糖酸锌25mg",
@@ -368,7 +425,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-ac43dbea",
-      "feishu_record_id": "recvhfGJfmxFOL"
+      "feishu_record_id": "recvhfGJfmxFOL",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "三丁酸甘油酯 (1瓶)",
@@ -378,7 +436,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-e54e48e0",
-      "feishu_record_id": "recvhfGJCsPtcx"
+      "feishu_record_id": "recvhfGJCsPtcx",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "维生素A胶囊 (1瓶)",
@@ -388,7 +447,8 @@
       "container": "暂存区-健康医疗袋",
       "status": "active",
       "id": "item-75a1b838",
-      "feishu_record_id": "recvhfGJZo95Op"
+      "feishu_record_id": "recvhfGJZo95Op",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "橡胶圈 (1个/条)",
@@ -398,7 +458,8 @@
       "container": "暂存区-家居工具袋",
       "status": "active",
       "id": "item-bdcd1d89",
-      "feishu_record_id": "recvhfGKkA3RlE"
+      "feishu_record_id": "recvhfGKkA3RlE",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "不锈钢检测液",
@@ -408,7 +469,8 @@
       "container": "暂存区-家居工具袋",
       "status": "active",
       "id": "item-b84eac66",
-      "feishu_record_id": "recvhfGKHyliX0"
+      "feishu_record_id": "recvhfGKHyliX0",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "没电的气温计",
@@ -418,7 +480,8 @@
       "container": "暂存区-家居工具袋",
       "status": "active",
       "id": "item-17d6834b",
-      "feishu_record_id": "recvhfGL2HOckW"
+      "feishu_record_id": "recvhfGL2HOckW",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "垃圾袋 (1卷)",
@@ -428,7 +491,8 @@
       "container": "暂存区-家居工具袋",
       "status": "active",
       "id": "item-1a8506ec",
-      "feishu_record_id": "recvhfGLrmCEV1"
+      "feishu_record_id": "recvhfGLrmCEV1",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "艾克顿三孔转接头",
@@ -438,7 +502,8 @@
       "container": "暂存区-小家电袋",
       "status": "active",
       "id": "item-dc66417a",
-      "feishu_record_id": "recvhfGLP20yGw"
+      "feishu_record_id": "recvhfGLP20yGw",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "6孔位双头迷你插板",
@@ -448,7 +513,8 @@
       "container": "暂存区-小家电袋",
       "status": "active",
       "id": "item-b44f2602",
-      "feishu_record_id": "recvhfGMczJwZY"
+      "feishu_record_id": "recvhfGMczJwZY",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "电磁炉",
@@ -458,7 +524,8 @@
       "container": "暂存区-小家电袋",
       "status": "active",
       "id": "item-b3a5461d",
-      "feishu_record_id": "recvhfGMBanQre"
+      "feishu_record_id": "recvhfGMBanQre",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "20寸 银色行李箱",
@@ -468,7 +535,8 @@
       "container": "暂存区-待定大件",
       "status": "active",
       "id": "item-9b387ba9",
-      "feishu_record_id": "recvhfGN3aimhV"
+      "feishu_record_id": "recvhfGN3aimhV",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "烫发夹板",
@@ -478,7 +546,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-730fd32f",
-      "feishu_record_id": "recvhfGNqq3Uxk"
+      "feishu_record_id": "recvhfGNqq3Uxk",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "Mistine防晒霜",
@@ -488,7 +557,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-2867eee4",
-      "feishu_record_id": "recvhfGNMbCV2k"
+      "feishu_record_id": "recvhfGNMbCV2k",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "芦荟胶 (2支)",
@@ -498,7 +568,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-97a6ad30",
-      "feishu_record_id": "recvhfGOaodtIF"
+      "feishu_record_id": "recvhfGOaodtIF",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "香奈儿香水袋子",
@@ -508,7 +579,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-074514f8",
-      "feishu_record_id": "recvhfGOyyXXs1"
+      "feishu_record_id": "recvhfGOyyXXs1",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "香奈儿香水瓶子和盒子",
@@ -518,7 +590,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-52dcfd6e",
-      "feishu_record_id": "recvhfGOWFilMT"
+      "feishu_record_id": "recvhfGOWFilMT",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "香卡",
@@ -528,7 +601,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-29a1c603",
-      "feishu_record_id": "recvhfGPizoZAk"
+      "feishu_record_id": "recvhfGPizoZAk",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "薰衣草纯露 (1瓶)",
@@ -538,7 +612,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-12f36d49",
-      "feishu_record_id": "recvhfGPEecuWP"
+      "feishu_record_id": "recvhfGPEecuWP",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "唇膏 (1支)",
@@ -548,7 +623,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-49de7300",
-      "feishu_record_id": "recvhfGPZbXDJ1"
+      "feishu_record_id": "recvhfGPZbXDJ1",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "香水分装器 (1袋)",
@@ -558,7 +634,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-414c9641",
-      "feishu_record_id": "recvhfGQleNwoU"
+      "feishu_record_id": "recvhfGQleNwoU",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "香水分装瓶 (1个)",
@@ -568,7 +645,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-3d1b61d6",
-      "feishu_record_id": "recvhfGQIwRRR5"
+      "feishu_record_id": "recvhfGQIwRRR5",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "避孕套",
@@ -578,7 +656,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-05810e35",
-      "feishu_record_id": "recvhfGR3KxdKQ"
+      "feishu_record_id": "recvhfGR3KxdKQ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "止汗剂 (1瓶)",
@@ -588,7 +667,8 @@
       "container": "暂存区-护肤香水袋",
       "status": "active",
       "id": "item-eebd3eae",
-      "feishu_record_id": "recvhfGRqpXR7F"
+      "feishu_record_id": "recvhfGRqpXR7F",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "勐腊县人民医院病历",
@@ -598,7 +678,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-d12b0d75",
-      "feishu_record_id": "recvhfGRNsMejx"
+      "feishu_record_id": "recvhfGRNsMejx",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "勐腊县人民医院CT检查报告单",
@@ -608,7 +689,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-43b6edda",
-      "feishu_record_id": "recvhfGS9A5nwM"
+      "feishu_record_id": "recvhfGS9A5nwM",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "微波压力锅说明书",
@@ -618,7 +700,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-4a9d9ac0",
-      "feishu_record_id": "recvhfGSyAdUv7"
+      "feishu_record_id": "recvhfGSyAdUv7",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "大理苍山索道票 (2张)",
@@ -628,7 +711,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-baba250a",
-      "feishu_record_id": "recvhfGSXf2Vjo"
+      "feishu_record_id": "recvhfGSXf2Vjo",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "西双版纳花卉园票 (2张)",
@@ -638,7 +722,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-71f1f5f1",
-      "feishu_record_id": "recvhfGTmOxOIC"
+      "feishu_record_id": "recvhfGTmOxOIC",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "望天树种子卡 (3个)",
@@ -648,7 +733,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-c5385e21",
-      "feishu_record_id": "recvhfGTKxF54D"
+      "feishu_record_id": "recvhfGTKxF54D",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "傣文福签 (2个)",
@@ -658,7 +744,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-874595e3",
-      "feishu_record_id": "recvhfGU5uee8k"
+      "feishu_record_id": "recvhfGU5uee8k",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "佳佳送的相册",
@@ -668,7 +755,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-f96f62b3",
-      "feishu_record_id": "recvhfGUs0wOGb"
+      "feishu_record_id": "recvhfGUs0wOGb",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "望天树打卡地图",
@@ -678,7 +766,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-dcb0f53f",
-      "feishu_record_id": "recvhfGUNtYfF5"
+      "feishu_record_id": "recvhfGUNtYfF5",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "望天树官方纪念证书",
@@ -688,7 +777,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-3ad91208",
-      "feishu_record_id": "recvhfGV8Kvk1f"
+      "feishu_record_id": "recvhfGV8Kvk1f",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "东盟十国钱币纪念本",
@@ -698,7 +788,8 @@
       "container": "暂存区-文档资产袋",
       "status": "active",
       "id": "item-6d8e5f27",
-      "feishu_record_id": "recvhfGVuNtEMo"
+      "feishu_record_id": "recvhfGVuNtEMo",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "Anker充电宝",
@@ -708,7 +799,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-5a7bc8fc",
-      "feishu_record_id": "recvhfGVT6B9ue"
+      "feishu_record_id": "recvhfGVT6B9ue",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "电池",
@@ -718,7 +810,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-822968f1",
-      "feishu_record_id": "recvhfGWeUV0lo"
+      "feishu_record_id": "recvhfGWeUV0lo",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "USB转Type-C数据线 (共3条)",
@@ -728,7 +821,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-7ae3eb9a",
-      "feishu_record_id": "recvhfGWEy29hv"
+      "feishu_record_id": "recvhfGWEy29hv",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "20W Type C充电头",
@@ -738,7 +832,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-a9553bcc",
-      "feishu_record_id": "recvhfGX0Sd7Kg"
+      "feishu_record_id": "recvhfGX0Sd7Kg",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "纽扣电池 (共2颗)",
@@ -748,7 +843,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-f552e5e5",
-      "feishu_record_id": "recvhfGXmVz74h"
+      "feishu_record_id": "recvhfGXmVz74h",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "7号电池 (3节)",
@@ -758,7 +854,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-9f907154",
-      "feishu_record_id": "recvhfGXHI7IIa"
+      "feishu_record_id": "recvhfGXHI7IIa",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "手表充电宝",
@@ -768,7 +865,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-ea84b02c",
-      "feishu_record_id": "recvhfGY4u2d1K"
+      "feishu_record_id": "recvhfGY4u2d1K",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "Insta 360 Flow 2（待卖）",
@@ -778,7 +876,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-055bf406",
-      "feishu_record_id": "recvhfGYq2Ni0U"
+      "feishu_record_id": "recvhfGYq2Ni0U",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "手机卡盒子",
@@ -788,7 +887,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-11dc751c",
-      "feishu_record_id": "recvhfGYMMHmm4"
+      "feishu_record_id": "recvhfGYMMHmm4",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "小音箱",
@@ -798,7 +898,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-7edaa685",
-      "feishu_record_id": "recvhfGZ9lyTSZ"
+      "feishu_record_id": "recvhfGZ9lyTSZ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "红米K70手机膜",
@@ -808,7 +909,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-4a75a4d9",
-      "feishu_record_id": "recvhfGZuTcyYm"
+      "feishu_record_id": "recvhfGZuTcyYm",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "3.5mm接口八爪鱼三角支架",
@@ -818,7 +920,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-988810a2",
-      "feishu_record_id": "recvhfGZQrDOvq"
+      "feishu_record_id": "recvhfGZQrDOvq",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "磁吸环 (2个)",
@@ -828,7 +931,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-91602532",
-      "feishu_record_id": "recvhfH0cATlbO"
+      "feishu_record_id": "recvhfH0cATlbO",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "苹果12手机",
@@ -838,7 +942,8 @@
       "container": "暂存区-电子数码袋",
       "status": "active",
       "id": "item-12d25209",
-      "feishu_record_id": "recvhfH0AMiqff"
+      "feishu_record_id": "recvhfH0AMiqff",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "蒸汽眼罩 (2个)",
@@ -848,7 +953,8 @@
       "container": "暂存区-织物服饰袋",
       "status": "active",
       "id": "item-13f9d2c7",
-      "feishu_record_id": "recvhfH0XO2nir"
+      "feishu_record_id": "recvhfH0XO2nir",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "灰色袜子 (1双)",
@@ -858,7 +964,8 @@
       "container": "暂存区-织物服饰袋",
       "status": "active",
       "id": "item-117a596d",
-      "feishu_record_id": "recvhfH1n3HSfX"
+      "feishu_record_id": "recvhfH1n3HSfX",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "沙滩裤",
@@ -868,7 +975,8 @@
       "container": "暂存区-织物配件袋",
       "status": "active",
       "id": "item-0f20f775",
-      "feishu_record_id": "recvhfH1K4zf0v"
+      "feishu_record_id": "recvhfH1K4zf0v",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "手套",
@@ -878,7 +986,8 @@
       "container": "暂存区-织物配件袋",
       "status": "active",
       "id": "item-88997c68",
-      "feishu_record_id": "recvhfH27novlA"
+      "feishu_record_id": "recvhfH27novlA",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "卫龙眼罩",
@@ -888,7 +997,8 @@
       "container": "暂存区-织物配件袋",
       "status": "active",
       "id": "item-7e73306e",
-      "feishu_record_id": "recvhfH2tZJeBa"
+      "feishu_record_id": "recvhfH2tZJeBa",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "围巾",
@@ -898,7 +1008,8 @@
       "container": "暂存区-织物配件袋",
       "status": "active",
       "id": "item-d5ea3028",
-      "feishu_record_id": "recvhfH2TrElsh"
+      "feishu_record_id": "recvhfH2TrElsh",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "多用围巾",
@@ -908,7 +1019,8 @@
       "container": "暂存区-织物配件袋",
       "status": "active",
       "id": "item-3e615937",
-      "feishu_record_id": "recvhfH3fZU58G"
+      "feishu_record_id": "recvhfH3fZU58G",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "一次性拖鞋",
@@ -918,7 +1030,8 @@
       "container": "暂存区-织物配件袋",
       "status": "active",
       "id": "item-b732325b",
-      "feishu_record_id": "recvhfH3DhJb9s"
+      "feishu_record_id": "recvhfH3DhJb9s",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "全脂羊奶粉",
@@ -928,7 +1041,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-600ea88f",
-      "feishu_record_id": "recvhfH3ZmrRmU"
+      "feishu_record_id": "recvhfH3ZmrRmU",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "木筷子 (1包)",
@@ -938,7 +1052,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-4cea5619",
-      "feishu_record_id": "recvhfH4lHP0Q4"
+      "feishu_record_id": "recvhfH4lHP0Q4",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "蛋黄蛋清分离器",
@@ -948,7 +1063,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-6535067d",
-      "feishu_record_id": "recvhfH4HGb0aC"
+      "feishu_record_id": "recvhfH4HGb0aC",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "助糖三号 (3包)",
@@ -958,7 +1074,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-3256fdf2",
-      "feishu_record_id": "recvhfH54oNTeK"
+      "feishu_record_id": "recvhfH54oNTeK",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "有机板栗 (1包)",
@@ -968,7 +1085,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-d143f1b5",
-      "feishu_record_id": "recvhfH5rn3jhi"
+      "feishu_record_id": "recvhfH5rn3jhi",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "奇亚籽 (4包)",
@@ -978,7 +1096,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-a5b9d3e7",
-      "feishu_record_id": "recvhfH5N2DTrL"
+      "feishu_record_id": "recvhfH5N2DTrL",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "小麦纤维素 (3袋)",
@@ -988,7 +1107,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-05b25e62",
-      "feishu_record_id": "recvhfH69A720A"
+      "feishu_record_id": "recvhfH69A720A",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "番茄酱 (1袋)",
@@ -998,7 +1118,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-ede25374",
-      "feishu_record_id": "recvhfH6xejdiT"
+      "feishu_record_id": "recvhfH6xejdiT",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "浓汤宝 (2盒)",
@@ -1008,7 +1129,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-a4e23081",
-      "feishu_record_id": "recvhfH6Tjyx7O"
+      "feishu_record_id": "recvhfH6Tjyx7O",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "酱板鸭的香辣红油 (2袋)",
@@ -1018,7 +1140,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-dbfee727",
-      "feishu_record_id": "recvhfH7fapNM8"
+      "feishu_record_id": "recvhfH7fapNM8",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "辣椒粉 (1瓶)",
@@ -1028,7 +1151,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-2362ae03",
-      "feishu_record_id": "recvhfH7CHMctK"
+      "feishu_record_id": "recvhfH7CHMctK",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "花椒粉 (1瓶)",
@@ -1038,7 +1162,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-91c323e1",
-      "feishu_record_id": "recvhfH7XROKC7"
+      "feishu_record_id": "recvhfH7XROKC7",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "红薯淀粉",
@@ -1048,7 +1173,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-cc71c7a0",
-      "feishu_record_id": "recvhfH8jBAawB"
+      "feishu_record_id": "recvhfH8jBAawB",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "黑胡椒粉",
@@ -1058,7 +1184,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-37518a04",
-      "feishu_record_id": "recvhfH8Gee22p"
+      "feishu_record_id": "recvhfH8Gee22p",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "name": "白芝麻 (1袋)",
@@ -1068,7 +1195,8 @@
       "container": "暂存区-饮食供应袋",
       "status": "active",
       "id": "item-e77173e7",
-      "feishu_record_id": "recvhfH92iYauH"
+      "feishu_record_id": "recvhfH92iYauH",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-c075e853",
@@ -1078,7 +1206,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-cc50195b",
@@ -1088,7 +1217,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-6f4d7d76",
@@ -1098,7 +1228,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-0a9984b0",
@@ -1108,7 +1239,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-4f6ba669",
@@ -1118,7 +1250,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-18a5b5a9",
@@ -1128,7 +1261,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-16274930",
@@ -1138,7 +1272,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-b5950df3",
@@ -1148,7 +1283,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-00f04f25",
@@ -1158,7 +1294,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-1f04f227",
@@ -1168,7 +1305,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-a9a83d66",
@@ -1178,7 +1316,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-c384edda",
@@ -1188,7 +1327,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-3cedf161",
@@ -1198,7 +1338,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-5af552ce",
@@ -1208,7 +1349,8 @@
       "location": "历史数据迁移",
       "container": "电脑 纸箱",
       "status": "active",
-      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱"
+      "notes": "原位置: 主卧楼上 | 原容器: 电脑 纸箱",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-b5fa2d5e",
@@ -1218,7 +1360,8 @@
       "location": "历史数据迁移",
       "container": "nas 前面的塑料盒子",
       "status": "active",
-      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-d7d4f924",
@@ -1228,7 +1371,8 @@
       "location": "历史数据迁移",
       "container": "nas 前面的塑料盒子",
       "status": "active",
-      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-4282a807",
@@ -1238,7 +1382,8 @@
       "location": "历史数据迁移",
       "container": "nas 前面的塑料盒子",
       "status": "active",
-      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-c3a430a1",
@@ -1248,7 +1393,8 @@
       "location": "历史数据迁移",
       "container": "nas 前面的塑料盒子",
       "status": "active",
-      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-7b8180b0",
@@ -1258,7 +1404,8 @@
       "location": "历史数据迁移",
       "container": "nas 前面的塑料盒子",
       "status": "active",
-      "notes": "原位置:  | 原容器: nas 前面的塑料盒子"
+      "notes": "原位置:  | 原容器: nas 前面的塑料盒子",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-d9861de6",
@@ -1268,7 +1415,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置:  | 原容器: "
+      "notes": "原位置:  | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-7d3af278",
@@ -1278,7 +1426,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置:  | 原容器: "
+      "notes": "原位置:  | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-fd656214",
@@ -1288,7 +1437,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置:  | 原容器: "
+      "notes": "原位置:  | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-a4d09c42",
@@ -1298,7 +1448,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置:  | 原容器: "
+      "notes": "原位置:  | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-bcb1ec37",
@@ -1308,7 +1459,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置:  | 原容器: "
+      "notes": "原位置:  | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-e0f081d5",
@@ -1318,7 +1470,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置:  | 原容器: "
+      "notes": "原位置:  | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-260c330b",
@@ -1328,7 +1481,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置:  | 原容器: "
+      "notes": "原位置:  | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-1d9319ec",
@@ -1338,7 +1492,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置: 卧室 | 原容器: "
+      "notes": "原位置: 卧室 | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-c3c012ff",
@@ -1348,7 +1503,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置: 卧室 | 原容器: "
+      "notes": "原位置: 卧室 | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-d07d3c20",
@@ -1358,7 +1514,8 @@
       "location": "历史数据迁移",
       "container": "",
       "status": "active",
-      "notes": "原位置: 卧室 | 原容器: "
+      "notes": "原位置: 卧室 | 原容器: ",
+      "updated_at": "2026-04-20T09:11:25.777940"
     },
     {
       "id": "item-44cd42dd",
@@ -1456,5 +1613,6 @@
       "updated_at": "2026-04-20 00:31:32",
       "feishu_record_id": "recvhfTr1MAeMp"
     }
-  ]
+  ],
+  "updated_at": "2026-04-20T09:11:25.777940"
 }
