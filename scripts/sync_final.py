@@ -203,10 +203,9 @@ def sync():
                 # 本地更新，准备推送
                 pass
 
-        # 推送逻辑 —— 核心改造：添加分类表关联字段
+        # 推送逻辑 —— 核心改造：使用 category_record_id 建立到分类表的链接
         fields = {
             "物品名称": item.get("name"),
-            "大类": [item.get("category")] if item.get("category") else [],
             "子分类": item.get("sub_category"),
             "位置": item.get("location"),
             "容器": item.get("container"),
@@ -214,7 +213,7 @@ def sync():
             "本地数据库ID": lid,
         }
 
-        # ★ 关联字段：使用 category_record_id 建立到分类表的链接
+        # ★ 关联字段：使用 category_record_id 建立到分类表的链接（大类由飞书查找引用自动填充）
         cat_rid = item.get("category_record_id")
         if cat_rid:
             fields["分类表"] = cat_rid
