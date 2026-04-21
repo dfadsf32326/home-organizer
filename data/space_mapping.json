@@ -230,7 +230,7 @@
     "description": ""
   },
   "主卧": {
-    "record_id": "",
+    "record_id": "recvhpqoIhaO8q",
     "name": "主卧",
     "parent": "",
     "type": "未指定",
@@ -240,7 +240,7 @@
     "description": ""
   },
   "主卧桌子": {
-    "record_id": "",
+    "record_id": "recvhpqpw2dIre",
     "name": "主卧桌子",
     "parent": "主卧",
     "type": "未指定",
@@ -250,7 +250,7 @@
     "description": ""
   },
   "次卧": {
-    "record_id": "",
+    "record_id": "recvhpqoIhsr8l",
     "name": "次卧",
     "parent": "",
     "type": "未指定",
@@ -330,7 +330,7 @@
     "description": ""
   },
   "数据线充电器盒子": {
-    "record_id": "",
+    "record_id": "recvhpqq4QrgsG",
     "name": "数据线充电器盒子",
     "parent": "次卧",
     "type": "未指定",

@@ -131,11 +131,11 @@ def get_feishu_spaces():
                 return None
             
             # 尝试获取空间ID字段，如果没有则用空间名称作为键
-            space_id = get_val("空间ID") or get_val("空间名称")
+            space_id = get_val("空间ID") or get_val("容器名")
             if space_id:
                 remote_data[space_id] = {
                     'record_id': rid,
-                    'name': get_val("空间名称") or '',
+                    'name': get_val("容器名") or '',
                     'parent': get_val("所属空间") or '',
                     'type': get_val("空间类型") or '',
                     'frequency': get_val("使用频率") or '',
@@ -169,20 +169,10 @@ def push_to_feishu(local_mapping):
                 print(f"  📝 补充 record_id: {space_id}")
             continue
         
-        # 不存在，创建新记录
+                # 不存在，创建新记录
         fields = {
-            "空间ID": space_id,
-            "空间名称": info.get("name", ""),
-            "所属空间": info.get("parent", ""),
-            "空间类型": info.get("type", ""),
-            "使用频率": info.get("frequency", ""),
-            "盘点状态": info.get("status", ""),
-            "主体活动": info.get("primary_activity", ""),
-            "备注": info.get("description", "")
+            "容器名": info.get("name", "")
         }
-        
-        # 移除空值字段
-        fields = {k: v for k, v in fields.items() if v}
         
         cmd = [LARK_CLI, "base", "+record-upsert",
                "--base-token", BASE_TOKEN,
