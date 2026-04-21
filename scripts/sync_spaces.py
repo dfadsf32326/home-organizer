@@ -29,8 +29,10 @@ TYPE_MAP = {
 def load_field_mapping():
     with open(FIELD_MAPPING_FILE, 'r', encoding='utf-8') as f:
         mapping = json.load(f)
-    # 反向映射： local_key -> feishu_field_id
-    return {v: k for k, v in mapping.items()}
+    
+    fields = mapping.get('tables', {}).get('spaces', {}).get('fields', {})
+    # 反向映射： local_key (如 name) -> feishu_field_id
+    return {k: v['feishu_id'] for k, v in fields.items()}
 
 def main():
     print("加载字段映射配置...")
@@ -73,18 +75,18 @@ def main():
         name = node.get("name")
         if not name: continue
         
-        zh_type = TYPE_MAP.get(node.get("type", "unspecified"), "未分类")
+        zh_type = node.get("type", "未分类")
         
         # 组装 fields 字典，使用 field id
         fields_to_update = {
             key_to_fld["name"]: name,
-            key_to_fld["type"]: zh_type,
+            key_to_fld["type"]: [zh_type] if isinstance(zh_type, str) else zh_type,
             key_to_fld["id"]: node.get("id")
         }
         
         if node.get("notes"): fields_to_update[key_to_fld["notes"]] = node.get("notes")
-        if node.get("frequency"): fields_to_update[key_to_fld["frequency"]] = node.get("frequency")
-        if node.get("status"): fields_to_update[key_to_fld["status"]] = node.get("status")
+        if node.get("frequency"): fields_to_update[key_to_fld["frequency"]] = [node.get("frequency")] if isinstance(node.get("frequency"), str) else node.get("frequency")
+        if node.get("status"): fields_to_update[key_to_fld["status"]] = [node.get("status")] if isinstance(node.get("status"), str) else node.get("status")
         if node.get("primary_activity"): fields_to_update[key_to_fld["primary_activity"]] = node.get("primary_activity")
             
         rid = feishu_records.get(name)

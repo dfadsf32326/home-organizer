@@ -215,28 +215,43 @@ home-organizer/
 
 > ⚠️ 注意：飞书查找引用可能不支持链式引用（lookup 的 lookup），需实测验证。
 
-### 空间表双向同步
+### 空间表双向同步 (最新版)
 
-1. **脚本**：`scripts/sync_space_map.py`
-2. **映射文件**：`data/space_mapping.json`（扁平化，key 为本地 id）
-3. **映射结构**：
+1. **脚本**：`scripts/sync_spaces_bidirectional.py`
+2. **映射文件**：`data/space_tree.json`（树形统一模型，包含节点数组及层级关联关系）
+3. **映射结构示例**：
    ```json
    {
-     "ciwo": {
-       "record_id": "recvhoYxwCnEVi",
-       "name": "次卧",
-       "parent_id": "",
-       "parent_record_id": "",
-       "type": "room",
-       "frequency": "high",
-       "status": "pending"
-     }
+     "nodes": [
+       {
+         "record_id": "recvhqPgaJU2PG",
+         "name": "杂物间柜子",
+         "type": "柜子",
+         "id": "杂物间_收纳架",
+         "parent_id": "virtual_过道/杂物间"
+       }
+     ]
    }
    ```
-4. **推送顺序**：必须先推送父节点（确保 record_id 存在），再推送子节点。
+4. **功能特性**：
+   - **自动双向比对**：逐字段比对节点名、类型、备注、使用频率、盘点状态等。
+   - **云端拉取更新**：飞书数据修改自动覆盖本地。
+   - **本地推送新建**：本地新增节点自动推送飞书并回写 `record_id`。
+   - **云端发现新增**：飞书新增空间自动发现并拉取到本地，分配本地 ID。
+   - **树形关系维护**：无论哪端修改 `parent_id`，均可自动梳理和同步层级引用。
+   - **自动处理枚举格式**：自适应飞书单选/多选字段所需的数组封包逻辑。
+
+### 字段映射双向同步
+
+1. **脚本**：`scripts/sync_field_mapping.py`
+2. **功能特性**：
+   - 自动检测飞书列名（`feishu_name`）的文字变更。
+   - 依赖不随重命名而改变的 `feishu_id`。
+   - 随时保持本地 `field_mapping.json` 中名字的最新状态和可读性，防漂移。
 
 ## 版本历史
 
+- v0.4.3 | 2026-04-22 | 升级空间表为统一双向同步脚本，增加中文枚举原生支持与字段名称自动同步脚本
 - v0.4.2 | 2026-04-21 | 同步脚本字段 ID 化改造：新增 `field_mapping.json` 集中配置，脚本从硬编码改为读取配置
 - v0.4.1 | 2026-04-21 | 补充飞书「查找 vs 查找引用」字段类型辨析，链式引用方案
 - v0.4.0 | 2026-04-21 | 空间表自引用嵌套设计、sync_space_map.py 脚本、space_mapping.json 初始化
