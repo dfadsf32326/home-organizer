@@ -1,0 +1,432 @@
+{
+  "bedroom_desk": {
+    "record_id": "",
+    "name": "卧室桌子",
+    "parent": "卧室",
+    "type": "surface",
+    "frequency": "high",
+    "status": "inventory_completed",
+    "primary_activity": "工作/电脑娱乐",
+    "description": "卧室主要的办公、玩电脑空间"
+  },
+  "bedroom_bed": {
+    "record_id": "",
+    "name": "卧室床区",
+    "parent": "卧室",
+    "type": "area",
+    "frequency": "high",
+    "status": "pending",
+    "primary_activity": "睡觉/休息、工作",
+    "description": "睡眠与移动办公区域"
+  },
+  "living_room_coffee_table": {
+    "record_id": "",
+    "name": "客厅茶几",
+    "parent": "客厅",
+    "type": "surface",
+    "frequency": "high",
+    "status": "pending_reorganize",
+    "primary_activity": "待整理收集/多功能",
+    "description": "存放待整理物品（胶囊箱、护理包、电池）"
+  },
+  "living_room_round_table": {
+    "record_id": "",
+    "name": "客厅大圆桌",
+    "parent": "客厅",
+    "type": "surface",
+    "frequency": "high",
+    "status": "active",
+    "primary_activity": "吃饭/用餐",
+    "description": "存放补剂、锅巴、黑盒子"
+  },
+  "sink_table": {
+    "record_id": "",
+    "name": "洗漱厅桌子",
+    "parent": "洗漱厅",
+    "type": "surface",
+    "frequency": "high",
+    "status": "pending_reorganize",
+    "primary_activity": "洗漱/护理",
+    "description": "存放牙刷，待整理"
+  },
+  "bedroom_left_wall": {
+    "record_id": "",
+    "name": "卧室进门左边墙面",
+    "parent": "卧室",
+    "type": "wall",
+    "frequency": "high",
+    "status": "active",
+    "primary_activity": "挂载/收纳",
+    "description": "挂灰色背包"
+  },
+  "living_room_fridge_top_layer": {
+    "record_id": "",
+    "name": "冰箱上层保鲜区-最上层",
+    "parent": "客厅",
+    "type": "container",
+    "frequency": "high",
+    "status": "inventory_completed",
+    "primary_activity": "食品/补剂冷藏",
+    "description": "存放需要冷藏的饮品、补剂、益生菌及特殊食品"
+  },
+  "20inch_silver_suitcase": {
+    "record_id": "",
+    "name": "20寸银色行李箱",
+    "parent": "流动收纳/待定",
+    "type": "container",
+    "frequency": "low",
+    "status": "inventory_completed",
+    "primary_activity": "差旅/储物",
+    "description": "存放旅行杂物、纪念品及待处理物品"
+  },
+  "temporary_storage": {
+    "record_id": "",
+    "name": "暂存区",
+    "parent": "客厅",
+    "type": "area",
+    "frequency": "high",
+    "status": "active",
+    "primary_activity": "暂存/中转",
+    "description": "整理过程中的中转站，存放按大类初步归拢的物品"
+  },
+  "moving_box": {
+    "record_id": "",
+    "name": "搬家纸箱",
+    "parent": "待整理区域",
+    "type": "container",
+    "frequency": "low",
+    "status": "active",
+    "primary_activity": "搬家/储物",
+    "description": "存放搬家带来的杂物，待清点归位"
+  },
+  "inventory_temp_box": {
+    "record_id": "",
+    "name": "暂存盘点箱",
+    "parent": "暂存区",
+    "type": "container",
+    "frequency": "high",
+    "status": "active",
+    "primary_activity": "暂存/盘点中转",
+    "description": "整理过程中的中转盘点箱，未指定位置的物品默认放入此箱"
+  },
+  "厨房-灶台下柜子": {
+    "record_id": "",
+    "name": "灶台下柜子",
+    "parent": "厨房",
+    "type": "cabinet",
+    "frequency": "",
+    "status": "",
+    "primary_activity": "",
+    "description": ""
+  },
+  "厨房-刀架": {
+    "record_id": "",
+    "name": "刀架",
+    "parent": "厨房",
+    "type": "organizer",
+    "frequency": "",
+    "status": "",
+    "primary_activity": "",
+    "description": ""
+  },
+  "厨房-台面墙上挂钩": {
+    "record_id": "",
+    "name": "台面墙上挂钩",
+    "parent": "厨房",
+    "type": "wall_hook",
+    "frequency": "",
+    "status": "",
+    "primary_activity": "",
+    "description": ""
+  },
+  "厨房-进门左一上柜": {
+    "record_id": "",
+    "name": "进门左一上柜",
+    "parent": "厨房",
+    "type": "cabinet",
+    "frequency": "",
+    "status": "",
+    "primary_activity": "",
+    "description": ""
+  },
+  "厨房-进门左二上柜": {
+    "record_id": "",
+    "name": "进门左二上柜",
+    "parent": "厨房",
+    "type": "cabinet",
+    "frequency": "",
+    "status": "",
+    "primary_activity": "",
+    "description": ""
+  },
+  "厨房-进门左二下柜": {
+    "record_id": "",
+    "name": "进门左二下柜",
+    "parent": "厨房",
+    "type": "cabinet",
+    "frequency": "",
+    "status": "",
+    "primary_activity": "",
+    "description": ""
+  },
+  "厨房-台面": {
+    "record_id": "",
+    "name": "台面",
+    "parent": "厨房",
+    "type": "surface",
+    "frequency": "",
+    "status": "",
+    "primary_activity": "",
+    "description": ""
+  },
+  "客厅-冰箱": {
+    "record_id": "",
+    "name": "冰箱",
+    "parent": "客厅",
+    "type": "appliance",
+    "frequency": "",
+    "status": "",
+    "primary_activity": "",
+    "description": ""
+  },
+  "主卧楼上": {
+    "record_id": "",
+    "name": "主卧楼上",
+    "parent": "",
+    "type": "未指定",
+    "frequency": "low",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "药箱": {
+    "record_id": "",
+    "name": "药箱",
+    "parent": "主卧楼上",
+    "type": "未指定",
+    "frequency": "medium",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "电脑-纸箱": {
+    "record_id": "",
+    "name": "电脑 纸箱",
+    "parent": "主卧楼上",
+    "type": "未指定",
+    "frequency": "low",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "纸箱": {
+    "record_id": "",
+    "name": "纸箱",
+    "parent": "主卧楼上",
+    "type": "未指定",
+    "frequency": "low",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "主卧": {
+    "record_id": "",
+    "name": "主卧",
+    "parent": "",
+    "type": "未指定",
+    "frequency": "high",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "主卧桌子": {
+    "record_id": "",
+    "name": "主卧桌子",
+    "parent": "主卧",
+    "type": "未指定",
+    "frequency": "high",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "次卧": {
+    "record_id": "",
+    "name": "次卧",
+    "parent": "",
+    "type": "未指定",
+    "frequency": "high",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "desk": {
+    "record_id": "",
+    "name": "桌子",
+    "parent": "次卧",
+    "type": "未指定",
+    "frequency": "high",
+    "status": "inventory_completed",
+    "primary_activity": "",
+    "description": ""
+  },
+  "bed": {
+    "record_id": "",
+    "name": "床",
+    "parent": "次卧",
+    "type": "未指定",
+    "frequency": "high",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "wardrobe-drawers": {
+    "record_id": "",
+    "name": "衣柜抽屉",
+    "parent": "次卧",
+    "type": "未指定",
+    "frequency": "medium",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "wardrobe-hanging-rod": {
+    "record_id": "",
+    "name": "衣柜左上挂杆",
+    "parent": "次卧",
+    "type": "未指定",
+    "frequency": "medium",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "wardrobe-bottom-space": {
+    "record_id": "",
+    "name": "衣柜左下空间",
+    "parent": "次卧",
+    "type": "未指定",
+    "frequency": "low",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "left_wall": {
+    "record_id": "",
+    "name": "进门左边墙面",
+    "parent": "次卧",
+    "type": "未指定",
+    "frequency": "high",
+    "status": "active",
+    "primary_activity": "",
+    "description": ""
+  },
+  "手机电子产品配件箱": {
+    "record_id": "",
+    "name": "手机电子产品配件箱",
+    "parent": "次卧",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "数据线充电器盒子": {
+    "record_id": "",
+    "name": "数据线充电器盒子",
+    "parent": "次卧",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "吧台": {
+    "record_id": "",
+    "name": "吧台",
+    "parent": "",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "塑料收纳盒": {
+    "record_id": "",
+    "name": "塑料收纳盒",
+    "parent": "吧台",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "客厅塑料柜": {
+    "record_id": "",
+    "name": "客厅塑料柜",
+    "parent": "",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "口袋": {
+    "record_id": "",
+    "name": "口袋",
+    "parent": "客厅塑料柜",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "次卧楼上": {
+    "record_id": "",
+    "name": "次卧楼上",
+    "parent": "",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "箱子": {
+    "record_id": "",
+    "name": "箱子",
+    "parent": "次卧楼上",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "鞋柜": {
+    "record_id": "",
+    "name": "鞋柜",
+    "parent": "",
+    "type": "未指定",
+    "frequency": "",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "kitchen_countertop": {
+    "record_id": "",
+    "name": "厨房操作台",
+    "parent": "厨房",
+    "type": "未指定",
+    "frequency": "high",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  },
+  "kitchen_cabinet": {
+    "record_id": "",
+    "name": "橱柜",
+    "parent": "厨房",
+    "type": "未指定",
+    "frequency": "medium",
+    "status": "pending",
+    "primary_activity": "",
+    "description": ""
+  }
+}
