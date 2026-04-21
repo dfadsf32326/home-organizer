@@ -1,0 +1,138 @@
+{
+  "tables": {
+    "items": {
+      "table_id": "tbluMVXBpHIJDGyi",
+      "description": "物品清单表",
+      "fields": {
+        "name": {
+          "feishu_name": "物品名称",
+          "feishu_id": "fldILOfvTU",
+          "type": "text"
+        },
+        "major": {
+          "feishu_name": "大类",
+          "feishu_id": "fld7C77TKS",
+          "type": "select"
+        },
+        "sub_category": {
+          "feishu_name": "子分类",
+          "feishu_id": "fldbAVNHP7",
+          "type": "text"
+        },
+        "major_lookup": {
+          "feishu_name": "大分类",
+          "feishu_id": "fldBcFJxkF",
+          "type": "lookup",
+          "note": "查找引用字段，无需推送"
+        },
+        "remark": {
+          "feishu_name": "备注",
+          "feishu_id": "fldCQciQ2I",
+          "type": "text"
+        },
+        "location_full": {
+          "feishu_name": "所在位置",
+          "feishu_id": "fldFkWLX30",
+          "type": "text"
+        },
+        "location": {
+          "feishu_name": "位置",
+          "feishu_id": "fldfXIzujN",
+          "type": "text"
+        },
+        "duplicate_flag": {
+          "feishu_name": "标记是否重复",
+          "feishu_id": "fldkA8fRlR",
+          "type": "checkbox"
+        },
+        "container": {
+          "feishu_name": "容器",
+          "feishu_id": "fldkwgOFpA",
+          "type": "text"
+        },
+        "local_id": {
+          "feishu_name": "本地数据库ID",
+          "feishu_id": "fldqhfKPuE",
+          "type": "text"
+        },
+        "auto_no": {
+          "feishu_name": "自动编号",
+          "feishu_id": "fldrf53WhO",
+          "type": "auto_number"
+        },
+        "name_history": {
+          "feishu_name": "物品名称历史",
+          "feishu_id": "fldSJMTQgs",
+          "type": "text"
+        },
+        "category_link": {
+          "feishu_name": "分类表",
+          "feishu_id": "fldtoKBC3c",
+          "type": "link",
+          "note": "关联到分类表的关联字段"
+        },
+        "status": {
+          "feishu_name": "状态",
+          "feishu_id": "fldtxkMGSz",
+          "type": "select"
+        },
+        "attachment": {
+          "feishu_name": "附件",
+          "feishu_id": "flduL3L7U9",
+          "type": "attachment"
+        },
+        "container2": {
+          "feishu_name": "容器2",
+          "feishu_id": "fldwnP0pQc",
+          "type": "text"
+        },
+        "grandpa_container": {
+          "feishu_name": "祖父容器",
+          "feishu_id": "fldxYn8uiu",
+          "type": "text"
+        },
+        "record_id": {
+          "feishu_name": "记录 ID",
+          "feishu_id": "fldZ3Hd3CG",
+          "type": "text"
+        },
+        "updated_at": {
+          "feishu_name": "更新时间",
+          "feishu_id": "fldz6dNbKg",
+          "type": "datetime"
+        },
+        "parent_container": {
+          "feishu_name": "父容器",
+          "feishu_id": "fldZR8NSp4",
+          "type": "text"
+        }
+      }
+    },
+    "categories": {
+      "table_id": "tbl6Ew6fmmhqeeSP",
+      "description": "分类表",
+      "fields": {
+        "sub_name": {
+          "feishu_name": "子类名称",
+          "feishu_id": "fld0I6dPoN",
+          "type": "formula"
+        },
+        "cat_key": {
+          "feishu_name": "子类主键",
+          "feishu_id": "fldSSdJG7V",
+          "type": "text"
+        },
+        "major": {
+          "feishu_name": "大类",
+          "feishu_id": "fldwGw0lkN",
+          "type": "select"
+        },
+        "sub_class": {
+          "feishu_name": "子类",
+          "feishu_id": "fldx2lVHJB",
+          "type": "text"
+        }
+      }
+    }
+  }
+}

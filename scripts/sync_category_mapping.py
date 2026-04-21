@@ -23,6 +23,25 @@ BASE_TOKEN = "PS56bPhyNaWXRdsJX78cxyIOnJb"
 CATEGORY_TABLE_ID = "tbl6Ew6fmmhqeeSP"
 PROJECT_ROOT = "/Users/robinlu/Self-established_skill/home-organizer"
 MAPPING_FILE = os.path.join(PROJECT_ROOT, "data", "category_mapping.json")
+FIELD_MAPPING_FILE = os.path.join(PROJECT_ROOT, "data", "field_mapping.json")
+
+
+def load_field_mapping():
+    """加载字段映射配置（本地字段名 -> 飞书字段名/字段ID）"""
+    if not os.path.exists(FIELD_MAPPING_FILE):
+        print(f"⚠️  {FIELD_MAPPING_FILE} 不存在，请检查配置文件")
+        return {}
+    with open(FIELD_MAPPING_FILE, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def get_field_id(mapping, table_key, field_key):
+    """从映射配置中获取指定表的字段 ID"""
+    try:
+        return mapping["tables"][table_key]["fields"][field_key]["feishu_id"]
+    except (KeyError, TypeError):
+        print(f"⚠️  未找到字段映射: {table_key}.{field_key}")
+        return None
 
 
 def load_local_mapping():
@@ -53,29 +72,36 @@ def get_feishu_categories():
         print(f"❌ 拉取飞书分类表失败: {res.stderr}")
         return {}
     
+    # 加载字段映射配置
+    fm = load_field_mapping()
+    F = lambda key: get_field_id(fm, "categories", key)
+
     remote_data = {}
     try:
         data_full = json.loads(res.stdout)
         data = data_full.get("data", {})
         records = data.get("data", [])
-        field_names = data.get("fields", [])
+        field_ids = data.get("field_id_list", [])
         record_ids = data.get("record_id_list", [])
         
-        idx_map = {name: i for i, name in enumerate(field_names)}
+        # 使用字段 ID 建立索引映射，避免字段重命名导致同步失败
+        idx_map = {fid: i for i, fid in enumerate(field_ids)}
         
-        # 字段：子类名称、子类主键、大类、子类
         for i, row in enumerate(records):
             rid = record_ids[i]
             
-            def get_val(fname):
-                idx = idx_map.get(fname)
+            def get_val(field_key):
+                fid = F(field_key)
+                if not fid:
+                    return None
+                idx = idx_map.get(fid)
                 if idx is not None and idx < len(row):
                     return row[idx]
                 return None
             
-            # 子类名称可能是公式字段，尝试多个字段名
-            sub_name = get_val("子类名称") or get_val("子类主键") or get_val("子类")
-            major = get_val("大类")
+            # 子类名称可能是公式字段，按优先级尝试多个字段
+            sub_name = get_val("sub_name") or get_val("cat_key") or get_val("sub_class")
+            major = get_val("major")
             
             if sub_name:
                 # 处理飞书返回的列表格式
@@ -97,15 +123,19 @@ def get_feishu_categories():
 def push_to_feishu(local_mapping):
     """将本地映射推送到飞书"""
     print("\n📤 推送本地分类到飞书...")
-    
+
+    # 加载字段映射配置
+    fm = load_field_mapping()
+    F = lambda key: get_field_id(fm, "categories", key)
+
     remote_data = get_feishu_categories()
     created = 0
     updated = 0
-    
+
     for sub_name, info in local_mapping.items():
         record_id = info.get("record_id")
         major = info.get("major", "")
-        
+
         # 检查飞书是否已存在
         if sub_name in remote_data:
             # 已存在，检查是否需要更新
@@ -115,11 +145,11 @@ def push_to_feishu(local_mapping):
                 local_mapping[sub_name]["record_id"] = existing["record_id"]
                 print(f"  📝 补充 record_id: {sub_name}")
             continue
-        
-        # 不存在，创建新记录
+
+        # 不存在，创建新记录（使用字段 ID 推送）
         fields = {
-            "子类主键": sub_name,
-            "大类": [major] if major else []
+            F("cat_key"):   sub_name,
+            F("major"):     [major] if major else []
         }
         
         cmd = [LARK_CLI, "base", "+record-upsert",
