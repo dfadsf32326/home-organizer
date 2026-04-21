@@ -35,6 +35,7 @@ home-organizer/
 ├── data/
 │   ├── items.json                  # 物品清单（主数据）
 │   ├── category_mapping.json       # 子类名称 → {record_id, major} 映射
+│   ├── field_mapping.json          # 字段映射配置（本地名/飞书名/飞书ID）
 │   ├── space_map.json              # 空间映射
 │   └── history/                    # 历史数据归档
 └── scripts/
@@ -65,11 +66,41 @@ home-organizer/
 1. **本地 ID (`id`)**：唯一准则。
 2. **唯一入口**：`scripts/sync_final.py`。
 
+### 字段映射配置（field_mapping.json）
+
+**设计目的**：将字段 ID 从代码中抽离，集中维护。飞书端重命名字段或重建表时，**只需修改 JSON 配置，无需改动 Python 代码**。
+
+**配置结构**：
+```json
+{
+  "tables": {
+    "items": {
+      "table_id": "tbluMVXBpHIJDGyi",
+      "fields": {
+        "name": {"feishu_name": "物品名称", "feishu_id": "fldILOfvTU", "type": "text"},
+        "category_link": {"feishu_name": "分类表", "feishu_id": "fldtoKBC3c", "type": "link"}
+      }
+    }
+  }
+}
+```
+
+**使用方式**：
+- 脚本中通过 `load_field_mapping()` 加载配置
+- 通过 `get_field_id(mapping, table_key, field_key)` 获取字段 ID
+- 读取阶段：`field_id_list` 建立 `字段 ID → 列索引` 映射
+- 推送阶段：JSON key 使用字段 ID（如 `{"fldILOfvTU": "牙膏"}`）
+
+**维护流程**：
+1. 飞书重建表 → 用 `lark-cli base +record-list` 获取新字段 ID
+2. 更新 `field_mapping.json` 中的 `feishu_id`
+3. 同步脚本无需任何改动
+
 ### 关联字段必须传 Record ID
 
 1. **核心规则**：飞书多维表格的"关联字段"（如"分类表"链接到 tbl6Ew6fmmhqeeSP），**必须传被关联表的 record_id**，传纯文本无效。
 2. **映射字典**：`data/category_mapping.json` 维护了子类名称→`{record_id, major}` 的完整映射，同步时必须从此字典查 record_id。
-3. **推送格式**：`{"分类表": "recvhlcRUjNcMt"}`，lark-cli 会自动转换为 `[{"id": "recvhlcRUjNcMt"}]`。
+3. **推送格式**：`{"fldtoKBC3c": "recvhlcRUjNcMt"}`（使用字段 ID），lark-cli 会自动转换为 `[{"id": "recvhlcRUjNcMt"}]`。
 4. **本地字段**：items.json 中每个物品的 `category_record_id` 存储对应的分类表 record_id。
 5. **深度比对**：`is_content_equal` 必须包含 `category_record_id` vs 云端关联字段的比对，避免遗漏推送。
 6. **大类不需要推送**：飞书的"大分类"是查找引用字段，会从关联的分类表自动获取大类，推送时跳过"大类"字段。
@@ -206,6 +237,7 @@ home-organizer/
 
 ## 版本历史
 
+- v0.4.2 | 2026-04-21 | 同步脚本字段 ID 化改造：新增 `field_mapping.json` 集中配置，脚本从硬编码改为读取配置
 - v0.4.1 | 2026-04-21 | 补充飞书「查找 vs 查找引用」字段类型辨析，链式引用方案
 - v0.4.0 | 2026-04-21 | 空间表自引用嵌套设计、sync_space_map.py 脚本、space_mapping.json 初始化
 - v0.3.0 | 2026-04-21 | 分类表双向同步脚本、关联字段重构、移除大类推送、项目结构清理
