@@ -292,7 +292,7 @@ def sync():
             "location": remote["location"],
             "container": remote["container"],
             "remark": remote["remark"],
-            "status": normalize_select(remote["status"]) or "active",
+            "status": normalize_select(remote["status"]) or "正常",
             "updated_at": datetime.now().isoformat(),
             "feishu_record_id": rid,
         }
