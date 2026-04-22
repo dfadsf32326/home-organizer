@@ -5,7 +5,7 @@ import os
 import time
 
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
-BASE_TOKEN="PS56bPhyNaWXRdsJX78cxyIOnJb"
+BASE_TOKEN = os.environ.get("LARK_BASE_TOKEN")
 SPACE_TABLE_ID = "tbl2cA30WNdkjsLS"
 PROJECT_ROOT = "/Users/robinlu/Self-established_skill/home-organizer"
 SPACE_TREE_FILE = os.path.join(PROJECT_ROOT, "data", "space_tree.json")

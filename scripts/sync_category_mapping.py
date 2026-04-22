@@ -19,7 +19,7 @@ import argparse
 from datetime import datetime
 
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
-BASE_TOKEN = "PS56bPhyNaWXRdsJX78cxyIOnJb"
+BASE_TOKEN = os.environ.get("LARK_BASE_TOKEN")
 CATEGORY_TABLE_ID = "tbl6Ew6fmmhqeeSP"
 PROJECT_ROOT = "/Users/robinlu/Self-established_skill/home-organizer"
 MAPPING_FILE = os.path.join(PROJECT_ROOT, "data", "category_mapping.json")
@@ -148,7 +148,7 @@ def push_to_feishu(local_mapping):
 
         # 不存在，创建新记录（使用字段 ID 推送）
         fields = {
-            F("sub_class"): sub_name,
+            F("sub_class"): [sub_name],
             F("cat_key"):   sub_name,
             F("major"):     [major] if major else []
         }
