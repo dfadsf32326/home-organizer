@@ -5,7 +5,7 @@ import uuid
 from datetime import datetime
 
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
-BASE_TOKEN = "PS56bPhyNaWXRdsJX78cxyIOnJb"
+BASE_TOKEN="PS56bPhyNaWXRdsJX78cxyIOnJb"
 TABLE_ID = "tbluMVXBpHIJDGyi"
 CATEGORY_TABLE_ID = "tbl6Ew6fmmhqeeSP"
 PROJECT_ROOT = "/Users/robinlu/.hermes/skills/home-organizer"
@@ -15,27 +15,21 @@ FIELD_MAPPING_FILE = os.path.join(PROJECT_ROOT, "data/field_mapping.json")
 
 
 def load_field_mapping():
-    """加载字段映射配置（本地字段名 -> 飞书字段名/字段ID）"""
     if not os.path.exists(FIELD_MAPPING_FILE):
-        print(f"⚠️  {FIELD_MAPPING_FILE} 不存在，请检查配置文件")
         return {}
     with open(FIELD_MAPPING_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
 def get_field_id(mapping, table_key, field_key):
-    """从映射配置中获取指定表的字段 ID"""
     try:
         return mapping["tables"][table_key]["fields"][field_key]["feishu_id"]
-    except (KeyError, TypeError):
-        print(f"⚠️  未找到字段映射: {table_key}.{field_key}")
+    except:
         return None
 
 
 def load_category_mapping():
-    """加载分类映射字典（子类名称 -> record_id）"""
     if not os.path.exists(MAPPING_FILE):
-        print("⚠️  category_mapping.json 不存在，请先运行 sync_categories.py")
         return {}
     with open(MAPPING_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
@@ -58,7 +52,6 @@ def get_feishu_records():
     if res.returncode != 0:
         return {}
 
-    # 加载字段映射配置
     fm = load_field_mapping()
     F = lambda key: get_field_id(fm, "items", key)
 
@@ -70,7 +63,6 @@ def get_feishu_records():
         field_ids = data.get("field_id_list", [])
         record_ids = data.get("record_id_list", [])
 
-        # 使用字段 ID 建立索引映射，避免字段重命名导致同步失败
         idx_map = {fid: i for i, fid in enumerate(field_ids)}
 
         for i, row in enumerate(records):
@@ -78,11 +70,9 @@ def get_feishu_records():
 
             def get_val(field_key):
                 fid = F(field_key)
-                if not fid:
-                    return None
+                if not fid: return None
                 idx = idx_map.get(fid)
-                if idx is not None and idx < len(row):
-                    return row[idx]
+                if idx is not None and idx < len(row): return row[idx]
                 return None
 
             item_info = {
@@ -91,7 +81,7 @@ def get_feishu_records():
                 "name": get_val("name"),
                 "category": get_val("major"),
                 "sub_category": get_val("sub_category"),
-                "category_link": get_val("category_link"),  # 关联字段的值
+                "category_link": get_val("category_link"),
                 "location": get_val("location"),
                 "container": get_val("container"),
                 "updated_at": get_val("updated_at"),
@@ -99,22 +89,19 @@ def get_feishu_records():
                 "remark": get_val("remark"),
             }
             remote_data[rid] = item_info
-    except Exception as e:
-        print(f"❌ 解析飞书数据出错: {e}")
+    except:
+        pass
     return remote_data
 
 
 def normalize_select(val):
-    """归一化飞书 Select 字段（列表格式）为字符串"""
     if isinstance(val, list):
         return val[0] if val else None
     return val
 
 
 def extract_link_record_id(link_val):
-    """从关联字段值中提取 record_id 列表"""
-    if not link_val:
-        return []
+    if not link_val: return []
     if isinstance(link_val, list):
         ids = []
         for item in link_val:
@@ -127,7 +114,6 @@ def extract_link_record_id(link_val):
 
 
 def is_content_equal(local, remote, mapping):
-    """深度比对本地物品内容和云端物品内容（含关联字段）"""
     checks = [
         (local.get("name"), remote.get("name")),
         (local.get("category"), normalize_select(remote.get("category"))),
@@ -137,8 +123,6 @@ def is_content_equal(local, remote, mapping):
         (local.get("status"), normalize_select(remote.get("status"))),
         (local.get("remark"), remote.get("remark")),
     ]
-
-    # 关联字段比对
     local_cat_rid = local.get("category_record_id")
     remote_cat_rids = extract_link_record_id(remote.get("category_link"))
     remote_cat_rid = remote_cat_rids[0] if remote_cat_rids else None
@@ -153,7 +137,6 @@ def is_content_equal(local, remote, mapping):
 
 
 def ensure_category_record_id(item, mapping):
-    """确保物品有 category_record_id，如果没有则根据 sub_category 补齐"""
     sub_cat = item.get("sub_category")
     if not item.get("category_record_id") and sub_cat and sub_cat in mapping:
         item["category_record_id"] = mapping[sub_cat]["record_id"]
@@ -181,15 +164,12 @@ def sync():
     skip_count = 0
     new_local_count = 0
 
-    # 第一阶段：双向同步现有项
     for item in local_items:
         lid = item.get("id")
         rid = item.get("feishu_record_id")
 
-        # 确保 category_record_id 存在
         ensure_category_record_id(item, mapping)
 
-        # 匹配策略：优先 Record ID，其次本地 ID
         remote = remote_data.get(rid)
         if not remote:
             for r_rid, r_info in remote_data.items():
@@ -204,23 +184,20 @@ def sync():
             local_ts = parse_time(item.get("updated_at"))
             remote_ts = parse_time(remote["updated_at"])
 
-            # 深度内容比对（含关联字段）
             if is_content_equal(item, remote, mapping):
                 skip_count += 1
                 continue
 
-            # 内容不一致，判断谁更晚
-            if remote_ts > local_ts + 2:  # 2秒容差
+            if remote_ts > local_ts + 2:
                 print(f"↓ 拉取更新: {item.get('name')}")
-                item["name"] = remote["name"] or item["name"]
-                item["location"] = remote["location"] or item["location"]
-                item["container"] = remote["container"] or item["container"]
+                item["name"] = remote.get("name") or item.get("name")
+                item["location"] = remote.get("location") or item.get("location")
+                item["container"] = remote.get("container") or item.get("container")
                 item["sub_category"] = remote["sub_category"] or item.get("sub_category")
                 item["remark"] = remote["remark"] or item.get("remark")
                 item["category"] = normalize_select(remote["category"]) or item.get("category")
                 item["status"] = normalize_select(remote["status"]) or item.get("status")
 
-                # 拉取关联字段的 record_id
                 remote_cat_rids = extract_link_record_id(remote.get("category_link"))
                 if remote_cat_rids:
                     item["category_record_id"] = remote_cat_rids[0]
@@ -228,11 +205,7 @@ def sync():
                 item["updated_at"] = datetime.fromtimestamp(remote_ts).isoformat()
                 pull_count += 1
                 continue
-            else:
-                # 本地更新，准备推送
-                pass
 
-        # 推送逻辑 —— 使用字段 ID 推送，避免字段重命名导致同步失败
         fields = {
             F("name"):          item.get("name"),
             F("sub_category"):  item.get("sub_category"),
@@ -242,10 +215,9 @@ def sync():
             F("local_id"):      lid,
         }
 
-        # ★ 关联字段：使用 category_record_id 建立到分类表的链接（大类由飞书查找引用自动填充）
         cat_rid = item.get("category_record_id")
         if cat_rid:
-            fields[F("category_link")] = cat_rid
+            fields[F("category_link")] = [{"id": cat_rid}]
 
         if item.get("status"):
             fields[F("status")] = [item["status"]] if isinstance(item["status"], str) else item["status"]
@@ -266,10 +238,7 @@ def sync():
                     processed_remote_rids.add(new_rid)
             except:
                 pass
-        else:
-            print(f"Sync failed for {item.get('name')}: {res.stderr}")
 
-    # 第二阶段：反向录入云端新增
     for rid, remote in remote_data.items():
         if rid in processed_remote_rids:
             continue
@@ -279,7 +248,6 @@ def sync():
         if not remote["local_id"]:
             subprocess.run([LARK_CLI, "base", "+record-upsert", "--base-token", BASE_TOKEN, "--table-id", TABLE_ID, "--record-id", rid, "--json", json.dumps({F("local_id"): new_lid}, ensure_ascii=False)])
 
-        # 拉取关联字段的 record_id
         remote_cat_rids = extract_link_record_id(remote.get("category_link"))
         cat_rid = remote_cat_rids[0] if remote_cat_rids else None
 
@@ -299,7 +267,6 @@ def sync():
         local_items.append(new_item)
         new_local_count += 1
 
-    # 最终清理与保存
     unique_items = []
     seen_ids = set()
     for it in local_items:
