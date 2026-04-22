@@ -10,9 +10,11 @@
       "location": "厨房",
       "container": "测试盒子",
       "status": "已丢弃",
-      "updated_at": "2026-04-20T13:43:04",
+      "updated_at": "2026-04-22T01:03:43",
       "space_id": "药箱",
-      "feishu_record_id": "recvhivxFsNbES"
+      "feishu_record_id": "recvhivxFsNbES",
+      "remark": "该自动同步测试物品因测试完成且无保留价值，已从厨房的测试盒子中移出并丢弃。",
+      "category_record_id": "recvhlcXevMRKS"
     },
     {
       "name": "牙膏 (2个)",
@@ -246,9 +248,11 @@
       "location": "暂存区",
       "container": "测试纸箱",
       "status": "已丢弃",
-      "updated_at": "2026-04-20T13:43:21",
+      "updated_at": "2026-04-22T01:03:19",
       "space_id": "temporary_storage",
-      "feishu_record_id": "recvhiBK1drjsq"
+      "feishu_record_id": "recvhiBK1drjsq",
+      "remark": null,
+      "category_record_id": "recvhlcXevMRKS"
     },
     {
       "id": "test-coffee-cup-001",
@@ -258,8 +262,10 @@
       "location": "卧室123",
       "container": "玻璃柜",
       "status": "已丢弃",
-      "updated_at": "2026-04-20T13:43:22",
-      "feishu_record_id": "recvhiZdddqMPF"
+      "updated_at": "2026-04-22T01:03:19",
+      "feishu_record_id": "recvhiZdddqMPF",
+      "remark": null,
+      "category_record_id": "recvhlcXevMRKS"
     },
     {
       "id": "test-structure-check",
@@ -269,8 +275,10 @@
       "location": "123",
       "container": "1234123",
       "status": "已丢弃",
-      "updated_at": "2026-04-20T13:43:23",
-      "feishu_record_id": "recvhiDb31UEQP"
+      "updated_at": "2026-04-22T01:03:19",
+      "feishu_record_id": "recvhiDb31UEQP",
+      "remark": null,
+      "category_record_id": "recvhlcXevMRKS"
     },
     {
       "id": "234123adsfag",
@@ -280,8 +288,10 @@
       "location": "123415",
       "container": "123124",
       "status": "已丢弃",
-      "updated_at": "2026-04-20T13:43:24",
-      "feishu_record_id": "recvhiRp8zp7Na"
+      "updated_at": "2026-04-22T01:03:08",
+      "feishu_record_id": "recvhiRp8zp7Na",
+      "remark": null,
+      "category_record_id": "recvhlcXevMRKS"
     },
     {
       "name": "空喷雾瓶",
@@ -2091,13 +2101,229 @@
       "name": "测试物品",
       "category": "🏠 家居与工具",
       "sub_category": "测试分类",
-      "category_record_id": null,
+      "category_record_id": "recvhlcSek6XIu",
       "location": "测试位置",
       "container": null,
       "remark": "这是一条测试数据",
       "status": "正常",
-      "updated_at": "2026-04-22T00:41:55",
+      "updated_at": "2026-04-22T14:36:19",
       "feishu_record_id": "recvhqoHp9DGFC"
+    },
+    {
+      "id": "fb30d3d9-fe92-443a-b40e-5562d1de7ad8",
+      "name": "Bose QC 35 耳机",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "7fb54e75-225c-4a7c-bcf4-52c3ba3f00d3",
+      "name": "手机维修工具盒",
+      "sub_category": "五金与维修",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcWDHfR8Q"
+    },
+    {
+      "id": "fec9d41b-d20a-4579-9a61-08914c9ddb85",
+      "name": "iPhone 16 Pro 手机膜及贴膜工具",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "e5b9b74c-a2d3-476f-ba39-b11b0c63d4dc",
+      "name": "清洁布袋（含擦屏幕布x1, 眼镜布x2）",
+      "sub_category": "清洁与家务",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcWWb4fO7"
+    },
+    {
+      "id": "a0149724-48e6-4a9a-b962-c1343d0449dd",
+      "name": "苹果 Lightning 原装有线耳机",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "68e58fc3-70d8-416a-b931-1d4f5f06e73b",
+      "name": "透明 iPhone 16 手机壳",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "7e6318cc-79c6-48bc-998d-a9d24001187d",
+      "name": "手机防水袋",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "3d4e9421-3b29-413b-8751-a73145d7c0f2",
+      "name": "NFC解密器(一盒)",
+      "sub_category": "五金与维修",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcWDHfR8Q"
+    },
+    {
+      "id": "3c84c8fe-0cbf-4e7d-91ee-51dff71c8e8f",
+      "name": "小米手环普通表带",
+      "sub_category": "配件挂饰",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcUqCEQ3j"
+    },
+    {
+      "id": "10f1c0b9-834e-49e2-905a-c22f9824d0c1",
+      "name": "手机磁吸镜",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "79409dbf-2fc9-4c63-bc29-e5d22ae8fce3",
+      "name": "手机运动手臂袋",
+      "sub_category": "配件挂饰",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcUqCEQ3j"
+    },
+    {
+      "id": "c478de73-54a3-4054-bf3a-56af6a5047c2",
+      "name": "坏的 iPad",
+      "sub_category": "核心计算设备",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcQdkgzbf"
+    },
+    {
+      "id": "0c6e650e-1b47-4e1e-9580-38347e65e2a5",
+      "name": "绿色 iPhone 12 手机壳",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "2a246683-6e01-461a-83ce-b7bf35dea6f5",
+      "name": "小米手环充电线",
+      "sub_category": "动力与线材",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcREq9Yi6"
+    },
+    {
+      "id": "24183840-48d5-4a43-9f32-6564a10cb94b",
+      "name": "小米手环尼龙表带",
+      "sub_category": "配件挂饰",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcUqCEQ3j"
+    },
+    {
+      "id": "0e4019fc-262a-420c-acc9-671af4b5a9f1",
+      "name": "iPhone 12 手机壳膜套装",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "4e7e8335-2c68-4af2-818a-8a2390d6b458",
+      "name": "手机夹（夹杆子用的）",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
+    },
+    {
+      "id": "f5a2bc06-0836-4d0b-af69-c732f21b99c9",
+      "name": "3.5mm 塑料三脚架",
+      "sub_category": "外设与配件",
+      "container_id": "手机电子产品配件箱",
+      "lifecycle_status": "active",
+      "status": "pending",
+      "quantity": 1,
+      "created_at": "2026-04-22T18:36:04.729395",
+      "updated_at": "2026-04-22T18:36:04.729395",
+      "category_record_id": "recvhlcRnaO0ql"
     }
   ]
 }
