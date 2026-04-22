@@ -148,7 +148,6 @@ def push_to_feishu(local_mapping):
 
         # 不存在，创建新记录（使用字段 ID 推送）
         fields = {
-            F("sub_class"): sub_name,
             F("cat_key"):   sub_name,
             F("major"):     [major] if major else []
         }
