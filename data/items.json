@@ -2119,19 +2119,21 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ1OyB6Sr"
     },
     {
       "id": "7fb54e75-225c-4a7c-bcf4-52c3ba3f00d3",
       "name": "手机维修工具盒",
-      "sub_category": "五金与维修",
+      "sub_category": "数码维修工具",
       "container_id": "手机电子产品配件箱",
       "lifecycle_status": "active",
       "status": "pending",
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
-      "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcWDHfR8Q"
+      "updated_at": "2026-04-22T19:11:07.676228",
+      "category_record_id": "recvhlcWDHfR8Q",
+      "feishu_record_id": "recvhvZ27bQE8u"
     },
     {
       "id": "fec9d41b-d20a-4579-9a61-08914c9ddb85",
@@ -2143,19 +2145,21 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ2oqzUrQ"
     },
     {
       "id": "e5b9b74c-a2d3-476f-ba39-b11b0c63d4dc",
       "name": "清洁布袋（含擦屏幕布x1, 眼镜布x2）",
-      "sub_category": "清洁与家务",
+      "sub_category": "外设与配件",
       "container_id": "手机电子产品配件箱",
       "lifecycle_status": "active",
       "status": "pending",
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
-      "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcWWb4fO7"
+      "updated_at": "2026-04-22T19:11:07.676228",
+      "category_record_id": "recvhlcWWb4fO7",
+      "feishu_record_id": "recvhvZ2GcOytK"
     },
     {
       "id": "a0149724-48e6-4a9a-b962-c1343d0449dd",
@@ -2167,7 +2171,8 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ2WccWvQ"
     },
     {
       "id": "68e58fc3-70d8-416a-b931-1d4f5f06e73b",
@@ -2179,7 +2184,8 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ3ekj7hU"
     },
     {
       "id": "7e6318cc-79c6-48bc-998d-a9d24001187d",
@@ -2191,7 +2197,8 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ3uyNLFt"
     },
     {
       "id": "3d4e9421-3b29-413b-8751-a73145d7c0f2",
@@ -2203,19 +2210,21 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcWDHfR8Q"
+      "category_record_id": "recvhlcWDHfR8Q",
+      "feishu_record_id": "recvhvZ3L8uuvv"
     },
     {
       "id": "3c84c8fe-0cbf-4e7d-91ee-51dff71c8e8f",
       "name": "小米手环普通表带",
-      "sub_category": "配件挂饰",
+      "sub_category": "外设与配件",
       "container_id": "手机电子产品配件箱",
       "lifecycle_status": "active",
       "status": "pending",
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
-      "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcUqCEQ3j"
+      "updated_at": "2026-04-22T19:11:07.676228",
+      "category_record_id": "recvhlcUqCEQ3j",
+      "feishu_record_id": "recvhvZ41PDfcH"
     },
     {
       "id": "10f1c0b9-834e-49e2-905a-c22f9824d0c1",
@@ -2227,19 +2236,21 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ4ivslcX"
     },
     {
       "id": "79409dbf-2fc9-4c63-bc29-e5d22ae8fce3",
       "name": "手机运动手臂袋",
-      "sub_category": "配件挂饰",
+      "sub_category": "外设与配件",
       "container_id": "手机电子产品配件箱",
       "lifecycle_status": "active",
       "status": "pending",
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
-      "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcUqCEQ3j"
+      "updated_at": "2026-04-22T19:11:07.676228",
+      "category_record_id": "recvhlcUqCEQ3j",
+      "feishu_record_id": "recvhvZ4yWslcQ"
     },
     {
       "id": "c478de73-54a3-4054-bf3a-56af6a5047c2",
@@ -2251,7 +2262,8 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcQdkgzbf"
+      "category_record_id": "recvhlcQdkgzbf",
+      "feishu_record_id": "recvhvZ4Os4VAa"
     },
     {
       "id": "0c6e650e-1b47-4e1e-9580-38347e65e2a5",
@@ -2263,7 +2275,8 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ54vOPDx"
     },
     {
       "id": "2a246683-6e01-461a-83ce-b7bf35dea6f5",
@@ -2275,19 +2288,21 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcREq9Yi6"
+      "category_record_id": "recvhlcREq9Yi6",
+      "feishu_record_id": "recvhvZ5kGGLeF"
     },
     {
       "id": "24183840-48d5-4a43-9f32-6564a10cb94b",
       "name": "小米手环尼龙表带",
-      "sub_category": "配件挂饰",
+      "sub_category": "外设与配件",
       "container_id": "手机电子产品配件箱",
       "lifecycle_status": "active",
       "status": "pending",
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
-      "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcUqCEQ3j"
+      "updated_at": "2026-04-22T19:11:07.676228",
+      "category_record_id": "recvhlcUqCEQ3j",
+      "feishu_record_id": "recvhvZ5ARMWI9"
     },
     {
       "id": "0e4019fc-262a-420c-acc9-671af4b5a9f1",
@@ -2299,7 +2314,8 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ5TYubdx"
     },
     {
       "id": "4e7e8335-2c68-4af2-818a-8a2390d6b458",
@@ -2311,7 +2327,8 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ69JtR9w"
     },
     {
       "id": "f5a2bc06-0836-4d0b-af69-c732f21b99c9",
@@ -2323,7 +2340,8 @@
       "quantity": 1,
       "created_at": "2026-04-22T18:36:04.729395",
       "updated_at": "2026-04-22T18:36:04.729395",
-      "category_record_id": "recvhlcRnaO0ql"
+      "category_record_id": "recvhlcRnaO0ql",
+      "feishu_record_id": "recvhvZ6rbv58d"
     }
   ]
 }
