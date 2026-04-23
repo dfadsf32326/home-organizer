@@ -3,7 +3,7 @@ import subprocess
 import os
 
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
-BASE_TOKEN = os.environ.get("LARK_BASE_TOKEN")
+BASE_TOKEN = "PS56bPhyNaWXRdsJX78cxyIOnJb"
 TABLE_ID = "tbluMVXBpHIJDGyi"
 
 def load_items():

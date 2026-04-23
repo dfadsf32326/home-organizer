@@ -6,7 +6,7 @@ with open(path, "r", encoding="utf-8") as f:
 
 # Fix the LARK_BASE_TOKEN issue properly in the script
 old_str = 'BASE_TOKEN="PS56bP...OnJb"'
-new_str = 'import os\nBASE_TOKEN=os.environ.get("LARK_BASE_TOKEN")'
+new_str = 'import os\nBASE_TOKEN = "PS56bPhyNaWXRdsJX78cxyIOnJb"'
 
 if old_str in code:
     code = code.replace(old_str, new_str)

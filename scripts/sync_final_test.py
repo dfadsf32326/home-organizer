@@ -5,7 +5,7 @@ import uuid
 from datetime import datetime
 
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
-BASE_TOKEN=os.environ.get("LARK_BASE_TOKEN")
+BASE_TOKEN = "PS56bPhyNaWXRdsJX78cxyIOnJb"
 TABLE_ID = "tbluMVXBpHIJDGyi"
 CATEGORY_TABLE_ID = "tbl6Ew6fmmhqeeSP"
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))

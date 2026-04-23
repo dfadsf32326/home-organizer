@@ -5,7 +5,7 @@ import os
 import time
 
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
-BASE_TOKEN = os.environ.get("LARK_BASE_TOKEN")
+BASE_TOKEN = "PS56bPhyNaWXRdsJX78cxyIOnJb"
 SPACE_TABLE_ID = "tbl2cA30WNdkjsLS"
 ITEMS_TABLE_ID = "tbluMVXBpHIJDGyi"
 
