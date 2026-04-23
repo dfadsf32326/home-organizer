@@ -8,7 +8,7 @@ LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
 BASE_TOKEN=os.environ.get("LARK_BASE_TOKEN")
 
 SPACE_TABLE_ID = "tbl2cA30WNdkjsLS"
-PROJECT_ROOT = "/Users/robinlu/Self-established_skill/home-organizer"
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 SPACE_TREE_FILE = os.path.join(PROJECT_ROOT, "data", "space_tree.json")
 FIELD_MAPPING_FILE = os.path.join(PROJECT_ROOT, "data", "field_mapping.json")
 

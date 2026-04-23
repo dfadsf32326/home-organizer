@@ -21,7 +21,7 @@ from datetime import datetime
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
 BASE_TOKEN = os.environ.get("LARK_BASE_TOKEN")
 CATEGORY_TABLE_ID = "tbl6Ew6fmmhqeeSP"
-PROJECT_ROOT = "/Users/robinlu/Self-established_skill/home-organizer"
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 MAPPING_FILE = os.path.join(PROJECT_ROOT, "data", "category_mapping.json")
 FIELD_MAPPING_FILE = os.path.join(PROJECT_ROOT, "data", "field_mapping.json")
 

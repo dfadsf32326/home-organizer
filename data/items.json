@@ -9,8 +9,8 @@
       "sub_category": "测试分类",
       "location": "厨房",
       "container": "测试盒子",
-      "status": "已丢弃",
-      "updated_at": "2026-04-22T22:51:29.000259",
+      "status": "测试",
+      "updated_at": "2026-04-23T01:55:20",
       "space_id": "药箱",
       "feishu_record_id": "recvhivxFsNbES",
       "remark": "该自动同步测试物品因测试完成且无保留价值，已从厨房的测试盒子中移出并丢弃。",
@@ -177,7 +177,7 @@
       "sub_class": "护肤与美妆"
     },
     {
-      "name": "唇膏 (1支)",
+      "name": "妮维雅 唇膏 (1支)",
       "category": "🧼 个人护理",
       "sub_category": "护肤与美妆",
       "location": "暂存区",
@@ -185,7 +185,7 @@
       "status": "正常",
       "id": "item-49de7300",
       "feishu_record_id": "recvhiv6p62FVx",
-      "updated_at": "2026-04-22T22:51:29.000282",
+      "updated_at": "2026-04-23T01:55:37",
       "space_id": "temporary_storage",
       "category_record_id": "recvhlcSek6XIu",
       "space_record_id": "recvhqPgaJU2PG",
@@ -263,8 +263,8 @@
       "sub_category": "测试分类",
       "location": "暂存区",
       "container": "测试纸箱",
-      "status": "已丢弃",
-      "updated_at": "2026-04-22T22:51:29.000287",
+      "status": "测试",
+      "updated_at": "2026-04-23T01:55:20",
       "space_id": "temporary_storage",
       "feishu_record_id": "recvhiBK1drjsq",
       "remark": null,
@@ -278,8 +278,8 @@
       "sub_category": "51241",
       "location": "123",
       "container": "1234123",
-      "status": "已丢弃",
-      "updated_at": "2026-04-22T22:51:29.000289",
+      "status": "测试",
+      "updated_at": "2026-04-23T01:55:20",
       "feishu_record_id": "recvhiDb31UEQP",
       "remark": null,
       "category_record_id": "recvhlcXevMRKS",
@@ -292,8 +292,8 @@
       "sub_category": "124",
       "location": "123415",
       "container": "123124",
-      "status": "已丢弃",
-      "updated_at": "2026-04-22T22:51:29.000290",
+      "status": "测试",
+      "updated_at": "2026-04-23T01:55:08",
       "feishu_record_id": "recvhiRp8zp7Na",
       "remark": null,
       "category_record_id": "recvhlcXevMRKS",
@@ -1577,8 +1577,8 @@
       "sub_category": "厨房消耗品",
       "location": "厨房",
       "container": null,
-      "status": "已丢弃",
-      "updated_at": "2026-04-22T22:51:29.000371",
+      "status": "待删除",
+      "updated_at": "2026-04-23T01:54:37",
       "feishu_record_id": "recvhj3Ho0mv6a",
       "category_record_id": "recvhfPMlHTdH7",
       "remark": null,
@@ -2207,12 +2207,12 @@
       "location": "次卧",
       "container": "次卧-桌子-数据线充电器盒子",
       "remark": "这是一条用于测试的新增记录，包含测试标签，阅后可删。",
-      "status": "待定/未分类",
+      "status": "测试",
       "tags": [
         "测试"
       ],
       "created_at": "2026-04-21T18:17:37.385132",
-      "updated_at": "2026-04-22T22:51:29.000411",
+      "updated_at": "2026-04-23T10:13:39",
       "feishu_record_id": "recvhq40vSwLLb",
       "category": null,
       "sub_class": "身体洗护"
@@ -2226,8 +2226,8 @@
       "location": "测试位置",
       "container": null,
       "remark": "这是一条测试数据",
-      "status": "正常",
-      "updated_at": "2026-04-22T22:51:29.000412",
+      "status": "测试",
+      "updated_at": "2026-04-23T01:55:27",
       "feishu_record_id": "recvhqoHp9DGFC",
       "sub_class": "护肤与美妆"
     },
@@ -2860,9 +2860,13 @@
       "container": "未分配",
       "sub_class": "外设与配件",
       "category_record_id": "recvhlcRnaO0ql",
-      "status": "active",
+      "status": "待删除",
       "added_at": "2026-04-22T21:45:10.213095",
-      "updated_at": "2026-04-22T21:45:10.213095"
+      "updated_at": "2026-04-23T01:52:07",
+      "feishu_record_id": "recvhxJwFLZVU2",
+      "sub_category": null,
+      "remark": null,
+      "category": null
     },
     {
       "id": "item_staging_8314f42a",
@@ -2871,9 +2875,13 @@
       "container": "未分配",
       "sub_class": "数码维修工具",
       "category_record_id": "recvhw7R7yZ8ym",
-      "status": "active",
+      "status": "待删除",
       "added_at": "2026-04-22T21:45:10.213095",
-      "updated_at": "2026-04-22T21:45:10.213095"
+      "updated_at": "2026-04-23T01:52:02",
+      "feishu_record_id": "recvhxJwTKdYtC",
+      "sub_category": null,
+      "remark": null,
+      "category": null
     },
     {
       "id": "item_staging_c21f8880",
@@ -2882,9 +2890,13 @@
       "container": "未分配",
       "sub_class": "清洁与家务",
       "category_record_id": "recvhlcWWb4fO7",
-      "status": "active",
+      "status": "待删除",
       "added_at": "2026-04-22T21:45:10.213095",
-      "updated_at": "2026-04-22T21:45:10.213095"
+      "updated_at": "2026-04-23T01:51:55",
+      "feishu_record_id": "recvhxJxaT8Iew",
+      "sub_category": null,
+      "remark": null,
+      "category": null
     },
     {
       "id": "test-coffee-cup-001",
@@ -2895,8 +2907,8 @@
       "location": "卧室123",
       "container": "玻璃柜",
       "remark": null,
-      "status": "已丢弃",
-      "updated_at": "2026-04-23T01:47:12.967168",
+      "status": "测试",
+      "updated_at": "2026-04-23T01:55:20",
       "feishu_record_id": "recvhiGNfDKnPZ"
     },
     {
@@ -2908,8 +2920,8 @@
       "location": null,
       "container": null,
       "remark": null,
-      "status": "已丢弃",
-      "updated_at": "2026-04-23T01:47:12.967288",
+      "status": "测试",
+      "updated_at": "2026-04-23T01:54:43",
       "feishu_record_id": "recvhj2QA4ukhd"
     },
     {
