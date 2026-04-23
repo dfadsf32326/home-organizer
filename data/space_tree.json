@@ -68,6 +68,12 @@
       "parent_id": null
     },
     {
+      "id": "space_0ZhBCZ",
+      "record_id": "recvhAlY0ZhBCZ",
+      "name": "透明文件盒",
+      "type": "收纳工具"
+    },
+    {
       "record_id": "recvhqPkNVYN9U",
       "name": "次卧",
       "type": "未分类",
@@ -99,6 +105,18 @@
       "frequency": null,
       "primary_activity": null,
       "parent_id": null
+    },
+    {
+      "id": "space_7AmVR8",
+      "record_id": "recvhxGm7AmVR8",
+      "name": "收纳物品箱",
+      "type": "未分类"
+    },
+    {
+      "id": "space_9O5uXg",
+      "record_id": "recvhAlV9O5uXg",
+      "name": "五芳斋 粽子盒子",
+      "type": "纸箱"
     },
     {
       "record_id": "recvhqPepFSu28",
@@ -143,6 +161,17 @@
       "id": "bedroom_left_wall",
       "frequency": "高",
       "parent_id": "次卧"
+    },
+    {
+      "id": "space_Bz16iU",
+      "record_id": "recvhv0UBz16iU",
+      "name": "次卧大衣柜",
+      "type": "家具",
+      "parent_id": "次卧",
+      "notes": null,
+      "frequency": null,
+      "status": null,
+      "primary_activity": null
     },
     {
       "record_id": "recvhqPfFeisLr",
@@ -431,7 +460,7 @@
       "status": "待整理",
       "id": "wardrobe-drawers",
       "frequency": "中",
-      "parent_id": "次卧",
+      "parent_id": "space_Bz16iU",
       "notes": null,
       "primary_activity": null
     },
@@ -442,7 +471,7 @@
       "status": "待整理",
       "id": "wardrobe-hanging-rod",
       "frequency": "中",
-      "parent_id": "次卧",
+      "parent_id": "space_Bz16iU",
       "notes": null,
       "primary_activity": null
     },
@@ -453,7 +482,7 @@
       "status": "待整理",
       "id": "wardrobe-bottom-space",
       "frequency": "低",
-      "parent_id": "次卧",
+      "parent_id": "space_Bz16iU",
       "notes": null,
       "primary_activity": null
     },
@@ -472,7 +501,10 @@
       "type": "未分类",
       "status": "待整理",
       "id": "手机电子产品配件箱",
-      "parent_id": "次卧"
+      "parent_id": "次卧",
+      "notes": null,
+      "frequency": null,
+      "primary_activity": null
     },
     {
       "record_id": "recvhqPmI3KKlB",
@@ -480,7 +512,10 @@
       "type": "未分类",
       "status": "待整理",
       "id": "数据线充电器盒子",
-      "parent_id": "次卧"
+      "parent_id": "desk",
+      "notes": null,
+      "frequency": null,
+      "primary_activity": null
     },
     {
       "record_id": "recvhqPnaRXsdv",
@@ -515,13 +550,6 @@
       "id": "kitchen_cabinet",
       "frequency": "中",
       "parent_id": "厨房"
-    },
-    {
-      "id": "space_Bz16iU",
-      "record_id": "recvhv0UBz16iU",
-      "name": "次卧大衣柜",
-      "type": "未分类",
-      "parent_id": "次卧"
     },
     {
       "record_id": "recvhqPopio10V",
@@ -561,6 +589,13 @@
       "type": "柜子",
       "id": "厨房_进门左二下柜",
       "parent_id": "厨房"
+    },
+    {
+      "id": "space_89a7FX",
+      "record_id": "recvhxEL89a7FX",
+      "name": "衣柜右上空间",
+      "type": "柜子",
+      "parent_id": "space_Bz16iU"
     },
     {
       "record_id": "recvhqPj7OLI6v",
