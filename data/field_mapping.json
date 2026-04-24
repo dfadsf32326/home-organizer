@@ -149,8 +149,8 @@
           "type": "text"
         },
         "parent_id": {
-          "feishu_name": "父记录 2",
-          "feishu_id": "fld0dncyUx",
+          "feishu_name": "父空间",
+          "feishu_id": "fldoS6EOpe",
           "type": "link"
         },
         "type": {
@@ -159,8 +159,8 @@
           "type": "text"
         },
         "notes": {
-          "feishu_name": "备注",
-          "feishu_id": "flddu3x2Pi",
+          "feishu_name": "备注字段",
+          "feishu_id": "fldrCLbryN",
           "type": "text"
         },
         "frequency": {
@@ -179,8 +179,8 @@
           "type": "text"
         },
         "id": {
-          "feishu_name": "空间ID",
-          "feishu_id": "fldwWHawys",
+          "feishu_name": "空间 ID",
+          "feishu_id": "fldybLlQen",
           "type": "text"
         }
       }
