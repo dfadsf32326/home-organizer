@@ -228,6 +228,19 @@ def main():
         if not remote.get("id"):
             subprocess.run([LARK_CLI, "base", "+record-upsert", "--base-token", BASE_TOKEN, "--table-id", SPACE_TABLE_ID, "--record-id", rid, "--json", json.dumps({key_to_fld["id"]: new_lid}, ensure_ascii=False)])
 
+
+    # 阶段 C：清理本地多余数据（如果飞书端已删除）
+    new_local_nodes = []
+    deleted_count = 0
+    for node in local_nodes:
+        rid = node.get("record_id")
+        # 只要本地有 record_id 且云端 remote_nodes 找不到，说明飞书上已经删了
+        if rid and rid not in remote_nodes:
+            print(f"  🗑 发现飞书已删除记录，同步清理本地: {node.get('name')}")
+            deleted_count += 1
+        else:
+            new_local_nodes.append(node)
+    local_nodes = new_local_nodes
     print("\n4. 同步父子层级关系(推送到飞书)...")
     # 因为父子关系是由 parent_id 和 record_id 决定的，双向同步后需要确保飞书的关联字段是对的
     # 此处统一以本地整理后的 parent_id 向飞书推送一波关联关系（增量覆盖）
