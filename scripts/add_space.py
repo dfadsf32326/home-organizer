@@ -53,7 +53,11 @@ def main():
     with open(space_map_file, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         
-    print(f"Successfully added new space: {args.name} (ID: {new_id})")
+    print(f"\nSuccessfully added new space to local database: {args.name} (ID: {new_id})")
+    print(f"\n[ACTION REQUIRED] Next steps according to SKILL SOP:")
+    print(f"1. Ask user for permission to push to Feishu.")
+    print(f"2. Upon approval, run `python3 scripts/sync_spaces_bidirectional.py`.")
+    print(f"3. The sync script will automatically push this new space, get the Feishu Record ID, and write it back to `space_tree.json`.")
 
 if __name__ == "__main__":
     main()
