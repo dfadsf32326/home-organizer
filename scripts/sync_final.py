@@ -84,6 +84,7 @@ def get_feishu_records():
                 "category_link": get_val("category_link"),
                 "location": get_val("location"),
                 "container": get_val("container"),
+                "space_record_id": get_val("space_record_id"),
                 "updated_at": get_val("updated_at"),
                 "status": get_val("status"),
                 "remark": get_val("remark"),
@@ -127,6 +128,11 @@ def is_content_equal(local, remote, mapping):
     remote_cat_rids = extract_link_record_id(remote.get("category_link"))
     remote_cat_rid = remote_cat_rids[0] if remote_cat_rids else None
     checks.append((local_cat_rid, remote_cat_rid))
+
+    local_space_rid = local.get("space_record_id")
+    remote_space_rids = extract_link_record_id(remote.get("space_record_id"))
+    remote_space_rid = remote_space_rids[0] if remote_space_rids else None
+    checks.append((local_space_rid, remote_space_rid))
 
     for l_val, r_val in checks:
         l_norm = l_val if l_val is not None else ""
@@ -259,12 +265,17 @@ def sync():
         remote_cat_rids = extract_link_record_id(remote.get("category_link"))
         cat_rid = remote_cat_rids[0] if remote_cat_rids else None
 
+
+        remote_space_rids = extract_link_record_id(remote.get("space_record_id"))
+        space_rid = remote_space_rids[0] if remote_space_rids else None
+        
         new_item = {
             "id": new_lid,
             "name": remote["name"],
             "category": normalize_select(remote["category"]),
             "sub_category": remote["sub_category"],
             "category_record_id": cat_rid,
+            "space_record_id": space_rid,
             "location": remote["location"],
             "container": remote["container"],
             "remark": remote["remark"],
