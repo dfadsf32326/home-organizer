@@ -2565,9 +2565,9 @@
       "container": "手机电子产品配件箱",
       "remark": null,
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:39:57",
+      "updated_at": "2026-04-25T07:37:15",
       "feishu_record_id": "recvhwO7oLoGHN",
-      "space_record_id": "recvhqPmtW1ttg"
+      "space_record_id": null
     },
     {
       "id": "test_73239b60",
@@ -2649,7 +2649,7 @@
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:21:59",
+      "updated_at": "2026-04-25T07:22:21",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2663,7 +2663,7 @@
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:22:00",
+      "updated_at": "2026-04-25T07:22:22",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2677,7 +2677,7 @@
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:22:01",
+      "updated_at": "2026-04-25T07:22:22",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2691,7 +2691,7 @@
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:22:02",
+      "updated_at": "2026-04-25T07:22:23",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2705,7 +2705,7 @@
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:22:03",
+      "updated_at": "2026-04-25T07:22:24",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2719,7 +2719,7 @@
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:23:45",
+      "updated_at": "2026-04-25T07:22:25",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2733,7 +2733,7 @@
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:22:05",
+      "updated_at": "2026-04-25T07:22:26",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2747,8 +2747,22 @@
       "container": "学历资料文件袋",
       "category": "珍藏与纪念",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:23:25",
+      "updated_at": "2026-04-25T07:22:27",
       "category_record_id": "recvhlcW45dLAC"
+    },
+    {
+      "id": "8d5965bf-6acc-4e90-b24c-b1f2c732dd7a",
+      "name": "🧪测试-猫条(已分配)",
+      "category": null,
+      "sub_category": "测试子分类更新",
+      "category_record_id": "recvhlcWlMDG0N",
+      "location": "手机电子产品配件箱测试版",
+      "container": "",
+      "remark": "同步测试用例1",
+      "status": "正常",
+      "updated_at": "2026-04-25T07:36:15",
+      "feishu_record_id": "recvhKMTEcYCto",
+      "space_record_id": null
     }
   ]
 }

@@ -230,12 +230,10 @@ def sync():
         }
 
         cat_rid = item.get("category_record_id")
-        if cat_rid:
-            fields[F("category_link")] = [{"id": cat_rid}]
+        fields[F("category_link")] = [{"id": cat_rid}] if cat_rid else []
 
         space_rid = item.get("space_record_id")
-        if space_rid:
-            fields[F("space_record_id")] = [{"id": space_rid}]
+        fields[F("space_record_id")] = [{"id": space_rid}] if space_rid else []
 
         if item.get("status"):
             fields[F("status")] = [item["status"]] if isinstance(item["status"], str) else item["status"]
