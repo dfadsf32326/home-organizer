@@ -1,6 +1,7 @@
+import os
 import json
 
-with open("/Users/robinlu/.hermes/skills/home-organizer/data/items.json", "r") as f:
+with open(os.path.join(os.path.dirname(os.path.dirname(__file__)), "data/items.json"), "r") as f:
     data = json.load(f)
 
 recent_items = []

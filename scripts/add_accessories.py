@@ -1,9 +1,10 @@
+import os
 import json
 import uuid
 from datetime import datetime
 
-ITEMS_FILE = "/Users/robinlu/.hermes/skills/home-organizer/data/items.json"
-MAPPING_FILE = "/Users/robinlu/.hermes/skills/home-organizer/data/category_mapping.json"
+ITEMS_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data/items.json")
+MAPPING_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data/category_mapping.json")
 NOW = datetime.now().isoformat()
 CONTAINER = "手机电子产品配件箱"
 
