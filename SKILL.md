@@ -70,8 +70,7 @@ home-organizer/
 │   ├── items.json                  # 物品清单（主数据）
 │   ├── category_mapping.json       # 子类名称 → {record_id, major} 映射
 │   ├── field_mapping.json          # 字段映射配置（本地名/飞书名/飞书ID）
-│   ├── space_map.json              # 空间映射
-│   └── history/                    # 历史数据归档
+│   │   └── history/                    # 历史数据归档
 └── scripts/
    ├── sync_final.py               # 核心同步（物品清单 ↔ 飞书）
    └── sync_category_mapping.py    # 分类表双向同步（本地 ↔ 飞书分类表）
@@ -300,7 +299,7 @@ home-organizer/
 在用户要求盘点或收纳物品到某个指定空间/容器时，必须遵循以下标准工作流：
 
 1. **模糊匹配与防重检查**：
-   - 当用户说出空间/容器名称时，首先在本地空间库 (`data/space_map.json` / `data/space_tree.json`) 中进行完全匹配。
+   - 当用户说出空间/容器名称时，首先在本地空间库 (`data/space_tree.json`) 中进行完全匹配。
    - 如果不存在完全匹配的名字，**必须使用相似度/包含关系**去匹配历史已有空间。
    - 找到相似空间后，**必须向用户反问确认**：“您说的是不是之前的 [已存在的相似空间]？”
 
