@@ -110,6 +110,11 @@
           "feishu_name": "容器2",
           "feishu_id": "fldwnP0pQc",
           "type": "link"
+        },
+        "space_record_id": {
+          "feishu_name": "空间表容器",
+          "feishu_id": "fld31jGyNa",
+          "type": "link"
         }
       }
     },
