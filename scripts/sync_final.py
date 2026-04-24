@@ -202,6 +202,10 @@ def sync():
                 if remote_cat_rids:
                     item["category_record_id"] = remote_cat_rids[0]
 
+                remote_space_rids = extract_link_record_id(remote.get("space_record_id"))
+                if remote_space_rids:
+                    item["space_record_id"] = remote_space_rids[0]
+
                 item["updated_at"] = datetime.fromtimestamp(remote_ts).isoformat()
                 pull_count += 1
                 continue
@@ -218,6 +222,10 @@ def sync():
         cat_rid = item.get("category_record_id")
         if cat_rid:
             fields[F("category_link")] = [{"id": cat_rid}]
+
+        space_rid = item.get("space_record_id")
+        if space_rid:
+            fields[F("space_record_id")] = [{"id": space_rid}]
 
         if item.get("status"):
             fields[F("status")] = [item["status"]] if isinstance(item["status"], str) else item["status"]
