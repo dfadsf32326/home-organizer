@@ -207,10 +207,14 @@ def sync():
                 remote_cat_rids = extract_link_record_id(remote.get("category_link"))
                 if remote_cat_rids:
                     item["category_record_id"] = remote_cat_rids[0]
+                else:
+                    item["category_record_id"] = None
 
                 remote_space_rids = extract_link_record_id(remote.get("space_record_id"))
                 if remote_space_rids:
                     item["space_record_id"] = remote_space_rids[0]
+                else:
+                    item["space_record_id"] = None
 
                 item["updated_at"] = datetime.fromtimestamp(remote_ts).isoformat()
                 pull_count += 1

@@ -2565,7 +2565,7 @@
       "container": "手机电子产品配件箱",
       "remark": null,
       "status": "盘点中",
-      "updated_at": "2026-04-25T00:18:36",
+      "updated_at": "2026-04-25T01:39:57",
       "feishu_record_id": "recvhwO7oLoGHN",
       "space_record_id": "recvhqPmtW1ttg"
     },
@@ -2645,11 +2645,11 @@
       "location": "学历资料文件袋",
       "space_record_id": "recvhIe6xJr39B",
       "remark": "",
-      "feishu_record_id": null,
+      "feishu_record_id": "recvhJkeAsR3LK",
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:06:44.803897",
+      "updated_at": "2026-04-25T01:21:59",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2659,11 +2659,11 @@
       "location": "学历资料文件袋",
       "space_record_id": "recvhIe6xJr39B",
       "remark": "",
-      "feishu_record_id": null,
+      "feishu_record_id": "recvhJkeQegPtX",
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:06:44.803897",
+      "updated_at": "2026-04-25T01:22:00",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2673,11 +2673,11 @@
       "location": "学历资料文件袋",
       "space_record_id": "recvhIe6xJr39B",
       "remark": "",
-      "feishu_record_id": null,
+      "feishu_record_id": "recvhJkf5oUihx",
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:06:44.803897",
+      "updated_at": "2026-04-25T01:22:01",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2687,11 +2687,11 @@
       "location": "学历资料文件袋",
       "space_record_id": "recvhIe6xJr39B",
       "remark": "",
-      "feishu_record_id": null,
+      "feishu_record_id": "recvhJkfly8XU3",
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:06:44.803897",
+      "updated_at": "2026-04-25T01:22:02",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2701,11 +2701,11 @@
       "location": "学历资料文件袋",
       "space_record_id": "recvhIe6xJr39B",
       "remark": "",
-      "feishu_record_id": null,
+      "feishu_record_id": "recvhJkfC3KIez",
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:06:44.803897",
+      "updated_at": "2026-04-25T01:22:03",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2715,12 +2715,12 @@
       "location": "学历资料文件袋",
       "space_record_id": "recvhIe6xJr39B",
       "remark": "",
-      "feishu_record_id": null,
+      "feishu_record_id": "recvhJkfQYqnrv",
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:06:44.803897",
-      "category_record_id": "recvhlcVfexiJc"
+      "updated_at": "2026-04-25T01:23:45",
+      "category_record_id": "recvhlcUYvRurl"
     },
     {
       "id": "3c2c8e76-5ce4-45bb-be17-2581aca6fd86",
@@ -2729,11 +2729,11 @@
       "location": "学历资料文件袋",
       "space_record_id": "recvhIe6xJr39B",
       "remark": "",
-      "feishu_record_id": null,
+      "feishu_record_id": "recvhJkg61U64g",
       "container": "学历资料文件袋",
       "category": "📚 文档资产",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:06:44.803897",
+      "updated_at": "2026-04-25T01:22:05",
       "category_record_id": "recvhlcUYvRurl"
     },
     {
@@ -2743,11 +2743,12 @@
       "location": "学历资料文件袋",
       "space_record_id": "recvhIe6xJr39B",
       "remark": "",
-      "feishu_record_id": null,
+      "feishu_record_id": "recvhJkgmX5ItU",
       "container": "学历资料文件袋",
       "category": "珍藏与纪念",
       "status": "盘点中",
-      "updated_at": "2026-04-25T01:06:44.803897"
+      "updated_at": "2026-04-25T01:23:25",
+      "category_record_id": "recvhlcW45dLAC"
     }
   ]
 }
