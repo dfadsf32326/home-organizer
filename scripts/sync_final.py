@@ -117,8 +117,6 @@ def extract_link_record_id(link_val):
 def is_content_equal(local, remote, mapping):
     checks = [
         (local.get("name"), remote.get("name")),
-        (local.get("category"), normalize_select(remote.get("category"))),
-        (local.get("sub_category"), remote.get("sub_category")),
         (local.get("location"), remote.get("location")),
         (local.get("container"), remote.get("container")),
         (local.get("status"), normalize_select(remote.get("status"))),
@@ -199,14 +197,19 @@ def sync():
                 item["name"] = remote.get("name") or item.get("name")
                 item["location"] = remote.get("location") or item.get("location")
                 item["container"] = remote.get("container") or item.get("container")
-                item["sub_category"] = remote["sub_category"] or item.get("sub_category")
-                item["remark"] = remote["remark"] or item.get("remark")
-                item["category"] = normalize_select(remote["category"]) or item.get("category")
-                item["status"] = normalize_select(remote["status"]) or item.get("status")
+                item["remark"] = remote.get("remark") or item.get("remark")
+                item["category"] = normalize_select(remote.get("category")) or item.get("category")
+                item["status"] = normalize_select(remote.get("status")) or item.get("status")
 
                 remote_cat_rids = extract_link_record_id(remote.get("category_link"))
                 if remote_cat_rids:
                     item["category_record_id"] = remote_cat_rids[0]
+                    # 反查分类名称
+                    for k, v in mapping.items():
+                        if v.get("record_id") == remote_cat_rids[0]:
+                            item["sub_category"] = k
+                            item["category"] = v.get("major") or item["category"]
+                            break
                 else:
                     item["category_record_id"] = None
 
@@ -267,6 +270,14 @@ def sync():
         remote_cat_rids = extract_link_record_id(remote.get("category_link"))
         cat_rid = remote_cat_rids[0] if remote_cat_rids else None
 
+        sub_cat_name = remote["sub_category"]
+        major_name = normalize_select(remote["category"])
+        if cat_rid:
+            for k, v in mapping.items():
+                if v.get("record_id") == cat_rid:
+                    sub_cat_name = k
+                    major_name = v.get("major")
+                    break
 
         remote_space_rids = extract_link_record_id(remote.get("space_record_id"))
         space_rid = remote_space_rids[0] if remote_space_rids else None
@@ -274,8 +285,8 @@ def sync():
         new_item = {
             "id": new_lid,
             "name": remote["name"],
-            "category": normalize_select(remote["category"]),
-            "sub_category": remote["sub_category"],
+            "category": major_name,
+            "sub_category": sub_cat_name,
             "category_record_id": cat_rid,
             "space_record_id": space_rid,
             "location": remote["location"],
