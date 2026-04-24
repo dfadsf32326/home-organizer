@@ -36,10 +36,23 @@ def main():
 
     # 生成ID并构造新空间 (适配 space_tree.json 格式)
     new_id = str(uuid.uuid4())[:8]
+    # Lookup parent_id if parent name is provided
+    parent_id = None
+    if args.parent:
+        for nd in nodes:
+            if nd.get("name") == args.parent:
+                parent_id = nd.get("id")
+                break
+
     new_node = {
         "id": new_id,
         "name": args.name,
-        "parent_id": None, # Should ideally lookup parent ID, but will be resolved by sync script or empty
+        "parent_id": parent_id,
+        "frequency": args.frequency,
+        "type": args.type,
+        "primary_activity": args.activity,
+        "description": args.desc,
+        "status": "inventory_pending",
         "level": 3,
         "path": ""
     }
