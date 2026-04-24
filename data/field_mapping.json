@@ -164,23 +164,28 @@
           "type": "text"
         },
         "frequency": {
-          "feishu_name": "使用频率",
-          "feishu_id": "fldYXo5EZO",
+          "feishu_name": "使用率",
+          "feishu_id": "fldMkwvqbd",
           "type": "text"
         },
         "status": {
-          "feishu_name": "盘点状态",
-          "feishu_id": "fldNQ6iENA",
+          "feishu_name": "状态",
+          "feishu_id": "fld6NJUvq2",
           "type": "text"
         },
         "primary_activity": {
-          "feishu_name": "主体活动",
-          "feishu_id": "fldUbCPYwi",
+          "feishu_name": "主要功能",
+          "feishu_id": "fldOQLQPec",
           "type": "text"
         },
         "id": {
           "feishu_name": "空间 ID",
           "feishu_id": "fldybLlQen",
+          "type": "text"
+        },
+        "record_id": {
+          "feishu_name": "记录 ID",
+          "feishu_id": "fldz4U4glo",
           "type": "text"
         }
       }
