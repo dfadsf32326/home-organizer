@@ -29,7 +29,12 @@
       "record_id": "recvhqPiTnFBO1",
       "name": "客厅",
       "type": "房间",
-      "id": "客厅"
+      "id": "客厅",
+      "notes": "124124124",
+      "frequency": null,
+      "status": null,
+      "primary_activity": null,
+      "parent_id": null
     },
     {
       "record_id": "recvhAoQu1XRlx",
