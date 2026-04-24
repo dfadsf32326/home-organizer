@@ -37,17 +37,6 @@
       "parent_id": null
     },
     {
-      "record_id": "recvhAoQu1XRlx",
-      "name": "卧室",
-      "type": "房间",
-      "notes": "系统自动生成的缺失父节点",
-      "id": "virtual_卧室",
-      "frequency": null,
-      "status": "废弃",
-      "primary_activity": null,
-      "parent_id": null
-    },
-    {
       "record_id": "recvhqPpkP3kZ9",
       "name": "洗漱厅",
       "type": "房间",
@@ -60,17 +49,6 @@
       "type": "房间",
       "notes": "系统自动生成的缺失父节点",
       "id": "virtual_流动收纳/待定"
-    },
-    {
-      "record_id": "recvhAoQK8D6o6",
-      "name": "待整理区域",
-      "type": "房间",
-      "notes": "系统自动生成的缺失父节点",
-      "id": "virtual_待整理区域",
-      "frequency": null,
-      "status": "废弃",
-      "primary_activity": null,
-      "parent_id": null
     },
     {
       "record_id": "recvhqPjm3HUXv",
@@ -93,19 +71,6 @@
       "notes": null,
       "primary_activity": null,
       "parent_id": null
-    },
-    {
-      "id": "4c9edf56",
-      "name": "学历资料文件袋",
-      "parent_id": null,
-      "level": 3,
-      "path": "",
-      "record_id": "recvhIe6xJr39B",
-      "type": "未分类",
-      "notes": null,
-      "frequency": null,
-      "status": null,
-      "primary_activity": null
     },
     {
       "record_id": "recvhqPkNVYN9U",

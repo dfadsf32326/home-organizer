@@ -267,18 +267,6 @@ def sync():
         local_items.append(new_item)
         new_local_count += 1
 
-    # 删除本地那些在飞书云端已经被删掉的物品
-    remote_rids = set(remote_data.keys())
-    deleted_count = 0
-    new_local_items = []
-    for item in local_items:
-        rid = item.get("feishu_record_id")
-        if rid and rid not in remote_rids:
-            print(f"🗑  发现物品在飞书已删除，清理本地: {item.get('name')}")
-            deleted_count += 1
-        else:
-            new_local_items.append(item)
-    local_items = new_local_items
 
 
     unique_items = []
