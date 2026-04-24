@@ -2813,7 +2813,7 @@
       "container": "手机电子产品配件箱",
       "added_at": "2026-04-22T21:18:49.478515",
       "space_id": "手机电子产品配件箱",
-      "updated_at": "2026-04-24T02:06:26",
+      "updated_at": "2026-04-24T02:24:45",
       "local_id": "fc052924-1a33-4d7f-a63e-01b4b922f8b4",
       "feishu_record_id": "recvhwOaFuGKxg",
       "sub_class": "外设与配件",
@@ -2830,7 +2830,7 @@
       "container": "手机电子产品配件箱",
       "added_at": "2026-04-22T21:18:49.478527",
       "space_id": "手机电子产品配件箱",
-      "updated_at": "2026-04-24T02:06:27",
+      "updated_at": "2026-04-24T02:24:46",
       "local_id": "d2b22311-e20a-400c-9e01-844ce102fda6",
       "feishu_record_id": "recvhwOaUZxDz4",
       "sub_class": "外设与配件",
@@ -2847,7 +2847,7 @@
       "container": "手机电子产品配件箱",
       "added_at": "2026-04-22T21:18:49.478531",
       "space_id": "手机电子产品配件箱",
-      "updated_at": "2026-04-24T02:06:28",
+      "updated_at": "2026-04-24T02:24:47",
       "local_id": "95616411-5f1f-4f21-8f3a-4fbaf34c3bf6",
       "feishu_record_id": "recvhwOb9aFU1g",
       "sub_class": "核心计算设备",
@@ -2975,6 +2975,251 @@
       "status": "正常",
       "updated_at": "2026-04-23T01:47:13.665829",
       "feishu_record_id": "recvhxCzGBNwJk"
+    },
+    {
+      "id": "29642f8c",
+      "name": "初中毕业证书",
+      "category": "文档与杂物",
+      "sub_category": "证件资料",
+      "container_id": "学历资料文件袋",
+      "status": "良好",
+      "quantity": 1,
+      "created_at": "2026-04-24 20:37:25",
+      "updated_at": "2026-04-24 20:37:25",
+      "tags": [
+        "回忆",
+        "重要",
+        "不可替代"
+      ]
+    },
+    {
+      "id": "1e1d000a",
+      "name": "中考准考证",
+      "category": "文档与杂物",
+      "sub_category": "证件资料",
+      "container_id": "学历资料文件袋",
+      "status": "良好",
+      "quantity": 1,
+      "created_at": "2026-04-24 20:37:25",
+      "updated_at": "2026-04-24 20:37:25",
+      "tags": [
+        "回忆",
+        "重要",
+        "不可替代"
+      ]
+    },
+    {
+      "id": "5213aa5f",
+      "name": "初中写给自己的信",
+      "category": "文档与杂物",
+      "sub_category": "证件资料",
+      "container_id": "学历资料文件袋",
+      "status": "良好",
+      "quantity": 1,
+      "created_at": "2026-04-24 20:37:25",
+      "updated_at": "2026-04-24 20:37:25",
+      "tags": [
+        "回忆",
+        "重要",
+        "不可替代"
+      ]
+    },
+    {
+      "id": "f1bceb9c",
+      "name": "普通话二级乙等证书",
+      "category": "文档与杂物",
+      "sub_category": "证件资料",
+      "container_id": "学历资料文件袋",
+      "status": "良好",
+      "quantity": 1,
+      "created_at": "2026-04-24 20:37:25",
+      "updated_at": "2026-04-24 20:37:25",
+      "tags": [
+        "回忆",
+        "重要",
+        "不可替代"
+      ]
+    },
+    {
+      "id": "537a6431",
+      "name": "本科录取通知书",
+      "category": "文档与杂物",
+      "sub_category": "证件资料",
+      "container_id": "学历资料文件袋",
+      "status": "良好",
+      "quantity": 1,
+      "created_at": "2026-04-24 20:37:25",
+      "updated_at": "2026-04-24 20:37:25",
+      "tags": [
+        "回忆",
+        "重要",
+        "不可替代"
+      ]
+    },
+    {
+      "id": "f7cbcde7",
+      "name": "本科毕业证书",
+      "category": "文档与杂物",
+      "sub_category": "证件资料",
+      "container_id": "学历资料文件袋",
+      "status": "良好",
+      "quantity": 1,
+      "created_at": "2026-04-24 20:37:25",
+      "updated_at": "2026-04-24 20:37:25",
+      "tags": [
+        "回忆",
+        "重要",
+        "不可替代"
+      ]
+    },
+    {
+      "id": "f3409370",
+      "name": "本科学位证书",
+      "category": "文档与杂物",
+      "sub_category": "证件资料",
+      "container_id": "学历资料文件袋",
+      "status": "良好",
+      "quantity": 1,
+      "created_at": "2026-04-24 20:37:25",
+      "updated_at": "2026-04-24 20:37:25",
+      "tags": [
+        "回忆",
+        "重要",
+        "不可替代"
+      ]
+    },
+    {
+      "id": "1a170cf9",
+      "name": "英语四级证书",
+      "category": "文档与杂物",
+      "sub_category": "证件资料",
+      "container_id": "学历资料文件袋",
+      "status": "良好",
+      "quantity": 1,
+      "created_at": "2026-04-24 20:37:25",
+      "updated_at": "2026-04-24 20:37:25",
+      "tags": [
+        "回忆",
+        "重要",
+        "不可替代"
+      ]
+    },
+    {
+      "id": "ba656c2b-3e92-40ca-82fa-0d0a1bcd01cf",
+      "name": "金属钢化膜盒子 (可作为收纳盒)",
+      "category": null,
+      "sub_category": "收纳与包袋",
+      "category_record_id": "recvhlcXevMRKS",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061326",
+      "feishu_record_id": "recvhI3EwR3oko"
+    },
+    {
+      "id": "cbe3178f-8048-4e91-b97e-5be84cb6d9b4",
+      "name": "5倍卡手机卡袋子",
+      "category": null,
+      "sub_category": "外设与配件",
+      "category_record_id": "recvhlcRnaO0ql",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061339",
+      "feishu_record_id": "recvhI3EPQOLeL"
+    },
+    {
+      "id": "02b2a67c-832c-46de-9b87-0626d3d710f3",
+      "name": "AirPods 替换耳塞 (一对)",
+      "category": null,
+      "sub_category": "外设与配件",
+      "category_record_id": "recvhlcRnaO0ql",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061354",
+      "feishu_record_id": "recvhI3F5tJNEd"
+    },
+    {
+      "id": "1b6b4508-d9d1-42c9-b189-8a9f95ea3133",
+      "name": "Apple Watch 充电转接器",
+      "category": null,
+      "sub_category": "动力与线材",
+      "category_record_id": "recvhlcREq9Yi6",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061361",
+      "feishu_record_id": "recvhI3FmBUmVC"
+    },
+    {
+      "id": "f5360150-ba2b-490c-9ebf-d21cf0c707a0",
+      "name": "贴膜神器 (3个)",
+      "category": null,
+      "sub_category": "外设与配件",
+      "category_record_id": "recvhlcRnaO0ql",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061368",
+      "feishu_record_id": "recvhI3FCXSrJO"
+    },
+    {
+      "id": "6d129f61-8ccf-4572-8e5e-8cac04b98324",
+      "name": "磁吸环",
+      "category": null,
+      "sub_category": "外设与配件",
+      "category_record_id": "recvhlcRnaO0ql",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061374",
+      "feishu_record_id": "recvhI3FSLItAD"
+    },
+    {
+      "id": "da052f2d-4766-4501-b70c-8cd59827f89b",
+      "name": "AirPods Pro 耳机套",
+      "category": null,
+      "sub_category": "外设与配件",
+      "category_record_id": "recvhlcRnaO0ql",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061380",
+      "feishu_record_id": "recvhI3GaadwsW"
+    },
+    {
+      "id": "90def8df-1316-4d8d-9359-d602af2aa6ed",
+      "name": "Type C 转 Lightning 转接头",
+      "category": null,
+      "sub_category": "动力与线材",
+      "category_record_id": "recvhlcREq9Yi6",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061387",
+      "feishu_record_id": "recvhI3GpSd3ZD"
+    },
+    {
+      "id": "2d4d5298-26b1-4f0c-9b2a-807a66f72de7",
+      "name": "U盘",
+      "category": null,
+      "sub_category": "存储媒介",
+      "category_record_id": "recvhlcR5cb9xq",
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "pending",
+      "updated_at": "2026-04-24T20:37:41.061393",
+      "feishu_record_id": "recvhI3GGLzP2H"
     }
   ]
 }
