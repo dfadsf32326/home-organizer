@@ -1,2706 +1,5223 @@
 {
+  "version": "1.0",
   "items": [
     {
-      "id": "item-6ad266b4",
+      "feishu_record_id": "recvhirq5k6sjy",
       "name": "牙膏 (2个)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5F2tMMIx"
+        }
+      ],
       "sub_category": "身体洗护",
-      "category_record_id": "recvhlcRUjNcMt",
-      "space_record_id": "recvhr5F2tMMIx",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "一次性洗护用品袋",
-      "remark": null,
+      "local_id": "item-6ad266b4",
+      "auto_no": "001",
+      "category_link": [
+        {
+          "id": "recvhlcRUjNcMt"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhirq5k6sjy",
       "updated_at": "2026-04-25 00:16:01",
-      "feishu_record_id": "recvhirq5k6sjy"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-e58a4cb0",
+      "feishu_record_id": "recvhirqqLDnla",
       "name": "牙线棒 (小半盒)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5F2tMMIx"
+        }
+      ],
       "sub_category": "身体洗护",
-      "category_record_id": "recvhlcRUjNcMt",
-      "space_record_id": "recvhr5F2tMMIx",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "一次性洗护用品袋",
-      "remark": null,
+      "local_id": "item-e58a4cb0",
+      "auto_no": "002",
+      "category_link": [
+        {
+          "id": "recvhlcRUjNcMt"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhirqqLDnla",
       "updated_at": "2026-04-25 00:16:01",
-      "feishu_record_id": "recvhirqqLDnla"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-9b387ba9",
+      "feishu_record_id": "recvhiv3UEPtvH",
       "name": "20寸 银色行李箱",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5FjJsnXM"
+        }
+      ],
       "sub_category": "收纳与包袋",
-      "category_record_id": "recvhlcXevMRKS",
-      "space_record_id": "recvhr5FjJsnXM",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-待定大件",
-      "remark": null,
+      "local_id": "item-9b387ba9",
+      "auto_no": "003",
+      "category_link": [
+        {
+          "id": "recvhlcXevMRKS"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv3UEPtvH",
       "updated_at": "2026-04-25 00:16:02",
-      "feishu_record_id": "recvhiv3UEPtvH"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-730fd32f",
+      "feishu_record_id": "recvhiv4dDQTti",
       "name": "烫发夹板",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "个护电器",
-      "category_record_id": "recvhlcSwpSHPp",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-730fd32f",
+      "auto_no": "004",
+      "category_link": [
+        {
+          "id": "recvhlcSwpSHPp"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv4dDQTti",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv4dDQTti"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-2867eee4",
+      "feishu_record_id": "recvhiv4vMQfGB",
       "name": "Mistine防晒霜",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-2867eee4",
+      "auto_no": "005",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv4vMQfGB",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv4vMQfGB"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-97a6ad30",
+      "feishu_record_id": "recvhiv4NEammR",
       "name": "芦荟胶 (2支)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-97a6ad30",
+      "auto_no": "006",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv4NEammR",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv4NEammR"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-074514f8",
+      "feishu_record_id": "recvhiv576OW3B",
       "name": "香奈儿香水袋子",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-074514f8",
+      "auto_no": "007",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv576OW3B",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv576OW3B"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-52dcfd6e",
+      "feishu_record_id": "recvhiv5qDGOds",
       "name": "香奈儿香水瓶子和盒子",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-52dcfd6e",
+      "auto_no": "008",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv5qDGOds",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv5qDGOds"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-29a1c603",
+      "feishu_record_id": "recvhiv5JX38Wj",
       "name": "香卡",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-29a1c603",
+      "auto_no": "009",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv5JX38Wj",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv5JX38Wj"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-12f36d49",
+      "feishu_record_id": "recvhiv64GmG2Q",
       "name": "薰衣草纯露 (1瓶)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-12f36d49",
+      "auto_no": "010",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv64GmG2Q",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv64GmG2Q"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-49de7300",
+      "feishu_record_id": "recvhiv6p62FVx",
       "name": "妮维雅 唇膏 (1支)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-49de7300",
+      "auto_no": "011",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv6p62FVx",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv6p62FVx"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-414c9641",
+      "feishu_record_id": "recvhiv6HHtMMM",
       "name": "香水分装器 (1袋)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-414c9641",
+      "auto_no": "012",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv6HHtMMM",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv6HHtMMM"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-3d1b61d6",
+      "feishu_record_id": "recvhiv70WWZvu",
       "name": "香水分装瓶 (1个)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-3d1b61d6",
+      "auto_no": "013",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv70WWZvu",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv70WWZvu"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-05810e35",
+      "feishu_record_id": "recvhiv7iE1RkG",
       "name": "避孕套1盒",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "生理与卫生",
-      "category_record_id": "recvhlcT4TRsqe",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-05810e35",
+      "auto_no": "014",
+      "category_link": [
+        {
+          "id": "recvhlcT4TRsqe"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv7iE1RkG",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv7iE1RkG"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-eebd3eae",
+      "feishu_record_id": "recvhiv7BhX7R6",
       "name": "止汗剂 (1瓶)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FCSJIOz"
+        }
+      ],
       "sub_category": "身体洗护",
-      "category_record_id": "recvhlcRUjNcMt",
-      "space_record_id": "recvhr5FCSJIOz",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-护肤香水袋",
-      "remark": null,
+      "local_id": "item-eebd3eae",
+      "auto_no": "015",
+      "category_link": [
+        {
+          "id": "recvhlcRUjNcMt"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhiv7BhX7R6",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhiv7BhX7R6"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-4db14f20",
+      "feishu_record_id": "recvhj2RXcio0H",
       "name": "空喷雾瓶",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FV2Xynj"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FV2Xynj",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
-      "remark": null,
+      "local_id": "item-4db14f20",
+      "auto_no": "024",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2RXcio0H",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2RXcio0H"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-8768e733",
+      "feishu_record_id": "recvhj2SdRwl8n",
       "name": "痘痘贴 (1个)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FV2Xynj"
+        }
+      ],
       "sub_category": "护肤与美妆",
-      "category_record_id": "recvhlcSek6XIu",
-      "space_record_id": "recvhr5FV2Xynj",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
-      "remark": null,
+      "local_id": "item-8768e733",
+      "auto_no": "025",
+      "category_link": [
+        {
+          "id": "recvhlcSek6XIu"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2SdRwl8n",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2SdRwl8n"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-5c78df73",
+      "feishu_record_id": "recvhj2SwoUmVu",
       "name": "舒客牙膏 (1盒)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FV2Xynj"
+        }
+      ],
       "sub_category": "身体洗护",
-      "category_record_id": "recvhlcRUjNcMt",
-      "space_record_id": "recvhr5FV2Xynj",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
-      "remark": null,
+      "local_id": "item-5c78df73",
+      "auto_no": "026",
+      "category_link": [
+        {
+          "id": "recvhlcRUjNcMt"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2SwoUmVu",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2SwoUmVu"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-35659906",
+      "feishu_record_id": "recvhj2SMte0SQ",
       "name": "一次性浴巾 (3袋)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5FV2Xynj"
+        }
+      ],
       "sub_category": "身体洗护",
-      "category_record_id": "recvhlcRUjNcMt",
-      "space_record_id": "recvhr5FV2Xynj",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-个人护理袋",
-      "remark": null,
+      "local_id": "item-35659906",
+      "auto_no": "027",
+      "category_link": [
+        {
+          "id": "recvhlcRUjNcMt"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2SMte0SQ",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2SMte0SQ"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-53daa005",
+      "feishu_record_id": "recvhj2T3P0L0h",
       "name": "红光健脑仪",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "医疗仪器/器械",
-      "category_record_id": "recvhlcPBDLDFi",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-53daa005",
+      "auto_no": "028",
+      "category_link": [
+        {
+          "id": "recvhlcPBDLDFi"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2T3P0L0h",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2T3P0L0h"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-5f96db7d",
+      "feishu_record_id": "recvhj2TlaiNak",
       "name": "血糖试纸",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "医疗仪器/器械",
-      "category_record_id": "recvhlcPBDLDFi",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-5f96db7d",
+      "auto_no": "029",
+      "category_link": [
+        {
+          "id": "recvhlcPBDLDFi"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2TlaiNak",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2TlaiNak"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-8c6d225f",
+      "feishu_record_id": "recvhj2TAZj0hu",
       "name": "胰岛素针管",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "医疗仪器/器械",
-      "category_record_id": "recvhlcPBDLDFi",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-8c6d225f",
+      "auto_no": "030",
+      "category_link": [
+        {
+          "id": "recvhlcPBDLDFi"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2TAZj0hu",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2TAZj0hu"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-2ecb7ca6",
+      "feishu_record_id": "recvhj2TQhJsbi",
       "name": "采血针 (1盒)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "医疗仪器/器械",
-      "category_record_id": "recvhlcPBDLDFi",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-2ecb7ca6",
+      "auto_no": "031",
+      "category_link": [
+        {
+          "id": "recvhlcPBDLDFi"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2TQhJsbi",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2TQhJsbi"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-5f968f3f",
+      "feishu_record_id": "recvhj2U9dOzpv",
       "name": "云南白药创可贴",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "药品/急救",
-      "category_record_id": "recvhfPMlHwosB",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-5f968f3f",
+      "auto_no": "032",
+      "category_link": [
+        {
+          "id": "recvhfPMlHwosB"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2U9dOzpv",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2U9dOzpv"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-a8066be4",
+      "feishu_record_id": "recvhj2UpFGHLG",
       "name": "消毒酒精",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "药品/急救",
-      "category_record_id": "recvhfPMlHwosB",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-a8066be4",
+      "auto_no": "033",
+      "category_link": [
+        {
+          "id": "recvhfPMlHwosB"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2UpFGHLG",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2UpFGHLG"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-15ea5df5",
+      "feishu_record_id": "recvhj2UFfi1CJ",
       "name": "酒精棉片 (少许)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "药品/急救",
-      "category_record_id": "recvhfPMlHwosB",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-15ea5df5",
+      "auto_no": "034",
+      "category_link": [
+        {
+          "id": "recvhfPMlHwosB"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2UFfi1CJ",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2UFfi1CJ"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-12ca63b4",
+      "feishu_record_id": "recvhj2UXwbd0d",
       "name": "酒精棉片 (整盒未开封)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "药品/急救",
-      "category_record_id": "recvhfPMlHwosB",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-12ca63b4",
+      "auto_no": "035",
+      "category_link": [
+        {
+          "id": "recvhfPMlHwosB"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2UXwbd0d",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2UXwbd0d"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-497ca29d",
+      "feishu_record_id": "recvhj2Vf7kPa6",
       "name": "肠炎宁",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "药品/急救",
-      "category_record_id": "recvhfPMlHwosB",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-497ca29d",
+      "auto_no": "036",
+      "category_link": [
+        {
+          "id": "recvhfPMlHwosB"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2Vf7kPa6",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2Vf7kPa6"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-768cac7d",
+      "feishu_record_id": "recvhj2Vuqr46g",
       "name": "棉签 (4袋)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "药品/急救",
-      "category_record_id": "recvhfPMlHwosB",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-768cac7d",
+      "auto_no": "037",
+      "category_link": [
+        {
+          "id": "recvhfPMlHwosB"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2Vuqr46g",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2Vuqr46g"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-7fca20a9",
+      "feishu_record_id": "recvhj2VMkypUW",
       "name": "复方板蓝根片 (1瓶)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "药品/急救",
-      "category_record_id": "recvhfPMlHwosB",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-7fca20a9",
+      "auto_no": "038",
+      "category_link": [
+        {
+          "id": "recvhfPMlHwosB"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2VMkypUW",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2VMkypUW"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-31e46529",
+      "feishu_record_id": "recvhj2W37BWLx",
       "name": "泰国药 (2个，用途待查)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "药品/急救",
-      "category_record_id": "recvhfPMlHwosB",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-31e46529",
+      "auto_no": "039",
+      "category_link": [
+        {
+          "id": "recvhfPMlHwosB"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2W37BWLx",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2W37BWLx"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-e045c8d3",
+      "feishu_record_id": "recvhj2Wjb6gre",
       "name": "EAA复合氨基酸 (2026-11-27)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "营养补剂",
-      "category_record_id": "recvhlcP47j2Y5",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-e045c8d3",
+      "auto_no": "040",
+      "category_link": [
+        {
+          "id": "recvhlcP47j2Y5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2Wjb6gre",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2Wjb6gre"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-27acd29d",
+      "feishu_record_id": "recvhj2WDvfmVI",
       "name": "胶原蛋白 (2027-09-01，已开封)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "营养补剂",
-      "category_record_id": "recvhlcP47j2Y5",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-27acd29d",
+      "auto_no": "041",
+      "category_link": [
+        {
+          "id": "recvhlcP47j2Y5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2WDvfmVI",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2WDvfmVI"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-ac43dbea",
+      "feishu_record_id": "recvhj2WVmIspy",
       "name": "Natural Factors葡萄糖酸锌25mg",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "营养补剂",
-      "category_record_id": "recvhlcP47j2Y5",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-ac43dbea",
+      "auto_no": "042",
+      "category_link": [
+        {
+          "id": "recvhlcP47j2Y5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2WVmIspy",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2WVmIspy"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-e54e48e0",
+      "feishu_record_id": "recvhj2XbWbb8H",
       "name": "三丁酸甘油酯 (1瓶)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "营养补剂",
-      "category_record_id": "recvhlcP47j2Y5",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-e54e48e0",
+      "auto_no": "043",
+      "category_link": [
+        {
+          "id": "recvhlcP47j2Y5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2XbWbb8H",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2XbWbb8H"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-75a1b838",
+      "feishu_record_id": "recvhj2Xs3NZwj",
       "name": "维生素A胶囊 (1瓶)",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5Gc6z1M5"
+        }
+      ],
       "sub_category": "营养补剂",
-      "category_record_id": "recvhlcP47j2Y5",
-      "space_record_id": "recvhr5Gc6z1M5",
+      "major_lookup": "🏥 健康医疗",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-健康医疗袋",
-      "remark": null,
+      "local_id": "item-75a1b838",
+      "auto_no": "044",
+      "category_link": [
+        {
+          "id": "recvhlcP47j2Y5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2Xs3NZwj",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2Xs3NZwj"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-bdcd1d89",
+      "feishu_record_id": "recvhj2XL47jjO",
       "name": "橡胶圈 (1个/条)",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5GxYtgJY"
+        }
+      ],
       "sub_category": "五金与维修",
-      "category_record_id": "recvhlcWDHfR8Q",
-      "space_record_id": "recvhr5GxYtgJY",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
-      "remark": null,
+      "local_id": "item-bdcd1d89",
+      "auto_no": "045",
+      "category_link": [
+        {
+          "id": "recvhlcWDHfR8Q"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2XL47jjO",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2XL47jjO"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-b84eac66",
+      "feishu_record_id": "recvhj2Y1VKYTC",
       "name": "不锈钢检测液",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5GxYtgJY"
+        }
+      ],
       "sub_category": "五金与维修",
-      "category_record_id": "recvhlcWDHfR8Q",
-      "space_record_id": "recvhr5GxYtgJY",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
-      "remark": null,
+      "local_id": "item-b84eac66",
+      "auto_no": "046",
+      "category_link": [
+        {
+          "id": "recvhlcWDHfR8Q"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2Y1VKYTC",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2Y1VKYTC"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-17d6834b",
+      "feishu_record_id": "recvhj2YkFMIkl",
       "name": "没电的气温计",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5GxYtgJY"
+        }
+      ],
       "sub_category": "五金与维修",
-      "category_record_id": "recvhlcWDHfR8Q",
-      "space_record_id": "recvhr5GxYtgJY",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
-      "remark": null,
+      "local_id": "item-17d6834b",
+      "auto_no": "047",
+      "category_link": [
+        {
+          "id": "recvhlcWDHfR8Q"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2YkFMIkl",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2YkFMIkl"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-1a8506ec",
+      "feishu_record_id": "recvhj2YF7C0MJ",
       "name": "垃圾袋 (1卷)",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5GxYtgJY"
+        }
+      ],
       "sub_category": "清洁与家务",
-      "category_record_id": "recvhlcWWb4fO7",
-      "space_record_id": "recvhr5GxYtgJY",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-家居工具袋",
-      "remark": null,
+      "local_id": "item-1a8506ec",
+      "auto_no": "048",
+      "category_link": [
+        {
+          "id": "recvhlcWWb4fO7"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2YF7C0MJ",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2YF7C0MJ"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-dc66417a",
+      "feishu_record_id": "recvhj2YV60P0H",
       "name": "艾克顿三孔转接头",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5GOI52NE"
+        }
+      ],
       "sub_category": "生活家电",
-      "category_record_id": "recvhlcWlMDG0N",
-      "space_record_id": "recvhr5GOI52NE",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-小家电袋",
-      "remark": null,
+      "local_id": "item-dc66417a",
+      "auto_no": "049",
+      "category_link": [
+        {
+          "id": "recvhlcWlMDG0N"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2YV60P0H",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2YV60P0H"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-b44f2602",
+      "feishu_record_id": "recvhj2ZcMp9KG",
       "name": "6孔位双头迷你插板",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5GOI52NE"
+        }
+      ],
       "sub_category": "生活家电",
-      "category_record_id": "recvhlcWlMDG0N",
-      "space_record_id": "recvhr5GOI52NE",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-小家电袋",
-      "remark": null,
+      "local_id": "item-b44f2602",
+      "auto_no": "050",
+      "category_link": [
+        {
+          "id": "recvhlcWlMDG0N"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2ZcMp9KG",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2ZcMp9KG"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-b3a5461d",
+      "feishu_record_id": "recvhj2ZuFVVl0",
       "name": "电磁炉",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5GOI52NE"
+        }
+      ],
       "sub_category": "生活家电",
-      "category_record_id": "recvhlcWlMDG0N",
-      "space_record_id": "recvhr5GOI52NE",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-小家电袋",
-      "remark": null,
+      "local_id": "item-b3a5461d",
+      "auto_no": "051",
+      "category_link": [
+        {
+          "id": "recvhlcWlMDG0N"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj2ZuFVVl0",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2ZuFVVl0"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-d12b0d75",
+      "feishu_record_id": "recvhj2ZLjaxI4",
       "name": "勐腊县人民医院病历",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
       "sub_category": "健康档案",
-      "category_record_id": "recvhlcVwfRHcp",
-      "space_record_id": "recvhr5H5xlgOt",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj2ZLjaxI4"
+      "local_id": "item-d12b0d75",
+      "auto_no": "052",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhj2ZLjaxI4",
+      "updated_at": "2026-04-25 17:01:53",
+      "parent_container": "五芳斋 粽子盒子"
     },
     {
-      "id": "item-43b6edda",
-      "name": "勐腊县人民医院CT检查报告单",
-      "category": "📚 文档资产",
-      "sub_category": "健康档案",
-      "category_record_id": "recvhlcVwfRHcp",
-      "space_record_id": "recvhr5H5xlgOt",
-      "location": "暂存区",
-      "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj304fvncQ"
-    },
-    {
-      "id": "item-4a9d9ac0",
+      "feishu_record_id": "recvhj30mc7JU5",
       "name": "微波压力锅说明书",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhNfOaDWQMk"
+        }
+      ],
       "sub_category": "办公与文具",
-      "category_record_id": "recvhlcVMOJyt0",
-      "space_record_id": "recvhr5H5xlgOt",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj30mc7JU5"
+      "local_id": "item-4a9d9ac0",
+      "auto_no": "054",
+      "category_link": [
+        {
+          "id": "recvhNfRRZ9U6M"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj30mc7JU5",
+      "updated_at": "2026-04-25 18:27:41",
+      "parent_container": ""
     },
     {
-      "id": "item-baba250a",
+      "feishu_record_id": "recvhj30HoCmMu",
       "name": "大理苍山索道票 (2张)",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
       "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": "recvhr5H5xlgOt",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj30HoCmMu"
+      "local_id": "item-baba250a",
+      "auto_no": "055",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj30HoCmMu",
+      "updated_at": "2026-04-25 17:05:41",
+      "parent_container": ""
     },
     {
-      "id": "item-71f1f5f1",
+      "feishu_record_id": "recvhj30XBnX5X",
       "name": "西双版纳花卉园票 (2张)",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
       "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": "recvhr5H5xlgOt",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj30XBnX5X"
+      "local_id": "item-71f1f5f1",
+      "auto_no": "056",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj30XBnX5X",
+      "updated_at": "2026-04-25 19:41:56",
+      "parent_container": ""
     },
     {
-      "id": "item-c5385e21",
+      "feishu_record_id": "recvhj31dYHHMo",
       "name": "望天树种子卡 (3个)",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
       "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": "recvhr5H5xlgOt",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj31dYHHMo"
+      "local_id": "item-c5385e21",
+      "auto_no": "057",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj31dYHHMo",
+      "updated_at": "2026-04-25 19:41:56",
+      "parent_container": ""
     },
     {
-      "id": "item-874595e3",
+      "feishu_record_id": "recvhj31vLZCPf",
       "name": "傣文福签 (2个)",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
       "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": "recvhr5H5xlgOt",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj31vLZCPf"
+      "local_id": "item-874595e3",
+      "auto_no": "058",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj31vLZCPf",
+      "updated_at": "2026-04-25 19:41:56",
+      "parent_container": ""
     },
     {
-      "id": "item-f96f62b3",
+      "feishu_record_id": "recvhj31M9gn3o",
       "name": "佳佳送的相册",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
       "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": "recvhr5H5xlgOt",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj31M9gn3o"
+      "local_id": "item-f96f62b3",
+      "auto_no": "059",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj31M9gn3o",
+      "updated_at": "2026-04-25 19:41:56",
+      "parent_container": ""
     },
     {
-      "id": "item-dcb0f53f",
+      "feishu_record_id": "recvhj32jAlm4D",
       "name": "望天树打卡地图",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
       "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": "recvhr5H5xlgOt",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj32jAlm4D"
+      "local_id": "item-dcb0f53f",
+      "auto_no": "060",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj32jAlm4D",
+      "updated_at": "2026-04-25 19:41:56",
+      "parent_container": ""
     },
     {
-      "id": "item-3ad91208",
+      "feishu_record_id": "recvhj32BIMFBr",
       "name": "望天树官方纪念证书",
-      "category": "📚 文档资产",
-      "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": "recvhr5H5xlgOt",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
+      "sub_category": "证件与证明",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj32BIMFBr"
+      "local_id": "item-3ad91208",
+      "auto_no": "061",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj32BIMFBr",
+      "updated_at": "2026-04-25 19:41:56",
+      "parent_container": ""
     },
     {
-      "id": "item-6d8e5f27",
+      "feishu_record_id": "recvhj32S8gd1B",
       "name": "东盟十国钱币纪念本",
-      "category": "📚 文档资产",
-      "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": "recvhr5H5xlgOt",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
+      "sub_category": "财务与合同",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "暂存区",
       "container": "暂存区-文档资产袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 15:50:59",
-      "feishu_record_id": "recvhj32S8gd1B"
+      "local_id": "item-6d8e5f27",
+      "auto_no": "062",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhj32S8gd1B",
+      "updated_at": "2026-04-25 19:41:56",
+      "parent_container": ""
     },
     {
-      "id": "item-5a7bc8fc",
+      "feishu_record_id": "recvhj339Gd3Io",
       "name": "Anker充电宝",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": null,
+      "local_id": "item-5a7bc8fc",
+      "auto_no": "063",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj339Gd3Io",
       "updated_at": "2026-04-25 00:16:43",
-      "feishu_record_id": "recvhj339Gd3Io"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-822968f1",
+      "feishu_record_id": "recvhj33qlBa7i",
       "name": "电池",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": null,
+      "local_id": "item-822968f1",
+      "auto_no": "064",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj33qlBa7i",
       "updated_at": "2026-04-25 00:16:44",
-      "feishu_record_id": "recvhj33qlBa7i"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-7ae3eb9a",
+      "feishu_record_id": "recvhj33FRaeU9",
       "name": "USB转Type-C数据线 (共3条)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": null,
+      "local_id": "item-7ae3eb9a",
+      "auto_no": "065",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj33FRaeU9",
       "updated_at": "2026-04-25 00:16:45",
-      "feishu_record_id": "recvhj33FRaeU9"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-a9553bcc",
+      "feishu_record_id": "recvhj33Xgu0O7",
       "name": "20W Type C充电头",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": null,
+      "local_id": "item-a9553bcc",
+      "auto_no": "066",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj33Xgu0O7",
       "updated_at": "2026-04-25 00:16:45",
-      "feishu_record_id": "recvhj33Xgu0O7"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-f552e5e5",
+      "feishu_record_id": "recvhj34e79092",
       "name": "纽扣电池 (共2颗)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": null,
+      "local_id": "item-f552e5e5",
+      "auto_no": "067",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj34e79092",
       "updated_at": "2026-04-25 00:16:46",
-      "feishu_record_id": "recvhj34e79092"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-9f907154",
+      "feishu_record_id": "recvhj34ussxOC",
       "name": "7号电池 (3节)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": null,
+      "local_id": "item-9f907154",
+      "auto_no": "068",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj34ussxOC",
       "updated_at": "2026-04-25 00:16:47",
-      "feishu_record_id": "recvhj34ussxOC"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-ea84b02c",
+      "feishu_record_id": "recvhj34NyKolo",
       "name": "手表充电宝",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": null,
+      "local_id": "item-ea84b02c",
+      "auto_no": "069",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj34NyKolo",
       "updated_at": "2026-04-25 00:16:48",
-      "feishu_record_id": "recvhj34NyKolo"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-055bf406",
+      "feishu_record_id": "recvhj353QjptV",
       "name": "Insta 360 Flow 2（待卖）",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HBNO7ET"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhr5HBNO7ET",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-电子数码袋",
-      "remark": null,
+      "local_id": "item-055bf406",
+      "auto_no": "070",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj353QjptV",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj353QjptV"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-11dc751c",
+      "feishu_record_id": "recvhj35k4vjqm",
       "name": "手机卡盒子",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "暂存区",
+      "container": "暂存区-电子数码袋",
+      "local_id": "item-11dc751c",
+      "auto_no": "071",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhj35k4vjqm",
       "updated_at": "2026-04-25 00:16:49",
-      "feishu_record_id": "recvhj35k4vjqm"
+      "parent_container": "次卧"
     },
     {
-      "id": "item-7edaa685",
+      "feishu_record_id": "recvhj35AQc4za",
       "name": "小音箱",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "暂存区",
+      "container": "暂存区-电子数码袋",
+      "local_id": "item-7edaa685",
+      "auto_no": "072",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhj35AQc4za",
       "updated_at": "2026-04-25 00:16:50",
-      "feishu_record_id": "recvhj35AQc4za"
+      "parent_container": "次卧"
     },
     {
-      "id": "item-4a75a4d9",
+      "feishu_record_id": "recvhj35RE2AbS",
       "name": "红米K70手机膜",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "暂存区",
+      "container": "暂存区-电子数码袋",
+      "local_id": "item-4a75a4d9",
+      "auto_no": "073",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhj35RE2AbS",
       "updated_at": "2026-04-25 00:16:51",
-      "feishu_record_id": "recvhj35RE2AbS"
+      "parent_container": "次卧"
     },
     {
-      "id": "item-988810a2",
+      "feishu_record_id": "recvhj3683Pk0H",
       "name": "3.5mm接口八爪鱼三角支架",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "暂存区",
+      "container": "暂存区-电子数码袋",
+      "local_id": "item-988810a2",
+      "auto_no": "074",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhj3683Pk0H",
       "updated_at": "2026-04-25 00:16:52",
-      "feishu_record_id": "recvhj3683Pk0H"
+      "parent_container": "次卧"
     },
     {
-      "id": "item-91602532",
+      "feishu_record_id": "recvhj36pdAHij",
       "name": "磁吸环 (2个)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "暂存区",
+      "container": "暂存区-电子数码袋",
+      "local_id": "item-91602532",
+      "auto_no": "075",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhj36pdAHij",
       "updated_at": "2026-04-25 00:17:11",
-      "feishu_record_id": "recvhj36pdAHij"
+      "parent_container": "次卧"
     },
     {
-      "id": "item-12d25209",
+      "feishu_record_id": "recvhj36FB92Fk",
       "name": "苹果12手机",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "核心计算设备",
-      "category_record_id": "recvhlcQdkgzbf",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "暂存区",
+      "container": "暂存区-电子数码袋",
+      "local_id": "item-12d25209",
+      "auto_no": "076",
+      "category_link": [
+        {
+          "id": "recvhlcQdkgzbf"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhj36FB92Fk",
       "updated_at": "2026-04-25 00:17:12",
-      "feishu_record_id": "recvhj36FB92Fk"
+      "parent_container": "次卧"
     },
     {
-      "id": "item-13f9d2c7",
+      "feishu_record_id": "recvhj36WY79Ua",
       "name": "蒸汽眼罩 (2个)",
-      "category": "🧼 个人护理",
-      "sub_category": "生理与卫生",
-      "category_record_id": "recvhlcT4TRsqe",
-      "space_record_id": "recvhr5HSpIZ6U",
+      "space_record_id": [
+        {
+          "id": "recvhr5HSpIZ6U"
+        }
+      ],
+      "sub_category": "配件挂饰",
+      "major_lookup": "🧼 个人护理",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-织物服饰袋",
-      "remark": null,
+      "local_id": "item-13f9d2c7",
+      "auto_no": "077",
+      "category_link": [
+        {
+          "id": "recvhlcT4TRsqe"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj36WY79Ua",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj36WY79Ua"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-117a596d",
+      "feishu_record_id": "recvhj37duIiBr",
       "name": "灰色袜子 (1双)",
-      "category": "👕 织物服饰",
+      "space_record_id": [
+        {
+          "id": "recvhr5HSpIZ6U"
+        }
+      ],
       "sub_category": "内衣与袜",
-      "category_record_id": "recvhlcTSXqn0S",
-      "space_record_id": "recvhr5HSpIZ6U",
+      "major_lookup": "👕 织物服饰",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-织物服饰袋",
-      "remark": null,
+      "local_id": "item-117a596d",
+      "auto_no": "078",
+      "category_link": [
+        {
+          "id": "recvhlcTSXqn0S"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj37duIiBr",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj37duIiBr"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-0f20f775",
+      "feishu_record_id": "recvhj37vqAzmb",
       "name": "沙滩裤",
-      "category": "👕 织物服饰",
+      "space_record_id": [
+        {
+          "id": "recvhr5HSpIZ6U"
+        }
+      ],
       "sub_category": "下装",
-      "category_record_id": "recvhlcTBKsVCA",
-      "space_record_id": "recvhr5HSpIZ6U",
+      "major_lookup": "👕 织物服饰",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
-      "container": "暂存区-织物服饰袋",
-      "remark": null,
+      "container": "暂存区-织物配件袋",
+      "local_id": "item-0f20f775",
+      "auto_no": "079",
+      "category_link": [
+        {
+          "id": "recvhlcTBKsVCA"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj37vqAzmb",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj37vqAzmb"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-88997c68",
+      "feishu_record_id": "recvhj37OBqDOf",
       "name": "手套",
-      "category": "👕 织物服饰",
+      "space_record_id": [
+        {
+          "id": "recvhr5HSpIZ6U"
+        }
+      ],
       "sub_category": "配件挂饰",
-      "category_record_id": "recvhlcUqCEQ3j",
-      "space_record_id": "recvhr5HSpIZ6U",
+      "major_lookup": "👕 织物服饰",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
-      "container": "暂存区-织物服饰袋",
-      "remark": null,
+      "container": "暂存区-织物配件袋",
+      "local_id": "item-88997c68",
+      "auto_no": "080",
+      "category_link": [
+        {
+          "id": "recvhlcUqCEQ3j"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj37OBqDOf",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj37OBqDOf"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-7e73306e",
+      "feishu_record_id": "recvhj385zVZjb",
       "name": "卫龙眼罩",
-      "category": "👕 织物服饰",
+      "space_record_id": [
+        {
+          "id": "recvhr5HSpIZ6U"
+        }
+      ],
       "sub_category": "配件挂饰",
-      "category_record_id": "recvhlcUqCEQ3j",
-      "space_record_id": "recvhr5HSpIZ6U",
+      "major_lookup": "👕 织物服饰",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
-      "container": "暂存区-织物服饰袋",
-      "remark": null,
+      "container": "暂存区-织物配件袋",
+      "local_id": "item-7e73306e",
+      "auto_no": "081",
+      "category_link": [
+        {
+          "id": "recvhlcUqCEQ3j"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj385zVZjb",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj385zVZjb"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-d5ea3028",
+      "feishu_record_id": "recvhj38lnYAgv",
       "name": "围巾",
-      "category": "👕 织物服饰",
+      "space_record_id": [
+        {
+          "id": "recvhr5HSpIZ6U"
+        }
+      ],
       "sub_category": "配件挂饰",
-      "category_record_id": "recvhlcUqCEQ3j",
-      "space_record_id": "recvhr5HSpIZ6U",
+      "major_lookup": "👕 织物服饰",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
-      "container": "暂存区-织物服饰袋",
-      "remark": null,
+      "container": "暂存区-织物配件袋",
+      "local_id": "item-d5ea3028",
+      "auto_no": "082",
+      "category_link": [
+        {
+          "id": "recvhlcUqCEQ3j"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj38lnYAgv",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj38lnYAgv"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-3e615937",
+      "feishu_record_id": "recvhj38ZDVzhu",
       "name": "多用围巾",
-      "category": "👕 织物服饰",
+      "space_record_id": [
+        {
+          "id": "recvhr5HSpIZ6U"
+        }
+      ],
       "sub_category": "配件挂饰",
-      "category_record_id": "recvhlcUqCEQ3j",
-      "space_record_id": "recvhr5HSpIZ6U",
+      "major_lookup": "👕 织物服饰",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
-      "container": "暂存区-织物服饰袋",
-      "remark": null,
+      "container": "暂存区-织物配件袋",
+      "local_id": "item-3e615937",
+      "auto_no": "083",
+      "category_link": [
+        {
+          "id": "recvhlcUqCEQ3j"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj38ZDVzhu",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj38ZDVzhu"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-b732325b",
+      "feishu_record_id": "recvhj39hCNuNr",
       "name": "一次性拖鞋",
-      "category": "👕 织物服饰",
+      "space_record_id": [
+        {
+          "id": "recvhr5HSpIZ6U"
+        }
+      ],
       "sub_category": "鞋靴",
-      "category_record_id": "recvhlcU9AEprK",
-      "space_record_id": "recvhr5HSpIZ6U",
+      "major_lookup": "👕 织物服饰",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
-      "container": "暂存区-织物服饰袋",
-      "remark": null,
+      "container": "暂存区-织物配件袋",
+      "local_id": "item-b732325b",
+      "auto_no": "084",
+      "category_link": [
+        {
+          "id": "recvhlcU9AEprK"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj39hCNuNr",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj39hCNuNr"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-600ea88f",
+      "feishu_record_id": "recvhj39zKtj7t",
       "name": "全脂羊奶粉",
-      "category": "🍎 饮食供应",
-      "sub_category": "零食/干货",
-      "category_record_id": "recvhfPMlHE62I",
-      "space_record_id": "recvhr5IpLHEKS",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
+      "sub_category": "冲饮/饮品",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-600ea88f",
+      "auto_no": "085",
+      "category_link": [
+        {
+          "id": "recvhfPMlHE62I"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj39zKtj7t",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj39zKtj7t"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-4cea5619",
+      "feishu_record_id": "recvhj39RGNuia",
       "name": "木筷子 (1包)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "厨具/餐具",
-      "category_record_id": "recvhlcOMz0H14",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-4cea5619",
+      "auto_no": "086",
+      "category_link": [
+        {
+          "id": "recvhlcOMz0H14"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj39RGNuia",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj39RGNuia"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-6535067d",
+      "feishu_record_id": "recvhj3abKT6aS",
       "name": "蛋黄蛋清分离器",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "厨具/餐具",
-      "category_record_id": "recvhlcOMz0H14",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-6535067d",
+      "auto_no": "087",
+      "category_link": [
+        {
+          "id": "recvhlcOMz0H14"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3abKT6aS",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3abKT6aS"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-3256fdf2",
+      "feishu_record_id": "recvhj3atJ2Jh2",
       "name": "助糖三号 (3包)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "零食/干货",
-      "category_record_id": "recvhfPMlHE62I",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-3256fdf2",
+      "auto_no": "088",
+      "category_link": [
+        {
+          "id": "recvhfPMlHE62I"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3atJ2Jh2",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3atJ2Jh2"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-d143f1b5",
+      "feishu_record_id": "recvhj3aUfJsaQ",
       "name": "有机板栗 (1包)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "零食/干货",
-      "category_record_id": "recvhfPMlHE62I",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-d143f1b5",
+      "auto_no": "089",
+      "category_link": [
+        {
+          "id": "recvhfPMlHE62I"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3aUfJsaQ",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3aUfJsaQ"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-a5b9d3e7",
+      "feishu_record_id": "recvhj3baYLVpG",
       "name": "奇亚籽 (4包)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "零食/干货",
-      "category_record_id": "recvhfPMlHE62I",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-a5b9d3e7",
+      "auto_no": "090",
+      "category_link": [
+        {
+          "id": "recvhfPMlHE62I"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3baYLVpG",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3baYLVpG"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-05b25e62",
+      "feishu_record_id": "recvhj3buQTnTI",
       "name": "小麦纤维素 (3袋)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "零食/干货",
-      "category_record_id": "recvhfPMlHE62I",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-05b25e62",
+      "auto_no": "091",
+      "category_link": [
+        {
+          "id": "recvhfPMlHE62I"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3buQTnTI",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3buQTnTI"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-ede25374",
+      "feishu_record_id": "recvhj3bMZTgGL",
       "name": "番茄酱 (1袋)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "粮油/调味品",
-      "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-ede25374",
+      "auto_no": "092",
+      "category_link": [
+        {
+          "id": "recvhlcNUnWxw5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3bMZTgGL",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3bMZTgGL"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-a4e23081",
+      "feishu_record_id": "recvhj3c4y16AK",
       "name": "浓汤宝 (2盒)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "粮油/调味品",
-      "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-a4e23081",
+      "auto_no": "093",
+      "category_link": [
+        {
+          "id": "recvhlcNUnWxw5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3c4y16AK",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3c4y16AK"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-dbfee727",
+      "feishu_record_id": "recvhj3clcADps",
       "name": "酱板鸭的香辣红油 (2袋)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "粮油/调味品",
-      "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-dbfee727",
+      "auto_no": "094",
+      "category_link": [
+        {
+          "id": "recvhlcNUnWxw5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3clcADps",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3clcADps"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-2362ae03",
+      "feishu_record_id": "recvhj3cCrDRwM",
       "name": "辣椒粉 (1瓶)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "粮油/调味品",
-      "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-2362ae03",
+      "auto_no": "095",
+      "category_link": [
+        {
+          "id": "recvhlcNUnWxw5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3cCrDRwM",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3cCrDRwM"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-91c323e1",
+      "feishu_record_id": "recvhj3cUiRfAq",
       "name": "花椒粉 (1瓶)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "粮油/调味品",
-      "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-91c323e1",
+      "auto_no": "096",
+      "category_link": [
+        {
+          "id": "recvhlcNUnWxw5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3cUiRfAq",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3cUiRfAq"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-cc71c7a0",
+      "feishu_record_id": "recvhj3ddNudDH",
       "name": "红薯淀粉",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "粮油/调味品",
-      "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-cc71c7a0",
+      "auto_no": "097",
+      "category_link": [
+        {
+          "id": "recvhlcNUnWxw5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3ddNudDH",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3ddNudDH"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-37518a04",
+      "feishu_record_id": "recvhj3dulO0iX",
       "name": "黑胡椒粉",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "粮油/调味品",
-      "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-37518a04",
+      "auto_no": "098",
+      "category_link": [
+        {
+          "id": "recvhlcNUnWxw5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3dulO0iX",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3dulO0iX"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-e77173e7",
+      "feishu_record_id": "recvhj3dLQuped",
       "name": "白芝麻 (1袋)",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IpLHEKS"
+        }
+      ],
       "sub_category": "粮油/调味品",
-      "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
-      "remark": null,
+      "local_id": "item-e77173e7",
+      "auto_no": "099",
+      "category_link": [
+        {
+          "id": "recvhlcNUnWxw5"
+        }
+      ],
       "status": "盘点中",
+      "grandpa_container": "客厅",
+      "record_id": "recvhj3dLQuped",
       "updated_at": "2026-04-25 15:40:27",
-      "feishu_record_id": "recvhj3dLQuped"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-44cd42dd",
+      "feishu_record_id": "recvhj3egRIVBs",
       "name": "爱仕达菜刀",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhqPhr5k4gJ"
+        }
+      ],
       "sub_category": "厨具/餐具",
-      "category_record_id": "recvhlcOMz0H14",
-      "space_record_id": "recvhqPhr5k4gJ",
-      "location": "刀架",
-      "container": null,
-      "remark": null,
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "2厨房~2厨房",
+      "location": "厨房",
+      "container": "刀架",
+      "local_id": "item-44cd42dd",
+      "auto_no": "100",
+      "category_link": [
+        {
+          "id": "recvhlcOMz0H14"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "2厨房",
+      "record_id": "recvhj3egRIVBs",
       "updated_at": "2026-04-25 00:17:31",
-      "feishu_record_id": "recvhj3egRIVBs"
+      "parent_container": "2厨房"
     },
     {
-      "id": "item-a922ba48",
+      "feishu_record_id": "recvhj3ezPrbkM",
       "name": "木锅铲",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IGpSLK5"
+        }
+      ],
       "sub_category": "厨具/餐具",
-      "category_record_id": "recvhlcOMz0H14",
-      "space_record_id": "recvhr5IGpSLK5",
-      "location": "2厨房",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "2厨房~2厨房",
+      "location": "厨房",
       "container": "厨房台面墙上挂钩",
-      "remark": null,
+      "local_id": "item-a922ba48",
+      "auto_no": "101",
+      "category_link": [
+        {
+          "id": "recvhlcOMz0H14"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "2厨房",
+      "record_id": "recvhj3ezPrbkM",
       "updated_at": "2026-04-25 00:17:32",
-      "feishu_record_id": "recvhj3ezPrbkM"
+      "parent_container": "2厨房"
     },
     {
-      "id": "item-c84d0167",
+      "feishu_record_id": "recvhj3eRc7FTD",
       "name": "微波炉高压锅",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhqPhUGlfRN"
+        }
+      ],
       "sub_category": "厨具/餐具",
-      "category_record_id": "recvhlcOMz0H14",
-      "space_record_id": "recvhqPhUGlfRN",
-      "location": "进门左一上柜",
-      "container": null,
-      "remark": null,
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "2厨房~2厨房",
+      "location": "厨房",
+      "container": "进门左一上柜",
+      "local_id": "item-c84d0167",
+      "auto_no": "102",
+      "category_link": [
+        {
+          "id": "recvhlcOMz0H14"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "2厨房",
+      "record_id": "recvhj3eRc7FTD",
       "updated_at": "2026-04-25 00:17:33",
-      "feishu_record_id": "recvhj3eRc7FTD"
+      "parent_container": "2厨房"
     },
     {
-      "id": "item-fe61ff85",
+      "feishu_record_id": "recvhj3f870jHU",
       "name": "一次性食品密封袋",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhqPi9NfvXu"
+        }
+      ],
       "sub_category": "厨房消耗品",
-      "category_record_id": "recvhfPMlHTdH7",
-      "space_record_id": "recvhqPi9NfvXu",
-      "location": "进门左二上柜",
-      "container": null,
-      "remark": null,
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "2厨房~2厨房",
+      "location": "厨房",
+      "container": "进门左二上柜-下层",
+      "local_id": "item-fe61ff85",
+      "auto_no": "103",
+      "category_link": [
+        {
+          "id": "recvhfPMlHTdH7"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "2厨房",
+      "record_id": "recvhj3f870jHU",
       "updated_at": "2026-04-25 00:17:34",
-      "feishu_record_id": "recvhj3f870jHU"
+      "parent_container": "2厨房"
     },
     {
-      "id": "item-80112cff",
+      "feishu_record_id": "recvhj3foRShf3",
       "name": "洗碗抹布",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhqPiqcVsQo"
+        }
+      ],
       "sub_category": "厨房消耗品",
-      "category_record_id": "recvhfPMlHTdH7",
-      "space_record_id": "recvhqPiqcVsQo",
-      "location": "进门左二下柜",
-      "container": null,
-      "remark": null,
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "2厨房~2厨房",
+      "location": "厨房",
+      "container": "进门左二下柜",
+      "local_id": "item-80112cff",
+      "auto_no": "104",
+      "category_link": [
+        {
+          "id": "recvhfPMlHTdH7"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "2厨房",
+      "record_id": "recvhj3foRShf3",
       "updated_at": "2026-04-25 00:17:35",
-      "feishu_record_id": "recvhj3foRShf3"
+      "parent_container": "2厨房"
     },
     {
-      "id": "item-0c0c62a9",
+      "feishu_record_id": "recvhj3fGTW20e",
       "name": "削皮刀",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5IGpSLK5"
+        }
+      ],
       "sub_category": "厨具/餐具",
-      "category_record_id": "recvhlcOMz0H14",
-      "space_record_id": "recvhr5IGpSLK5",
-      "location": "2厨房",
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "2厨房~2厨房",
+      "location": "厨房",
       "container": "厨房台面墙上挂钩",
-      "remark": null,
+      "local_id": "item-0c0c62a9",
+      "auto_no": "105",
+      "category_link": [
+        {
+          "id": "recvhlcOMz0H14"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "2厨房",
+      "record_id": "recvhj3fGTW20e",
       "updated_at": "2026-04-25 00:17:35",
-      "feishu_record_id": "recvhj3fGTW20e"
+      "parent_container": "2厨房"
     },
     {
-      "id": "item-7e136fc0",
+      "feishu_record_id": "recvhj3fZsULTF",
       "name": "PP5蒸格",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhqPhUGlfRN"
+        }
+      ],
       "sub_category": "厨具/餐具",
-      "category_record_id": "recvhlcOMz0H14",
-      "space_record_id": "recvhqPhUGlfRN",
-      "location": "进门左一上柜",
-      "container": null,
-      "remark": null,
+      "major_lookup": "🍎 饮食供应",
+      "location_full": "2厨房~2厨房",
+      "location": "厨房",
+      "container": "微波炉高压锅",
+      "local_id": "item-7e136fc0",
+      "auto_no": "106",
+      "category_link": [
+        {
+          "id": "recvhlcOMz0H14"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "2厨房",
+      "record_id": "recvhj3fZsULTF",
       "updated_at": "2026-04-25 00:17:36",
-      "feishu_record_id": "recvhj3fZsULTF"
+      "parent_container": "2厨房"
     },
     {
-      "id": "item-2b8a1ef5",
+      "feishu_record_id": "recvhj3ggow8ik",
       "name": "菜板",
-      "category": "🍎 饮食供应",
+      "space_record_id": [
+        {
+          "id": "recvhr5JtV5asp"
+        }
+      ],
       "sub_category": "厨具/餐具",
-      "category_record_id": "recvhlcOMz0H14",
-      "space_record_id": "recvhr5JtV5asp",
-      "location": "2厨房",
-      "container": "厨房台面",
+      "major_lookup": "🍎 饮食供应",
       "remark": "12312412",
+      "location_full": "2厨房~2厨房",
+      "location": "厨房",
+      "container": "厨房台面",
+      "local_id": "item-2b8a1ef5",
+      "auto_no": "107",
+      "category_link": [
+        {
+          "id": "recvhlcOMz0H14"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "2厨房",
+      "record_id": "recvhj3ggow8ik",
       "updated_at": "2026-04-25 00:17:37",
-      "feishu_record_id": "recvhj3ggow8ik"
+      "parent_container": "2厨房"
     },
     {
-      "id": "item-e44e3fd0",
+      "feishu_record_id": "recvhklk2phAoN",
       "name": "外挂电池",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-e44e3fd0",
+      "auto_no": "109",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklk2phAoN",
       "updated_at": "2026-04-25 00:17:38",
-      "feishu_record_id": "recvhklk2phAoN"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-8e98cfdf",
+      "feishu_record_id": "recvhklkj7I0rc",
       "name": "小米充电宝（银色）",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-8e98cfdf",
+      "auto_no": "110",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "疑似损坏",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklkj7I0rc",
       "updated_at": "2026-04-25 00:17:39",
-      "feishu_record_id": "recvhklkj7I0rc"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-295a3194",
+      "feishu_record_id": "recvhklkyHNCDC",
       "name": "白色充电宝（带C和L头线）",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-295a3194",
+      "auto_no": "111",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklkyHNCDC",
       "updated_at": "2026-04-25 00:17:39",
-      "feishu_record_id": "recvhklkyHNCDC"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-961ea38a",
+      "feishu_record_id": "recvhklkPJIjuY",
       "name": "金牛充电宝",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-961ea38a",
+      "auto_no": "112",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "疑似损坏",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklkPJIjuY",
       "updated_at": "2026-04-25 00:17:40",
-      "feishu_record_id": "recvhklkPJIjuY"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-c38214d6",
+      "feishu_record_id": "recvhkll7KG81G",
       "name": "15000mAh快充充电宝(60W)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-c38214d6",
+      "auto_no": "113",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "疑似损坏",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkll7KG81G",
       "updated_at": "2026-04-25 00:17:41",
-      "feishu_record_id": "recvhkll7KG81G"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-de535af6",
+      "feishu_record_id": "recvhkllokqC27",
       "name": "紫米充电宝",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-de535af6",
+      "auto_no": "114",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "疑似损坏",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkllokqC27",
       "updated_at": "2026-04-25 00:17:42",
-      "feishu_record_id": "recvhkllokqC27"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-3c50f806",
+      "feishu_record_id": "recvhkllDRK7ug",
       "name": "C to L转接头（白色）",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-3c50f806",
+      "auto_no": "115",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkllDRK7ug",
       "updated_at": "2026-04-25 00:17:42",
-      "feishu_record_id": "recvhkllDRK7ug"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-d209dbe4",
+      "feishu_record_id": "recvhkllTUstxg",
       "name": "超短C to L转接线（红色）",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-d209dbe4",
+      "auto_no": "116",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkllTUstxg",
       "updated_at": "2026-04-25 00:17:43",
-      "feishu_record_id": "recvhkllTUstxg"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-f87a1ff2",
+      "feishu_record_id": "recvhklmantYRg",
       "name": "5V1A充电头 (3个)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-f87a1ff2",
+      "auto_no": "117",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklmantYRg",
       "updated_at": "2026-04-25 00:17:44",
-      "feishu_record_id": "recvhklmantYRg"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-d1b6906c",
+      "feishu_record_id": "recvhklms3QkzT",
       "name": "12V2A电源适配器",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-d1b6906c",
+      "auto_no": "118",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklms3QkzT",
       "updated_at": "2026-04-25 00:17:45",
-      "feishu_record_id": "recvhklms3QkzT"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-7b471164",
+      "feishu_record_id": "recvhklmHWwlR6",
       "name": "USB to Lightning数据线 (袋装)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: Lightning数据线袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-7b471164",
+      "auto_no": "119",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklmHWwlR6",
       "updated_at": "2026-04-25 00:17:46",
-      "feishu_record_id": "recvhklmHWwlR6"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-91742f5b",
+      "feishu_record_id": "recvhklmXZ4smz",
       "name": "USB to Micro USB数据线 (袋装)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: MicroUSB数据线袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-91742f5b",
+      "auto_no": "120",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklmXZ4smz",
       "updated_at": "2026-04-25 00:17:46",
-      "feishu_record_id": "recvhklmXZ4smz"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-359ea7ad",
+      "feishu_record_id": "recvhklnd8fuWz",
       "name": "Micro USB线 (另一袋)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: MicroUSB另一袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-359ea7ad",
+      "auto_no": "121",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklnd8fuWz",
       "updated_at": "2026-04-25 00:17:47",
-      "feishu_record_id": "recvhklnd8fuWz"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-ea72b5cb",
+      "feishu_record_id": "recvhklntiV0UI",
       "name": "未知圆孔插头线",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-ea72b5cb",
+      "auto_no": "122",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklntiV0UI",
       "updated_at": "2026-04-25 00:17:48",
-      "feishu_record_id": "recvhklntiV0UI"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-cee38827",
+      "feishu_record_id": "recvhklnI1N4of",
       "name": "小米手环充电线 (袋装)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: 手环充电线袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-cee38827",
+      "auto_no": "123",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklnI1N4of",
       "updated_at": "2026-04-25 00:17:49",
-      "feishu_record_id": "recvhklnI1N4of"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-190be740",
+      "feishu_record_id": "recvhklnZ8HCbe",
       "name": "Lightning转3.5再转Lightning分线器",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-190be740",
+      "auto_no": "124",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklnZ8HCbe",
       "updated_at": "2026-04-25 00:17:49",
-      "feishu_record_id": "recvhklnZ8HCbe"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-c730ec1b",
+      "feishu_record_id": "recvhklofcogu5",
       "name": "USB转Type-C数据线 (包，含暂存区3条)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: USB-C数据线包",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-c730ec1b",
+      "auto_no": "125",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklofcogu5",
       "updated_at": "2026-04-25 00:17:50",
-      "feishu_record_id": "recvhklofcogu5"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-399536f8",
+      "feishu_record_id": "recvhklowvyMMF",
       "name": "Type-C转Type-C数据线 (包，含短线)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: C-C数据线包",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-399536f8",
+      "auto_no": "126",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklowvyMMF",
       "updated_at": "2026-04-25 00:17:51",
-      "feishu_record_id": "recvhklowvyMMF"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-0de193aa",
+      "feishu_record_id": "recvhkloMh3iVO",
       "name": "Type-C转Lightning数据线 (包)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: C-L数据线包",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-0de193aa",
+      "auto_no": "127",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkloMh3iVO",
       "updated_at": "2026-04-25 00:17:52",
-      "feishu_record_id": "recvhkloMh3iVO"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-59a5b8bd",
+      "feishu_record_id": "recvhklp3ojRAn",
       "name": "USB to USB公转公线",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-59a5b8bd",
+      "auto_no": "128",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklp3ojRAn",
       "updated_at": "2026-04-25 00:17:52",
-      "feishu_record_id": "recvhklp3ojRAn"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-d240c097",
+      "feishu_record_id": "recvhklpjmo7pS",
       "name": "USB转未知头线",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-d240c097",
+      "auto_no": "129",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklpjmo7pS",
       "updated_at": "2026-04-25 00:17:53",
-      "feishu_record_id": "recvhklpjmo7pS"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-3bfe8453",
+      "feishu_record_id": "recvhklpzb56EU",
       "name": "USB转Type-C快充线 (袋装)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-3bfe8453",
+      "auto_no": "130",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklpzb56EU",
       "updated_at": "2026-04-25 00:17:54",
-      "feishu_record_id": "recvhklpzb56EU"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-76b1c4bf",
+      "feishu_record_id": "recvhklpOCAtSi",
       "name": "数据线保护头 (袋装)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: 保护头袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-76b1c4bf",
+      "auto_no": "131",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklpOCAtSi",
       "updated_at": "2026-04-25 00:17:55",
-      "feishu_record_id": "recvhklpOCAtSi"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-7bab50a8",
+      "feishu_record_id": "recvhklq50OEV8",
       "name": "耳机转接线 (袋装)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: 耳机转接袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-7bab50a8",
+      "auto_no": "132",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklq50OEV8",
       "updated_at": "2026-04-25 00:17:55",
-      "feishu_record_id": "recvhklq50OEV8"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-3d0c12bb",
+      "feishu_record_id": "recvhklqlqHtep",
       "name": "USB转音频线",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-3d0c12bb",
+      "auto_no": "133",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklqlqHtep",
       "updated_at": "2026-04-25 00:17:56",
-      "feishu_record_id": "recvhklqlqHtep"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-58cc08ba",
+      "feishu_record_id": "recvhklqB8vnIQ",
       "name": "雷电口转老式视频口线",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-58cc08ba",
+      "auto_no": "134",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklqB8vnIQ",
       "updated_at": "2026-04-25 00:17:57",
-      "feishu_record_id": "recvhklqB8vnIQ"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-caadf61f",
+      "feishu_record_id": "recvhklqRD1HYL",
       "name": "USB 3转千兆转接器",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "网络设备",
-      "category_record_id": "recvhlcQueL0ra",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-caadf61f",
+      "auto_no": "135",
+      "category_link": [
+        {
+          "id": "recvhlcQueL0ra"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklqRD1HYL",
       "updated_at": "2026-04-25 00:17:58",
-      "feishu_record_id": "recvhklqRD1HYL"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-03b91f8d",
+      "feishu_record_id": "recvhklr75lk2X",
       "name": "硬盘线 (袋装)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "存储媒介",
-      "category_record_id": "recvhlcR5cb9xq",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: 硬盘线袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-03b91f8d",
+      "auto_no": "136",
+      "category_link": [
+        {
+          "id": "recvhlcR5cb9xq"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklr75lk2X",
       "updated_at": "2026-04-25 00:17:59",
-      "feishu_record_id": "recvhklr75lk2X"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-2c779959",
+      "feishu_record_id": "recvhklrnFcoRq",
       "name": "硬盘转接线及扣具 (袋装)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: 硬盘扣具袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-2c779959",
+      "auto_no": "137",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklrnFcoRq",
       "updated_at": "2026-04-25 00:17:59",
-      "feishu_record_id": "recvhklrnFcoRq"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-f6724a4d",
+      "feishu_record_id": "recvhklrE1VbEQ",
       "name": "U盘与读卡器袋 (含2个读卡器, 1G/4G卡, 苹果内存芯片)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "存储媒介",
-      "category_record_id": "recvhlcR5cb9xq",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "物理包裹: 存储卡袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-f6724a4d",
+      "auto_no": "138",
+      "category_link": [
+        {
+          "id": "recvhlcR5cb9xq"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklrE1VbEQ",
       "updated_at": "2026-04-25 00:18:00",
-      "feishu_record_id": "recvhklrE1VbEQ"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-010061e3",
+      "feishu_record_id": "recvhklrWRFlAT",
       "name": "电动牙刷充电器 (2个)",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "个护电器",
-      "category_record_id": "recvhlcSwpSHPp",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🧼 个人护理",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-010061e3",
+      "auto_no": "139",
+      "category_link": [
+        {
+          "id": "recvhlcSwpSHPp"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklrWRFlAT",
       "updated_at": "2026-04-25 00:18:01",
-      "feishu_record_id": "recvhklrWRFlAT"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-67f142ff",
+      "feishu_record_id": "recvhklsdzOFX1",
       "name": "电动牙刷充电线",
-      "category": "🧼 个人护理",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "个护电器",
-      "category_record_id": "recvhlcSwpSHPp",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🧼 个人护理",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-67f142ff",
+      "auto_no": "140",
+      "category_link": [
+        {
+          "id": "recvhlcSwpSHPp"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklsdzOFX1",
       "updated_at": "2026-04-25 00:18:02",
-      "feishu_record_id": "recvhklsdzOFX1"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-d560d918",
+      "feishu_record_id": "recvhklsuag6xG",
       "name": "鼻腔红光治疗仪转接头",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "医疗仪器/器械",
-      "category_record_id": "recvhlcPBDLDFi",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🏥 健康医疗",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-d560d918",
+      "auto_no": "141",
+      "category_link": [
+        {
+          "id": "recvhlcPBDLDFi"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklsuag6xG",
       "updated_at": "2026-04-25 00:18:03",
-      "feishu_record_id": "recvhklsuag6xG"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-72e2947e",
+      "feishu_record_id": "recvhklsJA7MWf",
       "name": "红光健脑仪控制器线",
-      "category": "🏥 健康医疗",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "医疗仪器/器械",
-      "category_record_id": "recvhlcPBDLDFi",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🏥 健康医疗",
+      "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "物理包裹: 独立线材袋",
+      "local_id": "item-72e2947e",
+      "auto_no": "142",
+      "category_link": [
+        {
+          "id": "recvhlcPBDLDFi"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklsJA7MWf",
       "updated_at": "2026-04-25 00:18:03",
-      "feishu_record_id": "recvhklsJA7MWf"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-60985bc8",
+      "feishu_record_id": "recvhklsZWolIk",
       "name": "导电接地床单导电线 (袋装)",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "生活家电",
-      "category_record_id": "recvhlcWlMDG0N",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🏠 家居与工具",
       "remark": "物理包裹: 接地线袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-60985bc8",
+      "auto_no": "143",
+      "category_link": [
+        {
+          "id": "recvhlcWlMDG0N"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhklsZWolIk",
       "updated_at": "2026-04-25 00:18:04",
-      "feishu_record_id": "recvhklsZWolIk"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-4a0771b5",
+      "feishu_record_id": "recvhkltfZYUN1",
       "name": "接地床单插线头及连接线",
-      "category": "🏠 家居与工具",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "生活家电",
-      "category_record_id": "recvhlcWlMDG0N",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🏠 家居与工具",
       "remark": "物理包裹: 独立线材袋",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-4a0771b5",
+      "auto_no": "144",
+      "category_link": [
+        {
+          "id": "recvhlcWlMDG0N"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkltfZYUN1",
       "updated_at": "2026-04-25 00:18:05",
-      "feishu_record_id": "recvhkltfZYUN1"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-afc3971a",
+      "feishu_record_id": "recvhkOLh4aH1i",
       "name": "5号电池 (拆封过, 7节)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "状态: 已拆封 | 位于电池盒内",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-afc3971a",
+      "auto_no": "145",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkOLh4aH1i",
       "updated_at": "2026-04-25 00:18:06",
-      "feishu_record_id": "recvhkOLh4aH1i"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-73a96fbf",
+      "feishu_record_id": "recvhkOLxTCe7s",
       "name": "5号电池 (未拆封, 4节)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "状态: 未拆封 | 位于电池盒内",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-73a96fbf",
+      "auto_no": "146",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkOLxTCe7s",
       "updated_at": "2026-04-25 00:18:07",
-      "feishu_record_id": "recvhkOLxTCe7s"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-4bb0a8d6",
+      "feishu_record_id": "recvhkOLMzBeAt",
       "name": "7号电池 (很多节)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "位于电池盒内",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "位于电池盒内",
+      "local_id": "item-4bb0a8d6",
+      "auto_no": "147",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkOLMzBeAt",
       "updated_at": "2026-04-25 00:18:08",
-      "feishu_record_id": "recvhkOLMzBeAt"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-cf02db53",
+      "feishu_record_id": "recvhkOM2msLGj",
       "name": "9伏方块电池 (2个)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
+      "major_lookup": "🔌 电子数码",
+      "remark": "位于电池盒内",
+      "location_full": "暂存区~客厅",
       "location": "暂存区",
       "container": "数码线材备用箱",
-      "remark": "位于电池盒内",
+      "local_id": "item-cf02db53",
+      "auto_no": "148",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkOM2msLGj",
       "updated_at": "2026-04-25 00:18:08",
-      "feishu_record_id": "recvhkOM2msLGj"
+      "parent_container": "暂存区"
     },
     {
-      "id": "item-2b81dd22",
+      "feishu_record_id": "recvhkOMiQjy1p",
       "name": "3伏纽扣电池 (6颗)",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
       "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
+      "major_lookup": "🔌 电子数码",
       "remark": "位于电池盒内",
+      "location_full": "暂存区~客厅",
+      "location": "暂存区",
+      "container": "数码线材备用箱",
+      "local_id": "item-2b81dd22",
+      "auto_no": "149",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhkOMiQjy1p",
       "updated_at": "2026-04-25 00:18:09",
-      "feishu_record_id": "recvhkOMiQjy1p"
+      "parent_container": "暂存区"
     },
     {
-      "id": "fb30d3d9-fe92-443a-b40e-5562d1de7ad8",
+      "feishu_record_id": "recvhvZ1OyB6Sr",
       "name": "Bose QC 35 耳机",
-      "category": "🔌 电子数码",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:10",
-      "feishu_record_id": "recvhvZ1OyB6Sr"
-    },
-    {
-      "id": "7fb54e75-225c-4a7c-bcf4-52c3ba3f00d3",
-      "name": "手机维修工具盒",
-      "category": "🔌 电子数码",
-      "sub_category": "数码维修工具",
-      "category_record_id": "recvhw7R7yZ8ym",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:11",
-      "feishu_record_id": "recvhvZ27bQE8u"
-    },
-    {
-      "id": "fec9d41b-d20a-4579-9a61-08914c9ddb85",
-      "name": "iPhone 16 Pro 手机膜及贴膜工具",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:11",
-      "feishu_record_id": "recvhvZ2oqzUrQ"
-    },
-    {
-      "id": "e5b9b74c-a2d3-476f-ba39-b11b0c63d4dc",
-      "name": "清洁布袋（含擦屏幕布x1, 眼镜布x2）",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:12",
-      "feishu_record_id": "recvhvZ2GcOytK"
-    },
-    {
-      "id": "a0149724-48e6-4a9a-b962-c1343d0449dd",
-      "name": "苹果 Lightning 原装有线耳机",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:13",
-      "feishu_record_id": "recvhvZ2WccWvQ"
-    },
-    {
-      "id": "68e58fc3-70d8-416a-b931-1d4f5f06e73b",
-      "name": "透明 iPhone 16 手机壳",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:14",
-      "feishu_record_id": "recvhvZ3ekj7hU"
-    },
-    {
-      "id": "7e6318cc-79c6-48bc-998d-a9d24001187d",
-      "name": "手机防水袋",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:14",
-      "feishu_record_id": "recvhvZ3uyNLFt"
-    },
-    {
-      "id": "3d4e9421-3b29-413b-8751-a73145d7c0f2",
-      "name": "NFC解密器(一盒)",
-      "category": "🔌 电子数码",
-      "sub_category": "数码维修工具",
-      "category_record_id": "recvhw7R7yZ8ym",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:15",
-      "feishu_record_id": "recvhvZ3L8uuvv"
-    },
-    {
-      "id": "3c84c8fe-0cbf-4e7d-91ee-51dff71c8e8f",
-      "name": "小米手环普通表带",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:16",
-      "feishu_record_id": "recvhvZ41PDfcH"
-    },
-    {
-      "id": "10f1c0b9-834e-49e2-905a-c22f9824d0c1",
-      "name": "手机磁吸镜",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:17",
-      "feishu_record_id": "recvhvZ4ivslcX"
-    },
-    {
-      "id": "79409dbf-2fc9-4c63-bc29-e5d22ae8fce3",
-      "name": "手机运动手臂袋",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:18",
-      "feishu_record_id": "recvhvZ4yWslcQ"
-    },
-    {
-      "id": "c478de73-54a3-4054-bf3a-56af6a5047c2",
-      "name": "坏的 iPad",
-      "category": "🔌 电子数码",
-      "sub_category": "核心计算设备",
-      "category_record_id": "recvhlcQdkgzbf",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:18",
-      "feishu_record_id": "recvhvZ4Os4VAa"
-    },
-    {
-      "id": "0c6e650e-1b47-4e1e-9580-38347e65e2a5",
-      "name": "绿色 iPhone 12 手机壳",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:19",
-      "feishu_record_id": "recvhvZ54vOPDx"
-    },
-    {
-      "id": "2a246683-6e01-461a-83ce-b7bf35dea6f5",
-      "name": "小米手环充电线",
-      "category": "🔌 电子数码",
-      "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:20",
-      "feishu_record_id": "recvhvZ5kGGLeF"
-    },
-    {
-      "id": "24183840-48d5-4a43-9f32-6564a10cb94b",
-      "name": "小米手环尼龙表带",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:21",
-      "feishu_record_id": "recvhvZ5ARMWI9"
-    },
-    {
-      "id": "0e4019fc-262a-420c-acc9-671af4b5a9f1",
-      "name": "iPhone 12 手机壳膜套装",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:21",
-      "feishu_record_id": "recvhvZ5TYubdx"
-    },
-    {
-      "id": "4e7e8335-2c68-4af2-818a-8a2390d6b458",
-      "name": "手机夹（夹杆子用的）",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:22",
-      "feishu_record_id": "recvhvZ69JtR9w"
-    },
-    {
-      "id": "f5a2bc06-0836-4d0b-af69-c732f21b99c9",
-      "name": "3.5mm 塑料三脚架",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:23",
-      "feishu_record_id": "recvhvZ6rbv58d"
-    },
-    {
-      "id": "b6dee011-c729-40d0-b67d-66620e63f685",
-      "name": "5ber手机卡袋子",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:24",
-      "feishu_record_id": "recvhwO7FgOOXH"
-    },
-    {
-      "id": "fa232f9b-777a-4e88-8e0d-1e581ac19e0c",
-      "name": "AirPods 替换耳塞 (一对)",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:25",
-      "feishu_record_id": "recvhwO7UNOQAg"
-    },
-    {
-      "id": "3344c1d8-6457-407c-a319-f0320da4e0d4",
-      "name": "Apple Watch 充电转接器",
-      "category": "🔌 电子数码",
-      "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:25",
-      "feishu_record_id": "recvhwO88XCR24"
-    },
-    {
-      "id": "0741759f-9229-417c-8458-62890689621c",
-      "name": "贴膜神器 (3个)",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:26",
-      "feishu_record_id": "recvhwO8oKyUkI"
-    },
-    {
-      "id": "fbc42481-7724-43f8-90e7-ce4a73d5be7f",
-      "name": "磁吸环",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:27",
-      "feishu_record_id": "recvhwO8DEhNBV"
-    },
-    {
-      "id": "f4748c07-718e-4a66-a88d-1470fceb3b41",
-      "name": "AirPods Pro 耳机套",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:28",
-      "feishu_record_id": "recvhwO8SDb827"
-    },
-    {
-      "id": "c44b9f95-1dd3-4494-89f4-0e3395e4fde3",
-      "name": "Type C 转 Lightning 转接头",
-      "category": "🔌 电子数码",
-      "sub_category": "动力与线材",
-      "category_record_id": "recvhlcREq9Yi6",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:29",
-      "feishu_record_id": "recvhwO99X4nwL"
-    },
-    {
-      "id": "b499f89c-b52f-49fd-bd5c-17b03a273920",
-      "name": "U盘",
-      "category": "🔌 电子数码",
-      "sub_category": "存储媒介",
-      "category_record_id": "recvhlcR5cb9xq",
-      "space_record_id": "recvhr5HlZ9Pcm",
-      "location": "暂存区",
-      "container": "数码线材备用箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:29",
-      "feishu_record_id": "recvhwO9pWE7FY"
-    },
-    {
-      "id": "e72b7938-ccbb-416b-b674-1d513f0eb53c",
-      "name": "小米手环 (1)",
-      "category": "🔌 电子数码",
-      "sub_category": "核心计算设备",
-      "category_record_id": "recvhlcQdkgzbf",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:30",
-      "feishu_record_id": "recvhwO9EfO9hL"
-    },
-    {
-      "id": "fdfba8b0-36f1-4686-afc3-bf3ce89b4e66",
-      "name": "小米手环 (2)",
-      "category": "🔌 电子数码",
-      "sub_category": "核心计算设备",
-      "category_record_id": "recvhlcQdkgzbf",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:31",
-      "feishu_record_id": "recvhwO9V086Ye"
-    },
-    {
-      "id": "32d159ca-6d0d-44b8-aebb-81f34711ffa1",
-      "name": "贴膜神器 (1个)",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:32",
-      "feishu_record_id": "recvhwOaazJ2ML"
-    },
-    {
-      "id": "a578f2fd-0d89-425a-83f0-cd46f7f69237",
-      "name": "3.5mm 苹果原装有线耳机",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:33",
-      "feishu_record_id": "recvhwOaqI5v21"
-    },
-    {
-      "id": "staging-a48c615a",
-      "name": "iPad的夹子",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:33",
-      "feishu_record_id": "recvhwOaFuGKxg"
-    },
-    {
-      "id": "staging-1a37fc86",
-      "name": "仿的AirPods",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:34",
-      "feishu_record_id": "recvhwOaUZxDz4"
-    },
-    {
-      "id": "staging-1560942d",
-      "name": "小米手环 (未知代数)",
-      "category": "🔌 电子数码",
-      "sub_category": "核心计算设备",
-      "category_record_id": "recvhlcQdkgzbf",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:35",
-      "feishu_record_id": "recvhwOb9aFU1g"
-    },
-    {
-      "id": "item-lark-f5d240f4",
-      "name": "apple watch 编织表带",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "正常",
-      "updated_at": "2026-04-25 00:18:36",
-      "feishu_record_id": "recvhxCzGBNwJk"
-    },
-    {
-      "id": "2e530d4d-1d06-42e5-afba-a5ea6747cafe",
-      "name": "金属钢化膜盒子 (可作为收纳盒)",
-      "category": "🏠 家居与工具",
-      "sub_category": "收纳与包袋",
-      "category_record_id": "recvhlcXevMRKS",
-      "space_record_id": null,
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
       "location": "手机电子产品配件箱",
       "container": "手机电子产品配件箱",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 07:37:15",
-      "feishu_record_id": "recvhwO7oLoGHN"
-    },
-    {
-      "id": "item-lark-e7d8c229",
-      "name": "清洁布袋 (含1擦屏幕布+2眼镜布)",
-      "category": "🔌 电子数码",
-      "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
-      "container": "手机电子产品配件箱",
-      "remark": null,
+      "local_id": "fb30d3d9-fe92-443a-b40e-5562d1de7ad8",
+      "auto_no": "153",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
-      "updated_at": "2026-04-25 00:18:37",
-      "feishu_record_id": "recvhx6kRPLyr1"
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ1OyB6Sr",
+      "updated_at": "2026-04-25 00:18:10",
+      "parent_container": "次卧"
     },
     {
-      "id": "item-lark-3899115f",
-      "name": "NFC解密器(盒)",
-      "category": "🔌 电子数码",
+      "feishu_record_id": "recvhvZ27bQE8u",
+      "name": "手机维修工具盒",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "数码维修工具",
-      "category_record_id": "recvhw7R7yZ8ym",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
       "container": "手机电子产品配件箱",
-      "remark": null,
+      "local_id": "7fb54e75-225c-4a7c-bcf4-52c3ba3f00d3",
+      "auto_no": "154",
+      "category_link": [
+        {
+          "id": "recvhw7R7yZ8ym"
+        }
+      ],
       "status": "正常",
-      "updated_at": "2026-04-25 00:18:38",
-      "feishu_record_id": "recvhx6kAJ31lV"
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ27bQE8u",
+      "updated_at": "2026-04-25 00:18:11",
+      "parent_container": "次卧"
     },
     {
-      "id": "item-lark-a4d3115d",
-      "name": "手机夹 (夹杆子那种)",
-      "category": "🔌 电子数码",
+      "feishu_record_id": "recvhvZ2oqzUrQ",
+      "name": "iPhone 16 Pro 手机膜及贴膜工具",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
       "sub_category": "外设与配件",
-      "category_record_id": "recvhlcRnaO0ql",
-      "space_record_id": "recvhqPmtW1ttg",
-      "location": "次卧",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
       "container": "手机电子产品配件箱",
-      "remark": null,
+      "local_id": "fec9d41b-d20a-4579-9a61-08914c9ddb85",
+      "auto_no": "155",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
       "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ2oqzUrQ",
+      "updated_at": "2026-04-25 00:18:11",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ2GcOytK",
+      "name": "清洁布袋（含擦屏幕布x1, 眼镜布x2）",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "e5b9b74c-a2d3-476f-ba39-b11b0c63d4dc",
+      "auto_no": "156",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ2GcOytK",
+      "updated_at": "2026-04-25 00:18:12",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ2WccWvQ",
+      "name": "苹果 Lightning 原装有线耳机",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "a0149724-48e6-4a9a-b962-c1343d0449dd",
+      "auto_no": "157",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ2WccWvQ",
+      "updated_at": "2026-04-25 00:18:13",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ3ekj7hU",
+      "name": "透明 iPhone 16 手机壳",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "68e58fc3-70d8-416a-b931-1d4f5f06e73b",
+      "auto_no": "158",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ3ekj7hU",
+      "updated_at": "2026-04-25 00:18:14",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ3uyNLFt",
+      "name": "手机防水袋",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "7e6318cc-79c6-48bc-998d-a9d24001187d",
+      "auto_no": "159",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ3uyNLFt",
+      "updated_at": "2026-04-25 00:18:14",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ3L8uuvv",
+      "name": "NFC解密器(一盒)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "五金与维修",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "3d4e9421-3b29-413b-8751-a73145d7c0f2",
+      "auto_no": "160",
+      "category_link": [
+        {
+          "id": "recvhw7R7yZ8ym"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ3L8uuvv",
+      "updated_at": "2026-04-25 00:18:15",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ41PDfcH",
+      "name": "小米手环普通表带",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "3c84c8fe-0cbf-4e7d-91ee-51dff71c8e8f",
+      "auto_no": "161",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ41PDfcH",
+      "updated_at": "2026-04-25 00:18:16",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ4ivslcX",
+      "name": "手机磁吸镜",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "10f1c0b9-834e-49e2-905a-c22f9824d0c1",
+      "auto_no": "162",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ4ivslcX",
+      "updated_at": "2026-04-25 00:18:17",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ4yWslcQ",
+      "name": "手机运动手臂袋",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "79409dbf-2fc9-4c63-bc29-e5d22ae8fce3",
+      "auto_no": "163",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ4yWslcQ",
+      "updated_at": "2026-04-25 00:18:18",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ4Os4VAa",
+      "name": "坏的 iPad",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "核心计算设备",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "c478de73-54a3-4054-bf3a-56af6a5047c2",
+      "auto_no": "164",
+      "category_link": [
+        {
+          "id": "recvhlcQdkgzbf"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ4Os4VAa",
+      "updated_at": "2026-04-25 00:18:18",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ54vOPDx",
+      "name": "绿色 iPhone 12 手机壳",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "0c6e650e-1b47-4e1e-9580-38347e65e2a5",
+      "auto_no": "165",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ54vOPDx",
+      "updated_at": "2026-04-25 00:18:19",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ5kGGLeF",
+      "name": "小米手环充电线",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
+      "sub_category": "动力与线材",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "2a246683-6e01-461a-83ce-b7bf35dea6f5",
+      "auto_no": "166",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhvZ5kGGLeF",
+      "updated_at": "2026-04-25 00:18:20",
+      "parent_container": "暂存区"
+    },
+    {
+      "feishu_record_id": "recvhvZ5ARMWI9",
+      "name": "小米手环尼龙表带",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "24183840-48d5-4a43-9f32-6564a10cb94b",
+      "auto_no": "167",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ5ARMWI9",
+      "updated_at": "2026-04-25 00:18:21",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ5TYubdx",
+      "name": "iPhone 12 手机壳膜套装",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "0e4019fc-262a-420c-acc9-671af4b5a9f1",
+      "auto_no": "168",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ5TYubdx",
+      "updated_at": "2026-04-25 00:18:21",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ69JtR9w",
+      "name": "手机夹（夹杆子用的）",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "4e7e8335-2c68-4af2-818a-8a2390d6b458",
+      "auto_no": "169",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ69JtR9w",
+      "updated_at": "2026-04-25 00:18:22",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhvZ6rbv58d",
+      "name": "3.5mm 塑料三脚架",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "f5a2bc06-0836-4d0b-af69-c732f21b99c9",
+      "auto_no": "170",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhvZ6rbv58d",
+      "updated_at": "2026-04-25 00:18:23",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwO7FgOOXH",
+      "name": "5ber手机卡袋子",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "b6dee011-c729-40d0-b67d-66620e63f685",
+      "auto_no": "173",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwO7FgOOXH",
+      "updated_at": "2026-04-25 00:18:24",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwO7UNOQAg",
+      "name": "AirPods 替换耳塞 (一对)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "fa232f9b-777a-4e88-8e0d-1e581ac19e0c",
+      "auto_no": "174",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwO7UNOQAg",
+      "updated_at": "2026-04-25 00:18:25",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwO88XCR24",
+      "name": "Apple Watch 充电转接器",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
+      "sub_category": "动力与线材",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "3344c1d8-6457-407c-a319-f0320da4e0d4",
+      "auto_no": "175",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhwO88XCR24",
+      "updated_at": "2026-04-25 00:18:25",
+      "parent_container": "暂存区"
+    },
+    {
+      "feishu_record_id": "recvhwO8oKyUkI",
+      "name": "贴膜神器 (3个)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "0741759f-9229-417c-8458-62890689621c",
+      "auto_no": "176",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwO8oKyUkI",
+      "updated_at": "2026-04-25 00:18:26",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwO8DEhNBV",
+      "name": "磁吸环",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "fbc42481-7724-43f8-90e7-ce4a73d5be7f",
+      "auto_no": "177",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwO8DEhNBV",
+      "updated_at": "2026-04-25 00:18:27",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwO8SDb827",
+      "name": "AirPods Pro 耳机套",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "f4748c07-718e-4a66-a88d-1470fceb3b41",
+      "auto_no": "178",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwO8SDb827",
+      "updated_at": "2026-04-25 00:18:28",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwO99X4nwL",
+      "name": "Type C 转 Lightning 转接头",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
+      "sub_category": "动力与线材",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "c44b9f95-1dd3-4494-89f4-0e3395e4fde3",
+      "auto_no": "179",
+      "category_link": [
+        {
+          "id": "recvhlcREq9Yi6"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhwO99X4nwL",
+      "updated_at": "2026-04-25 00:18:29",
+      "parent_container": "暂存区"
+    },
+    {
+      "feishu_record_id": "recvhwO9pWE7FY",
+      "name": "U盘",
+      "space_record_id": [
+        {
+          "id": "recvhr5HlZ9Pcm"
+        }
+      ],
+      "sub_category": "存储媒介",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "暂存区~客厅",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "b499f89c-b52f-49fd-bd5c-17b03a273920",
+      "auto_no": "180",
+      "category_link": [
+        {
+          "id": "recvhlcR5cb9xq"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "客厅",
+      "record_id": "recvhwO9pWE7FY",
+      "updated_at": "2026-04-25 00:18:29",
+      "parent_container": "暂存区"
+    },
+    {
+      "feishu_record_id": "recvhwO9EfO9hL",
+      "name": "小米手环 (1)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "核心计算设备",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "e72b7938-ccbb-416b-b674-1d513f0eb53c",
+      "auto_no": "181",
+      "category_link": [
+        {
+          "id": "recvhlcQdkgzbf"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwO9EfO9hL",
+      "updated_at": "2026-04-25 00:18:30",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwO9V086Ye",
+      "name": "小米手环 (2)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "核心计算设备",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "fdfba8b0-36f1-4686-afc3-bf3ce89b4e66",
+      "auto_no": "182",
+      "category_link": [
+        {
+          "id": "recvhlcQdkgzbf"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwO9V086Ye",
+      "updated_at": "2026-04-25 00:18:31",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwOaazJ2ML",
+      "name": "贴膜神器 (1个)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "32d159ca-6d0d-44b8-aebb-81f34711ffa1",
+      "auto_no": "183",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwOaazJ2ML",
+      "updated_at": "2026-04-25 00:18:32",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwOaqI5v21",
+      "name": "3.5mm 苹果原装有线耳机",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "a578f2fd-0d89-425a-83f0-cd46f7f69237",
+      "auto_no": "184",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwOaqI5v21",
+      "updated_at": "2026-04-25 00:18:33",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwOaFuGKxg",
+      "name": "iPad的夹子",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "staging-a48c615a",
+      "auto_no": "185",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwOaFuGKxg",
+      "updated_at": "2026-04-25 00:18:33",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwOaUZxDz4",
+      "name": "仿的AirPods",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "外设与配件",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "staging-1a37fc86",
+      "auto_no": "186",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwOaUZxDz4",
+      "updated_at": "2026-04-25 00:18:34",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwOb9aFU1g",
+      "name": "小米手环 (未知代数)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "sub_category": "核心计算设备",
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "staging-1560942d",
+      "auto_no": "187",
+      "category_link": [
+        {
+          "id": "recvhlcQdkgzbf"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhwOb9aFU1g",
+      "updated_at": "2026-04-25 00:18:35",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhxCzGBNwJk",
+      "name": "apple watch 编织表带",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "local_id": "item-lark-f5d240f4",
+      "auto_no": "211",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhxCzGBNwJk",
+      "updated_at": "2026-04-25 00:18:36",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhwO7oLoGHN",
+      "name": "金属钢化膜盒子 (可作为收纳盒)",
+      "sub_category": "收纳与包袋",
+      "major_lookup": "🏠 家居与工具",
+      "location_full": "~",
+      "location": "手机电子产品配件箱",
+      "container": "手机电子产品配件箱",
+      "local_id": "2e530d4d-1d06-42e5-afba-a5ea6747cafe",
+      "auto_no": "172",
+      "category_link": [
+        {
+          "id": "recvhlcXevMRKS"
+        }
+      ],
+      "status": "盘点中",
+      "grandpa_container": "",
+      "record_id": "recvhwO7oLoGHN",
+      "updated_at": "2026-04-25 07:37:15",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhx6kRPLyr1",
+      "name": "清洁布袋 (含1擦屏幕布+2眼镜布)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "local_id": "item-lark-e7d8c229",
+      "auto_no": "208",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhx6kRPLyr1",
+      "updated_at": "2026-04-25 00:18:37",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhx6kAJ31lV",
+      "name": "NFC解密器(盒)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "local_id": "item-lark-3899115f",
+      "auto_no": "207",
+      "category_link": [
+        {
+          "id": "recvhw7R7yZ8ym"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhx6kAJ31lV",
+      "updated_at": "2026-04-25 00:18:38",
+      "parent_container": "次卧"
+    },
+    {
+      "feishu_record_id": "recvhx6kjTccuJ",
+      "name": "手机夹 (夹杆子那种)",
+      "space_record_id": [
+        {
+          "id": "recvhqPmtW1ttg"
+        }
+      ],
+      "major_lookup": "🔌 电子数码",
+      "location_full": "次卧~次卧",
+      "local_id": "item-lark-a4d3115d",
+      "auto_no": "206",
+      "category_link": [
+        {
+          "id": "recvhlcRnaO0ql"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "次卧",
+      "record_id": "recvhx6kjTccuJ",
       "updated_at": "2026-04-25 00:18:39",
-      "feishu_record_id": "recvhx6kjTccuJ"
+      "parent_container": "次卧"
     },
     {
-      "id": "83c1909d-cee8-4c94-87c5-30e146e59557",
+      "feishu_record_id": "recvhJkeAsR3LK",
       "name": "三级计算机程序设计员证书",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhIe6xJr39B"
+        }
+      ],
       "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhIe6xJr39B",
-      "location": "学历资料文件袋",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 07:37:41",
-      "feishu_record_id": "recvhJkeAsR3LK"
-    },
-    {
-      "id": "7fa4da4e-60e5-43a9-9a33-317d821e1ce6",
-      "name": "国家信息化计算机教育认证证书",
-      "category": "📚 文档资产",
-      "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhIe6xJr39B",
-      "location": "学历资料文件袋",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 07:37:42",
-      "feishu_record_id": "recvhJkeQegPtX"
-    },
-    {
-      "id": "bfd8fc69-f3b7-4f6f-b7e9-ebb2a846c74b",
-      "name": "贴纸的证件照",
-      "category": "📚 文档资产",
-      "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhIe6xJr39B",
-      "location": "学历资料文件袋",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 07:37:43",
-      "feishu_record_id": "recvhJkf5oUihx"
-    },
-    {
-      "id": "0776957d-d23a-47d7-959c-3f4308a448c6",
-      "name": "四川城市职业学院毕业证书",
-      "category": "📚 文档资产",
-      "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhIe6xJr39B",
-      "location": "学历资料文件袋",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 07:37:43",
-      "feishu_record_id": "recvhJkfly8XU3"
-    },
-    {
-      "id": "c1432fc0-41d5-40aa-ac53-52337626653c",
-      "name": "档案报到证",
-      "category": "📚 文档资产",
-      "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhIe6xJr39B",
-      "location": "学历资料文件袋",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 07:37:44",
-      "feishu_record_id": "recvhJkfC3KIez"
-    },
-    {
-      "id": "4d3543ed-0ace-4678-8da6-d84521749f97",
-      "name": "四川星光电科技有限公司就业协议书",
-      "category": "📚 文档资产",
-      "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhIe6xJr39B",
-      "location": "学历资料文件袋",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 07:37:45",
-      "feishu_record_id": "recvhJkfQYqnrv"
-    },
-    {
-      "id": "3c2c8e76-5ce4-45bb-be17-2581aca6fd86",
-      "name": "四川师范大学自考本科毕业证书和相关档案",
-      "category": "📚 文档资产",
-      "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhIe6xJr39B",
-      "location": "学历资料文件袋",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 07:37:46",
-      "feishu_record_id": "recvhJkg61U64g"
-    },
-    {
-      "id": "8c568754-35b5-4aa1-ad10-20c4eec1a338",
-      "name": "吴欣谕给我写的信",
-      "category": "📚 文档资产",
-      "sub_category": "纪念与情感",
-      "category_record_id": "recvhlcW45dLAC",
-      "space_record_id": null,
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
       "location": "学历资料文件袋",
       "container": "学历资料文件袋",
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 16:15:21",
-      "feishu_record_id": "recvhJkgmX5ItU"
+      "local_id": "83c1909d-cee8-4c94-87c5-30e146e59557",
+      "auto_no": "365",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhJkeAsR3LK",
+      "updated_at": "2026-04-25 17:03:28",
+      "parent_container": ""
     },
     {
-      "id": "space_a3mZBT",
+      "feishu_record_id": "recvhJkeQegPtX",
+      "name": "国家信息化计算机教育认证证书",
+      "space_record_id": [
+        {
+          "id": "recvhIe6xJr39B"
+        }
+      ],
+      "sub_category": "证件与证明",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "学历资料文件袋",
+      "container": "学历资料文件袋",
+      "local_id": "7fa4da4e-60e5-43a9-9a33-317d821e1ce6",
+      "auto_no": "366",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhJkeQegPtX",
+      "updated_at": "2026-04-25 19:42:11",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhJkf5oUihx",
+      "name": "贴纸的证件照",
+      "space_record_id": [
+        {
+          "id": "recvhIe6xJr39B"
+        }
+      ],
+      "sub_category": "证件与证明",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "学历资料文件袋",
+      "container": "学历资料文件袋",
+      "local_id": "bfd8fc69-f3b7-4f6f-b7e9-ebb2a846c74b",
+      "auto_no": "367",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhJkf5oUihx",
+      "updated_at": "2026-04-25 19:42:11",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhJkfly8XU3",
+      "name": "四川城市职业学院软件技术专科毕业证书",
+      "space_record_id": [
+        {
+          "id": "recvhIe6xJr39B"
+        }
+      ],
+      "sub_category": "证件与证明",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "学历资料文件袋",
+      "container": "学历资料文件袋",
+      "local_id": "0776957d-d23a-47d7-959c-3f4308a448c6",
+      "auto_no": "368",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhJkfly8XU3",
+      "updated_at": "2026-04-25 19:42:11",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhJkfC3KIez",
+      "name": "档案报到证",
+      "space_record_id": [
+        {
+          "id": "recvhIe6xJr39B"
+        }
+      ],
+      "sub_category": "证件与证明",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "学历资料文件袋",
+      "container": "学历资料文件袋",
+      "local_id": "c1432fc0-41d5-40aa-ac53-52337626653c",
+      "auto_no": "369",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhJkfC3KIez",
+      "updated_at": "2026-04-25 19:42:11",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhJkfQYqnrv",
+      "name": "四川星光电科技有限公司就业协议书",
+      "space_record_id": [
+        {
+          "id": "recvhIe6xJr39B"
+        }
+      ],
+      "sub_category": "财务与合同",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "学历资料文件袋",
+      "container": "学历资料文件袋",
+      "local_id": "4d3543ed-0ace-4678-8da6-d84521749f97",
+      "auto_no": "370",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhJkfQYqnrv",
+      "updated_at": "2026-04-25 19:42:11",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhJkg61U64g",
+      "name": "四川师范大学自考本科毕业证书和相关档案",
+      "space_record_id": [
+        {
+          "id": "recvhIe6xJr39B"
+        }
+      ],
+      "sub_category": "证件与证明",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "学历资料文件袋",
+      "container": "学历资料文件袋",
+      "local_id": "3c2c8e76-5ce4-45bb-be17-2581aca6fd86",
+      "auto_no": "371",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhJkg61U64g",
+      "updated_at": "2026-04-25 19:42:11",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhJkgmX5ItU",
+      "name": "吴欣谕给我写的信",
+      "space_record_id": [
+        {
+          "id": "recvhN9KhOZJ00"
+        }
+      ],
+      "sub_category": "书信与明信片",
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "学历资料文件袋",
+      "container": "学历资料文件袋",
+      "local_id": "8c568754-35b5-4aa1-ad10-20c4eec1a338",
+      "auto_no": "372",
+      "category_link": [
+        {
+          "id": "recvhlcW45dLAC"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhJkgmX5ItU",
+      "updated_at": "2026-04-25 19:41:56",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhMWFl26Ugp",
       "name": "一张身份证复印件",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhMILa3mZBT"
+        }
+      ],
       "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhMILa3mZBT",
-      "location": "证件及复印件袋子",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 16:16:36",
-      "feishu_record_id": "recvhMWFl26Ugp"
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "暂存区",
+      "container": "证件及复印件袋子",
+      "local_id": "space_a3mZBT",
+      "auto_no": "383",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhMWFl26Ugp",
+      "updated_at": "2026-04-25 19:42:11",
+      "parent_container": ""
     },
     {
-      "id": "space_a3mZBT",
+      "feishu_record_id": "recvhMWFCOnxke",
       "name": "两张身份证、户口本复印件",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhMILa3mZBT"
+        }
+      ],
       "sub_category": "证件与证明",
-      "category_record_id": "recvhlcUYvRurl",
-      "space_record_id": "recvhMILa3mZBT",
-      "location": "证件及复印件袋子",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 16:16:36",
-      "feishu_record_id": "recvhMWFCOnxke"
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "暂存区",
+      "container": "证件及复印件袋子",
+      "local_id": "space_a3mZBT",
+      "auto_no": "384",
+      "category_link": [
+        {
+          "id": "recvhlcUYvRurl"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhMWFCOnxke",
+      "updated_at": "2026-04-25 19:42:11",
+      "parent_container": ""
     },
     {
-      "id": "space_a3mZBT",
+      "feishu_record_id": "recvhMWFU1k9po",
       "name": "活动公司的试用员工合同",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhMXUk94xEj"
+        }
+      ],
       "sub_category": "财务与合同",
-      "category_record_id": "recvhlcVfexiJc",
-      "space_record_id": "recvhMILa3mZBT",
-      "location": "证件及复印件袋子",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 16:16:37",
-      "feishu_record_id": "recvhMWFU1k9po"
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "暂存区",
+      "container": "证件及复印件袋子",
+      "local_id": "space_a3mZBT",
+      "auto_no": "385",
+      "category_link": [
+        {
+          "id": "recvhlcVfexiJc"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhMWFU1k9po",
+      "updated_at": "2026-04-25 19:41:49",
+      "parent_container": ""
     },
     {
-      "id": "space_a3mZBT",
+      "feishu_record_id": "recvhMWGaSwzLs",
       "name": "商业保密协议",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhMXUk94xEj"
+        }
+      ],
       "sub_category": "财务与合同",
-      "category_record_id": "recvhlcVfexiJc",
-      "space_record_id": "recvhMILa3mZBT",
-      "location": "证件及复印件袋子",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 16:16:38",
-      "feishu_record_id": "recvhMWGaSwzLs"
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "暂存区",
+      "container": "证件及复印件袋子",
+      "local_id": "space_a3mZBT",
+      "auto_no": "386",
+      "category_link": [
+        {
+          "id": "recvhlcVfexiJc"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhMWGaSwzLs",
+      "updated_at": "2026-04-25 19:41:49",
+      "parent_container": ""
     },
     {
-      "id": "space_a3mZBT",
+      "feishu_record_id": "recvhMWGriGQ90",
       "name": "活动公司的离职证明",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhMXUk94xEj"
+        }
+      ],
       "sub_category": "财务与合同",
-      "category_record_id": "recvhlcVfexiJc",
-      "space_record_id": "recvhMILa3mZBT",
-      "location": "证件及复印件袋子",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 16:16:39",
-      "feishu_record_id": "recvhMWGriGQ90"
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "暂存区",
+      "container": "证件及复印件袋子",
+      "local_id": "space_a3mZBT",
+      "auto_no": "387",
+      "category_link": [
+        {
+          "id": "recvhlcVfexiJc"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhMWGriGQ90",
+      "updated_at": "2026-04-25 19:41:49",
+      "parent_container": ""
     },
     {
-      "id": "space_a3mZBT",
+      "feishu_record_id": "recvhMWGIzz9Km",
       "name": "泛微的劳动合同",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhMXUk94xEj"
+        }
+      ],
       "sub_category": "财务与合同",
-      "category_record_id": "recvhlcVfexiJc",
-      "space_record_id": "recvhMILa3mZBT",
-      "location": "证件及复印件袋子",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 16:16:40",
-      "feishu_record_id": "recvhMWGIzz9Km"
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "暂存区",
+      "container": "证件及复印件袋子",
+      "local_id": "space_a3mZBT",
+      "auto_no": "388",
+      "category_link": [
+        {
+          "id": "recvhlcVfexiJc"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhMWGIzz9Km",
+      "updated_at": "2026-04-25 19:41:49",
+      "parent_container": ""
     },
     {
-      "id": "space_a3mZBT",
+      "feishu_record_id": "recvhMWGZtyuHy",
       "name": "泛微的终止劳动合同协议书",
-      "category": "📚 文档资产",
+      "space_record_id": [
+        {
+          "id": "recvhMXUk94xEj"
+        }
+      ],
       "sub_category": "财务与合同",
-      "category_record_id": "recvhlcVfexiJc",
-      "space_record_id": "recvhMILa3mZBT",
-      "location": "证件及复印件袋子",
-      "container": null,
-      "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-25 16:16:40",
-      "feishu_record_id": "recvhMWGZtyuHy"
+      "major_lookup": "📚 文档资产",
+      "location_full": "~",
+      "location": "暂存区",
+      "container": "证件及复印件袋子",
+      "local_id": "space_a3mZBT",
+      "auto_no": "389",
+      "category_link": [
+        {
+          "id": "recvhlcVfexiJc"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "",
+      "record_id": "recvhMWGZtyuHy",
+      "updated_at": "2026-04-25 19:41:49",
+      "parent_container": ""
+    },
+    {
+      "feishu_record_id": "recvhj304fvncQ",
+      "name": "勐腊县人民医院CT检查报告单",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
+      "sub_category": "健康档案",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
+      "location": "暂存区",
+      "container": "暂存区-文档资产袋",
+      "local_id": "item-43b6edda",
+      "auto_no": "053",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhj304fvncQ",
+      "updated_at": "2026-04-25 19:42:02",
+      "parent_container": "五芳斋 粽子盒子"
+    },
+    {
+      "feishu_record_id": "recvhN8vW83WuH",
+      "name": "2023年10月11日四川省人民医院病历和检查",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
+      "sub_category": "健康档案",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
+      "location": "暂存区",
+      "container": "病历相关文件袋",
+      "auto_no": "396",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhN8vW83WuH",
+      "updated_at": "2026-04-25 19:42:02",
+      "parent_container": "五芳斋 粽子盒子"
+    },
+    {
+      "feishu_record_id": "recvhN8weEXbt0",
+      "name": "成都华夏眼科医院晶体植入手术复查卡",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
+      "sub_category": "健康档案",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
+      "location": "暂存区",
+      "container": "病历相关文件袋",
+      "auto_no": "397",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhN8weEXbt0",
+      "updated_at": "2026-04-25 19:42:02",
+      "parent_container": "五芳斋 粽子盒子"
+    },
+    {
+      "feishu_record_id": "recvhN8wwjtw2W",
+      "name": "2021年7月7日成都市第二人民医院体检报告",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
+      "sub_category": "健康档案",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
+      "location": "暂存区",
+      "container": "病历相关文件袋",
+      "auto_no": "398",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhN8wwjtw2W",
+      "updated_at": "2026-04-25 19:42:02",
+      "parent_container": "五芳斋 粽子盒子"
+    },
+    {
+      "feishu_record_id": "recvhN8wMTHNB5",
+      "name": "2022年6月12日环亚体检报告",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
+      "sub_category": "健康档案",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
+      "location": "暂存区",
+      "container": "病历相关文件袋",
+      "auto_no": "399",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhN8wMTHNB5",
+      "updated_at": "2026-04-25 19:42:02",
+      "parent_container": "五芳斋 粽子盒子"
+    },
+    {
+      "feishu_record_id": "recvhN8x4EciZL",
+      "name": "2021年10月3日成都心理相关检查报告",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
+      "sub_category": "健康档案",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
+      "location": "暂存区",
+      "container": "病历相关文件袋",
+      "auto_no": "400",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhN8x4EciZL",
+      "updated_at": "2026-04-25 19:42:02",
+      "parent_container": "五芳斋 粽子盒子"
+    },
+    {
+      "feishu_record_id": "recvhN8xlEyF8F",
+      "name": "2021年10月3日成都棕南医院焦虑自评表",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
+      "sub_category": "健康档案",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
+      "location": "暂存区",
+      "container": "病历相关文件袋",
+      "auto_no": "401",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhN8xlEyF8F",
+      "updated_at": "2026-04-25 19:42:02",
+      "parent_container": "五芳斋 粽子盒子"
+    },
+    {
+      "feishu_record_id": "recvhN8xCtI5lH",
+      "name": "2021年10月3日成都棕南医院抑郁自评表",
+      "space_record_id": [
+        {
+          "id": "recvhN14HPrYMU"
+        }
+      ],
+      "sub_category": "健康档案",
+      "major_lookup": "📚 文档资产",
+      "location_full": "五芳斋 粽子盒子~收纳物品箱",
+      "location": "暂存区",
+      "container": "病历相关文件袋",
+      "auto_no": "402",
+      "category_link": [
+        {
+          "id": "recvhlcVwfRHcp"
+        }
+      ],
+      "status": "正常",
+      "grandpa_container": "收纳物品箱",
+      "record_id": "recvhN8xCtI5lH",
+      "updated_at": "2026-04-25 19:42:02",
+      "parent_container": "五芳斋 粽子盒子"
     }
   ]
 }

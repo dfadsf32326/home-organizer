@@ -1,0 +1,315 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "fields": [
+      {
+        "expression": "RECORD_ID()",
+        "id": "fldz4U4glo",
+        "name": "记录 ID",
+        "type": "formula"
+      },
+      {
+        "bidirectional": false,
+        "id": "fldoS6EOpe",
+        "link_table": "tbl2cA30WNdkjsLS",
+        "name": "父空间",
+        "type": "link"
+      },
+      {
+        "id": "fldrCLbryN",
+        "name": "备注字段",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "id": "fldZj9BrAO",
+        "multiple": false,
+        "name": "空间类型",
+        "options": [
+          {
+            "hue": "Blue",
+            "lightness": "Lighter",
+            "name": "房间"
+          },
+          {
+            "hue": "Orange",
+            "lightness": "Lighter",
+            "name": "容器"
+          },
+          {
+            "hue": "Wathet",
+            "lightness": "Lighter",
+            "name": "未分类"
+          },
+          {
+            "hue": "Yellow",
+            "lightness": "Lighter",
+            "name": "柜子"
+          },
+          {
+            "hue": "Turquoise",
+            "lightness": "Lighter",
+            "name": "收纳工具"
+          },
+          {
+            "hue": "Red",
+            "lightness": "Lighter",
+            "name": "区域"
+          },
+          {
+            "hue": "Purple",
+            "lightness": "Lighter",
+            "name": "表面/台面"
+          },
+          {
+            "hue": "Green",
+            "lightness": "Lighter",
+            "name": "墙面"
+          },
+          {
+            "hue": "Carmine",
+            "lightness": "Lighter",
+            "name": "电器"
+          },
+          {
+            "hue": "Lime",
+            "lightness": "Lighter",
+            "name": "墙上挂钩"
+          },
+          {
+            "hue": "Gray",
+            "lightness": "Lighter",
+            "name": "https://www.bilibili.com/video/BV1jqdQBLEvt/?spm_id_from=333.337.search-card.all.click\u0026vd_source=2856ffbe12dd976c5bda163ec2efbcae"
+          },
+          {
+            "hue": "Blue",
+            "lightness": "Lighter",
+            "name": "家具"
+          },
+          {
+            "hue": "Orange",
+            "lightness": "Lighter",
+            "name": "纸箱"
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "id": "fld3jffiay",
+        "name": "容器名",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "id": "fldOQLQPec",
+        "name": "主要功能",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "id": "flde45sjpS",
+        "name": "排序字段",
+        "style": {
+          "percentage": false,
+          "precision": 0,
+          "thousands_separator": false,
+          "type": "plain"
+        },
+        "type": "number"
+      },
+      {
+        "id": "fld6NJUvq2",
+        "multiple": false,
+        "name": "状态",
+        "options": [
+          {
+            "hue": "Blue",
+            "lightness": "Lighter",
+            "name": "……"
+          },
+          {
+            "hue": "Orange",
+            "lightness": "Lighter",
+            "name": "34"
+          },
+          {
+            "hue": "Wathet",
+            "lightness": "Lighter",
+            "name": "使用中"
+          },
+          {
+            "hue": "Orange",
+            "lightness": "Lighter",
+            "name": "盘点完成"
+          },
+          {
+            "hue": "Yellow",
+            "lightness": "Lighter",
+            "name": "待重组"
+          },
+          {
+            "hue": "Blue",
+            "lightness": "Lighter",
+            "name": "待整理"
+          },
+          {
+            "hue": "Yellow",
+            "lightness": "Lighter",
+            "name": "inventory_pending"
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "id": "fldybLlQen",
+        "name": "空间 ID",
+        "style": {
+          "type": "plain"
+        },
+        "type": "text"
+      },
+      {
+        "bidirectional": true,
+        "bidirectional_link_field_id": "fld31jGyNa",
+        "id": "fld8UNSGwt",
+        "link_table": "tbluMVXBpHIJDGyi",
+        "name": "物品清单",
+        "type": "link"
+      },
+      {
+        "id": "fldMkwvqbd",
+        "multiple": false,
+        "name": "使用率",
+        "options": [
+          {
+            "hue": "Blue",
+            "lightness": "Lighter",
+            "name": "低"
+          },
+          {
+            "hue": "Orange",
+            "lightness": "Lighter",
+            "name": "中"
+          },
+          {
+            "hue": "Wathet",
+            "lightness": "Lighter",
+            "name": "高"
+          },
+          {
+            "hue": "Red",
+            "lightness": "Lighter",
+            "name": "medium"
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "id": "flddMrA84a",
+        "multiple": false,
+        "name": "类型",
+        "options": [
+          {
+            "hue": "Blue",
+            "lightness": "Lighter",
+            "name": "房间"
+          },
+          {
+            "hue": "Orange",
+            "lightness": "Lighter",
+            "name": "容器"
+          },
+          {
+            "hue": "Wathet",
+            "lightness": "Lighter",
+            "name": "未分类"
+          },
+          {
+            "hue": "Yellow",
+            "lightness": "Lighter",
+            "name": "柜子"
+          },
+          {
+            "hue": "Turquoise",
+            "lightness": "Lighter",
+            "name": "收纳工具"
+          },
+          {
+            "hue": "Red",
+            "lightness": "Lighter",
+            "name": "区域"
+          },
+          {
+            "hue": "Purple",
+            "lightness": "Lighter",
+            "name": "表面/台面"
+          },
+          {
+            "hue": "Green",
+            "lightness": "Lighter",
+            "name": "墙面"
+          },
+          {
+            "hue": "Carmine",
+            "lightness": "Lighter",
+            "name": "电器"
+          },
+          {
+            "hue": "Lime",
+            "lightness": "Lighter",
+            "name": "墙上挂钩"
+          },
+          {
+            "hue": "Gray",
+            "lightness": "Lighter",
+            "name": "https://www.bilibili.com/video/BV1jqdQBLEvt/?spm_id_from=333.337.search-card.all.click\u0026vd_source=2856ffbe12dd976c5bda163ec2efbcae"
+          },
+          {
+            "hue": "Blue",
+            "lightness": "Lighter",
+            "name": "家具"
+          },
+          {
+            "hue": "Orange",
+            "lightness": "Lighter",
+            "name": "纸箱"
+          },
+          {
+            "hue": "Wathet",
+            "lightness": "Lighter",
+            "name": "文件袋"
+          },
+          {
+            "hue": "Orange",
+            "lightness": "Lighter",
+            "name": "收纳盒"
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "id": "fldz2cQR6Q",
+        "name": "最后更新时间",
+        "style": {
+          "format": "yyyy/MM/dd HH:mm"
+        },
+        "type": "updated_at"
+      }
+    ],
+    "total": 13
+  },
+  "_notice": {
+    "update": {
+      "current": "1.0.11",
+      "latest": "1.0.19",
+      "message": "lark-cli 1.0.19 available, current 1.0.11"
+    }
+  }
+}

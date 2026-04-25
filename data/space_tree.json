@@ -1,707 +1,752 @@
 {
-  "nodes": [
+  "version": "1.0",
+  "data": [
     {
-      "id": null,
-      "name": "厨房",
-      "parent_id": null,
-      "level": 3,
-      "path": ""
+      "record_id": "recvhqPea62tgt",
+      "name": "卧室桌子",
+      "type": "表面/台面",
+      "status": "盘点完成",
+      "frequency": "高",
+      "primary_activity": "工作/电脑娱乐",
+      "parent_rid": "recvhqPkNVYN9U"
     },
     {
-      "id": null,
-      "name": "客厅",
-      "parent_id": null,
-      "level": 3,
-      "path": ""
+      "record_id": "recvhqPepFSu28",
+      "name": "卧室床区",
+      "type": "区域",
+      "status": "待整理",
+      "frequency": "高",
+      "primary_activity": "睡觉/休息、工作",
+      "parent_rid": "recvhqPkNVYN9U"
     },
     {
-      "id": "space_u1XRlx",
-      "record_id": "recvhML2Zadoin",
-      "name": "卧室",
-      "type": "房间"
+      "record_id": "recvhqPeERCFtN",
+      "name": "客厅茶几",
+      "type": "表面/台面",
+      "status": "待重组",
+      "frequency": "高",
+      "primary_activity": "待整理收集/多功能",
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
-      "id": "space_K8D6o6",
-      "record_id": "recvhML3foyysf",
-      "name": "待整理区域",
-      "type": "房间"
+      "record_id": "recvhqPeUc3BoQ",
+      "name": "客厅大圆桌",
+      "type": "表面/台面",
+      "status": "使用中",
+      "frequency": "高",
+      "primary_activity": "吃饭/用餐",
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
-      "id": "space_a3mZBT",
-      "record_id": "recvhMILa3mZBT",
-      "name": "证件及复印件袋子",
-      "type": "收纳工具"
+      "record_id": "recvhqPfa547iB",
+      "name": "洗漱厅桌子",
+      "type": "表面/台面",
+      "status": "待重组",
+      "frequency": "高",
+      "primary_activity": "洗漱/护理",
+      "parent_rid": "recvhqPpkP3kZ9"
     },
     {
-      "id": "space_7AmVR8",
-      "record_id": "recvhxGm7AmVR8",
-      "name": "收纳物品箱",
-      "type": "收纳工具",
-      "notes": null,
-      "frequency": null,
-      "status": null,
-      "primary_activity": null,
-      "parent_id": null
+      "record_id": "recvhqPfpuJRpk",
+      "name": "卧室进门左边墙面",
+      "type": "墙面",
+      "status": "使用中",
+      "frequency": "高",
+      "primary_activity": "挂载/收纳",
+      "parent_rid": "recvhqPkNVYN9U"
     },
     {
-      "id": "space_HPrYMU",
-      "record_id": "recvhN14HPrYMU",
-      "name": "病历相关文件袋",
-      "type": "收纳工具"
+      "record_id": "recvhqPfFeisLr",
+      "name": "冰箱上层保鲜区-最上层",
+      "type": "容器",
+      "status": "盘点完成",
+      "frequency": "高",
+      "primary_activity": "食品/补剂冷藏",
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
-      "id": "297a198e",
-      "name": "学历资料文件袋",
-      "parent_id": null,
-      "frequency": "medium",
-      "type": "文件袋",
-      "primary_activity": "",
-      "description": "存放各类学历和证书",
-      "status": "inventory_pending",
-      "level": 3,
-      "path": "",
-      "record_id": "recvhIe6xJr39B",
-      "notes": null
-    },
-    {
-      "id": "space_cj7w1D",
-      "record_id": "recvhMXOcj7w1D",
-      "name": "g",
-      "type": "未分类"
-    },
-    {
-      "id": "space_k94xEj",
-      "record_id": "recvhMXUk94xEj",
-      "name": "工作与合同文件袋",
-      "type": "未分类"
+      "record_id": "recvhqPfUVeMRU",
+      "name": "20寸银色行李箱",
+      "type": "容器",
+      "status": "盘点完成",
+      "frequency": "低",
+      "primary_activity": "差旅/储物",
+      "parent_rid": "recvhqPpyVZZ9U"
     },
     {
       "record_id": "recvhqPgaJU2PG",
       "name": "暂存区",
       "type": "区域",
-      "notes": "整理过程中的中转站，存放按大类初步归拢的物品",
       "status": "使用中",
+      "frequency": "高",
       "primary_activity": "暂存/中转",
-      "id": "temporary_storage",
-      "frequency": "高",
-      "parent_id": "客厅"
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
-      "id": "bedroom_bed",
-      "record_id": "recvhqPepFSu28",
-      "name": "卧室床区",
-      "type": "区域",
-      "notes": "睡眠与移动办公区域",
-      "frequency": "高",
-      "status": "待整理",
-      "primary_activity": "睡觉/休息、工作",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "厨房_台面墙上挂钩",
-      "record_id": "recvhrxjuIAJnv",
-      "name": "台面墙上挂钩",
-      "type": "墙上挂钩",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "bedroom_left_wall",
-      "record_id": "recvhqPfpuJRpk",
-      "name": "卧室进门左边墙面",
-      "type": "墙面",
-      "notes": "挂灰色背包",
-      "frequency": "高",
-      "status": "使用中",
-      "primary_activity": "挂载/收纳",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "space_Bz16iU",
-      "record_id": "recvhv0UBz16iU",
-      "name": "次卧大衣柜",
-      "type": "家具",
-      "parent_id": "次卧",
-      "notes": null,
-      "frequency": null,
-      "status": null,
-      "primary_activity": null
-    },
-    {
-      "id": "living_room_fridge_top_layer",
-      "record_id": "recvhqPfFeisLr",
-      "name": "冰箱上层保鲜区-最上层",
-      "type": "容器",
-      "notes": "存放需要冷藏的饮品、补剂、益生菌及特殊食品",
-      "frequency": "高",
-      "status": "盘点完成",
-      "primary_activity": "食品/补剂冷藏",
-      "parent_id": "客厅"
-    },
-    {
-      "id": "20inch_silver_suitcase",
-      "record_id": "recvhqPfUVeMRU",
-      "name": "20寸银色行李箱",
-      "type": "容器",
-      "notes": "存放旅行杂物、纪念品及待处理物品",
-      "frequency": "低",
-      "status": "盘点完成",
-      "primary_activity": "差旅/储物",
-      "parent_id": "virtual_流动收纳/待定"
-    },
-    {
-      "id": "moving_box",
       "record_id": "recvhqPgpYO1Vh",
       "name": "搬家纸箱",
       "type": "容器",
-      "notes": "存放搬家带来的杂物，待清点归位",
-      "frequency": "低",
       "status": "使用中",
+      "frequency": "低",
       "primary_activity": "搬家/储物",
-      "parent_id": "客厅"
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
-      "id": "inventory_temp_box",
       "record_id": "recvhqPgG2aPSs",
       "name": "暂存盘点箱",
       "type": "容器",
-      "notes": "整理过程中的中转盘点箱，未指定位置的物品默认放入此箱",
-      "frequency": "高",
       "status": "使用中",
+      "frequency": "高",
       "primary_activity": "暂存/盘点中转",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_一次性洗护用品袋",
-      "record_id": "recvhr5F2tMMIx",
-      "name": "一次性洗护用品袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-待定大件",
-      "record_id": "recvhr5FjJsnXM",
-      "name": "暂存区-待定大件",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-护肤香水袋",
-      "record_id": "recvhr5FCSJIOz",
-      "name": "暂存区-护肤香水袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-个人护理袋",
-      "record_id": "recvhr5FV2Xynj",
-      "name": "暂存区-个人护理袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-健康医疗袋",
-      "record_id": "recvhr5Gc6z1M5",
-      "name": "暂存区-健康医疗袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-家居工具袋",
-      "record_id": "recvhr5GxYtgJY",
-      "name": "暂存区-家居工具袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-小家电袋",
-      "record_id": "recvhr5GOI52NE",
-      "name": "暂存区-小家电袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-文档资产袋",
-      "record_id": "recvhr5H5xlgOt",
-      "name": "暂存区-文档资产袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_数码线材备用箱",
-      "record_id": "recvhr5HlZ9Pcm",
-      "name": "数码线材备用箱",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-电子数码袋",
-      "record_id": "recvhr5HBNO7ET",
-      "name": "暂存区-电子数码袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-织物服饰袋",
-      "record_id": "recvhr5HSpIZ6U",
-      "name": "暂存区-织物服饰袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-织物配件袋",
-      "record_id": "recvhr5I9A9436",
-      "name": "暂存区-织物配件袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_暂存区-饮食供应袋",
-      "record_id": "recvhr5IpLHEKS",
-      "name": "暂存区-饮食供应袋",
-      "type": "容器",
-      "status": "待重组",
-      "parent_id": "temporary_storage"
-    },
-    {
-      "id": "bag_厨房台面墙上挂钩",
-      "record_id": "recvhr5IGpSLK5",
-      "name": "厨房台面墙上挂钩",
-      "type": "容器",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "bag_进门左二上柜-下层",
-      "record_id": "recvhr5IWuzaNo",
-      "name": "进门左二上柜-下层",
-      "type": "容器",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "bag_微波炉高压锅",
-      "record_id": "recvhr5JcTkIbd",
-      "name": "微波炉高压锅",
-      "type": "容器",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "bag_厨房台面",
-      "record_id": "recvhr5JtV5asp",
-      "name": "厨房台面",
-      "type": "容器",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "space_ZHwO1t",
-      "record_id": "recvhAoQZHwO1t",
-      "name": "次卧-桌子-数据线充电器盒子",
-      "type": "容器",
-      "parent_id": "desk"
+      "parent_rid": "recvhqPgaJU2PG"
     },
     {
       "record_id": "recvhqPgW8gxzt",
       "name": "2厨房",
       "type": "房间",
-      "id": "厨房",
-      "notes": null,
-      "frequency": null,
-      "status": null,
-      "primary_activity": null,
-      "parent_id": "厨房"
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhqPhbThmQg",
+      "name": "灶台下柜子",
+      "type": "柜子",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhqPhr5k4gJ",
+      "name": "刀架",
+      "type": "收纳工具",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhqPhUGlfRN",
+      "name": "进门左一上柜",
+      "type": "柜子",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhqPi9NfvXu",
+      "name": "进门左二上柜",
+      "type": "柜子",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhqPiqcVsQo",
+      "name": "进门左二下柜",
+      "type": "柜子",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhqPiESNysu",
+      "name": "台面",
+      "type": "表面/台面",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
     },
     {
       "record_id": "recvhqPiTnFBO1",
       "name": "客厅",
       "type": "房间",
-      "id": "客厅",
-      "notes": "124124124",
-      "frequency": null,
-      "status": null,
-      "primary_activity": null,
-      "parent_id": "客厅"
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
-      "record_id": "recvhqPpkP3kZ9",
-      "name": "洗漱厅",
-      "type": "房间",
-      "notes": "系统自动生成的缺失父节点",
-      "id": "virtual_洗漱厅",
-      "frequency": null,
-      "status": null,
-      "primary_activity": null,
-      "parent_id": "virtual_洗漱厅"
-    },
-    {
-      "record_id": "recvhqPpyVZZ9U",
-      "name": "流动收纳/待定",
-      "type": "房间",
-      "notes": "系统自动生成的缺失父节点",
-      "id": "virtual_流动收纳/待定",
-      "frequency": null,
-      "status": null,
-      "primary_activity": null,
-      "parent_id": "客厅"
+      "record_id": "recvhqPj7OLI6v",
+      "name": "客厅冰箱",
+      "type": "电器",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
       "record_id": "recvhqPjm3HUXv",
       "name": "主卧二楼",
       "type": "房间",
       "status": "待整理",
-      "id": "主卧楼上",
       "frequency": "低",
-      "notes": null,
-      "primary_activity": null,
-      "parent_id": "主卧楼上"
+      "primary_activity": "",
+      "parent_rid": "recvhqPjm3HUXv"
+    },
+    {
+      "record_id": "recvhqPjA6sJEf",
+      "name": "药箱",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "中",
+      "primary_activity": "",
+      "parent_rid": "recvhqPjm3HUXv"
+    },
+    {
+      "record_id": "recvhqPjO0nAlN",
+      "name": "电脑 纸箱",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "低",
+      "primary_activity": "",
+      "parent_rid": "recvhqPjm3HUXv"
+    },
+    {
+      "record_id": "recvhqPk54RSkS",
+      "name": "纸箱",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "低",
+      "primary_activity": "",
+      "parent_rid": "recvhqPjm3HUXv"
     },
     {
       "record_id": "recvhqPkjz0ifY",
       "name": "主卧",
       "type": "房间",
       "status": "待整理",
-      "id": "主卧",
       "frequency": "高",
-      "notes": null,
-      "primary_activity": null,
-      "parent_id": "主卧"
+      "primary_activity": "",
+      "parent_rid": "recvhqPkjz0ifY"
     },
     {
-      "id": "厨房_刀架",
-      "record_id": "recvhqPhr5k4gJ",
-      "name": "刀架",
-      "type": "收纳工具",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "箱子",
-      "record_id": "recvhqPo9AbhFA",
-      "name": "箱子",
-      "type": "收纳工具",
+      "record_id": "recvhqPkxEX4Nt",
+      "name": "主卧桌子",
+      "type": "表面/台面",
       "status": "待整理",
-      "parent_id": "次卧楼上"
-    },
-    {
-      "id": "space_0ZhBCZ",
-      "record_id": "recvhAlY0ZhBCZ",
-      "name": "透明文件盒",
-      "type": "收纳工具",
-      "parent_id": "space_7AmVR8"
+      "frequency": "高",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkjz0ifY"
     },
     {
       "record_id": "recvhqPkNVYN9U",
       "name": "次卧",
       "type": "未分类",
       "status": "待整理",
-      "id": "次卧",
       "frequency": "高",
-      "notes": null,
-      "primary_activity": null,
-      "parent_id": "次卧"
-    },
-    {
-      "record_id": "recvhqPmWbssjk",
-      "name": "吧台",
-      "type": "未分类",
-      "status": "待整理",
-      "id": "吧台",
-      "notes": null,
-      "frequency": null,
-      "primary_activity": null,
-      "parent_id": "吧台"
-    },
-    {
-      "record_id": "recvhqPnp47Xwm",
-      "name": "客厅塑料柜",
-      "type": "未分类",
-      "status": "待整理",
-      "id": "客厅塑料柜",
-      "notes": null,
-      "frequency": null,
-      "primary_activity": null,
-      "parent_id": "客厅"
-    },
-    {
-      "record_id": "recvhqPnTLCt4D",
-      "name": "次卧二楼",
-      "type": "未分类",
-      "status": "待整理",
-      "id": "次卧楼上",
-      "notes": null,
-      "frequency": null,
-      "primary_activity": null,
-      "parent_id": "次卧楼上"
-    },
-    {
-      "id": "药箱",
-      "record_id": "recvhqPjA6sJEf",
-      "name": "药箱",
-      "type": "未分类",
-      "frequency": "中",
-      "status": "待整理",
-      "parent_id": "主卧楼上"
-    },
-    {
-      "id": "电脑-纸箱",
-      "record_id": "recvhqPjO0nAlN",
-      "name": "电脑 纸箱",
-      "type": "未分类",
-      "frequency": "低",
-      "status": "待整理",
-      "parent_id": "主卧楼上"
-    },
-    {
-      "id": "纸箱",
-      "record_id": "recvhqPk54RSkS",
-      "name": "纸箱",
-      "type": "未分类",
-      "frequency": "低",
-      "status": "待整理",
-      "parent_id": "主卧楼上"
-    },
-    {
-      "id": "wardrobe-drawers",
-      "record_id": "recvhqPly2aUYZ",
-      "name": "衣柜抽屉",
-      "type": "未分类",
-      "frequency": "中",
-      "status": "待整理",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "wardrobe-hanging-rod",
-      "record_id": "recvhqPlN0ZksX",
-      "name": "衣柜左上挂杆",
-      "type": "未分类",
-      "frequency": "中",
-      "status": "待整理",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "wardrobe-bottom-space",
-      "record_id": "recvhqPm1KRyk7",
-      "name": "衣柜左下空间",
-      "type": "未分类",
-      "frequency": "低",
-      "status": "待整理",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "left_wall",
-      "record_id": "recvhqPmfYYYLW",
-      "name": "进门左边墙面",
-      "type": "未分类",
-      "frequency": "高",
-      "status": "使用中",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "手机电子产品配件箱",
-      "record_id": "recvhqPmtW1ttg",
-      "name": "手机电子产品配件箱",
-      "type": "未分类",
-      "status": "待整理",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "数据线充电器盒子",
-      "record_id": "recvhqPmI3KKlB",
-      "name": "数据线充电器盒子",
-      "type": "未分类",
-      "status": "待整理",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "塑料收纳盒",
-      "record_id": "recvhqPnaRXsdv",
-      "name": "塑料收纳盒",
-      "type": "未分类",
-      "status": "待整理",
-      "parent_id": "吧台"
-    },
-    {
-      "id": "口袋",
-      "record_id": "recvhqPnFLzyue",
-      "name": "口袋",
-      "type": "未分类",
-      "status": "待整理",
-      "parent_id": "客厅塑料柜"
-    },
-    {
-      "id": "kitchen_countertop",
-      "record_id": "recvhqPoEsiphr",
-      "name": "厨房操作台",
-      "type": "未分类",
-      "frequency": "高",
-      "status": "待整理",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "kitchen_cabinet",
-      "record_id": "recvhqPoT7yIkN",
-      "name": "橱柜",
-      "type": "未分类",
-      "frequency": "中",
-      "status": "待整理",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "bed",
-      "record_id": "recvhAoRedbcMz",
-      "name": "主卧床",
-      "type": "未分类",
-      "frequency": "高",
-      "parent_id": "主卧"
-    },
-    {
-      "id": "bed",
-      "record_id": "recvhI3ALCHBwn",
-      "name": "床",
-      "type": "未分类",
-      "frequency": "高",
-      "status": "待整理",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "厨房_灶台下柜子",
-      "record_id": "recvhqPhbThmQg",
-      "name": "灶台下柜子",
-      "type": "柜子",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "厨房_进门左一上柜",
-      "record_id": "recvhqPhUGlfRN",
-      "name": "进门左一上柜",
-      "type": "柜子",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "厨房_进门左二上柜",
-      "record_id": "recvhqPi9NfvXu",
-      "name": "进门左二上柜",
-      "type": "柜子",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "厨房_进门左二下柜",
-      "record_id": "recvhqPiqcVsQo",
-      "name": "进门左二下柜",
-      "type": "柜子",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "鞋柜",
-      "record_id": "recvhqPopio10V",
-      "name": "鞋柜",
-      "type": "柜子",
-      "status": "待整理",
-      "parent_id": "客厅"
-    },
-    {
-      "id": "space_89a7FX",
-      "record_id": "recvhxEL89a7FX",
-      "name": "衣柜右上空间",
-      "type": "柜子",
-      "parent_id": "space_Bz16iU"
-    },
-    {
-      "record_id": "recvhqPj7OLI6v",
-      "name": "客厅冰箱",
-      "type": "电器",
-      "id": "客厅_冰箱",
-      "parent_id": "客厅",
-      "notes": null,
-      "frequency": null,
-      "status": null,
-      "primary_activity": null
-    },
-    {
-      "id": "space_9O5uXg",
-      "record_id": "recvhAlV9O5uXg",
-      "name": "五芳斋 粽子盒子",
-      "type": "纸箱",
-      "parent_id": "space_7AmVR8"
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
     },
     {
       "record_id": "recvhqPl3fVNRf",
       "name": "次卧桌子",
       "type": "表面/台面",
       "status": "盘点完成",
-      "id": "desk",
       "frequency": "高",
-      "parent_id": "次卧",
-      "notes": null,
-      "primary_activity": null
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
     },
     {
-      "id": "bedroom_desk",
-      "record_id": "recvhqPea62tgt",
-      "name": "卧室桌子",
-      "type": "表面/台面",
-      "notes": "卧室主要的办公、玩电脑空间",
-      "frequency": "高",
-      "status": "盘点完成",
-      "primary_activity": "工作/电脑娱乐",
-      "parent_id": "次卧"
-    },
-    {
-      "id": "living_room_coffee_table",
-      "record_id": "recvhqPeERCFtN",
-      "name": "客厅茶几",
-      "type": "表面/台面",
-      "notes": "存放待整理物品（胶囊箱、护理包、电池）",
-      "frequency": "高",
-      "status": "待重组",
-      "primary_activity": "待整理收集/多功能",
-      "parent_id": "客厅"
-    },
-    {
-      "id": "living_room_round_table",
-      "record_id": "recvhqPeUc3BoQ",
-      "name": "客厅大圆桌",
-      "type": "表面/台面",
-      "notes": "存放补剂、锅巴、黑盒子",
-      "frequency": "高",
-      "status": "使用中",
-      "primary_activity": "吃饭/用餐",
-      "parent_id": "客厅"
-    },
-    {
-      "id": "sink_table",
-      "record_id": "recvhqPfa547iB",
-      "name": "洗漱厅桌子",
-      "type": "表面/台面",
-      "notes": "存放牙刷，待整理",
-      "frequency": "高",
-      "status": "待重组",
-      "primary_activity": "洗漱/护理",
-      "parent_id": "virtual_洗漱厅"
-    },
-    {
-      "id": "厨房_台面",
-      "record_id": "recvhqPiESNysu",
-      "name": "台面",
-      "type": "表面/台面",
-      "parent_id": "厨房"
-    },
-    {
-      "id": "主卧桌子",
-      "record_id": "recvhqPkxEX4Nt",
-      "name": "主卧桌子",
-      "type": "表面/台面",
-      "frequency": "高",
+      "record_id": "recvhqPly2aUYZ",
+      "name": "衣柜抽屉",
+      "type": "未分类",
       "status": "待整理",
-      "parent_id": "主卧"
+      "frequency": "中",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
+    },
+    {
+      "record_id": "recvhqPlN0ZksX",
+      "name": "衣柜左上挂杆",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "中",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
+    },
+    {
+      "record_id": "recvhqPm1KRyk7",
+      "name": "衣柜左下空间",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "低",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
+    },
+    {
+      "record_id": "recvhqPmfYYYLW",
+      "name": "进门左边墙面",
+      "type": "未分类",
+      "status": "使用中",
+      "frequency": "高",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
+    },
+    {
+      "record_id": "recvhqPmtW1ttg",
+      "name": "手机电子产品配件箱",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhxEL89a7FX"
+    },
+    {
+      "record_id": "recvhqPmI3KKlB",
+      "name": "数据线充电器盒子",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
+    },
+    {
+      "record_id": "recvhqPmWbssjk",
+      "name": "吧台",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPmWbssjk"
+    },
+    {
+      "record_id": "recvhqPnaRXsdv",
+      "name": "塑料收纳盒",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPmWbssjk"
+    },
+    {
+      "record_id": "recvhqPnp47Xwm",
+      "name": "客厅塑料柜",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
+    },
+    {
+      "record_id": "recvhqPnFLzyue",
+      "name": "口袋",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPnp47Xwm"
+    },
+    {
+      "record_id": "recvhqPnTLCt4D",
+      "name": "次卧二楼",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPnTLCt4D"
+    },
+    {
+      "record_id": "recvhqPo9AbhFA",
+      "name": "箱子",
+      "type": "收纳工具",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPnTLCt4D"
+    },
+    {
+      "record_id": "recvhqPopio10V",
+      "name": "鞋柜",
+      "type": "柜子",
+      "status": "待整理",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
+    },
+    {
+      "record_id": "recvhqPoEsiphr",
+      "name": "厨房操作台",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "高",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhqPoT7yIkN",
+      "name": "橱柜",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "中",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhqPpkP3kZ9",
+      "name": "洗漱厅",
+      "type": "房间",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPpkP3kZ9"
+    },
+    {
+      "record_id": "recvhqPpyVZZ9U",
+      "name": "流动收纳/待定",
+      "type": "房间",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
+    },
+    {
+      "record_id": "recvhr5F2tMMIx",
+      "name": "一次性洗护用品袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5FjJsnXM",
+      "name": "暂存区-待定大件",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5FCSJIOz",
+      "name": "暂存区-护肤香水袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5FV2Xynj",
+      "name": "暂存区-个人护理袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5Gc6z1M5",
+      "name": "暂存区-健康医疗袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5GxYtgJY",
+      "name": "暂存区-家居工具袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5GOI52NE",
+      "name": "暂存区-小家电袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5H5xlgOt",
+      "name": "暂存区-文档资产袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5HlZ9Pcm",
+      "name": "数码线材备用箱",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5HBNO7ET",
+      "name": "暂存区-电子数码袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5HSpIZ6U",
+      "name": "暂存区-织物服饰袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5I9A9436",
+      "name": "暂存区-织物配件袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5IpLHEKS",
+      "name": "暂存区-饮食供应袋",
+      "type": "容器",
+      "status": "待重组",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvhr5IGpSLK5",
+      "name": "厨房台面墙上挂钩",
+      "type": "容器",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhr5IWuzaNo",
+      "name": "进门左二上柜-下层",
+      "type": "容器",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhr5JcTkIbd",
+      "name": "微波炉高压锅",
+      "type": "容器",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhr5JtV5asp",
+      "name": "厨房台面",
+      "type": "容器",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhrxjuIAJnv",
+      "name": "台面墙上挂钩",
+      "type": "墙上挂钩",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgW8gxzt"
+    },
+    {
+      "record_id": "recvhv0UBz16iU",
+      "name": "次卧大衣柜",
+      "type": "家具",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
+    },
+    {
+      "record_id": "recvhxEL89a7FX",
+      "name": "衣柜右上空间",
+      "type": "柜子",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhv0UBz16iU"
+    },
+    {
+      "record_id": "recvhxGm7AmVR8",
+      "name": "收纳物品箱",
+      "type": "收纳工具",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": null
+    },
+    {
+      "record_id": "recvhAlV9O5uXg",
+      "name": "五芳斋盒子",
+      "type": "纸箱",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhxEL89a7FX"
+    },
+    {
+      "record_id": "recvhAlY0ZhBCZ",
+      "name": "透明文件盒",
+      "type": "收纳工具",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhxGm7AmVR8"
+    },
+    {
+      "record_id": "recvhAoQZHwO1t",
+      "name": "次卧-桌子-数据线充电器盒子",
+      "type": "容器",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPl3fVNRf"
+    },
+    {
+      "record_id": "recvhAoRedbcMz",
+      "name": "主卧床",
+      "type": "未分类",
+      "status": "",
+      "frequency": "高",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkjz0ifY"
+    },
+    {
+      "record_id": "recvhI3ALCHBwn",
+      "name": "床",
+      "type": "未分类",
+      "status": "待整理",
+      "frequency": "高",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
+    },
+    {
+      "record_id": "recvhIe6xJr39B",
+      "name": "学历资料文件袋",
+      "type": "文件袋",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhAlV9O5uXg"
+    },
+    {
+      "record_id": "recvhMILa3mZBT",
+      "name": "证件及复印件袋子",
+      "type": "收纳工具",
+      "status": "",
+      "frequency": "低",
+      "primary_activity": "",
+      "parent_rid": "recvhOBLuSGKJT"
+    },
+    {
+      "record_id": "recvhMXUk94xEj",
+      "name": "工作与合同文件袋",
+      "type": "",
+      "status": "",
+      "frequency": "低",
+      "primary_activity": "",
+      "parent_rid": "recvhOBLuSGKJT"
+    },
+    {
+      "record_id": "recvhN14HPrYMU",
+      "name": "我的病历相关文件袋",
+      "type": "收纳工具",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhAlV9O5uXg"
+    },
+    {
+      "record_id": "recvhN9KhOZJ00",
+      "name": "纪念品文件袋",
+      "type": "",
+      "status": "",
+      "frequency": "低",
+      "primary_activity": "",
+      "parent_rid": "recvhOBLuSGKJT"
+    },
+    {
+      "record_id": "recvhNfOaDWQMk",
+      "name": "说明书文件袋",
+      "type": "文件袋",
+      "status": "",
+      "frequency": "低",
+      "primary_activity": "",
+      "parent_rid": "recvhOBLuSGKJT"
+    },
+    {
+      "record_id": "recvhOuiRVy6fN",
+      "name": "家人病历袋",
+      "type": "文件袋",
+      "status": "inventory_pending",
+      "frequency": "medium",
+      "primary_activity": "",
+      "parent_rid": "recvhAlV9O5uXg"
+    },
+    {
+      "record_id": "recvhOujaqCXdL",
+      "name": "保险合同袋子",
+      "type": "文件袋",
+      "status": "inventory_pending",
+      "frequency": "medium",
+      "primary_activity": "",
+      "parent_rid": "recvhAlV9O5uXg"
+    },
+    {
+      "record_id": "recvhOBLuSGKJT",
+      "name": "15号透明收纳箱",
+      "type": "",
+      "status": "",
+      "frequency": "低",
+      "primary_activity": "",
+      "parent_rid": "recvhxEL89a7FX"
+    },
+    {
+      "record_id": "recvhOJ4CX9atE",
+      "name": "透明文件袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhxGm7AmVR8"
+    },
+    {
+      "record_id": "recvhOJgafQYFS",
+      "name": "",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPpkP3kZ9"
+    },
+    {
+      "record_id": "recvhOJkbphZEm",
+      "name": "测试临时空间_1777131179",
+      "type": "",
+      "status": "待清点",
+      "frequency": "高",
+      "primary_activity": "",
+      "parent_rid": null
     }
   ]
 }

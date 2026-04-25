@@ -1,0 +1,2993 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "data": [
+      [
+        "卧室桌子",
+        null,
+        [
+          "盘点完成"
+        ],
+        null,
+        [
+          "表面/台面"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "工作/电脑娱乐",
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        "卧室主要的办公、玩电脑空间",
+        "bedroom_desk",
+        "2026-04-24 22:21:09",
+        "recvhqPea62tgt",
+        [
+          "表面/台面"
+        ]
+      ],
+      [
+        "卧室床区",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "区域"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "睡觉/休息、工作",
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        "睡眠与移动办公区域",
+        "bedroom_bed",
+        "2026-04-24 22:21:01",
+        "recvhqPepFSu28",
+        [
+          "区域"
+        ]
+      ],
+      [
+        "客厅茶几",
+        null,
+        [
+          "待重组"
+        ],
+        null,
+        [
+          "表面/台面"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "待整理收集/多功能",
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        "存放待整理物品（胶囊箱、护理包、电池）",
+        "living_room_coffee_table",
+        "2026-04-24 21:58:22",
+        "recvhqPeERCFtN",
+        [
+          "表面/台面"
+        ]
+      ],
+      [
+        "客厅大圆桌",
+        null,
+        [
+          "使用中"
+        ],
+        null,
+        [
+          "表面/台面"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "吃饭/用餐",
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        "存放补剂、锅巴、黑盒子",
+        "living_room_round_table",
+        "2026-04-24 21:58:22",
+        "recvhqPeUc3BoQ",
+        [
+          "表面/台面"
+        ]
+      ],
+      [
+        "洗漱厅桌子",
+        null,
+        [
+          "待重组"
+        ],
+        null,
+        [
+          "表面/台面"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "洗漱/护理",
+        [
+          {
+            "id": "recvhqPpkP3kZ9"
+          }
+        ],
+        "存放牙刷，待整理",
+        "sink_table",
+        "2026-04-24 21:58:22",
+        "recvhqPfa547iB",
+        [
+          "表面/台面"
+        ]
+      ],
+      [
+        "卧室进门左边墙面",
+        null,
+        [
+          "使用中"
+        ],
+        null,
+        [
+          "墙面"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "挂载/收纳",
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        "挂灰色背包",
+        "bedroom_left_wall",
+        "2026-04-24 22:21:02",
+        "recvhqPfpuJRpk",
+        [
+          "墙面"
+        ]
+      ],
+      [
+        "冰箱上层保鲜区-最上层",
+        null,
+        [
+          "盘点完成"
+        ],
+        null,
+        [
+          "容器"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "食品/补剂冷藏",
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        "存放需要冷藏的饮品、补剂、益生菌及特殊食品",
+        "living_room_fridge_top_layer",
+        "2026-04-24 21:58:22",
+        "recvhqPfFeisLr",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "20寸银色行李箱",
+        null,
+        [
+          "盘点完成"
+        ],
+        null,
+        [
+          "容器"
+        ],
+        null,
+        [
+          "低"
+        ],
+        "差旅/储物",
+        [
+          {
+            "id": "recvhqPpyVZZ9U"
+          }
+        ],
+        "存放旅行杂物、纪念品及待处理物品",
+        "20inch_silver_suitcase",
+        "2026-04-24 21:58:22",
+        "recvhqPfUVeMRU",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区",
+        "暂存盘点箱,一次性洗护用品袋,暂存区-护肤香水袋,暂存区-个人护理袋,暂存区-待定大件,暂存区-小家电袋,暂存区-健康医疗袋,暂存区-家居工具袋,暂存区-文档资产袋,暂存区-电子数码袋,暂存区-织物服饰袋,数码线材备用箱,暂存区-织物配件袋,暂存区-饮食供应袋",
+        [
+          "使用中"
+        ],
+        null,
+        [
+          "区域"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "暂存/中转",
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        "整理过程中的中转站，存放按大类初步归拢的物品",
+        "temporary_storage",
+        "2026-04-24 21:58:22",
+        "recvhqPgaJU2PG",
+        [
+          "区域"
+        ]
+      ],
+      [
+        "搬家纸箱",
+        null,
+        [
+          "使用中"
+        ],
+        null,
+        [
+          "容器"
+        ],
+        null,
+        [
+          "低"
+        ],
+        "搬家/储物",
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        "存放搬家带来的杂物，待清点归位",
+        "moving_box",
+        "2026-04-24 21:58:22",
+        "recvhqPgpYO1Vh",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存盘点箱",
+        null,
+        [
+          "使用中"
+        ],
+        null,
+        [
+          "容器"
+        ],
+        null,
+        [
+          "高"
+        ],
+        "暂存/盘点中转",
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        "整理过程中的中转盘点箱，未指定位置的物品默认放入此箱",
+        "inventory_temp_box",
+        "2026-04-24 21:58:22",
+        "recvhqPgG2aPSs",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "2厨房",
+        "2厨房,进门左一上柜,灶台下柜子,刀架,进门左二上柜,台面,进门左二下柜,厨房操作台,橱柜,厨房台面墙上挂钩,进门左二上柜-下层,微波炉高压锅,厨房台面,台面墙上挂钩",
+        null,
+        [
+          {
+            "id": "recvhJ2jtYuaoV"
+          }
+        ],
+        [
+          "房间"
+        ],
+        2,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "厨房",
+        "2026-04-25 15:25:14",
+        "recvhqPgW8gxzt",
+        [
+          "房间"
+        ]
+      ],
+      [
+        "灶台下柜子",
+        null,
+        null,
+        null,
+        [
+          "柜子"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "厨房_灶台下柜子",
+        "2026-04-24 21:57:44",
+        "recvhqPhbThmQg",
+        [
+          "柜子"
+        ]
+      ],
+      [
+        "刀架",
+        null,
+        null,
+        [
+          {
+            "id": "recvhj3egRIVBs"
+          }
+        ],
+        [
+          "收纳工具"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "厨房_刀架",
+        "2026-04-24 22:21:21",
+        "recvhqPhr5k4gJ",
+        [
+          "收纳工具"
+        ]
+      ],
+      [
+        "进门左一上柜",
+        null,
+        null,
+        [
+          {
+            "id": "recvhj3fZsULTF"
+          },
+          {
+            "id": "recvhj3eRc7FTD"
+          }
+        ],
+        [
+          "柜子"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "厨房_进门左一上柜",
+        "2026-04-24 22:21:21",
+        "recvhqPhUGlfRN",
+        [
+          "柜子"
+        ]
+      ],
+      [
+        "进门左二上柜",
+        null,
+        null,
+        [
+          {
+            "id": "recvhj3f870jHU"
+          }
+        ],
+        [
+          "柜子"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "厨房_进门左二上柜",
+        "2026-04-24 22:21:21",
+        "recvhqPi9NfvXu",
+        [
+          "柜子"
+        ]
+      ],
+      [
+        "进门左二下柜",
+        null,
+        null,
+        [
+          {
+            "id": "recvhj3foRShf3"
+          }
+        ],
+        [
+          "柜子"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "厨房_进门左二下柜",
+        "2026-04-24 22:21:21",
+        "recvhqPiqcVsQo",
+        [
+          "柜子"
+        ]
+      ],
+      [
+        "台面",
+        null,
+        null,
+        null,
+        [
+          "表面/台面"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "厨房_台面",
+        "2026-04-24 21:57:44",
+        "recvhqPiESNysu",
+        [
+          "表面/台面"
+        ]
+      ],
+      [
+        "客厅",
+        "客厅茶几,客厅大圆桌,冰箱上层保鲜区-最上层,暂存区,搬家纸箱,客厅,客厅冰箱,客厅塑料柜,鞋柜,流动收纳/待定",
+        null,
+        [
+          {
+            "id": "recvhJ2ujz36bN"
+          }
+        ],
+        [
+          "房间"
+        ],
+        0,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        "124124124",
+        "客厅",
+        "2026-04-25 15:24:39",
+        "recvhqPiTnFBO1",
+        [
+          "房间"
+        ]
+      ],
+      [
+        "客厅冰箱",
+        null,
+        null,
+        null,
+        [
+          "电器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        null,
+        "客厅_冰箱",
+        "2026-04-24 21:57:44",
+        "recvhqPj7OLI6v",
+        [
+          "电器"
+        ]
+      ],
+      [
+        "主卧二楼",
+        "药箱,电脑 纸箱,主卧二楼,纸箱",
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "房间"
+        ],
+        null,
+        [
+          "低"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPjm3HUXv"
+          }
+        ],
+        null,
+        "主卧楼上",
+        "2026-04-25 15:26:18",
+        "recvhqPjm3HUXv",
+        [
+          "房间"
+        ]
+      ],
+      [
+        "药箱",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "中"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPjm3HUXv"
+          }
+        ],
+        null,
+        "药箱",
+        "2026-04-24 21:57:44",
+        "recvhqPjA6sJEf",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "电脑 纸箱",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "低"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPjm3HUXv"
+          }
+        ],
+        null,
+        "电脑-纸箱",
+        "2026-04-24 21:57:44",
+        "recvhqPjO0nAlN",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "纸箱",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "低"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPjm3HUXv"
+          }
+        ],
+        null,
+        "纸箱",
+        "2026-04-24 21:57:44",
+        "recvhqPk54RSkS",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "主卧",
+        "主卧床,主卧,主卧桌子",
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "房间"
+        ],
+        9,
+        [
+          "高"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkjz0ifY"
+          }
+        ],
+        null,
+        "主卧",
+        "2026-04-25 15:25:19",
+        "recvhqPkjz0ifY",
+        [
+          "房间"
+        ]
+      ],
+      [
+        "主卧桌子",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "表面/台面"
+        ],
+        null,
+        [
+          "高"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkjz0ifY"
+          }
+        ],
+        null,
+        "主卧桌子",
+        "2026-04-24 21:57:44",
+        "recvhqPkxEX4Nt",
+        [
+          "表面/台面"
+        ]
+      ],
+      [
+        "次卧",
+        "床,卧室桌子,卧室床区,卧室进门左边墙面,次卧,次卧桌子,衣柜左上挂杆,衣柜抽屉,衣柜左下空间,数据线充电器盒子,进门左边墙面,手机电子产品配件箱,次卧大衣柜",
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        1,
+        [
+          "高"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "次卧",
+        "2026-04-25 15:24:56",
+        "recvhqPkNVYN9U",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "次卧桌子",
+        "次卧-桌子-数据线充电器盒子",
+        [
+          "盘点完成"
+        ],
+        null,
+        [
+          "表面/台面"
+        ],
+        null,
+        [
+          "高"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "desk",
+        "2026-04-24 21:57:44",
+        "recvhqPl3fVNRf",
+        [
+          "表面/台面"
+        ]
+      ],
+      [
+        "衣柜抽屉",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "中"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "wardrobe-drawers",
+        "2026-04-24 21:57:44",
+        "recvhqPly2aUYZ",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "衣柜左上挂杆",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "中"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "wardrobe-hanging-rod",
+        "2026-04-24 21:57:44",
+        "recvhqPlN0ZksX",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "衣柜左下空间",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "低"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "wardrobe-bottom-space",
+        "2026-04-24 21:57:44",
+        "recvhqPm1KRyk7",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "进门左边墙面",
+        null,
+        [
+          "使用中"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "高"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "left_wall",
+        "2026-04-24 21:57:44",
+        "recvhqPmfYYYLW",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "手机电子产品配件箱",
+        null,
+        [
+          "待整理"
+        ],
+        [
+          {
+            "id": "recvhvZ4Os4VAa"
+          },
+          {
+            "id": "recvhwO9EfO9hL"
+          },
+          {
+            "id": "recvhwO9V086Ye"
+          },
+          {
+            "id": "recvhwOb9aFU1g"
+          },
+          {
+            "id": "recvhvZ27bQE8u"
+          },
+          {
+            "id": "recvhvZ1OyB6Sr"
+          },
+          {
+            "id": "recvhvZ2oqzUrQ"
+          },
+          {
+            "id": "recvhvZ2GcOytK"
+          },
+          {
+            "id": "recvhvZ2WccWvQ"
+          },
+          {
+            "id": "recvhvZ3ekj7hU"
+          },
+          {
+            "id": "recvhvZ3uyNLFt"
+          },
+          {
+            "id": "recvhvZ41PDfcH"
+          },
+          {
+            "id": "recvhvZ4ivslcX"
+          },
+          {
+            "id": "recvhvZ4yWslcQ"
+          },
+          {
+            "id": "recvhvZ54vOPDx"
+          },
+          {
+            "id": "recvhvZ5ARMWI9"
+          },
+          {
+            "id": "recvhvZ5TYubdx"
+          },
+          {
+            "id": "recvhvZ69JtR9w"
+          },
+          {
+            "id": "recvhvZ6rbv58d"
+          },
+          {
+            "id": "recvhwO7FgOOXH"
+          },
+          {
+            "id": "recvhwO7UNOQAg"
+          },
+          {
+            "id": "recvhwO8oKyUkI"
+          },
+          {
+            "id": "recvhwO8DEhNBV"
+          },
+          {
+            "id": "recvhwO8SDb827"
+          },
+          {
+            "id": "recvhwOaazJ2ML"
+          },
+          {
+            "id": "recvhwOaqI5v21"
+          },
+          {
+            "id": "recvhwOaFuGKxg"
+          },
+          {
+            "id": "recvhwOaUZxDz4"
+          },
+          {
+            "id": "recvhvZ3L8uuvv"
+          },
+          {
+            "id": "recvhj36pdAHij"
+          },
+          {
+            "id": "recvhxCzGBNwJk"
+          },
+          {
+            "id": "recvhj35k4vjqm"
+          },
+          {
+            "id": "recvhj3683Pk0H"
+          },
+          {
+            "id": "recvhj35RE2AbS"
+          },
+          {
+            "id": "recvhj35AQc4za"
+          },
+          {
+            "id": "recvhj36FB92Fk"
+          },
+          {
+            "id": "recvhx6kRPLyr1"
+          },
+          {
+            "id": "recvhx6kAJ31lV"
+          },
+          {
+            "id": "recvhx6kjTccuJ"
+          }
+        ],
+        [
+          "未分类"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "手机电子产品配件箱",
+        "2026-04-25 07:37:15",
+        "recvhqPmtW1ttg",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "数据线充电器盒子",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "数据线充电器盒子",
+        "2026-04-24 21:57:44",
+        "recvhqPmI3KKlB",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "吧台",
+        "吧台,塑料收纳盒",
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        5,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPmWbssjk"
+          }
+        ],
+        null,
+        "吧台",
+        "2026-04-25 15:24:51",
+        "recvhqPmWbssjk",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "塑料收纳盒",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPmWbssjk"
+          }
+        ],
+        null,
+        "塑料收纳盒",
+        "2026-04-24 21:57:44",
+        "recvhqPnaRXsdv",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "客厅塑料柜",
+        "口袋",
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        null,
+        "客厅塑料柜",
+        "2026-04-25 15:25:48",
+        "recvhqPnp47Xwm",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "口袋",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPnp47Xwm"
+          }
+        ],
+        null,
+        "口袋",
+        "2026-04-24 21:57:44",
+        "recvhqPnFLzyue",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "次卧二楼",
+        "次卧二楼,箱子",
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPnTLCt4D"
+          }
+        ],
+        null,
+        "次卧楼上",
+        "2026-04-25 15:25:26",
+        "recvhqPnTLCt4D",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "箱子",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "收纳工具"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPnTLCt4D"
+          }
+        ],
+        null,
+        "箱子",
+        "2026-04-24 21:57:44",
+        "recvhqPo9AbhFA",
+        [
+          "收纳工具"
+        ]
+      ],
+      [
+        "鞋柜",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "柜子"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        null,
+        "鞋柜",
+        "2026-04-24 21:57:44",
+        "recvhqPopio10V",
+        [
+          "柜子"
+        ]
+      ],
+      [
+        "厨房操作台",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "高"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "kitchen_countertop",
+        "2026-04-24 21:57:44",
+        "recvhqPoEsiphr",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "橱柜",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "中"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "kitchen_cabinet",
+        "2026-04-24 21:57:44",
+        "recvhqPoT7yIkN",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "洗漱厅",
+        "洗漱厅桌子,洗漱厅",
+        null,
+        null,
+        [
+          "房间"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPpkP3kZ9"
+          }
+        ],
+        "系统自动生成的缺失父节点",
+        "virtual_洗漱厅",
+        "2026-04-25 15:26:06",
+        "recvhqPpkP3kZ9",
+        [
+          "房间"
+        ]
+      ],
+      [
+        "流动收纳/待定",
+        "20寸银色行李箱",
+        null,
+        null,
+        [
+          "房间"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPiTnFBO1"
+          }
+        ],
+        "系统自动生成的缺失父节点",
+        "virtual_流动收纳/待定",
+        "2026-04-25 15:25:56",
+        "recvhqPpyVZZ9U",
+        [
+          "房间"
+        ]
+      ],
+      [
+        "一次性洗护用品袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhirqqLDnla"
+          },
+          {
+            "id": "recvhirq5k6sjy"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_一次性洗护用品袋",
+        "2026-04-24 22:21:21",
+        "recvhr5F2tMMIx",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-待定大件",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhiv3UEPtvH"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-待定大件",
+        "2026-04-24 22:21:21",
+        "recvhr5FjJsnXM",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-护肤香水袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhiv576OW3B"
+          },
+          {
+            "id": "recvhiv7iE1RkG"
+          },
+          {
+            "id": "recvhiv6p62FVx"
+          },
+          {
+            "id": "recvhiv4NEammR"
+          },
+          {
+            "id": "recvhiv7BhX7R6"
+          },
+          {
+            "id": "recvhiv4vMQfGB"
+          },
+          {
+            "id": "recvhiv6HHtMMM"
+          },
+          {
+            "id": "recvhiv70WWZvu"
+          },
+          {
+            "id": "recvhiv4dDQTti"
+          },
+          {
+            "id": "recvhiv5qDGOds"
+          },
+          {
+            "id": "recvhiv5JX38Wj"
+          },
+          {
+            "id": "recvhiv64GmG2Q"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-护肤香水袋",
+        "2026-04-24 22:21:21",
+        "recvhr5FCSJIOz",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-个人护理袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhj2RXcio0H"
+          },
+          {
+            "id": "recvhj2SdRwl8n"
+          },
+          {
+            "id": "recvhj2SwoUmVu"
+          },
+          {
+            "id": "recvhj2SMte0SQ"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-个人护理袋",
+        "2026-04-24 22:21:21",
+        "recvhr5FV2Xynj",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-健康医疗袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhj2Vf7kPa6"
+          },
+          {
+            "id": "recvhj2T3P0L0h"
+          },
+          {
+            "id": "recvhj2TlaiNak"
+          },
+          {
+            "id": "recvhj2U9dOzpv"
+          },
+          {
+            "id": "recvhj2W37BWLx"
+          },
+          {
+            "id": "recvhj2VMkypUW"
+          },
+          {
+            "id": "recvhj2UXwbd0d"
+          },
+          {
+            "id": "recvhj2Vuqr46g"
+          },
+          {
+            "id": "recvhj2Xs3NZwj"
+          },
+          {
+            "id": "recvhj2Wjb6gre"
+          },
+          {
+            "id": "recvhj2TQhJsbi"
+          },
+          {
+            "id": "recvhj2XbWbb8H"
+          },
+          {
+            "id": "recvhj2UpFGHLG"
+          },
+          {
+            "id": "recvhj2UFfi1CJ"
+          },
+          {
+            "id": "recvhj2TAZj0hu"
+          },
+          {
+            "id": "recvhj2WVmIspy"
+          },
+          {
+            "id": "recvhj2WDvfmVI"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-健康医疗袋",
+        "2026-04-24 22:21:21",
+        "recvhr5Gc6z1M5",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-家居工具袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhj2Y1VKYTC"
+          },
+          {
+            "id": "recvhj2XL47jjO"
+          },
+          {
+            "id": "recvhj2YkFMIkl"
+          },
+          {
+            "id": "recvhj2YF7C0MJ"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-家居工具袋",
+        "2026-04-24 22:21:21",
+        "recvhr5GxYtgJY",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-小家电袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhj2ZcMp9KG"
+          },
+          {
+            "id": "recvhj2ZuFVVl0"
+          },
+          {
+            "id": "recvhj2YV60P0H"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-小家电袋",
+        "2026-04-24 22:21:21",
+        "recvhr5GOI52NE",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-文档资产袋",
+        null,
+        [
+          "待重组"
+        ],
+        [],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-文档资产袋",
+        "2026-04-25 18:26:06",
+        "recvhr5H5xlgOt",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "数码线材备用箱",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhkOLxTCe7s"
+          },
+          {
+            "id": "recvhklqlqHtep"
+          },
+          {
+            "id": "recvhklrWRFlAT"
+          },
+          {
+            "id": "recvhkOLh4aH1i"
+          },
+          {
+            "id": "recvhklsZWolIk"
+          },
+          {
+            "id": "recvhklmXZ4smz"
+          },
+          {
+            "id": "recvhklqRD1HYL"
+          },
+          {
+            "id": "recvhklrE1VbEQ"
+          },
+          {
+            "id": "recvhklsdzOFX1"
+          },
+          {
+            "id": "recvhklnI1N4of"
+          },
+          {
+            "id": "recvhklnZ8HCbe"
+          },
+          {
+            "id": "recvhklrnFcoRq"
+          },
+          {
+            "id": "recvhj339Gd3Io"
+          },
+          {
+            "id": "recvhj33FRaeU9"
+          },
+          {
+            "id": "recvhklpzb56EU"
+          },
+          {
+            "id": "recvhkltfZYUN1"
+          },
+          {
+            "id": "recvhj33Xgu0O7"
+          },
+          {
+            "id": "recvhklnd8fuWz"
+          },
+          {
+            "id": "recvhklntiV0UI"
+          },
+          {
+            "id": "recvhklqB8vnIQ"
+          },
+          {
+            "id": "recvhkll7KG81G"
+          },
+          {
+            "id": "recvhklmantYRg"
+          },
+          {
+            "id": "recvhj33qlBa7i"
+          },
+          {
+            "id": "recvhklkj7I0rc"
+          },
+          {
+            "id": "recvhklpOCAtSi"
+          },
+          {
+            "id": "recvhklkPJIjuY"
+          },
+          {
+            "id": "recvhkllTUstxg"
+          },
+          {
+            "id": "recvhj34NyKolo"
+          },
+          {
+            "id": "recvhklp3ojRAn"
+          },
+          {
+            "id": "recvhklsuag6xG"
+          },
+          {
+            "id": "recvhklms3QkzT"
+          },
+          {
+            "id": "recvhklr75lk2X"
+          },
+          {
+            "id": "recvhj34e79092"
+          },
+          {
+            "id": "recvhklowvyMMF"
+          },
+          {
+            "id": "recvhklpjmo7pS"
+          },
+          {
+            "id": "recvhklsJA7MWf"
+          },
+          {
+            "id": "recvhklq50OEV8"
+          },
+          {
+            "id": "recvhklkyHNCDC"
+          },
+          {
+            "id": "recvhklk2phAoN"
+          },
+          {
+            "id": "recvhklofcogu5"
+          },
+          {
+            "id": "recvhkloMh3iVO"
+          },
+          {
+            "id": "recvhkOLMzBeAt"
+          },
+          {
+            "id": "recvhkllokqC27"
+          },
+          {
+            "id": "recvhkllDRK7ug"
+          },
+          {
+            "id": "recvhkOM2msLGj"
+          },
+          {
+            "id": "recvhj34ussxOC"
+          },
+          {
+            "id": "recvhkOMiQjy1p"
+          },
+          {
+            "id": "recvhklmHWwlR6"
+          },
+          {
+            "id": "recvhwO9pWE7FY"
+          },
+          {
+            "id": "recvhvZ5kGGLeF"
+          },
+          {
+            "id": "recvhwO99X4nwL"
+          },
+          {
+            "id": "recvhwO88XCR24"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_数码线材备用箱",
+        "2026-04-24 22:21:21",
+        "recvhr5HlZ9Pcm",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-电子数码袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhj353QjptV"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-电子数码袋",
+        "2026-04-24 22:21:21",
+        "recvhr5HBNO7ET",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-织物服饰袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhj37vqAzmb"
+          },
+          {
+            "id": "recvhj38lnYAgv"
+          },
+          {
+            "id": "recvhj39hCNuNr"
+          },
+          {
+            "id": "recvhj37OBqDOf"
+          },
+          {
+            "id": "recvhj38ZDVzhu"
+          },
+          {
+            "id": "recvhj37duIiBr"
+          },
+          {
+            "id": "recvhj36WY79Ua"
+          },
+          {
+            "id": "recvhj385zVZjb"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-织物服饰袋",
+        "2026-04-24 22:21:21",
+        "recvhr5HSpIZ6U",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-织物配件袋",
+        null,
+        [
+          "待重组"
+        ],
+        null,
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-织物配件袋",
+        "2026-04-24 21:57:44",
+        "recvhr5I9A9436",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "暂存区-饮食供应袋",
+        null,
+        [
+          "待重组"
+        ],
+        [
+          {
+            "id": "recvhj3cUiRfAq"
+          },
+          {
+            "id": "recvhj3buQTnTI"
+          },
+          {
+            "id": "recvhj39zKtj7t"
+          },
+          {
+            "id": "recvhj39RGNuia"
+          },
+          {
+            "id": "recvhj3abKT6aS"
+          },
+          {
+            "id": "recvhj3atJ2Jh2"
+          },
+          {
+            "id": "recvhj3dLQuped"
+          },
+          {
+            "id": "recvhj3ddNudDH"
+          },
+          {
+            "id": "recvhj3c4y16AK"
+          },
+          {
+            "id": "recvhj3dulO0iX"
+          },
+          {
+            "id": "recvhj3bMZTgGL"
+          },
+          {
+            "id": "recvhj3clcADps"
+          },
+          {
+            "id": "recvhj3baYLVpG"
+          },
+          {
+            "id": "recvhj3cCrDRwM"
+          },
+          {
+            "id": "recvhj3aUfJsaQ"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgaJU2PG"
+          }
+        ],
+        null,
+        "bag_暂存区-饮食供应袋",
+        "2026-04-24 22:21:21",
+        "recvhr5IpLHEKS",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "厨房台面墙上挂钩",
+        null,
+        null,
+        [
+          {
+            "id": "recvhj3fGTW20e"
+          },
+          {
+            "id": "recvhj3ezPrbkM"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "bag_厨房台面墙上挂钩",
+        "2026-04-24 22:21:21",
+        "recvhr5IGpSLK5",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "进门左二上柜-下层",
+        null,
+        null,
+        null,
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "bag_进门左二上柜-下层",
+        "2026-04-24 21:57:44",
+        "recvhr5IWuzaNo",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "微波炉高压锅",
+        null,
+        null,
+        null,
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "bag_微波炉高压锅",
+        "2026-04-24 21:57:44",
+        "recvhr5JcTkIbd",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "厨房台面",
+        null,
+        null,
+        [
+          {
+            "id": "recvhj3ggow8ik"
+          }
+        ],
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "bag_厨房台面",
+        "2026-04-24 22:21:21",
+        "recvhr5JtV5asp",
+        [
+          "容器"
+        ]
+      ],
+      [
+        "台面墙上挂钩",
+        null,
+        null,
+        null,
+        [
+          "墙上挂钩"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPgW8gxzt"
+          }
+        ],
+        null,
+        "厨房_台面墙上挂钩",
+        "2026-04-24 21:57:44",
+        "recvhrxjuIAJnv",
+        [
+          "墙上挂钩"
+        ]
+      ],
+      [
+        "次卧大衣柜",
+        "衣柜右上空间",
+        null,
+        null,
+        [
+          "家具"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "space_Bz16iU",
+        "2026-04-24 22:21:03",
+        "recvhv0UBz16iU",
+        [
+          "家具"
+        ]
+      ],
+      [
+        "衣柜右上空间",
+        null,
+        null,
+        null,
+        [
+          "柜子"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhv0UBz16iU"
+          }
+        ],
+        null,
+        "space_89a7FX",
+        "2026-04-24 22:21:07",
+        "recvhxEL89a7FX",
+        [
+          "柜子"
+        ]
+      ],
+      [
+        "收纳物品箱",
+        "五芳斋 粽子盒子,透明文件盒",
+        null,
+        null,
+        [
+          "收纳工具"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        "space_7AmVR8",
+        "2026-04-25 15:26:30",
+        "recvhxGm7AmVR8",
+        null
+      ],
+      [
+        "五芳斋 粽子盒子",
+        null,
+        null,
+        null,
+        [
+          "纸箱"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhxGm7AmVR8"
+          }
+        ],
+        null,
+        "space_9O5uXg",
+        "2026-04-24 22:21:08",
+        "recvhAlV9O5uXg",
+        [
+          "纸箱"
+        ]
+      ],
+      [
+        "透明文件盒",
+        null,
+        null,
+        null,
+        [
+          "收纳工具"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhxGm7AmVR8"
+          }
+        ],
+        null,
+        "space_0ZhBCZ",
+        "2026-04-24 22:21:04",
+        "recvhAlY0ZhBCZ",
+        [
+          "收纳工具"
+        ]
+      ],
+      [
+        "次卧-桌子-数据线充电器盒子",
+        null,
+        null,
+        null,
+        [
+          "容器"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhqPl3fVNRf"
+          }
+        ],
+        null,
+        "space_ZHwO1t",
+        "2026-04-25 01:11:33",
+        "recvhAoQZHwO1t",
+        null
+      ],
+      [
+        "主卧床",
+        null,
+        null,
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "高"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkjz0ifY"
+          }
+        ],
+        null,
+        "bed",
+        "2026-04-24 22:21:06",
+        "recvhAoRedbcMz",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "床",
+        null,
+        [
+          "待整理"
+        ],
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        [
+          "高"
+        ],
+        null,
+        [
+          {
+            "id": "recvhqPkNVYN9U"
+          }
+        ],
+        null,
+        "bed",
+        "2026-04-24 22:21:05",
+        "recvhI3ALCHBwn",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "学历资料文件袋",
+        null,
+        null,
+        [
+          {
+            "id": "recvhJkeAsR3LK"
+          },
+          {
+            "id": "recvhJkeQegPtX"
+          },
+          {
+            "id": "recvhJkf5oUihx"
+          },
+          {
+            "id": "recvhJkfly8XU3"
+          },
+          {
+            "id": "recvhJkfC3KIez"
+          },
+          {
+            "id": "recvhJkfQYqnrv"
+          },
+          {
+            "id": "recvhJkg61U64g"
+          }
+        ],
+        [
+          "文件袋"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhOwGqaEGxw"
+          }
+        ],
+        null,
+        "4c9edf56",
+        "2026-04-25 22:49:50",
+        "recvhIe6xJr39B",
+        [
+          "未分类"
+        ]
+      ],
+      [
+        "证件及复印件袋子",
+        null,
+        null,
+        [
+          {
+            "id": "recvhMWFl26Ugp"
+          },
+          {
+            "id": "recvhMWFCOnxke"
+          },
+          {
+            "id": "recvhOqMdrUivL"
+          },
+          {
+            "id": "recvhOqLeoSr85"
+          },
+          {
+            "id": "recvhOqL0sIWhi"
+          }
+        ],
+        [
+          "收纳工具"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhOwGqaEGxw"
+          }
+        ],
+        null,
+        "space_a3mZBT",
+        "2026-04-25 22:51:26",
+        "recvhMILa3mZBT",
+        null
+      ],
+      [
+        "卧室",
+        null,
+        null,
+        null,
+        [
+          "房间"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        "space_u1XRlx",
+        "2026-04-25 15:27:18",
+        "recvhML2Zadoin",
+        null
+      ],
+      [
+        "待整理区域",
+        null,
+        null,
+        null,
+        [
+          "房间"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        "space_K8D6o6",
+        "2026-04-25 15:27:19",
+        "recvhML3foyysf",
+        null
+      ],
+      [
+        "工作与合同文件袋",
+        null,
+        null,
+        [
+          {
+            "id": "recvhMWFU1k9po"
+          },
+          {
+            "id": "recvhMWGaSwzLs"
+          },
+          {
+            "id": "recvhMWGriGQ90"
+          },
+          {
+            "id": "recvhMWGIzz9Km"
+          },
+          {
+            "id": "recvhMWGZtyuHy"
+          }
+        ],
+        null,
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhOwGqaEGxw"
+          }
+        ],
+        null,
+        "space_k94xEj",
+        "2026-04-25 22:52:19",
+        "recvhMXUk94xEj",
+        null
+      ],
+      [
+        "我的病历相关文件袋",
+        null,
+        null,
+        [
+          {
+            "id": "recvhj2ZLjaxI4"
+          },
+          {
+            "id": "recvhj304fvncQ"
+          },
+          {
+            "id": "recvhN8vW83WuH"
+          },
+          {
+            "id": "recvhN8weEXbt0"
+          },
+          {
+            "id": "recvhN8wwjtw2W"
+          },
+          {
+            "id": "recvhN8wMTHNB5"
+          },
+          {
+            "id": "recvhN8x4EciZL"
+          },
+          {
+            "id": "recvhN8xlEyF8F"
+          },
+          {
+            "id": "recvhN8xCtI5lH"
+          },
+          {
+            "id": "recvhN8xVySJHI"
+          },
+          {
+            "id": "recvhN8ye3HJFv"
+          },
+          {
+            "id": "recvhN8yuzJmK1"
+          },
+          {
+            "id": "recvhN8yL9EGWh"
+          },
+          {
+            "id": "recvhN8z27MgKH"
+          },
+          {
+            "id": "recvhN8zjtC1FI"
+          }
+        ],
+        [
+          "收纳工具"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        "space_HPrYMU",
+        "2026-04-25 22:53:18",
+        "recvhN14HPrYMU",
+        null
+      ],
+      [
+        "纪念品文件袋",
+        null,
+        null,
+        [
+          {
+            "id": "recvhJkgmX5ItU"
+          },
+          {
+            "id": "recvhj30HoCmMu"
+          },
+          {
+            "id": "recvhj30XBnX5X"
+          },
+          {
+            "id": "recvhj31dYHHMo"
+          },
+          {
+            "id": "recvhj31vLZCPf"
+          },
+          {
+            "id": "recvhj31M9gn3o"
+          },
+          {
+            "id": "recvhj32jAlm4D"
+          },
+          {
+            "id": "recvhj32BIMFBr"
+          },
+          {
+            "id": "recvhj32S8gd1B"
+          },
+          {
+            "id": "recvhOqMsqcMr4"
+          },
+          {
+            "id": "recvhOqMGuCqhK"
+          },
+          {
+            "id": "recvhOqLY1Bt9V"
+          },
+          {
+            "id": "recvhOqLHUeyiZ"
+          },
+          {
+            "id": "recvhOqKL5Yzb1"
+          },
+          {
+            "id": "recvhOqKvUgRcc"
+          },
+          {
+            "id": "recvhOqKgp8vdG"
+          },
+          {
+            "id": "recvhOqLsH9NJz"
+          }
+        ],
+        null,
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhOwGqaEGxw"
+          }
+        ],
+        null,
+        "space_hOZJ00",
+        "2026-04-25 22:50:38",
+        "recvhN9KhOZJ00",
+        null
+      ],
+      [
+        "说明书文件袋",
+        null,
+        null,
+        [
+          {
+            "id": "recvhNtUhooXVg"
+          },
+          {
+            "id": "recvhNtUDHhDbe"
+          },
+          {
+            "id": "recvhNtUUfYB5s"
+          },
+          {
+            "id": "recvhNtVbRJU4N"
+          },
+          {
+            "id": "recvhNtVudLEYY"
+          },
+          {
+            "id": "recvhj30mc7JU5"
+          }
+        ],
+        [
+          "文件袋"
+        ],
+        null,
+        null,
+        null,
+        [
+          {
+            "id": "recvhOwGqaEGxw"
+          }
+        ],
+        null,
+        "space_aDWQMk",
+        "2026-04-25 22:43:55",
+        "recvhNfOaDWQMk",
+        null
+      ],
+      [
+        "家人病历袋",
+        null,
+        [
+          "inventory_pending"
+        ],
+        [
+          {
+            "id": "recvhOuSd2hfBv"
+          },
+          {
+            "id": "recvhOuSruvfXB"
+          },
+          {
+            "id": "recvhOuSIr7Ptt"
+          },
+          {
+            "id": "recvhOuT0czI1z"
+          }
+        ],
+        [
+          "文件袋"
+        ],
+        null,
+        [
+          "medium"
+        ],
+        null,
+        [
+          {
+            "id": "recvhOwGqaEGxw"
+          }
+        ],
+        null,
+        "bc6a56ef",
+        "2026-04-25 22:43:35",
+        "recvhOuiRVy6fN",
+        null
+      ],
+      [
+        "保险合同袋子",
+        null,
+        [
+          "inventory_pending"
+        ],
+        [
+          {
+            "id": "recvhOuW2z6Aph"
+          },
+          {
+            "id": "recvhOuVMPWxA6"
+          },
+          {
+            "id": "recvhOuVfquSmJ"
+          },
+          {
+            "id": "recvhOuUYY6UYQ"
+          },
+          {
+            "id": "recvhOuUKsLlVH"
+          },
+          {
+            "id": "recvhOuUuZ9dqd"
+          },
+          {
+            "id": "recvhOuUgtxegp"
+          },
+          {
+            "id": "recvhOuU1SaOrP"
+          },
+          {
+            "id": "recvhOuTLd0baG"
+          },
+          {
+            "id": "recvhOuTwI2GQ2"
+          }
+        ],
+        [
+          "文件袋"
+        ],
+        null,
+        [
+          "medium"
+        ],
+        null,
+        [
+          {
+            "id": "recvhOwGqaEGxw"
+          }
+        ],
+        null,
+        "5aed1343",
+        "2026-04-25 22:42:52",
+        "recvhOujaqCXdL",
+        null
+      ],
+      [
+        null,
+        "学历资料文件袋,证件及复印件袋子,卧室,待整理区域,工作与合同文件袋,我的病历相关文件袋,纪念品文件袋,说明书文件袋,家人病历袋,保险合同袋子,晶体植入的盒子,g,收纳物品箱",
+        null,
+        [],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2026-04-25 22:53:15",
+        "recvhOwGqaEGxw",
+        null
+      ],
+      [
+        "晶体植入的盒子",
+        null,
+        [
+          "inventory_pending"
+        ],
+        null,
+        [
+          "收纳盒"
+        ],
+        null,
+        [
+          "medium"
+        ],
+        null,
+        null,
+        null,
+        "eea0141d",
+        "2026-04-25 22:48:50",
+        "recvhOycL1rvrS",
+        null
+      ],
+      [
+        "g",
+        null,
+        null,
+        null,
+        [
+          "未分类"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        "space_cj7w1D",
+        "2026-04-25 22:48:51",
+        "recvhOyd0xxuJa",
+        null
+      ]
+    ],
+    "field_id_list": [
+      "fld3jffiay",
+      "fld69LXYnd",
+      "fld6NJUvq2",
+      "fld8UNSGwt",
+      "flddMrA84a",
+      "flde45sjpS",
+      "fldMkwvqbd",
+      "fldOQLQPec",
+      "fldoS6EOpe",
+      "fldrCLbryN",
+      "fldybLlQen",
+      "fldz2cQR6Q",
+      "fldz4U4glo",
+      "fldZj9BrAO"
+    ],
+    "fields": [
+      "容器名",
+      "子空间",
+      "状态",
+      "物品清单",
+      "类型",
+      "排序字段",
+      "使用率",
+      "主要功能",
+      "父空间",
+      "备注字段",
+      "空间 ID",
+      "最后更新时间",
+      "记录 ID",
+      "空间类型"
+    ],
+    "has_more": false,
+    "query_context": {
+      "field_scope": "all_fields",
+      "record_scope": "all_records"
+    },
+    "record_id_list": [
+      "recvhqPea62tgt",
+      "recvhqPepFSu28",
+      "recvhqPeERCFtN",
+      "recvhqPeUc3BoQ",
+      "recvhqPfa547iB",
+      "recvhqPfpuJRpk",
+      "recvhqPfFeisLr",
+      "recvhqPfUVeMRU",
+      "recvhqPgaJU2PG",
+      "recvhqPgpYO1Vh",
+      "recvhqPgG2aPSs",
+      "recvhqPgW8gxzt",
+      "recvhqPhbThmQg",
+      "recvhqPhr5k4gJ",
+      "recvhqPhUGlfRN",
+      "recvhqPi9NfvXu",
+      "recvhqPiqcVsQo",
+      "recvhqPiESNysu",
+      "recvhqPiTnFBO1",
+      "recvhqPj7OLI6v",
+      "recvhqPjm3HUXv",
+      "recvhqPjA6sJEf",
+      "recvhqPjO0nAlN",
+      "recvhqPk54RSkS",
+      "recvhqPkjz0ifY",
+      "recvhqPkxEX4Nt",
+      "recvhqPkNVYN9U",
+      "recvhqPl3fVNRf",
+      "recvhqPly2aUYZ",
+      "recvhqPlN0ZksX",
+      "recvhqPm1KRyk7",
+      "recvhqPmfYYYLW",
+      "recvhqPmtW1ttg",
+      "recvhqPmI3KKlB",
+      "recvhqPmWbssjk",
+      "recvhqPnaRXsdv",
+      "recvhqPnp47Xwm",
+      "recvhqPnFLzyue",
+      "recvhqPnTLCt4D",
+      "recvhqPo9AbhFA",
+      "recvhqPopio10V",
+      "recvhqPoEsiphr",
+      "recvhqPoT7yIkN",
+      "recvhqPpkP3kZ9",
+      "recvhqPpyVZZ9U",
+      "recvhr5F2tMMIx",
+      "recvhr5FjJsnXM",
+      "recvhr5FCSJIOz",
+      "recvhr5FV2Xynj",
+      "recvhr5Gc6z1M5",
+      "recvhr5GxYtgJY",
+      "recvhr5GOI52NE",
+      "recvhr5H5xlgOt",
+      "recvhr5HlZ9Pcm",
+      "recvhr5HBNO7ET",
+      "recvhr5HSpIZ6U",
+      "recvhr5I9A9436",
+      "recvhr5IpLHEKS",
+      "recvhr5IGpSLK5",
+      "recvhr5IWuzaNo",
+      "recvhr5JcTkIbd",
+      "recvhr5JtV5asp",
+      "recvhrxjuIAJnv",
+      "recvhv0UBz16iU",
+      "recvhxEL89a7FX",
+      "recvhxGm7AmVR8",
+      "recvhAlV9O5uXg",
+      "recvhAlY0ZhBCZ",
+      "recvhAoQZHwO1t",
+      "recvhAoRedbcMz",
+      "recvhI3ALCHBwn",
+      "recvhIe6xJr39B",
+      "recvhMILa3mZBT",
+      "recvhML2Zadoin",
+      "recvhML3foyysf",
+      "recvhMXUk94xEj",
+      "recvhN14HPrYMU",
+      "recvhN9KhOZJ00",
+      "recvhNfOaDWQMk",
+      "recvhOuiRVy6fN",
+      "recvhOujaqCXdL",
+      "recvhOwGqaEGxw",
+      "recvhOycL1rvrS",
+      "recvhOyd0xxuJa"
+    ]
+  },
+  "_notice": {
+    "update": {
+      "current": "1.0.11",
+      "latest": "1.0.19",
+      "message": "lark-cli 1.0.19 available, current 1.0.11"
+    }
+  }
+}

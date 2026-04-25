@@ -162,5 +162,9 @@
   "数码维修工具": {
     "record_id": "recvhw7R7yZ8ym",
     "major": "🔌 电子数码"
+  },
+  "说明书与保修卡": {
+    "record_id": "recvhNfRRZ9U6M",
+    "major": "📚 文档资产"
   }
 }
