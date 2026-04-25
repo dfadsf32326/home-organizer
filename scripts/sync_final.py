@@ -93,6 +93,36 @@ def get_feishu_records(F, mapping):
             remote_space_rids = extract_link_record_id(get_val("space_record_id"))
             space_rid = remote_space_rids[0] if remote_space_rids else None
 
+            # Look up location and container from local space_tree instead of obsolete text fields
+            location_val = None
+            container_val = None
+            
+            if space_rid:
+                try:
+                    with open(os.path.join(PROJECT_ROOT, "data/space_tree.json"), "r") as sf:
+                        stree = json.load(sf)
+                        
+                        # Search by feishu_record_id in nodes list
+                        nodes = stree.get("nodes", [])
+                        node_map = {n.get("id"): n for n in nodes if n.get("id")}
+                        for space_data in nodes:
+                            if space_data.get("record_id") == space_rid or space_data.get("id") == space_rid:
+                                if space_data.get("type") in ["容器", "未分类"]:
+                                    container_val = space_data.get("name")
+                                    parent_id = space_data.get("parent_id")
+                                    if parent_id and parent_id in node_map:
+                                        location_val = node_map[parent_id].get("name")
+                                else:
+                                    location_val = space_data.get("name")
+                                break
+                except:
+                    pass
+            
+            # Fallback to pure text fields ONLY IF space link mapping fails
+            if not location_val and not container_val:
+                location_val = get_val("location")
+                container_val = get_val("container")
+
             item = {
                 "id": local_id,
                 "name": get_val("name"),
@@ -100,8 +130,8 @@ def get_feishu_records(F, mapping):
                 "sub_category": sub_cat_name,
                 "category_record_id": cat_rid,
                 "space_record_id": space_rid,
-                "location": get_val("location"),
-                "container": get_val("container"),
+                "location": location_val,
+                "container": container_val,
                 "remark": get_val("remark"),
                 "status": normalize_select(get_val("status")) or "正常",
                 "updated_at": get_val("updated_at") or datetime.now().isoformat(),
