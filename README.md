@@ -31,7 +31,8 @@ home-organizer/
 │   ├── space_map.json              # 空间与容器嵌套树形数据
 │   ├── category_mapping.json       # 分类名与飞书 record_id 映射
 │   └── field_mapping.json          # 飞书字段 ID 配置表
-└── scripts/                        # 同步引擎与脚本
+├── scripts/                        # 同步引擎与脚本 (仅存放生产级核心脚本)
+└── temp_scripts/                   # 临时脚本专区 (供调试、一次性修复等临时操作使用，便于后续集中清理)
     ├── sync_final.py               # 物品主数据同步
     ├── sync_category_mapping.py    # 分类表双向同步
     └── sync_space_map.py           # 空间结构双向同步
