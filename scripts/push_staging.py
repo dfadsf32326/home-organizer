@@ -58,9 +58,8 @@ def push_staging():
         if space_rid:
             fields[F("space_record_id")] = [{"id": space_rid}]
 
-        status = item.get("status")
-        if status:
-            fields[F("status")] = [status] if isinstance(status, str) else status
+        status = item.get("status") or ["盘点中"]
+        fields[F("status")] = [status] if isinstance(status, str) else status
 
         cmd = [LARK_CLI, "base", "+record-upsert", "--base-token", BASE_TOKEN, "--table-id", TABLE_ID, "--json", json.dumps(fields, ensure_ascii=False)]
         res = subprocess.run(cmd, capture_output=True, text=True)

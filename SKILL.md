@@ -52,8 +52,14 @@ description: Expert guidance for using the home-organizer skill.
 
 1. **严格查字典**：必须首先对照 `CLASSIFICATION_STANDARD.md`，将物品精确映射到现有的标准大类和子类（绝不能自造分类）。
 2. **空间/容器预检 (Location Check)**：检查物品所属的容器或空间是否存在于本地 `data/space_tree.json` 中。如果不存在，必须先使用 `scripts/add_space.py` 创建并执行 `scripts/sync_spaces_bidirectional.py`，确保在本地成功拉取到飞书的 `record_id`，以便后续自动补全 `location` 和 `space_record_id` 字段。
-3. **建立盘点会话 (Staging)**：在 `data/staging/` 目录下创建一个暂存文件（如 `data/staging/staging_items.json`），数据结构必须与主表 `items.json` 保持完全一致，并将这些待盘点物品的 `status` 统一设置为 `盘点中`。**绝对不要直接向主库 `items.json` 写入，更不要提前推送到飞书**。
-4. **分类展示与确认**：向老板输出暂存表中的清单（包含名称、分类、状态等），供老板审核。如果老板确认需要新建系统不存在的分类，必须先通过 lark-cli 在飞书中新建分类并获取 `record_id`，同步回本地的 mapping。
+3. **建立盘点会话 (Staging)**：在 `data/staging/` 目录下创建一个暂存文件（如 `data/staging/staging_items.json`），数据结构必须与主表 `items.json` 保持完全一致，并将这些待盘点物品的 `status` 统一设置为 `['盘点中']`（须用数组形式）。**绝对不要直接向主库 `items.json` 写入，更不要提前推送到飞书**。
+4. **分类展示与确认**：向老板输出暂存表中的清单供审核。展示时必须采用按层级汇总的格式以保持简洁，格式如下：
+   ```text
+   📦 【大分类名称】
+     ├─ 📂 子分类名称
+     │  └─ 物品名称 (x数量)
+   ```
+   如果老板确认需要新建系统不存在的分类，必须先通过 lark-cli 在飞书中新建分类并获取 `record_id`，同步回本地的 mapping。
 5. **直接推送到飞书与全量拉取 (New Workflow)**：在全部分类和数据得到老板的最终确认后，直接调用 `scripts/push_staging.py` 将暂存区（staging）的数据推送到飞书。推送成功后该脚本会自动清空暂存区，并触发 `sync_final.py`（纯Pull脚本）从飞书全量拉取最新数据覆盖本地 `items.json`。绝不能将盘点数据直接合并到本地主库中。
 6. **位置安排解耦**：AI **无需**询问物品的具体去向（原位保留 / 移动 / 丢弃）。后续物品具体放哪个抽屉、状态如何，由老板自行在飞书多维表格中手动拖拽安排。
 7. **状态选项约束**：飞书多维表格的选项字段（如 `sub_class`, `status`）推送时必须包装为数组（如 `['正常']`）；状态必须用中文（如'正常'），严禁自造英文状态。
