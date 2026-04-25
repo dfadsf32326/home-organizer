@@ -1,7 +1,6 @@
 import json
 import subprocess
 import os
-import uuid
 from datetime import datetime
 
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
@@ -76,7 +75,8 @@ def get_feishu_records(F, mapping):
 
             local_id = get_val("local_id")
             if not local_id:
-                local_id = f"item-lark-{uuid.uuid4().hex[:8]}"
+                # 飞书侧如果没有local_id就用feishu_id代替作为唯一标识
+                local_id = f"item-lark-{rid[-8:]}"
 
             remote_cat_rids = extract_link_record_id(get_val("category_link"))
             cat_rid = remote_cat_rids[0] if remote_cat_rids else None
@@ -114,60 +114,20 @@ def get_feishu_records(F, mapping):
         return None
 
 def sync():
-    if not os.path.exists(ITEMS_FILE):
-        items_data = {"items": []}
-    else:
-        with open(ITEMS_FILE, 'r', encoding='utf-8') as f:
-            items_data = json.load(f)
-
     mapping = load_category_mapping()
     fm = load_field_mapping()
     F = lambda key: get_field_id(fm, "items", key)
 
-    local_items = items_data.get("items", [])
-    push_count = 0
-
-    # 1. PUSH 阶段：只推送本地新增的条目
-    for item in local_items:
-        if not item.get("feishu_record_id"):
-            print(f"↑ 推送新增: {item.get('name')}")
-            fields = {
-                F("name"):          item.get("name"),
-                F("sub_category"):  item.get("sub_category"),
-                F("location"):      item.get("location"),
-                F("container"):     item.get("container"),
-                F("remark"):        item.get("remark"),
-                F("local_id"):      item.get("id"),
-            }
-            cat_rid = item.get("category_record_id")
-            if cat_rid:
-                fields[F("category_link")] = [{"id": cat_rid}]
-
-            space_rid = item.get("space_record_id")
-            if space_rid:
-                fields[F("space_record_id")] = [{"id": space_rid}]
-
-            if item.get("status"):
-                fields[F("status")] = [item["status"]] if isinstance(item["status"], str) else item["status"]
-
-            cmd = [LARK_CLI, "base", "+record-upsert", "--base-token", BASE_TOKEN, "--table-id", TABLE_ID, "--json", json.dumps(fields, ensure_ascii=False)]
-            res = subprocess.run(cmd, capture_output=True, text=True)
-            if res.returncode == 0:
-                push_count += 1
-            else:
-                print(f"推送失败 ({item.get('name')}): {res.stderr}")
-
-    # 2. PULL 阶段：以飞书为准，全量拉取覆盖
-    print("↓ 正在从飞书全量拉取数据并覆盖本地...")
+    print("↓ 正在从飞书全量拉取数据作为唯一数据源...")
     pulled_items = get_feishu_records(F, mapping)
     
     if pulled_items is not None:
-        items_data["items"] = pulled_items
+        items_data = {"items": pulled_items}
         with open(ITEMS_FILE, 'w', encoding='utf-8') as f:
             json.dump(items_data, f, ensure_ascii=False, indent=2)
-        print(f"✅ 单向架构同步完成！新增推送 {push_count} 条，全量拉取覆盖 {len(pulled_items)} 条。")
+        print(f"✅ 拉取成功！本地 items.json 已被全量覆盖，共 {len(pulled_items)} 条。")
     else:
-        print("❌ 拉取失败，已保留本地原数据防止丢失。")
+        print("❌ 拉取失败，已保留本地原数据。")
 
 if __name__ == "__main__":
     sync()
