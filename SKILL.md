@@ -28,6 +28,13 @@ description: Expert guidance for using the home-organizer skill.
 ## 数据操作避坑与分类经验
 
 - **飞书 API 字段名坑 (not_found)**：使用 `lark-cli base +record-upsert` 新建记录时（如执行 `add_space.py` 等新增脚本），如果报错 `[800030201] not_found` 提示找不到中文字段名（例如 `"名称"`），意味着飞书 API 当前上下文强制要求使用底层的 Field ID。**必须**查看错误提示中给出的可用字段列表，将脚本里的中文字段键临时或永久替换为 `fldXXXXX` 格式的真实字段 ID（例如将 `"名称"` 改为 `"fld3jffiay"`）。
+- **BASE_TOKEN 配置缺失 (HTTP 400/NOTEXIST)**：如果 `sync_final.py` 或其他同步脚本返回 `HTTP 400: {"code":91402,"msg":"NOTEXIST"}`，说明 BASE_TOKEN 未正确配置。**必须**将脚本中的占位符 `BASE_TOKEN="PS56bP...OnJb"` 替换为 `BASE_TOKEN=os.environ.get("FEISHU_BASE_TOKEN", "<真实token>")`，真实 token 可从飞书多维表格 URL 提取（URL 格式：`https://xxx.feishu.cn/base/<BASE_TOKEN>?table=...`）。
+- **飞书 API 分页上限陷阱（极易踩坑）**：`lark-cli base +record-list` 即使设��� `--limit 500`，飞书 API **实际单页最多返回 200 条记录**。当用户说云端有 300+ 条但本地只拉取到 200 条时，说明同步脚本缺少分页逻辑。**必须**在脚本中实现循环分页：
+  1. 使用 `--offset` 参数逐页拉取
+  2. 循环条件：当 `has_more=True` 时继续拉取下一页
+  3. **错误的 break 条件**：`if not has_more or len(records) < page_size` 会提前终止（因为飞书永远返回 ≤200 条）
+  4. **正确的 break 条件**：`if not has_more` — 仅当飞书明确返回无更多数据时才停止
+  5. 每页拉取后累计合并 `all_records` 和 `all_record_ids`
 - **临时脚本规范 (极其重要)**：任何用于盘点暂存、数据分析、查重或一次性处理的临时 Python 脚本，**必须**保存在系统的 `temp_scripts/` 目录下（例如 `temp_scripts/analyze.py`），绝对禁止将这些临时文件存放在核心环境（如 `scripts/`）下污染正式环境。方便后续统一进行清理。
 
 - **JSON 数据结构陷阱**：处理 `staging_items.json` 时，数据可能是一个直接的数组，也可能是包含 `items` 键的字典。推荐在脚本中使用 `items = data if isinstance(data, list) else data.get("items", [])` 以兼容这两种结构，防止 `AttributeError`。
@@ -306,6 +313,7 @@ home-organizer/
 
 ## 版本历史
 
+- v0.4.4 | 2026-04-30 | 修复飞书 API 分页上限陷阱（单页最多200条），补充正确的分页循环 break 条件
 - v0.4.3 | 2026-04-22 | 升级空间表为统一双向同步脚本，增加中文枚举原生支持与字段名称自动同步脚本
 - v0.4.2 | 2026-04-21 | 同步脚本字段 ID 化改造：新增 `field_mapping.json` 集中配置，脚本从硬编码改为读取配置
 - v0.4.1 | 2026-04-21 | 补充飞书「查找 vs 查找引用」字段类型辨析，链式引用方案
