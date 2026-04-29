@@ -107,7 +107,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPgW8gxzt"
+      "parent_rid": null
     },
     {
       "record_id": "recvhqPhbThmQg",
@@ -170,7 +170,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPiTnFBO1"
+      "parent_rid": null
     },
     {
       "record_id": "recvhqPj7OLI6v",
@@ -193,7 +193,7 @@
     {
       "record_id": "recvhqPjA6sJEf",
       "name": "药箱",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "中",
       "primary_activity": "",
@@ -202,7 +202,7 @@
     {
       "record_id": "recvhqPjO0nAlN",
       "name": "电脑 纸箱",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "低",
       "primary_activity": "",
@@ -211,7 +211,7 @@
     {
       "record_id": "recvhqPk54RSkS",
       "name": "纸箱",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "低",
       "primary_activity": "",
@@ -238,11 +238,11 @@
     {
       "record_id": "recvhqPkNVYN9U",
       "name": "次卧",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "高",
       "primary_activity": "",
-      "parent_rid": "recvhqPkNVYN9U"
+      "parent_rid": null
     },
     {
       "record_id": "recvhqPl3fVNRf",
@@ -256,34 +256,34 @@
     {
       "record_id": "recvhqPly2aUYZ",
       "name": "衣柜抽屉",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "中",
       "primary_activity": "",
-      "parent_rid": "recvhqPkNVYN9U"
+      "parent_rid": "recvhv0UBz16iU"
     },
     {
       "record_id": "recvhqPlN0ZksX",
-      "name": "衣柜左上挂杆",
-      "type": "未分类",
+      "name": "衣柜左上空间",
+      "type": "",
       "status": "待整理",
       "frequency": "中",
       "primary_activity": "",
-      "parent_rid": "recvhqPkNVYN9U"
+      "parent_rid": "recvhv0UBz16iU"
     },
     {
       "record_id": "recvhqPm1KRyk7",
       "name": "衣柜左下空间",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "低",
       "primary_activity": "",
-      "parent_rid": "recvhqPkNVYN9U"
+      "parent_rid": "recvhv0UBz16iU"
     },
     {
       "record_id": "recvhqPmfYYYLW",
       "name": "进门左边墙面",
-      "type": "未分类",
+      "type": "",
       "status": "使用中",
       "frequency": "高",
       "primary_activity": "",
@@ -292,34 +292,25 @@
     {
       "record_id": "recvhqPmtW1ttg",
       "name": "手机电子产品配件箱",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "",
       "primary_activity": "",
       "parent_rid": "recvhxEL89a7FX"
     },
     {
-      "record_id": "recvhqPmI3KKlB",
-      "name": "数据线充电器盒子",
-      "type": "未分类",
-      "status": "待整理",
-      "frequency": "",
-      "primary_activity": "",
-      "parent_rid": "recvhqPkNVYN9U"
-    },
-    {
       "record_id": "recvhqPmWbssjk",
       "name": "吧台",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPmWbssjk"
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
       "record_id": "recvhqPnaRXsdv",
       "name": "塑料收纳盒",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "",
       "primary_activity": "",
@@ -328,7 +319,7 @@
     {
       "record_id": "recvhqPnp47Xwm",
       "name": "客厅塑料柜",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "",
       "primary_activity": "",
@@ -337,7 +328,7 @@
     {
       "record_id": "recvhqPnFLzyue",
       "name": "口袋",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "",
       "primary_activity": "",
@@ -346,7 +337,7 @@
     {
       "record_id": "recvhqPnTLCt4D",
       "name": "次卧二楼",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "",
       "primary_activity": "",
@@ -373,7 +364,7 @@
     {
       "record_id": "recvhqPoEsiphr",
       "name": "厨房操作台",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "高",
       "primary_activity": "",
@@ -382,7 +373,7 @@
     {
       "record_id": "recvhqPoT7yIkN",
       "name": "橱柜",
-      "type": "未分类",
+      "type": "",
       "status": "待整理",
       "frequency": "中",
       "primary_activity": "",
@@ -413,7 +404,7 @@
       "status": "待重组",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPgaJU2PG"
+      "parent_rid": "recvi5QBTv09x4"
     },
     {
       "record_id": "recvhr5FjJsnXM",
@@ -485,7 +476,7 @@
       "status": "待重组",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPgaJU2PG"
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
       "record_id": "recvhr5HBNO7ET",
@@ -599,7 +590,7 @@
       "record_id": "recvhAlV9O5uXg",
       "name": "五芳斋盒子",
       "type": "纸箱",
-      "status": "",
+      "status": "盘点完成",
       "frequency": "",
       "primary_activity": "",
       "parent_rid": "recvhxEL89a7FX"
@@ -625,20 +616,11 @@
     {
       "record_id": "recvhAoRedbcMz",
       "name": "主卧床",
-      "type": "未分类",
+      "type": "",
       "status": "",
       "frequency": "高",
       "primary_activity": "",
       "parent_rid": "recvhqPkjz0ifY"
-    },
-    {
-      "record_id": "recvhI3ALCHBwn",
-      "name": "床",
-      "type": "未分类",
-      "status": "待整理",
-      "frequency": "高",
-      "primary_activity": "",
-      "parent_rid": "recvhqPkNVYN9U"
     },
     {
       "record_id": "recvhIe6xJr39B",
@@ -731,20 +713,236 @@
       "parent_rid": "recvhxGm7AmVR8"
     },
     {
-      "record_id": "recvhOJgafQYFS",
-      "name": "",
+      "record_id": "recvhRIYsAPTsX",
+      "name": "26寸黑色行李箱",
+      "type": "行李箱",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
+    },
+    {
+      "record_id": "recvhSy5O0k2Zt",
+      "name": "衣柜右下空间",
       "type": "",
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPpkP3kZ9"
+      "parent_rid": "recvhv0UBz16iU"
     },
     {
-      "record_id": "recvhOJkbphZEm",
-      "name": "测试临时空间_1777131179",
+      "record_id": "recvhSYWesGVRv",
+      "name": "内裤袋",
       "type": "",
-      "status": "待清点",
-      "frequency": "高",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhSy5O0k2Zt"
+    },
+    {
+      "record_id": "recvhT26hosu4H",
+      "name": "红内裤袋子",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhSy5O0k2Zt"
+    },
+    {
+      "record_id": "recvhYWffl2Gz8",
+      "name": "20寸银色行李箱",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
+    },
+    {
+      "record_id": "recvhYWkj6zEMU",
+      "name": "20寸蓝色行李箱",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
+    },
+    {
+      "record_id": "recvhYWm8ug6BK",
+      "name": "24寸黑色行李箱",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPiTnFBO1"
+    },
+    {
+      "record_id": "recvhZV3OJK573",
+      "name": "袜子袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhSy5O0k2Zt"
+    },
+    {
+      "record_id": "recvi08iCANXBW",
+      "name": "床单被褥箱",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": null
+    },
+    {
+      "record_id": "recvi0z2TDXJY9",
+      "name": "次卧小衣柜",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPkNVYN9U"
+    },
+    {
+      "record_id": "recvi0U9h2Gg7L",
+      "name": "泳具袋子",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhSy5O0k2Zt"
+    },
+    {
+      "record_id": "recvi10jq0j9Or",
+      "name": "毛巾袋子",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhSy5O0k2Zt"
+    },
+    {
+      "record_id": "recvi4cNmXRN9u",
+      "name": "短裤袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhSy5O0k2Zt"
+    },
+    {
+      "record_id": "recvi4uKj7FNNT",
+      "name": "手套帽子袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhSy5O0k2Zt"
+    },
+    {
+      "record_id": "recvi5dBXHsnpE",
+      "name": "香水物品袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi5QBTv09x4",
+      "name": "衣柜左下收纳箱",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPm1KRyk7"
+    },
+    {
+      "record_id": "recvi646mvdvtF",
+      "name": "身体洗护-暂存袋子",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi64nlZyyTw",
+      "name": "医用消耗品-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi64Wlmy84B",
+      "name": "护肤与美妆-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi6aEOAfCUA",
+      "name": "配件挂饰-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi6dkSIkq90",
+      "name": "头发相关物品-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi6fPA1llO6",
+      "name": "个护电器-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi6mmZiSqPG",
+      "name": "生理卫生暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi6ntPA9dPa",
+      "name": "牙膏牙刷袋-暂存",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvi6skCRodWE",
+      "name": "护理工具-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvi5QBTv09x4"
+    },
+    {
+      "record_id": "recvic1jZFkHEI",
+      "name": "补剂散装原料箱",
+      "type": "",
+      "status": "",
+      "frequency": "",
       "primary_activity": "",
       "parent_rid": null
     }

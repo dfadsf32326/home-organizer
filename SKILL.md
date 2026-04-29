@@ -27,16 +27,22 @@ description: Expert guidance for using the home-organizer skill.
 
 ## 数据操作避坑与分类经验
 
+- **飞书 API 字段名坑 (not_found)**：使用 `lark-cli base +record-upsert` 新建记录时（如执行 `add_space.py` 等新增脚本），如果报错 `[800030201] not_found` 提示找不到中文字段名（例如 `"名称"`），意味着飞书 API 当前上下文强制要求使用底层的 Field ID。**必须**查看错误提示中给出的可用字段列表，将脚本里的中文字段键临时或永久替换为 `fldXXXXX` 格式的真实字段 ID（例如将 `"名称"` 改为 `"fld3jffiay"`）。
 - **临时脚本规范 (极其重要)**：任何用于盘点暂存、数据分析、查重或一次性处理的临时 Python 脚本，**必须**保存在系统的 `temp_scripts/` 目录下（例如 `temp_scripts/analyze.py`），绝对禁止将这些临时文件存放在核心环境（如 `scripts/`）下污染正式环境。方便后续统一进行清理。
 
-- **JSON 数据结构陷阱**：遍历 `data.get("items", [])` 而非直接遍历 `data`。
+- **JSON 数据结构陷阱**：处理 `staging_items.json` 时，数据可能是一个直接的数组，也可能是包含 `items` 键的字典。推荐在脚本中使用 `items = data if isinstance(data, list) else data.get("items", [])` 以兼容这两种结构，防止 `AttributeError`。
 - **批量数据迁移的坑（极易踩坑）**：当编写一次性脚本批量修改本地 JSON 数据（如全量中英文状态转换）时，**必须同时更新被修改项的 `updated_at` 字段**（设为 `datetime.now().isoformat()`）。否则，在执行双向同步脚本（如 `sync_final.py`）时，由于云端记录的更新时间 ≥ 本地的旧时间，双向比对逻辑会误判云端为最新，从而将本地刚修改好的新数据全部反向覆盖回旧版本。
 - **临时执行脚本的存放规范（红线）**：当需要编写一次性的 Python 脚本来执行临时数据修改、批量合并或状态更新时，**必须将脚本保存在 `temp_scripts/` 目录下**（如 `temp_scripts/merge_inventory.py`）。**绝对禁止**将临时处理脚本放在当前 Skill 的正式文件夹（如 `scripts/`）下污染环境。
+- **Git 分支切换红线**：由于 `home-organizer` 存在自动生成的缓存（`__pycache__`）、临时脚本（`temp_scripts/`）以及未追踪的暂存文件，在切换分支（如切换到 `single-way-sync`）前，极易发生冲突。如果遇到 untracked files 被 overwrite 的报错，**必须**先清理工作区（删除相关文件，或在获得老板确认后执行 `git reset --hard && git clean -fd`），再进行 checkout 或 pull。
+- **脚本维护避坑 (BASE_TOKEN & 字段 ID)**：在拉取新分支或使用新脚本（如 `add_space.py`）时，常遇到两个致命报错：
+  1. **Auth 失败**：脚本中仍残留占位符 `BASE_TOKEN="PS56bP...OnJb"`。**必须**使用 `sed` 或手动将其替换为真实的 Token（或改写为 `os.environ.get("FEISHU_BASE_TOKEN")`）。
+  2. **字段找不到 (not_found 800030201)**：脚本中硬编码了中文列名（如 `{"名称": args.name}`），但飞书底层已变更为内部 ID（如 `fld3jffiay`）。如遇报错，需通过控制台报错提示或 `lark-cli base +field-list` 获取真实 ID 并修改脚本。
 - **“新脚本探索”与临时执行脚本规范**：在涉及真实数据操作或批量处理时，切忌直接在核心脚本中堆砌 `if/else` 逻辑。**最高效安全的策略**是：
   1. **专用临时目录优先**：编写独立的一次性脚本进行边界试错时，必须保存在 `temp_scripts/` 目录下（如 `temp_scripts/migrate_xxx.py`），严禁在当前 Skill 的正式文件夹下直接创建临时脚本污染环境。
   2. 跑通并验证逻辑后，将有效代码合并回主干。
 - **字典取值避坑 (KeyError)**：在操作或同步 JSON 数据时（如读取 `location`），务必使用 `.get("key")` 而非直接 `["key"]`，防范历史数据字段缺失导致的脚本崩溃。
 - **lark-cli 高危操作确认 (极易踩坑)**：使用 `lark-cli base +record-delete` 等高危命令删除飞书记录时，必须追加 `--yes` 参数，否则命令会被交互式确认拦截（报错：`high-risk operation requires confirmation`），导致自动化脚本假死或静默失败。
+- **飞书API字段名漂移问题**：由于飞书经常改动字段名称，或者系统升级后抛弃了中文名转而要求 Field ID（例如，使用 API 向飞书空间表插入数据时，字段必须使用 `"fld3jffiay": args.name` 而非 `"名称": args.name`，否则会报 `not_found`）。在编写或修正自动化脚本（如 `add_space.py`）时，如遇 `not_found` 报错，必须注意错误提示中包含的可用 Field ID 列表进行修正。
 - **飞书重复数据恢复指南**：若因本地未及时保存 `record_id` 导致重复推送产生了重复记录，恢复步骤如下：
   1. 使用 `+record-list` 获取飞书全量数据。
   2. 按物品名称查重，选定一个保留的 `record_id`，将其余记为删除列表。
@@ -51,8 +57,9 @@ description: Expert guidance for using the home-organizer skill.
 **绝对红线**：当老板提供一批新物品进行盘点时，**严禁直接修改主数据文件(`items.json`)或执行同步脚本**。必须严格遵循以下交互步骤：
 
 1. **严格查字典**：必须首先对照 `CLASSIFICATION_STANDARD.md`，将物品精确映射到现有的标准大类和子类（绝不能自造分类）。
-2. **空间/容器预检 (Location Check)**：检查物品所属的容器或空间是否存在于本地 `data/space_tree.json` 中。如果不存在，必须先使用 `scripts/add_space.py` 创建并执行 `scripts/sync_spaces_bidirectional.py`，确保在本地成功拉取到飞书的 `record_id`，以便后续自动补全 `location` 和 `space_record_id` 字段。
+2. **空间/容器预检 (Location Check)**：检查物品所属的容器或空间是否存在于本地 `data/space_tree.json` 中。如果不存在，应提示老板先在飞书中创建空间，然后再运行 `scripts/sync_spaces_down.py`，确保在本地成功拉取到飞书的 `record_id`，以便后续自动补全 `location` 和 `space_record_id` 字段。
 3. **建立盘点会话 (Staging)**：在 `data/staging/` 目录下创建一个暂存文件（如 `data/staging/staging_items.json`），数据结构必须与主表 `items.json` 保持完全一致，并将这些待盘点物品的 `status` 统一设置为 `['盘点中']`（须用数组形式）。**绝对不要直接向主库 `items.json` 写入，更不要提前推送到飞书**。
+   - **快速批量修改策略**：当老板对暂存区分类提出大面积调整时（如将整个袋子的物品划入另一个分类），不要逐条修改。建议编写一个位于 `temp_scripts/` 目录下的简易 Python 脚本批量更新 `staging_items.json` 中的 `sub_category` 和 `category_record_id`，快速且不易错。
 4. **分类展示与确认**：向老板输出暂存表中的清单供审核。展示时必须采用按层级汇总的格式以保持简洁，格式如下：
    ```text
    📦 【大分类名称】
@@ -63,6 +70,12 @@ description: Expert guidance for using the home-organizer skill.
 5. **直接推送到飞书与全量拉取 (New Workflow)**：在全部分类和数据得到老板的最终确认后，直接调用 `scripts/push_staging.py` 将暂存区（staging）的数据推送到飞书。推送成功后该脚本会自动清空暂存区，并触发 `sync_final.py`（纯Pull脚本）从飞书全量拉取最新数据覆盖本地 `items.json`。绝不能将盘点数据直接合并到本地主库中。
 6. **位置安排解耦**：AI **无需**询问物品的具体去向（原位保留 / 移动 / 丢弃）。后续物品具体放哪个抽屉、状态如何，由老板自行在飞书多维表格中手动拖拽安排。
 7. **状态选项约束**：飞书多维表格的选项字段（如 `sub_class`, `status`）推送时必须包装为数组（如 `['正常']`）；状态必须用中文（如'正常'），严禁自造英文状态。
+
+## 分类标准文档 (CLASSIFICATION_STANDARD.md) 维护 SOP
+
+- **实例接地气原则**：文档中每个分类括号内的“举例物品”（如 `营养补剂 (肌醇、斜发沸石粉)`），应始终反映老板当前真实拥有的高频物品，而非通用教科书词汇。
+- **按需更新工作流**：当老板要求“检查/更新分类实例”时，在 `temp_scripts/` 编写脚本遍历 `items.json`，提取真实物品名称来替换文档中的旧举例。
+- **红线**：只更新 Markdown 说明文档的括号内实例，绝对不能借此修改 `items.json` 的主数据或更改现有的分类层级结构（大类/子类名）。
 
 ## 项目结构
 
@@ -79,7 +92,9 @@ home-organizer/
 │   │   └── history/                    # 历史数据归档
 └── scripts/
    ├── sync_final.py               # 核心同步（物品清单 ↔ 飞书）
-   └── sync_category_mapping.py    # 分类表双向同步（本地 ↔ 飞书分类表）
+   ├── sync_spaces_down.py         # 单向拉取飞书空间数据（替换双向同步脚本）
+   ├── add_space.py                # 新建空间容器并推送到飞书（自动获取 record_id）
+   └── push_staging.py             # 将暂存区盘点数据推送飞书并触发全量同步
 ```
 
 ## 飞书多维表格 (Feishu Base) 深度集成
@@ -154,7 +169,7 @@ home-organizer/
 3. **维护流程**：
   - 在飞书调整分类后 → `--pull` 或 `--sync`
   - 在本地 `category_mapping.json` 新增分类后 → `--push` 或 `--sync`
-4. **禁止**：子类双写规则：向飞书推送新分类时，必须将分类名称同时写入 `cat_key` 和 `sub_class`（子分类）字段，以满足飞书端分类名称同步显示的要求。\n5. **安全准则**：严禁在代码中硬编码 `BASE_TOKEN`，涉及飞书凭证处应使用系统环境变量。
+4. **禁止**：子类双写规则：向飞书推送新分类时，必须将分类名称同时写入 `cat_key` 和 `sub_class`（子分类）字段，以满足飞书端分类名称同步显示的要求。\n- **环境变量 `BASE_TOKEN`**：在使用飞书 `lark-cli` 进行 API 调用时，绝对禁止将 `BASE_TOKEN` 硬编码在脚本里（如 `BASE_TOKEN="***"`），必须从环境变量中读取（如 `BASE_TOKEN=os.environ.get("FEISHU_BASE_TOKEN")`）或动态传入，以避免因硬编码带来的调用失败或泄露。
 
 ### 旧子类名修正（已完成）
 
@@ -214,15 +229,20 @@ home-organizer/
 - `organizer` - 收纳件（如刀架）
 - `wall_hook` - 墙面挂钩
 
-### 飞书空间表字段
+1. **发现飞书空间表上级空间字段ID**：在脚本 `scripts/add_space.py` 中更新了飞书空间表的父级引用字段的 Field ID 为 `fld69LXYnd`。后续所有涉及层级关系的脚本（例如创建子空间）推送数据时，必须统一使用 `fld69LXYnd` 代替中文 `"上级空间"` 键名，否则会报 `not_found` 错误。
 
-| 字段名 | 类型 | 说明 |
-|--------|------|------|
-| 空间名称 | 文本 | 显示名称 |
-| 所属空间 | 关联(本表自身) | 自引用，实现无限嵌套，传 record_id |
-| 空间类型 | 单选 | 上述 type 枚举 |
-| 使用频率 | 单选 | high/medium/low |
-| 盘点状态 | 单选 | pending/active/inventory_completed/pending_reorganize |
+### 飞书空间表字段 (🚨 API 推送必须使用 Field ID)
+
+因飞书表结构已调整，通过脚本向空间表推送数据（如 `add_space.py`）时**严禁使用中文键名**（会导致 `not_found` 报错），必须使用真实的 Field ID。
+
+| 字段名 (UI显示) | 飞书 Field ID | 类型 | 说明 |
+|--------|------|------|------|
+| **容器名** | `fld3jffiay` | 文本 | 空间名称 (⚠️ 必须用此 ID，不可用"名称"或"空间名称") |
+| **状态** | `fld6NJUvq2` | 单选 | 盘点状态 |
+| **主要功能** | `fldOQLQPec` | 文本 | 空间主要活动 |
+| **备注字段** | `fldrCLbryN` | 文本 | 附加备注 |
+| **子空间** | `fld69LXYnd` | 关联 | |
+| **上级空间** | `fld69LXYnd` | 关联(自身) | 传递父级 record_id |
 
 ### 关键技术发现
 
@@ -254,9 +274,9 @@ home-organizer/
 
 > ⚠️ 注意：飞书查找引用可能不支持链式引用（lookup 的 lookup），需实测验证。
 
-### 空间表双向同步 (最新版)
+### 空间表单向同步 (最新版)
 
-1. **脚本**：`scripts/sync_spaces_bidirectional.py`
+1. **脚本**：`scripts/sync_spaces_down.py`
 2. **映射文件**：`data/space_tree.json`（树形统一模型，包含节点数组及层级关联关系）
 3. **映射结构示例**：
   ```json
@@ -273,11 +293,7 @@ home-organizer/
   }
   ```
 4. **功能特性**：
-  - **自动双向比对**：逐字段比对节点名、类型、备注、使用频率、盘点状态等。
-  - **云端拉取更新**：飞书数据修改自动覆盖本地。
-  - **本地推送新建**：本地新增节点自动推送飞书并回写 `record_id`。
-  - **云端发现新增**：飞书新增空间自动发现并拉取到本地，分配本地 ID。
-  - **树形关系维护**：无论哪端修改 `parent_id`，均可自动梳理和同步层级引用。
+  - **单向拉取覆盖**：从飞书拉取全量空间记录，强制覆盖本地 `space_tree.json`，确保本地数据始终以飞书端为准，避免双向同步引起的合并冲突与数据污染。
   - **自动处理枚举格式**：自适应飞书单选/多选字段所需的数组封包逻辑。
 
 ### 字段映射双向同步
@@ -309,13 +325,13 @@ home-organizer/
    - 如果不存在完全匹配的名字，**必须使用相似度/包含关系**去匹配历史已有空间。
    - 找到相似空间后，**必须向用户反问确认**：“您说的是不是之前的 [已存在的相似空间]？”
 
-2. **创建新空间（若确认不是旧空间）**：
-   - 只有当用户明确否认，或者确实是一个全新的区域时，才启动新空间创建流程。
-   - **创建后的必须操作步骤**：
+2. **处理新空间（若确认不是旧空间）**：
+   - **场景 A（用户已手动创建）**：如果用户明确表示“已经在系统/飞书里创建了”，必须立即运行 `scripts/sync_spaces_down.py` 全量拉取最新空间数据，并向用户确认拉取到的准确空间名称，随后即可进入添加物品流程。
+   - **场景 B（需要 AI 新建）**：只有当用户明确否认，或者确实是一个未创建的全新区域时，才启动新空间创建流程。调用 `scripts/add_space.py --name "空间名称"` 脚本（可选 `--parent "父级空间名"` 指定嵌套位置）。
+   - **AI 创建后的必须操作步骤**：
      1. **先询问用户**：在进行任何推送前，必须先询问用户是否需要将新空间/新数据推送到云端。
-     2. **推送到飞书**：用户同意后，调用 API 或相关脚本将新空间推送到飞书。
-     3. **获取空间ID (Record ID)**：从飞书的响应中获取该空间对应的 Record ID。
-     4. **写入本地映射表**：将获取到的 Record ID 立即反写到本地的 `space_tree.json` 及相关映射表数据库中，确保双向绑定。
+     2. **推送到飞书**：用户同意后，执行 `python scripts/add_space.py --name "新容器名"`，脚本会自动完成推送、获取 record_id、并调用 `sync_spaces_down.py` 同步回本地。
+     3. **自动闭环**：`add_space.py` 会自动完成获取 record_id 和调用 `sync_spaces_down.py` 同步回本地 `space_tree.json`，确保后续物品能找到合法的 `space_record_id`。
 
 3. **添加物品**：
-   - 在空间确立并拿到合法 Record ID 后，再正式调用 `add_accessories.py` 或相关脚本，将物品信息录入到该空间下。
+   - 在空间确立并拿到合法 Record ID 后，再正式调用 `add_accessories.py` 或相关脚本（如生成 staging），将物品信息录入到该空间下。

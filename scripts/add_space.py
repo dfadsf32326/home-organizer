@@ -39,11 +39,11 @@ def main():
             print(f"Warning: Parent space '{args.parent}' not found. Will create at root level.")
 
     fields = {
-        "名称": args.name
+        "fld3jffiay": args.name
     }
     
     if parent_rid:
-        fields["上级空间"] = [{"id": parent_rid}]
+        fields["fld69LXYnd"] = [{"id": parent_rid}]
         
     print(f"Pushing new space '{args.name}' to Feishu...")
     

@@ -29,7 +29,7 @@ def push_staging():
     with open(STAGING_FILE, 'r', encoding='utf-8') as f:
         staging_data = json.load(f)
         
-    items = staging_data.get("items", [])
+    items = staging_data if isinstance(staging_data, list) else staging_data.get("items", [])
     if not items:
         print("暂无需要推送的 staging 数据。")
         return
