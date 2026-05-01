@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "id": "27811994-4f6e-4949-995c-b70d984c31a9",
+      "name": "Combo治疗仪",
+      "category": "🏥 健康医疗",
+      "sub_category": "医疗仪器/器械",
+      "category_record_id": "recvhlcPBDLDFi",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792555"
+    },
+    {
+      "id": "927aa655-e95c-48d6-b519-3848d99f73db",
+      "name": "保暖箱毯子",
+      "category": "👕 织物服饰",
+      "sub_category": "床品与毛巾",
+      "category_record_id": "recvhlcUHGv0yO",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792595"
+    },
+    {
+      "id": "89e98bca-5795-44b5-ac01-ad6150af9447",
+      "name": "剪毛球器",
+      "category": "🧼 个人护理",
+      "sub_category": "护理工具",
+      "category_record_id": "recvhlcSNSLL4D",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792611"
+    },
+    {
+      "id": "17dded10-737e-4702-acc6-46f193ba067e",
+      "name": "飞科电吹风",
+      "category": "🧼 个人护理",
+      "sub_category": "个护电器",
+      "category_record_id": "recvhlcSwpSHPp",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792623"
+    },
+    {
+      "id": "5b703596-a034-45e2-84f9-bbe1b45fbf35",
+      "name": "京东京造折叠吹风机",
+      "category": "🧼 个人护理",
+      "sub_category": "个护电器",
+      "category_record_id": "recvhlcSwpSHPp",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792637"
+    },
+    {
+      "id": "52ace2ee-fbe7-427c-b6a7-93fbd5fb9311",
+      "name": "红光治疗仪电源适配器 (2个)",
+      "category": "🔌 电子数码",
+      "sub_category": "动力与线材",
+      "category_record_id": "recvhlcREq9Yi6",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792655"
+    },
+    {
+      "id": "c3993784-f83f-452f-9a7d-f409fe512595",
+      "name": "Micro USB转USB数据线",
+      "category": "🔌 电子数码",
+      "sub_category": "动力与线材",
+      "category_record_id": "recvhlcREq9Yi6",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792669"
+    },
+    {
+      "id": "aacebdf7-4b7e-4b9d-90e2-481d959a2cd4",
+      "name": "红光睡袋电源适配器 (2个)",
+      "category": "🔌 电子数码",
+      "sub_category": "动力与线材",
+      "category_record_id": "recvhlcREq9Yi6",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792682"
+    },
+    {
+      "id": "94a2c8b4-6860-4cf4-973e-e39b4d2ea698",
+      "name": "宠物推剪",
+      "category": "🏠 家居与工具",
+      "sub_category": "生活家电",
+      "category_record_id": "recvhlcWlMDG0N",
+      "space_record_id": "recvinevygAD0Z",
+      "location": "",
+      "container": "",
+      "remark": "测试数据",
+      "status": [
+        "盘点中"
+      ],
+      "updated_at": "2026-05-01T21:59:08.792694"
+    }
+  ],
+  "space_id": "recvinevygAD0Z"
+}
