@@ -7,10 +7,6 @@
     "record_id": "recvhfPMlHE62I",
     "major": "🍎 饮食供应"
   },
-  "冲饮/饮品": {
-    "record_id": "recvhfPMlHm5L0",
-    "major": "🍎 饮食供应"
-  },
   "厨房消耗品": {
     "record_id": "recvhfPMlHTdH7",
     "major": "🍎 饮食供应"
@@ -166,5 +162,9 @@
   "说明书与保修卡": {
     "record_id": "recvhNfRRZ9U6M",
     "major": "📚 文档资产"
+  },
+  "睡衣": {
+    "record_id": "recvhSz2WyOQNG",
+    "major": "👕 织物服饰"
   }
 }
