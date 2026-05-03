@@ -3321,8 +3321,8 @@
     {
       "id": "item-lark-zb1lD4F9",
       "name": "极简灰法兰绒长款睡袍",
-      "category": null,
-      "sub_category": null,
+      "category": "👕 织物服饰",
+      "sub_category": "睡衣",
       "category_record_id": "recvhSz2WyOQNG",
       "space_record_id": "recvhSy5O0k2Zt",
       "location": null,
@@ -3349,8 +3349,8 @@
     {
       "id": "item-lark-zpE8TO1Y",
       "name": "睡衣",
-      "category": null,
-      "sub_category": null,
+      "category": "👕 织物服饰",
+      "sub_category": "睡衣",
       "category_record_id": "recvhSz2WyOQNG",
       "space_record_id": "recvhSy5O0k2Zt",
       "location": null,
@@ -6831,6 +6831,48 @@
       "status": "正常",
       "updated_at": "2026-05-03 01:40:49",
       "feishu_record_id": "recviuba45VdQq"
+    },
+    {
+      "id": "0d58e9fe-ec6c-4c4c-8b81-347d4aeb4abd",
+      "name": "白糖",
+      "category": null,
+      "sub_category": "粮油/调味品",
+      "category_record_id": null,
+      "space_record_id": null,
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-03 22:50:15",
+      "feishu_record_id": "recvizkLFq46sy"
+    },
+    {
+      "id": "88485bda-fbf6-46a1-916f-56bce7c05889",
+      "name": "鸡精（大包）",
+      "category": null,
+      "sub_category": "粮油/调味品",
+      "category_record_id": null,
+      "space_record_id": null,
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-03 22:50:17",
+      "feishu_record_id": "recvizkLZQtwDz"
+    },
+    {
+      "id": "1a69e482-a4e2-44e7-8ec6-ab656df90e0c",
+      "name": "生抽酱油（大瓶）",
+      "category": null,
+      "sub_category": "粮油/调味品",
+      "category_record_id": null,
+      "space_record_id": null,
+      "location": null,
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-03 22:50:18",
+      "feishu_record_id": "recvizkMhzdE0c"
     }
   ]
 }
