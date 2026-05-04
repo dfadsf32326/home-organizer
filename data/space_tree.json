@@ -1007,7 +1007,34 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPepFSu28"
+      "parent_rid": "recvinrRvBZ8rL"
+    },
+    {
+      "record_id": "recvinrRvBZ8rL",
+      "name": "超声波治疗仪袋子",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": null
+    },
+    {
+      "record_id": "recviuaB2gOJZP",
+      "name": "非常用 厨具/餐具 暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": null
+    },
+    {
+      "record_id": "recviEpfrrYSE5",
+      "name": "冷藏室",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": null
     }
   ]
 }
