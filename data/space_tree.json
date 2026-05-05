@@ -56,15 +56,6 @@
       "parent_rid": "recvhqPkNVYN9U"
     },
     {
-      "record_id": "recvhqPfFeisLr",
-      "name": "冰箱上层保鲜区-最上层",
-      "type": "容器",
-      "status": "盘点完成",
-      "frequency": "高",
-      "primary_activity": "食品/补剂冷藏",
-      "parent_rid": "recvhqPiTnFBO1"
-    },
-    {
       "record_id": "recvhqPfUVeMRU",
       "name": "20寸银色行李箱",
       "type": "容器",
@@ -341,7 +332,7 @@
       "status": "待整理",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPnTLCt4D"
+      "parent_rid": null
     },
     {
       "record_id": "recvhqPo9AbhFA",
@@ -719,7 +710,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPiTnFBO1"
+      "parent_rid": "recvhqPnTLCt4D"
     },
     {
       "record_id": "recvhSy5O0k2Zt",
@@ -773,7 +764,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvhqPiTnFBO1"
+      "parent_rid": "recvhqPnTLCt4D"
     },
     {
       "record_id": "recvhZV3OJK573",
@@ -944,7 +935,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
       "record_id": "recvigEMfm9efR",
@@ -953,7 +944,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPkNVYN9U"
     },
     {
       "record_id": "recvihGARXxiBJ",
@@ -962,7 +953,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
       "record_id": "recvihH5G5nvRh",
@@ -971,7 +962,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPiTnFBO1"
     },
     {
       "record_id": "recvimmJ61Kx1q",
@@ -980,7 +971,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPly2aUYZ"
     },
     {
       "record_id": "recvimn8ZnPPy8",
@@ -989,7 +980,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPly2aUYZ"
     },
     {
       "record_id": "recvimqfopvyPH",
@@ -998,7 +989,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPly2aUYZ"
     },
     {
       "record_id": "recvinevygAD0Z",
@@ -1007,7 +998,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": "recvinrRvBZ8rL"
+      "parent_rid": "recvhqPkNVYN9U"
     },
     {
       "record_id": "recvinrRvBZ8rL",
@@ -1016,7 +1007,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvinevygAD0Z"
     },
     {
       "record_id": "recviuaB2gOJZP",
@@ -1029,12 +1020,30 @@
     },
     {
       "record_id": "recviEpfrrYSE5",
-      "name": "冷藏室",
+      "name": "客厅冰箱冷藏室",
       "type": "",
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPj7OLI6v"
+    },
+    {
+      "record_id": "recviL68mU0HkZ",
+      "name": "中药药材袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recviEpfrrYSE5"
+    },
+    {
+      "record_id": "recviL8jMuDXhX",
+      "name": "客厅冰箱冷冻室",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPj7OLI6v"
     }
   ]
 }

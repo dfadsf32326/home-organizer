@@ -50,11 +50,17 @@ def push_staging():
             F("local_id"):      item.get("id"),
         }
         
+        # 分类关联
         cat_rid = item.get("category_record_id")
         if cat_rid:
             fields[F("category_link")] = [{"id": cat_rid}]
 
+        # 空间/容器关联：优先用显式space_record_id，否则尝试从location自动映射
         space_rid = item.get("space_record_id")
+        location = item.get("location", "")
+        if not space_rid and location.startswith("rec"):
+            # location是record_id格式，自动映射到space_record_id关联
+            space_rid = location
         if space_rid:
             fields[F("space_record_id")] = [{"id": space_rid}]
 
