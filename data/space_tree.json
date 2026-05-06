@@ -372,7 +372,7 @@
     },
     {
       "record_id": "recvhqPpkP3kZ9",
-      "name": "洗漱厅",
+      "name": "洗漱饭厅",
       "type": "房间",
       "status": "",
       "frequency": "",
@@ -1044,6 +1044,69 @@
       "frequency": "",
       "primary_activity": "",
       "parent_rid": "recvhqPj7OLI6v"
+    },
+    {
+      "record_id": "recviLaFtmUeiH",
+      "name": "冷冻室第二层",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recviL8jMuDXhX"
+    },
+    {
+      "record_id": "recviLb0tPFjYr",
+      "name": "冷冻室 第三层",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recviL8jMuDXhX"
+    },
+    {
+      "record_id": "recviQo5ikLFfP",
+      "name": "",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": null
+    },
+    {
+      "record_id": "recviQo6EJWpOe",
+      "name": "",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPjm3HUXv"
+    },
+    {
+      "record_id": "recviQo7YHGl67",
+      "name": "饭厅冰箱",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPpkP3kZ9"
+    },
+    {
+      "record_id": "recviQocNikPFC",
+      "name": "饭厅冰箱 冷藏室 ",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recviQo7YHGl67"
+    },
+    {
+      "record_id": "recviQoefDbSsQ",
+      "name": "饭厅冰箱 冷冻室",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recviQo7YHGl67"
     }
   ]
 }
