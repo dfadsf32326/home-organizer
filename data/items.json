@@ -1140,12 +1140,12 @@
       "category": "🍎 饮食供应",
       "sub_category": "粮油/调味品",
       "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "space_record_id": "recvhr5JtV5asp",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "remark": null,
       "status": "盘点中",
-      "updated_at": "2026-04-30 18:26:36",
+      "updated_at": "2026-05-06 22:44:35",
       "feishu_record_id": "recvhj3bMZTgGL"
     },
     {
@@ -1168,12 +1168,12 @@
       "category": "🍎 饮食供应",
       "sub_category": "粮油/调味品",
       "category_record_id": "recvhlcNUnWxw5",
-      "space_record_id": "recvhr5IpLHEKS",
+      "space_record_id": "recviQocNikPFC",
       "location": "暂存区",
       "container": "暂存区-饮食供应袋",
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-04-30 18:26:36",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:44:25",
       "feishu_record_id": "recvhj3clcADps"
     },
     {
@@ -7514,8 +7514,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:03",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDWzITof6"
     },
     {
@@ -7528,8 +7528,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:05",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDWTRul4e"
     },
     {
@@ -7542,8 +7542,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:06",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDXdunnBA"
     },
     {
@@ -7556,8 +7556,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:07",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDXwzdd9p"
     },
     {
@@ -7570,8 +7570,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:08",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDXRaSYkZ"
     },
     {
@@ -7584,8 +7584,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:09",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDY9m62kB"
     },
     {
@@ -7598,8 +7598,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:11",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDYtnuc5w"
     },
     {
@@ -7612,8 +7612,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:12",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDYLEwi2G"
     },
     {
@@ -7626,8 +7626,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:13",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDZ6FxpMk"
     },
     {
@@ -7640,8 +7640,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:14",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDZp68GQX"
     },
     {
@@ -7654,8 +7654,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:15",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQDZIslCC4"
     },
     {
@@ -7668,8 +7668,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:17",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQE01iVIp2"
     },
     {
@@ -7682,8 +7682,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:18",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQE0kmchNY"
     },
     {
@@ -7696,8 +7696,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:19",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQE0Dfo5yl"
     },
     {
@@ -7710,8 +7710,8 @@
       "location": "recviQocNikPFC",
       "container": null,
       "remark": null,
-      "status": "盘点中",
-      "updated_at": "2026-05-06 21:53:20",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQE0YN07Vb"
     },
     {
@@ -7724,8 +7724,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第一层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:38",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQO9XpQWOP"
     },
     {
@@ -7738,8 +7738,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:39",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOahaEvGG"
     },
     {
@@ -7752,8 +7752,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:40",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOaB27E0f"
     },
     {
@@ -7766,8 +7766,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:42",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOaUPOy56"
     },
     {
@@ -7780,8 +7780,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:43",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQObeq1w9G"
     },
     {
@@ -7794,8 +7794,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:44",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQObxhsuOe"
     },
     {
@@ -7808,8 +7808,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:45",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQObQLxasp"
     },
     {
@@ -7822,8 +7822,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:47",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOcafxtiT"
     },
     {
@@ -7836,8 +7836,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:48",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOctCLYp1"
     },
     {
@@ -7850,8 +7850,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:49",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOcMLQXVh"
     },
     {
@@ -7864,8 +7864,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:50",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOd6AnAie"
     },
     {
@@ -7878,8 +7878,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:51",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOdqnJ2AV"
     },
     {
@@ -7892,8 +7892,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:53",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOdK7wBy6"
     },
     {
@@ -7906,8 +7906,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:54",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOe3okVmT"
     },
     {
@@ -7920,8 +7920,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:55",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOeniQRZS"
     },
     {
@@ -7934,8 +7934,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第二层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:56",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOeHHr1vn"
     },
     {
@@ -7948,8 +7948,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:57",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOeZQXaRy"
     },
     {
@@ -7962,8 +7962,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:33:59",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOfj75bj8"
     },
     {
@@ -7976,8 +7976,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:00",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOfDk402C"
     },
     {
@@ -7990,8 +7990,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:01",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOfWsFMQ9"
     },
     {
@@ -8004,8 +8004,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:02",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOgfcQiHO"
     },
     {
@@ -8018,8 +8018,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:03",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOgzNwgfE"
     },
     {
@@ -8032,8 +8032,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:05",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOgRww6dD"
     },
     {
@@ -8046,8 +8046,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:06",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOhawC2mq"
     },
     {
@@ -8060,8 +8060,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:07",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOht2Ln65"
     },
     {
@@ -8074,8 +8074,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第三层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:08",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOhQLNlc5"
     },
     {
@@ -8088,8 +8088,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:10",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOi9p6Vnd"
     },
     {
@@ -8102,8 +8102,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:11",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOisFJfQy"
     },
     {
@@ -8116,8 +8116,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:12",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOiMmn2wL"
     },
     {
@@ -8130,8 +8130,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:13",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOj5DQRoo"
     },
     {
@@ -8144,8 +8144,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:14",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOjo00EcJ"
     },
     {
@@ -8158,8 +8158,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:16",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOjJrH3jS"
     },
     {
@@ -8172,8 +8172,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:17",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOk3MiOo6"
     },
     {
@@ -8186,8 +8186,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:18",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOkmTQhHC"
     },
     {
@@ -8200,8 +8200,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:19",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOkEEpdER"
     },
     {
@@ -8214,8 +8214,8 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:20",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOkXz2Pmy"
     },
     {
@@ -8228,9 +8228,317 @@
       "location": "recviQoefDbSsQ",
       "container": null,
       "remark": "冷冻室第四层",
-      "status": "盘点中",
-      "updated_at": "2026-05-06 22:34:22",
+      "status": "正常",
+      "updated_at": "2026-05-06 22:43:45",
       "feishu_record_id": "recviQOlhlQZDN"
+    },
+    {
+      "id": "item-lark-NN5ikDTg",
+      "name": "油污疏通剂 2袋",
+      "category": "🏠 家居与工具",
+      "sub_category": "清洁与家务",
+      "category_record_id": "recvhlcWWb4fO7",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:48",
+      "feishu_record_id": "recviWNN5ikDTg"
+    },
+    {
+      "id": "item-lark-NNqLGFv0",
+      "name": "一次性手套 1袋",
+      "category": "🏥 健康医疗",
+      "sub_category": "医用消耗品",
+      "category_record_id": "recvhlcPUFOPnA",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:49",
+      "feishu_record_id": "recviWNNqLGFv0"
+    },
+    {
+      "id": "item-lark-NNKuMUyp",
+      "name": "干银耳 1包",
+      "category": "🍎 饮食供应",
+      "sub_category": "零食/干货",
+      "category_record_id": "recvhfPMlHE62I",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:51",
+      "feishu_record_id": "recviWNNKuMUyp"
+    },
+    {
+      "id": "item-lark-NO4dhFu7",
+      "name": "应急防灾蜡烛 1袋",
+      "category": "🏠 家居与工具",
+      "sub_category": "家居杂项",
+      "category_record_id": "recvhlcXvBqsnt",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:52",
+      "feishu_record_id": "recviWNO4dhFu7"
+    },
+    {
+      "id": "item-lark-NOmGS0Jg",
+      "name": "三合一湿敷棉 1包",
+      "category": "🧼 个人护理",
+      "sub_category": "护肤与美妆",
+      "category_record_id": "recvhlcSek6XIu",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:53",
+      "feishu_record_id": "recviWNOmGS0Jg"
+    },
+    {
+      "id": "item-lark-NOFPA8re",
+      "name": "沙麦鸡精 1包",
+      "category": "🍎 饮食供应",
+      "sub_category": "粮油/调味品",
+      "category_record_id": "recvhlcNUnWxw5",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:54",
+      "feishu_record_id": "recviWNOFPA8re"
+    },
+    {
+      "id": "item-lark-NOYWnNW4",
+      "name": "强力去油疏通剂 2袋",
+      "category": "🏠 家居与工具",
+      "sub_category": "清洁与家务",
+      "category_record_id": "recvhlcWWb4fO7",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:55",
+      "feishu_record_id": "recviWNOYWnNW4"
+    },
+    {
+      "id": "item-lark-NPip8LaR",
+      "name": "止血钳 1个",
+      "category": "🏥 健康医疗",
+      "sub_category": "医疗仪器/器械",
+      "category_record_id": "recvhlcPBDLDFi",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:57",
+      "feishu_record_id": "recviWNPip8LaR"
+    },
+    {
+      "id": "item-lark-NPBNbwxs",
+      "name": "妈妈的粉色茶杯 1个",
+      "category": "📚 文档资产",
+      "sub_category": "纪念与情感",
+      "category_record_id": "recvhlcW45dLAC",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:58",
+      "feishu_record_id": "recviWNPBNbwxs"
+    },
+    {
+      "id": "item-lark-NPW5W0Q0",
+      "name": "电子刻度秤(小) 1个",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨房电器",
+      "category_record_id": "recvhlcOsvLPvG",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:09:59",
+      "feishu_record_id": "recviWNPW5W0Q0"
+    },
+    {
+      "id": "item-lark-NQeV1qnG",
+      "name": "电子秤(大) 1个",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨房电器",
+      "category_record_id": "recvhlcOsvLPvG",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:00",
+      "feishu_record_id": "recviWNQeV1qnG"
+    },
+    {
+      "id": "item-lark-NQy7EkU8",
+      "name": "苹果醋 2瓶",
+      "category": "🍎 饮食供应",
+      "sub_category": "粮油/调味品",
+      "category_record_id": "recvhlcNUnWxw5",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:01",
+      "feishu_record_id": "recviWNQy7EkU8"
+    },
+    {
+      "id": "item-lark-NQSDm2dn",
+      "name": "冰格盖子 1个",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "category_record_id": "recvhlcOMz0H14",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:03",
+      "feishu_record_id": "recviWNQSDm2dn"
+    },
+    {
+      "id": "item-lark-NRdN952u",
+      "name": "四川绵阳米粉 1包",
+      "category": "🍎 饮食供应",
+      "sub_category": "粮油/调味品",
+      "category_record_id": "recvhlcNUnWxw5",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:04",
+      "feishu_record_id": "recviWNRdN952u"
+    },
+    {
+      "id": "item-lark-NVdSDFJW",
+      "name": "衣物芳香剂 3袋",
+      "category": "🏠 家居与工具",
+      "sub_category": "清洁与家务",
+      "category_record_id": "recvhlcWWb4fO7",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:19",
+      "feishu_record_id": "recviWNVdSDFJW"
+    },
+    {
+      "id": "item-lark-NVwGKNbj",
+      "name": "有机板栗仁 1包",
+      "category": "🍎 饮食供应",
+      "sub_category": "零食/干货",
+      "category_record_id": "recvhfPMlHE62I",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:21",
+      "feishu_record_id": "recviWNVwGKNbj"
+    },
+    {
+      "id": "item-lark-NVPcCbmT",
+      "name": "不锈钢医用碗 2个",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "category_record_id": "recvhlcOMz0H14",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:22",
+      "feishu_record_id": "recviWNVPcCbmT"
+    },
+    {
+      "id": "item-lark-NW7VdGcN",
+      "name": "艾条 1盒",
+      "category": "🏥 健康医疗",
+      "sub_category": "药品/急救",
+      "category_record_id": "recvhfPMlHwosB",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:23",
+      "feishu_record_id": "recviWNW7VdGcN"
+    },
+    {
+      "id": "item-lark-NWqOShOn",
+      "name": "小米白色保温杯 1个",
+      "category": "🍎 饮食供应",
+      "sub_category": "厨具/餐具",
+      "category_record_id": "recvhlcOMz0H14",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:24",
+      "feishu_record_id": "recviWNWqOShOn"
+    },
+    {
+      "id": "item-lark-NWJIfjDH",
+      "name": "粉色喷壶 1个",
+      "category": "🏠 家居与工具",
+      "sub_category": "清洁与家务",
+      "category_record_id": "recvhlcWWb4fO7",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:25",
+      "feishu_record_id": "recviWNWJIfjDH"
+    },
+    {
+      "id": "item-lark-NX2oPevW",
+      "name": "美白隔离防晒乳 1瓶",
+      "category": "🧼 个人护理",
+      "sub_category": "护肤与美妆",
+      "category_record_id": "recvhlcSek6XIu",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:26",
+      "feishu_record_id": "recviWNX2oPevW"
+    },
+    {
+      "id": "item-lark-NXlokisL",
+      "name": "EM原液 1瓶",
+      "category": "🏠 家居与工具",
+      "sub_category": "清洁与家务",
+      "category_record_id": "recvhlcWWb4fO7",
+      "space_record_id": "recviWH54HhjXs",
+      "location": "recviWH54HhjXs",
+      "container": null,
+      "remark": null,
+      "status": "盘点中",
+      "updated_at": "2026-05-07 23:10:28",
+      "feishu_record_id": "recviWNXlokisL"
     }
   ]
 }
