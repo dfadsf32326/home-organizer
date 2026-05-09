@@ -38,15 +38,6 @@
       "parent_rid": "recvhqPiTnFBO1"
     },
     {
-      "record_id": "recvhqPfa547iB",
-      "name": "洗漱厅桌子",
-      "type": "表面/台面",
-      "status": "待重组",
-      "frequency": "高",
-      "primary_activity": "洗漱/护理",
-      "parent_rid": "recvhqPpkP3kZ9"
-    },
-    {
       "record_id": "recvhqPfpuJRpk",
       "name": "卧室进门左边墙面",
       "type": "墙面",
@@ -140,15 +131,6 @@
       "record_id": "recvhqPiqcVsQo",
       "name": "进门左二下柜",
       "type": "柜子",
-      "status": "",
-      "frequency": "",
-      "primary_activity": "",
-      "parent_rid": "recvhqPgW8gxzt"
-    },
-    {
-      "record_id": "recvhqPiESNysu",
-      "name": "台面",
-      "type": "表面/台面",
       "status": "",
       "frequency": "",
       "primary_activity": "",
@@ -1016,7 +998,7 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPgaJU2PG"
     },
     {
       "record_id": "recviEpfrrYSE5",
@@ -1064,24 +1046,6 @@
       "parent_rid": "recviL8jMuDXhX"
     },
     {
-      "record_id": "recviQo5ikLFfP",
-      "name": "",
-      "type": "",
-      "status": "",
-      "frequency": "",
-      "primary_activity": "",
-      "parent_rid": null
-    },
-    {
-      "record_id": "recviQo6EJWpOe",
-      "name": "",
-      "type": "",
-      "status": "",
-      "frequency": "",
-      "primary_activity": "",
-      "parent_rid": "recvhqPjm3HUXv"
-    },
-    {
       "record_id": "recviQo7YHGl67",
       "name": "饭厅冰箱",
       "type": "",
@@ -1115,7 +1079,88 @@
       "status": "",
       "frequency": "",
       "primary_activity": "",
-      "parent_rid": null
+      "parent_rid": "recvhqPpkP3kZ9"
+    },
+    {
+      "record_id": "recviX1qPVa0De",
+      "name": "厨房电器 暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recviX5N8FFi4B",
+      "name": "粮油/调料-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recviX67HooBe9",
+      "name": "零食/干货-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recviX7uDvKZCo",
+      "name": "医疗消耗品2-暂存袋2",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recviX7Tt2oCab",
+      "name": "护肤与美妆-妈妈的-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recviX8Ru0adoJ",
+      "name": "医疗器械暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recviXaLO3FFeH",
+      "name": "家居杂项-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recviXbljWwcc8",
+      "name": "清洁与家务-暂存袋",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhqPgaJU2PG"
+    },
+    {
+      "record_id": "recvj6JUXRwlZw",
+      "name": "台面 左下一号柜",
+      "type": "",
+      "status": "",
+      "frequency": "",
+      "primary_activity": "",
+      "parent_rid": "recvhr5JtV5asp"
     }
   ]
 }
