@@ -3,7 +3,7 @@ import subprocess
 import os
 
 LARK_CLI = os.path.expanduser("~/.npm-global/bin/lark-cli")
-BASE_TOKEN = "PS56bPhyNaWXRdsJX78cxyIOnJb"
+BASE_TOKEN = os.environ.get("FEISHU_BASE_TOKEN", "PS56bPhyNaWXRdsJX78cxyIOnJb")
 TABLE_ID = "tbluMVXBpHIJDGyi"
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 STAGING_FILE = os.path.join(PROJECT_ROOT, "data/staging/staging_items.json")
@@ -64,9 +64,11 @@ def push_staging():
         if space_rid:
             fields[F("space_record_id")] = [{"id": space_rid}]
 
-        # 状态默认为"盘点中"，除非数据中明确指定
+        # 状态：select 字段，传字符串（lark-cli 自动包装数组）
         status = item.get("status", "盘点中")
-        fields[F("status")] = [status]
+        if isinstance(status, list):
+            status = status[0] if status else "盘点中"
+        fields[F("status")] = status
 
         cmd = [LARK_CLI, "base", "+record-upsert", "--base-token", BASE_TOKEN, "--table-id", TABLE_ID, "--json", json.dumps(fields, ensure_ascii=False)]
         res = subprocess.run(cmd, capture_output=True, text=True)
